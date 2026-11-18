@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>命题子系统｜题库总览</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="container">
+    <header class="page-header">
+      <div>
+        <p class="eyebrow">中文发音智能诊断与评价系统</p>
+        <h1>命题子系统</h1>
+        <p class="subtitle">分级题库总览</p>
+      </div>
+      <div class="status-badge" id="sourceStatus">等待加载</div>
+    </header>
+
+    <section class="toolbar" aria-label="题库筛选">
+      <label for="levelSelect">题目等级</label>
+      <select id="levelSelect">
+        <option value="1">一级</option>
+      </select>
+      <button id="loadButton" type="button">加载题库</button>
+    </section>
+
+    <section class="summary-grid" aria-label="题库摘要">
+      <div class="summary-card"><span>题目数量</span><strong id="questionCount">0</strong></div>
+      <div class="summary-card"><span>已入库</span><strong id="publishedCount">0</strong></div>
+      <div class="summary-card"><span>平均录音数</span><strong id="averageRecordCount">0</strong></div>
+    </section>
+
+    <section class="table-card">
+      <div class="table-header">
+        <h2>题目列表</h2>
+        <span id="message" class="message">点击“加载题库”开始查看</span>
+      </div>
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>编号</th>
+              <th>等级</th>
+              <th>题目文本</th>
+              <th>逐字拼音</th>
+              <th>语法点</th>
+              <th>状态</th>
+              <th>录音数</th>
+            </tr>
+          </thead>
+          <tbody id="questionTableBody"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
