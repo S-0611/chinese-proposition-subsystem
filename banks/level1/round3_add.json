@@ -1,0 +1,9 @@
+{
+  "items": [
+    {"id": "L1-252", "level": 1, "round": 3, "text": "这本书要一千块。", "pinyin": "zhè běn shū yào yìqiān kuài.", "grammar": ["G1-33", "G1-39", "G1-35"]},
+    {"id": "L1-253", "level": 1, "round": 3, "text": "我会写自己的名字。", "pinyin": "wǒ huì xiě zìjǐ de míngzi.", "grammar": ["G1-31", "G1-28"]},
+    {"id": "L1-254", "level": 1, "round": 3, "text": "我哥哥会开汽车。", "pinyin": "wǒ gēge huì kāi qìchē.", "grammar": ["G1-31"]},
+    {"id": "L1-255", "level": 1, "round": 3, "text": "哥哥很高。", "pinyin": "gēge hěn gāo.", "grammar": ["G1-13"]},
+    {"id": "L1-256", "level": 1, "round": 3, "text": "请用笔写你的名字。", "pinyin": "qǐng yòng bǐ xiě nǐ de míngzi.", "grammar": ["G1-09"]}
+  ]
+}
