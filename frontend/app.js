@@ -1230,7 +1230,7 @@ function saveReg(){
   if (!name){ toast('Please enter your name'); return; }
   const acc = 'stu' + String(Math.floor(Math.random() * 900) + 100);
   STUDENT.level = $('rgLvl').value;
-  $('liUser').value = acc; \liPwd.value = '';
+  liUser.value = acc; liPwd.value = '';
   closeModal();
   toast('Account created: ' + acc + '（已自动填入登录框）');
   pickRole('student');
@@ -1248,5 +1248,6 @@ async function drawPropositionQuestion(){try{const r=await fetch(`${PROPOSITION_
 function renderPropositionRows(rows,source){const t=$('propQuestionTable');if(!t)return;t.innerHTML='<tr><th>编号</th><th>等级</th><th>文本</th><th>拼音</th><th>语法点</th><th>状态</th><th>录音数</th></tr>';rows.forEach(q=>{const py=(q.tokens||[]).map(x=>x.py||'').join(' ');t.innerHTML+=`<tr><td>${safeProp(q.id)}</td><td>${safeProp(q.level)}</td><td>${safeProp(q.text)}</td><td>${safeProp(py)}</td><td>${safeProp((q.grammar||[]).join(', '))}</td><td>${safeProp(q.status||'')}</td><td>${Number(q.rec_count||0)}</td></tr>`});$('propSource').textContent=`${source} · ${rows.length}题`;}
 function pipelineNotice(m){if(typeof toast==='function')toast(m);}
 function safeProp(v){return String(v??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;');}
+
 
 
