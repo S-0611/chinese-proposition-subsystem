@@ -1,59 +1,460 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>命题子系统｜题库总览</title>
-  <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>中文发音智能诊断与评价系统 · 第二次演示 V2</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <main class="container">
-    <header class="page-header">
-      <div>
-        <p class="eyebrow">中文发音智能诊断与评价系统</p>
-        <h1>命题子系统</h1>
-        <p class="subtitle">分级题库总览</p>
-      </div>
-      <div class="status-badge" id="sourceStatus">等待加载</div>
-    </header>
+<header>
+  <h1>中文发音智能诊断与评价系统 <span class="sub">· 第二次演示 V2（按 10-20 会议意见改进 · 网页演示 · 数据为预先准备的示例，无真实算法）</span></h1>
+  <p>学生端 Student（英语界面）：Practice 免选择直接录音 · Instant feedback · My Progress 进步曲线 · My Mistakes ｜ 教师/研究员端：学情统计 · 研究统计（匿名/按国籍） · 我的班级（不预设） · 作业批改 · 标注工作台（含语调维度） · 题目管理 ｜ 管理端：用户管理 · 任务分配 · 标注记录管理</p>
+  <div class="topbar">
+    <nav id="nav"></nav>
+    <div class="whoami" id="whoami" style="display:none;">
+      <span class="badge" id="roleBadge">-</span>
+      <span id="whoName">-</span>
+      <button class="btn ghost sm" onclick="logout()">退出登录</button>
+    </div>
+  </div>
+</header>
+<main>
 
-    <section class="toolbar" aria-label="题库筛选">
-      <label for="levelSelect">题目等级</label>
-      <select id="levelSelect">
-        <option value="1">一级</option>
-      </select>
-      <button id="loadButton" type="button">加载题库</button>
-    </section>
-
-    <section class="summary-grid" aria-label="题库摘要">
-      <div class="summary-card"><span>题目数量</span><strong id="questionCount">0</strong></div>
-      <div class="summary-card"><span>已入库</span><strong id="publishedCount">0</strong></div>
-      <div class="summary-card"><span>平均录音数</span><strong id="averageRecordCount">0</strong></div>
-    </section>
-
-    <section class="table-card">
-      <div class="table-header">
-        <h2>题目列表</h2>
-        <span id="message" class="message">点击“加载题库”开始查看</span>
+  <!-- ══════════ 登录 ══════════ -->
+  <section id="view-login" class="active">
+    <div class="loginwrap">
+      <div class="card loginbox">
+        <div class="hd">登录 · 中文发音智能诊断与评价系统</div>
+        <div class="bd">
+          <div class="roletabs">
+            <button id="rtStudent" class="rt" onclick="pickRole('student')">学生登录</button>
+            <button id="rtTeacher" class="rt" onclick="pickRole('teacher')">教师登录</button>
+            <button id="rtAdmin" class="rt" onclick="pickRole('admin')">管理端登录</button>
+          </div>
+          <label class="fl">账号</label>
+          <input id="liUser" placeholder="demo_student">
+          <label class="fl">密码</label>
+          <input id="liPwd" type="password" placeholder="请输入密码" onkeydown="if(event.key==='Enter')doLogin()">
+          <button class="btn wide" onclick="doLogin()">登 录</button>
+          <div class="regline"><a href="javascript:void(0)" onclick="openReg()">🧒 Student sign up</a><span class="mut">（注册时采集国籍、汉语水平，仅用于提供更有针对性的发音反馈）</span></div>
+          <div class="hint">
+            演示账号（点击上方角色页签自动填充）<br>
+            演示登录：使用示例账号和任意非空密码
+          </div>
+          <div class="note">V2 按 10-20 会议意见改进：学生端英语界面、录音免选择、只呈现主要错误与改进建议；教师端＝教师＋研究员合用后台，班级不预设、研究统计匿名化；标注体系新增语调维度。演示数据为预先准备的示例，双击 index.html 即可打开，无需启动服务。</div>
+        </div>
       </div>
-      <div class="table-wrapper">
-        <table>
-          <thead>
-            <tr>
-              <th>编号</th>
-              <th>等级</th>
-              <th>题目文本</th>
-              <th>逐字拼音</th>
-              <th>语法点</th>
-              <th>状态</th>
-              <th>录音数</th>
-            </tr>
-          </thead>
-          <tbody id="questionTableBody"></tbody>
-        </table>
+    </div>
+  </section>
+
+  <!-- ══════════ 学生端 · Practice（英语界面 · 免选择直接录音 · 分层命题） ══════════ -->
+  <section id="view-practice">
+    <div class="grid" style="grid-template-columns:360px 1fr;">
+      <div class="card">
+        <div class="hd">Practice<span class="role-tag">Student</span><span class="lvltag" id="lvlNow">Beginner</span></div>
+        <div class="bd">
+          <div class="streakbar">🔥 <b id="streakN">6</b>-day streak　<span class="xpill">⭐ <b id="xpN">1240</b> 积分</span></div>
+          <h2 class="sec">My level（选一次即可，随后直接开口）</h2>
+          <div class="lvlrow">
+            <button class="lvl on" id="lv-beginner" onclick="pickLevel('beginner')">Beginner<small>Words</small></button>
+            <button class="lvl" id="lv-inter" onclick="pickLevel('inter')">Intermediate<small>Sentences</small></button>
+            <button class="lvl" id="lv-advanced" onclick="pickLevel('advanced')">Advanced<small>Free talk</small></button>
+          </div>
+          <h2 class="sec">Today's exercise</h2>
+          <div id="recoCard"></div>
+          <div class="rec">
+            <button class="mic bigmic" id="micBtn" onclick="toggleRec()">🎙️<br>Speak</button>
+            <div style="flex:1;">
+              <div class="progress"><i id="recBar"></i></div>
+              <div class="mut" id="recTip" style="margin-top:6px; font-size:12.5px;">No need to choose anything — just tap and speak!</div>
+            </div>
+          </div>
+          <div style="display:flex; gap:10px; flex-wrap:wrap;">
+            <button class="btn" id="diagBtn" onclick="runDiag()" disabled>Stop &amp; check</button>
+            <button class="btn ghost" onclick="$('upAudio').click()">Upload audio</button>
+            <input type="file" id="upAudio" accept="audio/*" style="display:none;" onchange="uploadAudio(this)">
+          </div>
+          <details class="apidemo"><summary>📚 More exercises in this level（同层更多练习）</summary>
+            <div id="qListLv" style="padding:8px 2px;"></div>
+          </details>
+          <div class="note" style="text-align:left;">Demo note: the results here are prepared sample data — in the real system, your recording is analyzed in a few seconds. 学生界面以外语呈现（演示为英语，正式版可切 English / ไทย 等）。</div>
+        </div>
       </div>
-    </section>
-  </main>
-  <script src="app.js"></script>
+      <div class="card">
+        <div class="hd">Instant feedback<span><span class="play" onclick="playStd()"><span class="dot"></span>Play standard</span></span></div>
+        <div class="bd" id="diagBody">
+          <div class="mut" style="padding:60px 0; text-align:center;">Record first — you'll get your score, main errors and what to do next.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════ 学生端 · My Progress（进步曲线 + 系统性错误归纳） ══════════ -->
+  <section id="view-progress">
+    <h2 class="sec">My Progress <span class="role-tag">Student</span></h2>
+    <div class="cards4" id="progCards"></div>
+    <div class="split">
+      <div class="card">
+        <div class="hd">My score curve（学习进步曲线）</div>
+        <div class="bd">
+          <svg id="scoreSvg" width="100%" height="150" viewBox="0 0 520 150" preserveAspectRatio="none"></svg>
+          <div class="mut" style="font-size:12px; text-align:center;" id="scoreWk"></div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="hd">Errors per week（越少越好！）</div>
+        <div class="bd"><div class="trend" id="errTrendChart"></div></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="hd">My systematic errors（系统性错误归纳 · 同类规律一眼看清）</div>
+      <div class="bd" id="sysErrList"></div>
+    </div>
+    <div class="card">
+      <div class="hd">Badges（趣味化激励 · 参考多邻国）</div>
+      <div class="bd" id="badgeRow"></div>
+    </div>
+  </section>
+
+  <!-- ══════════ 学生端 · My Mistakes ══════════ -->
+  <section id="view-mist">
+    <h2 class="sec">My Mistakes <span class="role-tag">Student</span></h2>
+    <div class="split">
+      <div class="card">
+        <div class="hd">Error summary</div>
+        <div class="bd" id="mistSum"></div>
+      </div>
+      <div class="card">
+        <div class="hd">Recommended drills（同类练习推荐）</div>
+        <div class="bd" id="mistDrill"></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="hd">Recent errors（学习轨迹）</div>
+      <div class="bd" style="padding:0;">
+        <table id="mistTable"></table>
+      </div>
+    </div>
+    <div class="note">Tap "Add to My Mistakes" after a check — counts and records update here instantly（联动演示）。</div>
+  </section>
+
+  <!-- ══════════ 学生端 · Homework ══════════ -->
+  <section id="view-shw">
+    <h2 class="sec">Homework <span class="role-tag">Student</span></h2>
+    <div class="card">
+      <div class="hd">Homework list</div>
+      <div class="bd" style="padding:0;">
+        <table id="shwTable"></table>
+      </div>
+    </div>
+    <div class="card" id="shwDetailCard" style="display:none;">
+      <div class="hd">Detail · <span id="shwName">-</span></div>
+      <div class="bd" id="shwDetail"></div>
+    </div>
+    <div class="note">当教师在「作业批改」页发布评语后，这里会同步显示（跨角色联动演示）。</div>
+  </section>
+
+  <!-- ══════════ 教师端 · 学情统计 ══════════ -->
+  <section id="view-stat">
+    <h2 class="sec">学情统计分析 <span class="role-tag">教师端</span>
+      <button class="btn ghost sm" style="float:right; margin-top:-4px;" onclick="exportStatCsv()">导出全班结果</button>
+    </h2>
+    <div class="cards4" id="statKpis"></div>
+    <div class="split">
+      <div class="card">
+        <div class="hd">班级共性 · 高发偏误排行（定位共性弱点）</div>
+        <div class="bd" id="classBars"></div>
+      </div>
+      <div class="card">
+        <div class="hd">班级平均总分 · 周趋势</div>
+        <div class="bd">
+          <div class="trend" id="trendChart"></div>
+          <div class="note" style="margin-top:8px;">五周连续上升；声调类练习布置后第 3 周起增速加快。</div>
+        </div>
+      </div>
+    </div>
+    <div class="split" style="margin-top:0;">
+      <div class="card">
+        <div class="hd">学生名单（点击查看个体画像）
+          <select id="clsFilter" class="asgsel" onchange="filterStat()">
+            <option value="">全部偏误类型</option><option>二/三声混淆</option><option>n/l 混淆</option>
+            <option>平翘舌</option><option>漏读/增读</option><option>声调偏误</option>
+          </select>
+        </div>
+        <div class="bd" style="padding:0;"><table id="stuTable"></table></div>
+      </div>
+      <div class="card">
+        <div class="hd">个体画像 · <span id="stuName">点击左侧学生</span></div>
+        <div class="bd" id="stuProfile">
+          <div class="mut" style="text-align:center; padding:40px 0;">选择学生后显示偏误构成、四周趋势与辅导建议</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════ 教师/研究员端 · 研究统计（匿名化 · 按国籍/母语背景） ══════════ -->
+  <section id="view-research">
+    <h2 class="sec">研究统计（匿名化 · 全平台） <span class="role-tag">研究员</span>
+      <button class="btn ghost sm" style="float:right; margin-top:-4px;" onclick="exportResearchCsv()">导出统计结果(CSV)</button>
+    </h2>
+    <div class="cards4" id="resCards"></div>
+    <div class="split">
+      <div class="card">
+        <div class="hd">各母语背景学习者 · 主要偏误分布（人次）</div>
+        <div class="bd" id="natBars"></div>
+      </div>
+      <div class="card">
+        <div class="hd">偏误类型构成（按国籍 · 百分比）</div>
+        <div class="bd" style="padding:0;">
+          <table id="natTable"></table>
+        </div>
+      </div>
+    </div>
+    <div class="note">研究性需求通过去隐私化方式满足：数据先作匿名化（脱敏）处理，再按国籍、母语背景分组统计；研究者获取的是处理后的群体统计结果，而非任何个人原始数据。注册时采集的背景信息（国籍、汉语水平）仅用于生成有针对性的反馈，并在注册页向用户说明。</div>
+  </section>
+
+  <!-- ══════════ 教师/研究员端 · 我的班级（不预设 · 自主创建） ══════════ -->
+  <section id="view-class">
+    <h2 class="sec">我的班级（不预设 · 不强制） <span class="role-tag">教师</span></h2>
+    <div id="classEmpty">
+      <div class="card">
+        <div class="bd" style="text-align:center; padding:44px 20px;">
+          <div style="font-size:40px;">🏫</div>
+          <h2 class="sec" style="margin-top:8px;">您还没有创建班级</h2>
+          <div class="mut" style="max-width:560px; margin:0 auto; line-height:2;">系统以学生自学、自练为中心，<b>不将教师与学生捆绑</b>：不创建班级不影响任何功能使用。
+          愿意使用的教师可随时自主创建（类似微信群「扫码进班」），创建后可查看本班学情统计。</div>
+          <div style="margin-top:18px;"><button class="btn" onclick="createClass()">＋ 创建班级</button></div>
+        </div>
+      </div>
+    </div>
+    <div id="classBuilt" style="display:none;">
+      <div class="cards4" id="clsCards"></div>
+      <div class="split">
+        <div class="card">
+          <div class="hd">班级邀请（学生扫码 / 输码加入）</div>
+          <div class="bd" style="text-align:center;">
+            <div class="qrcard">二维码占位<div class="mut" style="font-size:11px;">（正式版生成真实二维码）</div></div>
+            <div class="invitecode" id="clsCode">—</div>
+            <div class="mut" style="font-size:12.5px;">学生注册后输入邀请码即可加入本班</div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="hd">已加入学生</div>
+          <div class="bd" style="padding:0;">
+            <table id="clsTable"></table>
+          </div>
+        </div>
+      </div>
+      <div class="note">教师可在课前查看学生自主练习的诊断统计，掌握班级语音状况与进步情况，据此调整课堂教学、把大量正音练习放到课下（功能按需选用，不作强制）。</div>
+    </div>
+  </section>
+
+  <!-- ══════════ 教师端 · 作业批改 ══════════ -->
+  <section id="view-hw">
+    <h2 class="sec">口语作业批改 <span class="role-tag">教师端</span>
+      <span style="float:right; margin-top:-4px; display:flex; gap:8px;">
+        <button class="btn ghost sm" onclick="exportHwCsv()">导出 Excel(CSV)</button>
+        <button class="btn ghost sm" onclick="exportHwJson()">导出 JSON</button>
+      </span>
+    </h2>
+    <div class="card">
+      <div class="hd">作业一 · 朗读《今天天气很好》<small>汉语一班 · 已提交 8/9 · 截止 10-12 · 分数为机器初评（算法生成）</small></div>
+      <div class="bd" style="padding:0;">
+        <table id="hwTable"></table>
+      </div>
+    </div>
+    <div class="card" id="hwDetailCard" style="display:none;">
+      <div class="hd">作业详情 · <span id="hwStuName">-</span><span style="flex:1"></span>
+        <button class="btn warn" onclick="flagDoubt()">标记存疑</button>
+        <button class="btn green" onclick="publishHw()">通过并发布评语</button>
+        <button class="btn ghost" id="hwAnnoBtn" onclick="gotoAnnoFromHw()">进入标注工作台复核 »</button>
+      </div>
+      <div class="bd">
+        <div class="sent" id="hwSent"></div>
+        <div class="legend">
+          <span class="lg errsw"></span>偏误字符（红色系 · 类型与实际读音标注在字下）
+          <span class="lg gdemo"></span>字间标注（增读 / 填充词 / 停顿）
+        </div>
+        <div class="scores" id="hwScores"></div>
+        <div class="mut" style="font-size:12px;">机器初评由诊断算法生成；机器判别失误可点右上「进入标注工作台复核」人工修正。</div>
+        <label style="display:block; font-size:13px; color:var(--sub); margin-top:12px;">评语初稿（机器生成，教师可修改后发布）</label>
+        <textarea id="hwComment" style="width:100%; min-height:84px; border:1px solid var(--line);
+          border-radius:8px; padding:10px; font-size:13.5px; font-family:inherit; line-height:1.8;"></textarea>
+        <div style="margin-top:10px;"><button class="btn green" onclick="publishHw()">保存并发布</button></div>
+      </div>
+    </div>
+    <div class="note">「通过并发布评语」后，学生端「我的作业」将同步显示该评语（联动演示）。</div>
+  </section>
+
+  <!-- ══════════ 教师端 · 标注工作台 ══════════ -->
+  <section id="view-anno">
+    <!-- 队列状态 -->
+    <div id="annoQueue">
+      <h2 class="sec">标注工作台 · 复核任务队列 <span class="role-tag">教师端</span></h2>
+      <div class="cards4" id="annoCards"></div>
+      <div class="card">
+        <div class="hd">任务列表（机器预标由诊断引擎 API 生成）<button class="btn ghost sm" onclick="renderAnnoQueue()">刷新</button></div>
+        <div class="bd" style="padding:0;">
+          <table id="annoTable"></table>
+        </div>
+      </div>
+      <div class="note">机器初评（虚线框）仅供参考：点击「复核标注」进入工作台，确认 / 修正机器预标，也可自行添加或删除偏误；保存即写入金标库（管理端「标注记录管理」实时可见）。</div>
+    </div>
+    <!-- 工作台状态 -->
+    <div id="annoWork" style="display:none;">
+      <div class="card">
+        <div class="hd">标注工作台 · <span id="wTaskId">-</span><small>字符级：误读/语调/漏读/重复 · 字间级：增读/填充词/停顿（V2 新增语调维度）</small></div>
+        <div class="bd" id="annoBd">
+          <div style="display:flex; align-items:center; gap:14px; flex-wrap:wrap;">
+            <span class="play" onclick="togglePlay()"><span class="dot"></span><span id="playTxt">播放音频</span>
+              <span class="pbar"><i id="playBar"></i></span></span>
+            <span class="mut" style="font-size:12.5px;" id="wMeta">-</span>
+          </div>
+          <div class="sent" id="annoSent"></div>
+          <div class="legend">
+            <span class="lg errsw"></span>偏误字符（声韵母误读 / 声调偏误 / <b>语调偏误</b> / 漏读 / 重复）
+            <span class="lg gdemo"></span>字间空隙（点击标 增读 / 填充词 / 停顿）
+            <span style="margin-left:6px;">虚线框 = 机器预标，需人工确认</span>
+          </div>
+          <div style="margin-top:14px; display:flex; gap:10px; flex-wrap:wrap;">
+            <button class="btn" onclick="saveAnnotation()">确认并保存金标</button>
+            <button class="btn green" onclick="gotoNextTask()">下一个待复核 »</button>
+            <button class="btn gray" onclick="backToAnnoQueue()">返回任务队列</button>
+          </div>
+          <div class="note" id="wNote">点击字符 → 标 误读（声韵母/声调）、漏读、重复；点击字间「＋」空隙 → 标 增读、填充词、停顿。机器预标可「确认」，人工可修改或选「无偏误」删除。</div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="hd">保存的金标记录（与诊断引擎 edits 输出同构，可直接用于引擎评测）</div>
+        <div class="bd"><pre class="jsonview" id="savedJson">尚无保存记录</pre></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 命题子系统：教师端新增入口 -->
+  <section id="view-pipeline">
+    <h2 class="sec">命题流水线 <span class="role-tag">命题子系统</span></h2>
+    <div class="cards4">
+      <div class="card"><div class="hd">题库总览</div><div class="bd"><p>查看题目、逐字拼音、语法点和录音覆盖。</p><button class="btn sm" onclick="loadPropositionQuestions()">加载一级题库</button></div></div>
+      <div class="card"><div class="hd">校验</div><div class="bd"><p>检查题库字段和题目质量。</p><button class="btn sm" onclick="pipelineNotice('请在后端 Swagger 执行校验')">开始校验</button></div></div>
+      <div class="card"><div class="hd">统计</div><div class="bd"><p>查看字覆盖率和语法点覆盖率。</p><button class="btn sm" onclick="pipelineNotice('请在后端 Swagger 执行统计')">开始统计</button></div></div>
+      <div class="card"><div class="hd">抽题测试</div><div class="bd"><p>按等级或覆盖程度测试抽题。</p><button class="btn sm" onclick="drawPropositionQuestion()">推荐抽题</button></div></div>
+    </div>
+    <div class="card" style="margin-top:16px"><div class="hd">一级题库 <span id="propSource" class="mut">等待加载</span></div><div class="bd" style="padding:0;overflow:auto"><table id="propQuestionTable"></table></div></div>
+  </section>
+
+  <!-- ══════════ 教师端 · 题目管理 ══════════ -->
+  <section id="view-ques">
+    <h2 class="sec">题目管理（增删改查） <span class="role-tag">教师端</span>
+      <button class="btn sm" style="float:right; margin-top:-4px;" onclick="openQuesModal()">＋ 新增题目</button>
+    </h2>
+    <div class="card">
+      <div class="hd">学生测评题目库<button class="btn ghost sm" onclick="renderQues()">刷新</button></div>
+      <div class="bd" style="padding:0;">
+        <table id="quesTable"></table>
+      </div>
+    </div>
+    <div class="note">此处新增 / 删除的题目会实时同步到学生端「测评诊断」的题目列表（联动演示）。新增题目暂无偏误预设，学生诊断时返回满分示例结果。</div>
+  </section>
+
+  <!-- ══════════ 管理端 · 用户管理 ══════════ -->
+  <section id="view-users">
+    <h2 class="sec">用户管理 <span class="role-tag">管理端</span>
+      <span style="float:right; margin-top:-4px; display:flex; gap:8px; align-items:center;">
+        <input class="searchbox" id="userSearch" placeholder="搜索姓名 / 账号 / 班级…" oninput="renderUsers()">
+        <button class="btn sm" onclick="openUserModal('teacher')">＋ 新增教师</button>
+        <button class="btn sm" onclick="openUserModal('student')">＋ 新增学生</button>
+      </span>
+    </h2>
+    <div class="card">
+      <div class="hd">教师列表</div>
+      <div class="bd" style="padding:0;">
+        <table id="teacherTable"></table>
+      </div>
+    </div>
+    <div class="card">
+      <div class="hd">学生列表</div>
+      <div class="bd" style="padding:0;">
+        <table id="studentTable"></table>
+      </div>
+    </div>
+    <div class="note">用户数据库基本增删改查（演示：仅操作前端内存数据）。</div>
+  </section>
+
+  <!-- ══════════ 管理端 · 任务分配 ══════════ -->
+  <section id="view-assign">
+    <h2 class="sec">任务分配 <span class="role-tag">管理端</span>
+      <button class="btn sm" id="importBtn" style="float:right; margin-top:-4px;" onclick="importAudio()">⇪ 导入音频数据</button>
+    </h2>
+    <div class="cards4" id="asgCards"></div>
+    <div class="card">
+      <div class="hd">批改任务分配 · 每位教师的任务量与批改进度</div>
+      <div class="bd" style="padding:0;">
+        <table id="gradingTable"></table>
+      </div>
+    </div>
+    <div class="card">
+      <div class="hd">待指派的批改批次</div>
+      <div class="bd" style="padding:0;">
+        <table id="unassignedTable"></table>
+      </div>
+    </div>
+    <div class="card">
+      <div class="hd">标注任务分配 · 标注员一览
+        <button class="btn sm" onclick="autoAssign()">⚡ 自动平均分配</button>
+      </div>
+      <div class="bd" style="padding:0;">
+        <table id="asgTable"></table>
+      </div>
+    </div>
+    <div class="card">
+      <div class="hd">标注任务分配操作（下拉选择即保存）</div>
+      <div class="bd" style="padding:0;">
+        <table id="asgOpTable"></table>
+      </div>
+    </div>
+    <div class="note">「导入音频数据」会自动生成带机器预标的标注任务（演示：点击后新增任务 A-033）；「自动平均分配」把待标注且未分配的任务平均分给各位标注员，已分配与已完成的保持不变。</div>
+  </section>
+
+  <!-- ══════════ 管理端 · 标注记录管理 ══════════ -->
+  <section id="view-records">
+    <h2 class="sec">标注记录管理 <span class="role-tag">管理端</span>
+      <button class="btn ghost sm" style="float:right; margin-top:-4px;" onclick="exportRecordsJson()">一键导出 JSON</button>
+    </h2>
+    <div class="cards4" id="recCards"></div>
+    <div class="split">
+      <div class="card">
+        <div class="hd">标注工作量统计</div>
+        <div class="bd" style="padding:0;">
+          <table id="workTable"></table>
+        </div>
+      </div>
+      <div class="card">
+        <div class="hd">人工金标类型分布</div>
+        <div class="bd" id="savedBars"></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="hd">全部金标记录明细</div>
+      <div class="bd" style="padding:0;">
+        <table id="recTable"></table>
+      </div>
+    </div>
+    <div class="note">金标记录的格式与诊断引擎的输出一致，可一键导出 JSON，用于算法评测与训练。教师端「标注工作台」保存后，这里实时同步（联动演示）。</div>
+  </section>
+
+</main>
+
+<!-- 中央弹窗（用户 / 题目 新增编辑） -->
+<div class="modal-mask" id="modalMask" style="display:none;" onclick="if(event.target===this)closeModal()">
+  <div class="modal" id="modalBox"></div>
+</div>
+
+<div class="toast" id="toast"></div>
+<script src="data.js"></script>
+<script src="app.js"></script>
 </body>
 </html>
+
+
