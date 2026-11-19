@@ -1240,14 +1240,15 @@ function saveReg(){
 pickRole('student');
 
 
-const PROPOSITION_API_BASE = 'http://127.0.0.1:8000';
+const PROPOSITION_API_BASE = 'http://127.0.0.1:8001';
 const PROPOSITION_SAMPLE = [{id:'L1-001',level:1,text:'我姓王，你姓什么？',tokens:[{c:'我',py:'wǒ'},{c:'姓',py:'xìng'},{c:'王',py:'Wáng'}],grammar:['G1-04'],status:'published',rec_count:0}];
 function renderPropositionPipeline(){const t=$('propQuestionTable');if(t)t.innerHTML='<tr><th>编号</th><th>等级</th><th>文本</th><th>拼音</th><th>语法点</th><th>状态</th><th>录音数</th></tr><tr><td colspan="7" class="mut">点击加载按钮查看题库</td></tr>';}
 async function loadPropositionQuestions(){try{const r=await fetch(`${PROPOSITION_API_BASE}/api/questions?level=1`);if(!r.ok)throw Error();const d=await r.json();renderPropositionRows(d.items||d.questions||[],'真实后端数据');}catch(e){renderPropositionRows(PROPOSITION_SAMPLE,'脱敏示例数据');pipelineNotice('后端不可用，当前显示脱敏示例');}}
 async function drawPropositionQuestion(){try{const r=await fetch(`${PROPOSITION_API_BASE}/api/questions/recommend?level=1&n=1`);if(!r.ok)throw Error();const data=await r.json();const questions=Array.isArray(data)?data:(data.items||data.questions||[]);if(!questions.length)throw Error('推荐接口未返回题目');renderPropositionRows(questions,'真实抽题结果');pipelineNotice('抽题成功');}catch(e){renderPropositionRows(PROPOSITION_SAMPLE,'脱敏示例数据');pipelineNotice('推荐接口暂不可用');}}
-function renderPropositionRows(rows,source){const t=$('propQuestionTable');if(!t)return;t.innerHTML='<tr><th>编号</th><th>等级</th><th>文本</th><th>拼音</th><th>语法点</th><th>状态</th><th>录音数</th></tr>';rows.forEach(q=>{const py=(q.tokens||[]).map(x=>x.py||'').join(' ');t.innerHTML+=`<tr><td>${safeProp(q.id)}</td><td>${safeProp(q.level)}</td><td>${safeProp(q.text)}</td><td>${safeProp(py)}</td><td>${safeProp((q.grammar||[]).join(', '))}</td><td>${safeProp(q.status||'')}</td><td>${Number(q.rec_count||0)}</td></tr>`});$('propSource').textContent=`${source} · ${rows.length}题`;}
+function renderPropositionRows(rows,source){const t=$('propQuestionTable');if(!t)return;t.innerHTML='<tr><th>编号</th><th>等级</th><th>文本</th><th>拼音</th><th>语法点</th><th>状态</th><th>录音数</th></tr>';rows.forEach(q=>{const py=(q.tokens||[]).map(x=>x.display_py||x.py||'').join(' ');t.innerHTML+=`<tr><td>${safeProp(q.question_id||q.id)}</td><td>${safeProp(q.level)}</td><td>${safeProp(q.display_text||q.text)}</td><td>${safeProp(py)}</td><td>${safeProp((q.grammar||[]).join(', '))}</td><td>${safeProp(q.status||'')}</td><td>${Number(q.rec_count||0)}</td></tr>`});$('propSource').textContent=`${source} · ${rows.length}题`;}
 function pipelineNotice(m){if(typeof toast==='function')toast(m);}
 function safeProp(v){return String(v??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;');}
+
 
 
 

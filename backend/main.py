@@ -5,8 +5,8 @@
 抽题权重（按历史覆盖程度）：w = max(0, C - rec_count)，C 默认 10，可通过 ?C= 调整。
 
 启动（项目根目录）：
-    python -m uvicorn backend.main:app --host 127.0.0.1 --port 8000
-    Swagger 文档：http://127.0.0.1:8000/docs
+    python -m uvicorn backend.main:app --host 127.0.0.1 --port 8001
+    Swagger 文档：http://127.0.0.1:8001/docs
 """
 import json
 import random
@@ -29,6 +29,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import db  # noqa: E402
 from lib import load_level, validate_bank, validate_item  # noqa: E402
 import stats as stats_mod  # noqa: E402
+from manual_review import manual_review_gate  # noqa: E402
 
 app = FastAPI(title="命题子系统后端 API", version="0.2.0",
               description="题库查询 / 校验 / 统计 / 发布 / 按等级抽题 / 按覆盖程度推荐抽题")
@@ -44,7 +45,7 @@ DEFAULT_RECENT_MIN = 10   # 短时间内不重复返回同一题（分钟）
 MAX_N = 20
 
 STATUS_FLOW = {
-    "draft": {"validated", "rejected", "ready"},
+    "draft": {"validated", "rejected"},
     "validated": {"ready", "rejected", "draft"},
     "rejected": {"draft"},
     "ready": {"rejected"},
@@ -222,19 +223,75 @@ def get_question(qid: str):
 
 # ── 录音计数（覆盖口径：学生端成功上传并保存的有效录音）──────
 
+class RecordedBody(BaseModel):
+    recording_id: str | None = None
+    speaker_id: str | None = None
+
+
 @app.post("/api/questions/{qid}/recorded")
-def mark_recorded(qid: str):
+def mark_recorded(qid: str, body: RecordedBody | None = None):
     conn = db.connect()
     try:
         row = conn.execute("SELECT * FROM questions WHERE id=?", (qid,)).fetchone()
         if row is None:
             raise HTTPException(404, f"题目不存在：{qid}")
+        recording_id = body.recording_id if body else None
+        if recording_id:
+            existing = conn.execute(
+                "SELECT recording_id FROM recording_events WHERE recording_id=?", (recording_id,)
+            ).fetchone()
+            if existing:
+                row = conn.execute("SELECT * FROM questions WHERE id=?", (qid,)).fetchone()
+                return {"ok": True, "duplicate": True, "item": db.row_to_item(row)}
+            conn.execute(
+                "INSERT INTO recording_events(recording_id, question_id, speaker_id, created_at) VALUES (?,?,?,?)",
+                (recording_id, qid, body.speaker_id if body else None, now_iso()),
+            )
         conn.execute("UPDATE questions SET rec_count = rec_count + 1 WHERE id=?", (qid,))
         db.add_run(conn, "record", row["level"], {"id": qid})
         row = conn.execute("SELECT * FROM questions WHERE id=?", (qid,)).fetchone()
     finally:
         conn.close()
     return {"ok": True, "item": db.row_to_item(row)}
+
+
+class CoverageItem(BaseModel):
+    question_id: str
+    recording_count: int
+    unique_speaker_count: int
+
+
+class CoverageSnapshot(BaseModel):
+    snapshot_version: str
+    generated_at: str
+    items: list[CoverageItem]
+
+
+@app.put("/api/v1/integration/coverage")
+def update_coverage(snapshot: CoverageSnapshot):
+    """接收管理端按题覆盖快照；同一 snapshot_version 重放不重复累加。"""
+    for item in snapshot.items:
+        if item.recording_count < 0 or item.unique_speaker_count < 0:
+            raise HTTPException(422, "录音数和独立说话人数不能为负数")
+    payload = snapshot.model_dump()
+    conn = db.connect()
+    try:
+        existing = conn.execute(
+            "SELECT payload FROM coverage_snapshots WHERE snapshot_version=?",
+            (snapshot.snapshot_version,),
+        ).fetchone()
+        if existing:
+            return {"ok": True, "applied": False, "snapshot": json.loads(existing["payload"])}
+        conn.execute(
+            "INSERT INTO coverage_snapshots(snapshot_version, generated_at, payload, created_at) VALUES (?,?,?,?)",
+            (snapshot.snapshot_version, snapshot.generated_at,
+             json.dumps(payload, ensure_ascii=False), now_iso()),
+        )
+        db.add_run(conn, "coverage", None, {"snapshot_version": snapshot.snapshot_version,
+                                             "items": len(snapshot.items)})
+    finally:
+        conn.close()
+    return {"ok": True, "applied": True, "snapshot": payload}
 
 
 # ── 状态管理与发布（第四/七天任务）──────────────────────────
@@ -264,7 +321,7 @@ def set_status(qid: str, body: StatusBody):
 
 
 def _publish_gate(conn, level, qid):
-    """发布前检查：单题校验通过 + 该等级题库整体统计达标。"""
+    """发布前检查：自动校验、统计达标和人工 P0 复核全部通过。"""
     items = fetch_items(conn, level=level)
     target = next((i for i in items if i["id"] == qid), None)
     if target is None:
@@ -276,6 +333,12 @@ def _publish_gate(conn, level, qid):
     s, _ = stats_mod.compute(cfg, items)
     if s["verdict"] != "pass":
         raise HTTPException(400, f"题库整体未达标，不能发布：{'；'.join(s['failed_checks'])}")
+    review_gate = manual_review_gate(ROOT, level)
+    if not review_gate["ok"]:
+        if review_gate["reason"] == "manual_review_missing_or_invalid":
+            raise HTTPException(400, f"人工复核门禁未通过：复核文件缺失或无效（{review_gate['review'].get('path')}）")
+        ids = '、'.join(i.get("id", "?") for i in review_gate["blocking_p0"])
+        raise HTTPException(400, f"人工复核门禁未通过：仍有未解决的 P0 问题（{ids}）")
     return target
 
 
@@ -311,6 +374,12 @@ def publish_level(body: PublishBody):
         s, _ = stats_mod.compute(cfg, items)
         if s["verdict"] != "pass":
             raise HTTPException(400, f"题库整体未达标，不能发布：{'；'.join(s['failed_checks'])}")
+        review_gate = manual_review_gate(ROOT, body.level)
+        if not review_gate["ok"]:
+            if review_gate["reason"] == "manual_review_missing_or_invalid":
+                raise HTTPException(400, f"人工复核门禁未通过：复核文件缺失或无效（{review_gate['review'].get('path')}）")
+            ids = '、'.join(i.get("id", "?") for i in review_gate["blocking_p0"])
+            raise HTTPException(400, f"人工复核门禁未通过：仍有未解决的 P0 问题（{ids}）")
         cur = conn.execute(
             "UPDATE questions SET status='published' WHERE level=? AND status IN ('ready','validated','draft')",
             (body.level,)).rowcount
@@ -382,3 +451,4 @@ def pipeline_stats(level: int = Query(1, ge=1)):
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("backend.main:app", host="127.0.0.1", port=8000)
+

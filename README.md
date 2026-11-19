@@ -51,8 +51,12 @@
 - 已完成 SQLite 数据库与题目表（backend/bank.db，256 题已入库）
 - 已完成 FastAPI 查询/校验/统计/发布/抽题接口（详见 docs/接口说明初稿.md）
 - 已完成按等级抽题与按覆盖程度抽题（权重 `w = max(0, C - rec_count)`）
+- 已修复一级题库 5 条 P0 人工复核问题，新增 G1-42“得”字补语；发布接口已接入 `reports/level1/manual_review.json` 人工复核门禁
 - 正在开发命题人员端网页
 - 正在准备与学生端和管理端联调
+
+联调端口按三组总仓库约定：学生端 `8000`、命题端 `8001`、管理端 `8765`。
+题目接口同时保留旧字段 `id/text`，并提供统一字段 `question_id/question_version/content_revision/display_text`；`tokens` 中提供规范化 `py`、展示用 `display_py` 和 `display_start`。
 
 ## 五、目录结构
 
@@ -158,3 +162,4 @@ Commit
 ```
 
 提交信息应说明本次完成的具体内容。
+

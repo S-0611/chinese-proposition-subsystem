@@ -97,7 +97,7 @@
    "level": 1,
    "round": 1,
    "text": "喂？请问，王老师在吗？",
-   "pinyin": "wéi? Qǐngwèn, Wáng lǎoshī zài ma?",
+   "pinyin": "wèi? Qǐngwèn, Wáng lǎoshī zài ma?",
    "grammar": [
     "G1-03",
     "G1-09"
@@ -162,7 +162,7 @@
    "level": 1,
    "round": 1,
    "text": "我的弟弟很小，他很可爱。",
-   "pinyin": "wǒ dìdi hěn xiǎo, tā hěn kě'ài.",
+   "pinyin": "wǒ de dìdi hěn xiǎo, tā hěn kě'ài.",
    "grammar": [
     "G1-13",
     "G1-28"
@@ -789,7 +789,8 @@
    "text": "他跑得很快。",
    "pinyin": "tā pǎo de hěn kuài.",
    "grammar": [
-    "G1-13"
+    "G1-13",
+    "G1-42"
    ]
   },
   {
@@ -1118,7 +1119,7 @@
    "level": 1,
    "round": 1,
    "text": "喂，你是谁？",
-   "pinyin": "wéi, nǐ shì shéi?",
+   "pinyin": "wèi, nǐ shì shéi?",
    "grammar": [
     "G1-04"
    ]
@@ -1791,7 +1792,8 @@
    "text": "小狗跳得很高。",
    "pinyin": "xiǎo gǒu tiào de hěn gāo.",
    "grammar": [
-    "G1-13"
+    "G1-13",
+    "G1-42"
    ]
   },
   {
@@ -1831,7 +1833,8 @@
    "text": "他走得很慢。",
    "pinyin": "tā zǒu de hěn màn.",
    "grammar": [
-    "G1-13"
+    "G1-13",
+    "G1-42"
    ]
   },
   {
@@ -1928,7 +1931,7 @@
    "text": "你说得对。",
    "pinyin": "nǐ shuō de duì.",
    "grammar": [
-    "G1-26"
+    "G1-42"
    ]
   },
   {
@@ -2606,7 +2609,7 @@
    "text": "他说得对。",
    "pinyin": "tā shuō de duì.",
    "grammar": [
-    "G1-26"
+    "G1-42"
    ]
   },
   {

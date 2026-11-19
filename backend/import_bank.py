@@ -136,6 +136,10 @@ def main():
         if note:
             poly_notes.append(f"{it['id']} {note}")
 
+        question_version = str(it.get("question_version") or "1")
+        revision_tokens = [{"c": t["c"], "py": db.tone3(t.get("py", ""))} for t in tokens]
+        content_revision = db.content_revision(text, revision_tokens)
+
         exists = conn.execute("SELECT id FROM questions WHERE id=?", (it["id"],)).fetchone()
         if exists and not args.force:
             updated += 1
@@ -147,13 +151,16 @@ def main():
             it.get("status", "ready") if args.force else "ready",
             0 if args.force else (exists and _keep(conn, it["id"])[0] or 0),
             None if args.force else (exists and _keep(conn, it["id"])[1] or None),
+            question_version,
+            content_revision,
         )
         conn.execute(
-            "INSERT INTO questions (id, level, text, tokens, grammar, status, rec_count, last_selected_at) "
-            "VALUES (?,?,?,?,?,?,?,?) "
+            "INSERT INTO questions (id, level, text, tokens, grammar, status, rec_count, last_selected_at, "
+            "question_version, content_revision) VALUES (?,?,?,?,?,?,?,?,?,?) "
             "ON CONFLICT(id) DO UPDATE SET level=excluded.level, text=excluded.text, "
             "tokens=excluded.tokens, grammar=excluded.grammar, status=excluded.status, "
-            "rec_count=excluded.rec_count, last_selected_at=excluded.last_selected_at",
+            "rec_count=excluded.rec_count, last_selected_at=excluded.last_selected_at, "
+            "question_version=excluded.question_version, content_revision=excluded.content_revision",
             row)
         imported += 1
     conn.commit()

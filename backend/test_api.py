@@ -3,7 +3,7 @@
 
 用法（后端已启动时）：
     python backend/test_api.py
-    python backend/test_api.py --base http://127.0.0.1:8000
+    python backend/test_api.py --base http://127.0.0.1:8001
 
 覆盖：真实查询、按等级/编号查询、404 错误返回、校验/统计接入、状态管理、
       发布门槛、按等级抽题、按覆盖程度抽题（w = max(0, C - rec_count)）、
@@ -27,7 +27,7 @@ PASS, FAIL = [], []
 RESPONSES = {}
 
 
-def req(method, path, body=None, base="http://127.0.0.1:8000"):
+def req(method, path, body=None, base="http://127.0.0.1:8001"):
     url = base + path
     data = json.dumps(body).encode("utf-8") if body is not None else None
     r = urllib.request.Request(url, data=data, method=method,
@@ -55,7 +55,7 @@ def hanzi_count(text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--base", default="http://127.0.0.1:8000")
+    ap.add_argument("--base", default="http://127.0.0.1:8001")
     ap.add_argument("--skip-server", action="store_true")
     args = ap.parse_args()
 
@@ -112,11 +112,17 @@ def main():
 
     st, q1 = req("GET", "/api/questions/L1-001", base=base)
     RESPONSES["get_one"] = q1
-    need = {"id", "level", "text", "tokens", "grammar", "status", "rec_count", "last_selected_at"}
+    need = {"id", "question_id", "question_version", "content_revision",
+            "level", "text", "display_text", "tokens", "grammar", "status",
+            "rec_count", "last_selected_at"}
     check("GET /api/questions/L1-001 返回 200", st == 200, f"{st}")
     check("返回包含全部统一字段", st == 200 and need <= set(q1.keys()), f"{set(q1.keys())}")
     check("tokens 与汉字逐字对应", st == 200 and len(q1["tokens"]) == hanzi_count(q1["text"]),
           f"{len(q1.get('tokens',[]))} vs {hanzi_count(q1.get('text',''))}")
+    check("统一题目字段存在", st == 200 and q1.get("question_id") == q1.get("id")
+          and q1.get("question_version") and q1.get("content_revision"), f"{q1}")
+    check("tokens 含规范化拼音和原始展示拼音", st == 200 and all(
+        {"c", "py", "display_py", "display_start"} <= set(t) for t in q1.get("tokens", [])), f"{q1.get('tokens')}")
     check("初始 rec_count=0 / last_selected_at=null",
           q1.get("rec_count") == 0 and q1.get("last_selected_at") is None, f"{q1.get('rec_count')}")
 
@@ -214,7 +220,24 @@ def main():
     st, miss3 = req("POST", "/api/questions/NOPE-999/recorded", base=base)
     check("对不存在的题记录音 → 404", st == 404, f"{st}")
 
-    print("=== 7. 参数错误处理 ===")
+    print("=== 7. 录音幂等与覆盖快照契约 ===")
+    st, before = req("GET", "/api/questions/L1-003", base=base)
+    st, first = req("POST", "/api/questions/L1-003/recorded",
+                    {"recording_id": "contract-recording-001", "speaker_id": "speaker-test"}, base=base)
+    st2, second = req("POST", "/api/questions/L1-003/recorded",
+                      {"recording_id": "contract-recording-001", "speaker_id": "speaker-test"}, base=base)
+    check("同一 recording_id 重试不重复计数", st == 200 and st2 == 200
+          and first["item"]["rec_count"] == before["rec_count"] + 1
+          and second.get("duplicate") is True
+          and second["item"]["rec_count"] == first["item"]["rec_count"], f"{first} {second}")
+    snapshot = {"snapshot_version": "contract-v1", "generated_at": "2026-11-19T18:00:00+08:00",
+                "items": [{"question_id": "L1-003", "recording_count": 1, "unique_speaker_count": 1}]}
+    st, cov1 = req("PUT", "/api/v1/integration/coverage", snapshot, base=base)
+    st2, cov2 = req("PUT", "/api/v1/integration/coverage", snapshot, base=base)
+    check("覆盖快照首次写入成功", st == 200 and cov1.get("applied") is True, f"{st} {cov1}")
+    check("同一覆盖版本重放不重复应用", st2 == 200 and cov2.get("applied") is False, f"{st2} {cov2}")
+
+    print("=== 8. 参数错误处理 ===")
     st, e1 = req("GET", "/api/questions?status=hacked", base=base)
     check("非法 status 参数 → 400", st == 400, f"{st}")
     st, e2 = req("GET", "/api/questions/random?level=1&n=999", base=base)
@@ -244,3 +267,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

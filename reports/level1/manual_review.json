@@ -1,0 +1,71 @@
+{
+  "level": 1,
+  "source": "reports/level1/题库问题清单.md",
+  "reviewed_at": "2026-11-19",
+  "policy": "人工复核 P0 问题必须全部 resolved，才允许发布。P1/P2 不阻断发布。",
+  "issues": [
+    {
+      "id": "L1-010",
+      "severity": "P0",
+      "field": "pinyin",
+      "status": "resolved",
+      "resolution": "喂改为 wèi"
+    },
+    {
+      "id": "L1-016",
+      "severity": "P0",
+      "field": "pinyin",
+      "status": "resolved",
+      "resolution": "补入“的”对应音节 de"
+    },
+    {
+      "id": "L1-106",
+      "severity": "P0",
+      "field": "pinyin",
+      "status": "resolved",
+      "resolution": "喂改为 wèi"
+    },
+    {
+      "id": "L1-183",
+      "severity": "P0",
+      "field": "grammar",
+      "status": "resolved",
+      "resolution": "改挂 G1-42 得字补语"
+    },
+    {
+      "id": "L1-247",
+      "severity": "P0",
+      "field": "grammar",
+      "status": "resolved",
+      "resolution": "改挂 G1-42 得字补语"
+    },
+    {
+      "id": "L1-024",
+      "severity": "P1",
+      "field": "text",
+      "status": "open",
+      "resolution": "建议后续改为“起床”"
+    },
+    {
+      "id": "L1-067",
+      "severity": "P1",
+      "field": "text",
+      "status": "open",
+      "resolution": "建议后续改为“我每天七点起床”"
+    },
+    {
+      "id": "L1-042",
+      "severity": "P1",
+      "field": "text",
+      "status": "open",
+      "resolution": "建议后续补“是”"
+    },
+    {
+      "id": "L1-243",
+      "severity": "P1",
+      "field": "text",
+      "status": "open",
+      "resolution": "建议后续补完整宾语"
+    }
+  ]
+}
