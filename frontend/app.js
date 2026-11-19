@@ -1,4 +1,4 @@
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = window.PROPOSITION_API_BASE || "http://127.0.0.1:8000";
 
 const sampleQuestions = [
   {
@@ -41,7 +41,7 @@ async function loadQuestions() {
     const response = await fetch(`${API_BASE}/api/questions?level=${level}`);
     if (!response.ok) throw new Error(`接口返回 ${response.status}`);
     const data = await response.json();
-    const questions = Array.isArray(data) ? data : (data.questions || []);
+    const questions = Array.isArray(data) ? data : (data.items || data.questions || []);
     renderQuestions(questions, "真实后端数据");
   } catch (error) {
     renderQuestions(sampleQuestions.filter((q) => String(q.level) === level), "示例数据");
@@ -98,3 +98,4 @@ function escapeHtml(value) {
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#039;");
 }
+
