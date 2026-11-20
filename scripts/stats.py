@@ -3,15 +3,19 @@
 
 用法：
     python scripts/stats.py --level 1 --bank banks/level1/round1.json [--tag v1]
+    题库缺省取 banks/levelN/final.json。
 
-退出码：0 达标；2 未达标（按 reports/level1/adjust_plan_<tag>.json 调整后重跑）。
+退出码：0 达标；2 未达标（按 reports/levelN/adjust_plan_<tag>.json 调整后重跑）。
 """
 import argparse
 import json
 import math
 import sys
+from pathlib import Path
 
-from lib import (load_bank, load_level, out_dir, validate_bank,
+sys.path.insert(0, str(Path(__file__).resolve().parent))  # 保证任意 cwd 下可 import lib
+
+from lib import (default_bank, load_bank, load_level, out_dir, validate_bank,
                  char_freq, detect_grammar_freq)
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -110,7 +114,7 @@ def compute(level, items):
 def render_md(level, s, tag):
     c, g = s["char"], s["grammar"]
     lines = [
-        f"# 覆盖与频次统计报告（一级，标签 {tag}）",
+        f"# 覆盖与频次统计报告（{s['level']} 级，标签 {tag}）",
         "",
         f"- 题库：共 {s['items_total']} 题，合格 {s['items_valid']}，不合格剔除 {s['items_invalid']}",
         f"- 字覆盖：{c['covered']}/{c['total']}（{c['coverage']}%），阈值 {level['thresholds']['char_coverage_min'] * 100}%",
@@ -143,13 +147,14 @@ def render_md(level, s, tag):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--level", type=int, default=1)
-    ap.add_argument("--bank", required=True)
+    ap.add_argument("--level", type=int, default=1, help="等级 1—9（数据取自 data/levels/levelN.json）")
+    ap.add_argument("--bank", help="题库路径；缺省取 banks/levelN/final.json")
     ap.add_argument("--tag", default="v1")
     args = ap.parse_args()
 
     level = load_level(args.level)
-    items = load_bank(args.bank)
+    bank = args.bank or str(default_bank(args.level))
+    items = load_bank(bank)
     stats, plan = compute(level, items)
     stats["tag"] = args.tag
     plan["tag"] = args.tag

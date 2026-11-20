@@ -9,19 +9,35 @@ DATA_DIR = ROOT / "data" / "levels"
 REPORT_DIR = ROOT / "reports"
 
 HANZI_RE = re.compile(r"[\u4e00-\u9fff]")
-ALLOWED_PUNCT = "，。？！、：；”“’‘—…《》（）"
+ALLOWED_PUNCT = "，。？！、：；""''—…《》（）"
+
+# 九级题库统一支持范围（一级至九级）
+SUPPORTED_LEVELS = range(1, 10)
+
+
+def default_bank(level_no: int) -> Path:
+    """按等级组织的题库默认位置：banks/levelN/final.json。"""
+    return ROOT / "banks" / f"level{level_no}" / "final.json"
 
 
 def load_level(level_no: int) -> dict:
+    if level_no not in SUPPORTED_LEVELS:
+        raise ValueError(f"等级 {level_no} 超出支持范围（1—9）")
     path = DATA_DIR / f"level{level_no}.json"
     if not path.exists():
-        raise FileNotFoundError(f"等级数据不存在：{path}")
+        raise FileNotFoundError(
+            f"等级 {level_no} 的配置不存在：{path}\n"
+            f"请先依据《国际中文教育中文水平等级标准》整理该等级字表/核心字/语法点，"
+            f"生成 data/levels/level{level_no}.json（缺失内容标注“待标准确认”，不要用其他等级数据冒充）"
+        )
     return json.loads(path.read_text(encoding="utf-8"))
 
 
 def load_bank(path) -> list:
     """题库文件兼容两种格式：纯数组，或 {"items": [...]}。"""
     p = Path(path)
+    if not p.exists():
+        raise FileNotFoundError(f"题库文件不存在：{p}（该等级题库可能尚未整理完成，请勿用其他等级题库代替）")
     data = json.loads(p.read_text(encoding="utf-8"))
     if isinstance(data, dict) and "items" in data:
         return data["items"]

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""命题子系统后端服务（成员B 交付物）。
+"""命题子系统后端服务（成员B 交付物，支持一级至九级按等级查询）。
 
 统一字段：id / level / text / tokens / grammar / status / rec_count / last_selected_at
 抽题权重（按历史覆盖程度）：w = max(0, C - rec_count)，C 默认 10，可通过 ?C= 调整。
@@ -7,6 +7,10 @@
 启动（项目根目录）：
     python -m uvicorn backend.main:app --host 127.0.0.1 --port 8001
     Swagger 文档：http://127.0.0.1:8001/docs
+
+九级约定：
+    level 取值范围 1—9；数据文件 data/levels/levelN.json，题库 banks/levelN/，报告 reports/levelN/。
+    尚未建立题库的等级返回标准空题库响应（见 docs/九级空题库返回示例.json）。
 """
 import json
 import random
@@ -19,7 +23,7 @@ CN_TZ = timezone(timedelta(hours=8))  # 北京时间（UTC+8）
 
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
@@ -27,12 +31,12 @@ sys.path.insert(0, str(ROOT / "scripts"))
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import db  # noqa: E402
-from lib import load_level, validate_bank, validate_item  # noqa: E402
+from lib import SUPPORTED_LEVELS, load_level, validate_bank, validate_item  # noqa: E402
 import stats as stats_mod  # noqa: E402
 from manual_review import manual_review_gate  # noqa: E402
 
-app = FastAPI(title="命题子系统后端 API", version="0.2.0",
-              description="题库查询 / 校验 / 统计 / 发布 / 按等级抽题 / 按覆盖程度推荐抽题")
+app = FastAPI(title="命题子系统后端 API", version="0.3.0",
+              description="题库查询 / 校验 / 统计 / 发布 / 按等级抽题 / 按覆盖程度推荐抽题（一级至九级）")
 
 app.add_middleware(
     CORSMiddleware,
@@ -86,25 +90,51 @@ def service_info():
             "questions_total": n, "docs": "/docs"}
 
 
+MAX_LEVEL = max(SUPPORTED_LEVELS)  # 9
+
+
 @app.get("/api/questions")
-def list_questions(level: int | None = Query(None, ge=1),
+def list_questions(level: int | None = Query(None, ge=1, le=MAX_LEVEL),
                    status: str | None = Query(None)):
     if status is not None and status not in db.ALLOWED_STATUS:
         raise HTTPException(400, f"非法状态 {status}，允许：{', '.join(db.ALLOWED_STATUS)}")
     conn = db.connect()
     try:
         if level is not None and not level_has_data(conn, level):
-            return {"total": 0, "items": [], "message": f"等级 {level} 暂无题目"}
+            # 标准空题库响应：明确区分“题库尚未完成”与“查询出错”，绝不返回其他等级的题目
+            return {"total": 0, "items": [], "detail": "该等级题库尚未完成"}
         items = fetch_items(conn, level, status)
     finally:
         conn.close()
     return {"total": len(items), "items": items}
 
 
+@app.get("/api/levels")
+def list_levels():
+    """九级题库状态总览：每级题目数量与是否可查询（供状态看板使用）。"""
+    conn = db.connect()
+    try:
+        rows = conn.execute(
+            "SELECT level, COUNT(*) AS n FROM questions GROUP BY level").fetchall()
+    finally:
+        conn.close()
+    counts = {r["level"]: r["n"] for r in rows}
+    items = []
+    for lv in SUPPORTED_LEVELS:
+        n = counts.get(lv, 0)
+        items.append({
+            "level": lv,
+            "question_count": n,
+            "status": "available" if n > 0 else "pending",
+            "detail": None if n > 0 else "该等级题库尚未完成",
+        })
+    return {"total": len(items), "items": items}
+
+
 # ── 抽题接口（必须先于 /api/questions/{qid} 注册，避免路径抢占）──
 
 @app.get("/api/questions/random")
-def random_questions(level: int = Query(..., ge=1),
+def random_questions(level: int = Query(..., ge=1, le=MAX_LEVEL),
                      n: int = Query(1, ge=1, le=MAX_N)):
     """按等级抽题：仅在 published 题中等概率抽取（成员B 第四天任务）。"""
     conn = db.connect()
@@ -126,7 +156,7 @@ def random_questions(level: int = Query(..., ge=1),
 
 
 @app.get("/api/questions/recommend")
-def recommend_questions(level: int = Query(..., ge=1),
+def recommend_questions(level: int = Query(..., ge=1, le=MAX_LEVEL),
                         n: int = Query(1, ge=1, le=MAX_N),
                         C: float = Query(DEFAULT_C, gt=0),
                         candidate_size: int = Query(DEFAULT_CANDIDATE, ge=1),
@@ -359,7 +389,7 @@ def publish_one(qid: str):
 
 
 class PublishBody(BaseModel):
-    level: int
+    level: int = Field(ge=1, le=9, description="等级 1—9")
 
 
 @app.post("/api/pipeline/publish")
@@ -368,7 +398,7 @@ def publish_level(body: PublishBody):
     conn = db.connect()
     try:
         if not level_has_data(conn, body.level):
-            raise HTTPException(404, f"等级 {body.level} 暂无题目，请先导入")
+            raise HTTPException(404, f"等级 {body.level} 题库尚未完成（该等级题库尚未完成，请先导入）")
         items = fetch_items(conn, level=body.level)
         cfg = load_level(body.level)
         s, _ = stats_mod.compute(cfg, items)
@@ -401,12 +431,12 @@ def _save_round(level, kind, payload):
 
 
 @app.post("/api/pipeline/validate")
-def pipeline_validate(level: int = Query(1, ge=1)):
+def pipeline_validate(level: int = Query(1, ge=1, le=MAX_LEVEL)):
     conn = db.connect()
     try:
         items = fetch_items(conn, level=level)
         if not items:
-            raise HTTPException(404, f"等级 {level} 暂无题目，请先导入")
+            raise HTTPException(404, f"等级 {level} 题库尚未完成（该等级题库尚未完成，请先导入）")
         cfg = load_level(level)
         _, results, dup_ids, dup_texts = validate_bank(items, cfg)
         bad = [{"id": r["item"]["id"], "text": r["item"]["text"],
@@ -429,12 +459,12 @@ def pipeline_validate(level: int = Query(1, ge=1)):
 
 
 @app.post("/api/pipeline/stats")
-def pipeline_stats(level: int = Query(1, ge=1)):
+def pipeline_stats(level: int = Query(1, ge=1, le=MAX_LEVEL)):
     conn = db.connect()
     try:
         items = fetch_items(conn, level=level)
         if not items:
-            raise HTTPException(404, f"等级 {level} 暂无题目，请先导入")
+            raise HTTPException(404, f"等级 {level} 题库尚未完成（该等级题库尚未完成，请先导入）")
         cfg = load_level(level)
         s, plan = stats_mod.compute(cfg, items)
         payload = {"kind": "stats", "level": level, "run_at": now_iso(), **s,

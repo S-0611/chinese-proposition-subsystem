@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""题库导入脚本（成员B 任务2/3 交付物）。
+"""题库导入脚本（成员B 任务2/3 交付物，支持一级至九级按等级导入）。
 
-把 banks/level1/final.json 导入 SQLite：
+把 banks/levelN/final.json 导入 SQLite（--level N 指定等级，缺省一级）：
   - 生成统一字段：id / level / text / tokens / grammar / status / rec_count / last_selected_at
   - tokens 以题库自带的 pinyin 字段为权威（人工复核过的多音字优先），按拼音音节切分逐字绑定；
     切分失败时回退 pypinyin 逐字生成，并在摘要里提示差异，供成员A 人工复核。
@@ -9,6 +9,7 @@
 
 用法（项目根目录）：
     python backend/import_bank.py
+    python backend/import_bank.py --level 2                        # 导入 banks/level2/final.json
     python backend/import_bank.py --bank banks/level1/round2.json --level 1
     python backend/import_bank.py --force   # 已存在的题也整体覆盖（重置运行字段）
 """
@@ -102,12 +103,18 @@ def build_tokens(text: str, pinyin_field: str):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--bank", default=str(ROOT / "banks" / "level1" / "final.json"))
-    ap.add_argument("--level", type=int, default=None)
+    ap.add_argument("--bank", default=None,
+                    help="题库路径；缺省按等级取 banks/levelN/final.json")
+    ap.add_argument("--level", type=int, default=None, help="等级 1—9；缺省用题库内 level 字段，再无则 1")
     ap.add_argument("--db", default=str(db.DB_PATH))
     ap.add_argument("--force", action="store_true",
                     help="覆盖已有题目（包括重置 rec_count / last_selected_at / status）")
     args = ap.parse_args()
+
+    if args.level is not None and args.level not in range(1, 10):
+        ap.error("--level 必须在 1—9 之间")
+    if args.bank is None:
+        args.bank = str(ROOT / "banks" / f"level{args.level or 1}" / "final.json")
 
     items = load_bank(args.bank)
     conn = db.connect(args.db)
@@ -166,8 +173,9 @@ def main():
     conn.commit()
 
     total = conn.execute("SELECT COUNT(*) FROM questions").fetchone()[0]
-    lv1 = conn.execute("SELECT COUNT(*) FROM questions WHERE level=1").fetchone()[0]
-    db.add_run(conn, "import", args.level or 1,
+    level_counts = {r["level"]: r["n"] for r in
+                    conn.execute("SELECT level, COUNT(*) AS n FROM questions GROUP BY level")}
+    db.add_run(conn, "import", args.level,
                {"bank": str(args.bank), "source_items": len(items),
                 "imported": imported, "updated_kept": updated,
                 "skipped": skipped, "bad_items": bad_items})
@@ -178,7 +186,8 @@ def main():
         print("[import] 跳过明细：")
         for b in bad_items:
             print("  - " + b)
-    print(f"[import] 数据库现有 {total} 题，其中一级 {lv1} 题")
+    summary = "、".join(f"{lv} 级 {n} 题" for lv, n in sorted(level_counts.items()))
+    print(f"[import] 数据库现有 {total} 题：{summary}")
     if poly_notes:
         print(f"[import] 多音字提示（{len(poly_notes)} 题，建议人工复核）：")
         for p in poly_notes[:20]:

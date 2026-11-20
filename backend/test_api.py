@@ -107,8 +107,11 @@ def main():
     check("GET /api/questions?level=1 返回 256", st == 200 and lst1.get("total") == 256,
           f"{st} {lst1.get('total') if isinstance(lst1, dict) else lst1}")
 
+    st, empty = req("GET", "/api/questions?level=2", base=base)
+    check("查询未建库等级 → 标准空题库响应", st == 200 and empty.get("total") == 0
+          and empty.get("items") == [] and empty.get("detail") == "该等级题库尚未完成", f"{st} {empty}")
     st, empty = req("GET", "/api/questions?level=99", base=base)
-    check("查询不存在的等级 → total=0", st == 200 and empty.get("total") == 0, f"{st} {empty}")
+    check("查询越界等级 → 422", st == 422, f"{st}")
 
     st, q1 = req("GET", "/api/questions/L1-001", base=base)
     RESPONSES["get_one"] = q1
@@ -173,8 +176,10 @@ def main():
           and all(i["status"] == "published" for i in rnd["items"]), f"{ids}")
     check("抽取后 last_selected_at 已更新", all(i["last_selected_at"] for i in rnd["items"]))
 
+    st, rnd99 = req("GET", "/api/questions/random?level=2", base=base)
+    check("对未建库等级抽题 → 404", st == 404, f"{st}")
     st, rnd99 = req("GET", "/api/questions/random?level=99", base=base)
-    check("对无题等级抽题 → 404", st == 404, f"{st}")
+    check("对越界等级抽题 → 422", st == 422, f"{st}")
 
     print("=== 5. 按覆盖程度抽题（recommend，w = max(0, C - rec_count)）===")
     st, rec1 = req("GET", "/api/questions/recommend?level=1&n=3&C=10", base=base)

@@ -3,13 +3,17 @@
 
 用法：
     python scripts/validate.py --level 1 --bank banks/level1/round1.json [--tag v1]
+    题库缺省取 banks/levelN/final.json。
 
 退出码：0 全部合格；1 存在不合格题（须先修改或剔除）。
 """
 import argparse
 import sys
+from pathlib import Path
 
-from lib import ROOT, load_bank, load_level, out_dir, validate_bank
+sys.path.insert(0, str(Path(__file__).resolve().parent))  # 保证任意 cwd 下可 import lib
+
+from lib import ROOT, default_bank, load_bank, load_level, out_dir, validate_bank
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -18,8 +22,9 @@ def render_report(level, results, dup_ids, dup_texts) -> str:
     total = len(results)
     bad = [r for r in results if not r["ok"]]
     warn = [r for r in results if r["ok"] and r["warnings"]]
+    level_no = level.get("level", "?")
     lines = [
-        f"# 等级校验报告（一级，{total} 题）",
+        f"# 等级校验报告（{level_no} 级，{total} 题）",
         "",
         f"- 合格：{total - len(bad)} 题",
         f"- 不合格：{len(bad)} 题",
@@ -51,13 +56,14 @@ def render_report(level, results, dup_ids, dup_texts) -> str:
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--level", type=int, default=1)
-    ap.add_argument("--bank", required=True)
+    ap.add_argument("--level", type=int, default=1, help="等级 1—9（数据取自 data/levels/levelN.json）")
+    ap.add_argument("--bank", help="题库路径；缺省取 banks/levelN/final.json")
     ap.add_argument("--tag", default="v1")
     args = ap.parse_args()
 
     level = load_level(args.level)
-    items = load_bank(args.bank)
+    bank = args.bank or str(default_bank(args.level))
+    items = load_bank(bank)
     _, results, dup_ids, dup_texts = validate_bank(items, level)
 
     d = out_dir(args.level)
