@@ -341,7 +341,7 @@
       <div class="card"><div class="hd">统计</div><div class="bd"><p>查看字覆盖率和语法点覆盖率。</p><button class="btn sm" onclick="pipelineNotice('请在后端 Swagger 执行统计')">开始统计</button></div></div>
       <div class="card"><div class="hd">抽题测试</div><div class="bd"><p>按等级或覆盖程度测试抽题。</p><button class="btn sm" onclick="drawPropositionQuestion()">推荐抽题</button></div></div>
     </div>
-    <div class="card" style="margin-top:16px"><div class="hd">一级题库 <span id="propSource" class="mut">等待加载</span></div><div class="bd" style="padding:0;overflow:auto"><table id="propQuestionTable"></table></div></div>
+    <div class="card" style="margin-top:16px"><div class="hd">九级题库状态</div><div class="bd"><table id="nineLevelStatusTable"><tr><th>等级</th><th>配置</th><th>题目数</th><th>状态</th></tr><tr><td>一级</td><td>已完成</td><td>256</td><td>已入库</td></tr><tr><td>二级—九级</td><td>待数据侧整理</td><td>0</td><td>待接入</td></tr></table><p class="note">二至九级题库依据标准 PDF 整理，当前页面只展示进度状态，不使用一级题目冒充其他等级。</p></div></div><div class="card" style="margin-top:16px"><div class="hd">一级题库 <span id="propSource" class="mut">等待加载</span></div><div class="bd" style="padding:0;overflow:auto"><table id="propQuestionTable"></table></div></div>
   </section>
 
   <!-- ══════════ 教师端 · 题目管理 ══════════ -->
@@ -456,5 +456,6 @@
 <script src="app.js"></script>
 </body>
 </html>
+
 
 
