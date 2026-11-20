@@ -1,14 +1,16 @@
 # -*- coding: utf-8 -*-
 """后端统一测试（成员B 第五天任务交付物：题库导入、查询、发布和抽题的统一测试）。
 
-用法（后端已启动时）：
-    python backend/test_api.py
+用法（后端已启动时，推荐：显式指定命题端口）：
     python backend/test_api.py --base http://127.0.0.1:8001
+    python backend/test_api.py                      # 未指定 --base 时自动拉起独立测试库（端口 8017）
 
 覆盖：真实查询、按等级/编号查询、404 错误返回、校验/统计接入、状态管理、
       发布门槛、按等级抽题、按覆盖程度抽题（w = max(0, C - rec_count)）、
       短时间防重复、录音计数与候选排除。
-结果写入 reports/level1/api_test_<日期>.txt。
+结果写入 reports/level1/：
+    api_test_<日期>_<端口>.txt、api_responses_<日期>_<端口>.json、
+    api_validate_<日期>_<端口>.json、api_stats_<日期>_<端口>.json
 """
 import argparse
 import io
@@ -55,11 +57,17 @@ def hanzi_count(text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--base", default="http://127.0.0.1:8001")
+    ap.add_argument("--base", default=None,
+                    help="已启动服务的基址（如 http://127.0.0.1:8001）；缺省自动拉起独立测试服务")
     ap.add_argument("--skip-server", action="store_true")
     args = ap.parse_args()
 
-    if not args.skip_server:
+    srv = None
+    test_db = None
+    if args.base:
+        base = args.base.rstrip("/")
+        print(f"[test] 直接测试已启动服务：{base}（指定 --base 时不再拉起本地测试服务）")
+    else:
         # 后端未启动时：用独立测试库拉起 uvicorn 子进程（不影响正式 bank.db）
         import os
         import subprocess
@@ -89,8 +97,6 @@ def main():
             srv.kill()
             sys.exit(1)
         print(f"[test] 已用独立测试库启动后端：{base}（test_bank.db）")
-    else:
-        base = args.base
 
     print("=== 1. 服务与真实查询 ===")
     st, info = req("GET", "/", base=base)
@@ -256,17 +262,34 @@ def main():
             print("  - " + f)
         sys.exit(1)
 
-    out = ROOT / "reports" / "level1" / f"api_test_{datetime.now().strftime('%Y%m%d')}.txt"
-    out.parent.mkdir(parents=True, exist_ok=True)
+    out_dir = ROOT / "reports" / "level1"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    from urllib.parse import urlparse
+    port = urlparse(base).port or 8001
+    suffix = f"{datetime.now().strftime('%Y%m%d')}_{port}"
+
+    out = out_dir / f"api_test_{suffix}.txt"
     out.write_text(
         "\n".join([f"PASS {n}" for n in PASS]) + "\n\n返回样例：\n"
         + json.dumps(RESPONSES, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8")
-    print(f"测试记录已写入 {out.relative_to(ROOT)}")
-    if not args.skip_server:
+
+    files = [out]
+    resp_file = out_dir / f"api_responses_{suffix}.json"
+    resp_file.write_text(json.dumps(RESPONSES, ensure_ascii=False, indent=2), encoding="utf-8")
+    files.append(resp_file)
+    for key in ("validate", "stats"):
+        if key in RESPONSES:
+            p = out_dir / f"api_{key}_{suffix}.json"
+            p.write_text(json.dumps(RESPONSES[key], ensure_ascii=False, indent=2), encoding="utf-8")
+            files.append(p)
+
+    print(f"测试记录已写入：" + "、".join(str(f.relative_to(ROOT)) for f in files))
+    if srv is not None:
         srv.terminate()
         srv.wait(timeout=10)
-        test_db.unlink(missing_ok=True)
+        if test_db is not None:
+            test_db.unlink(missing_ok=True)
         print("[test] 测试库已清理")
 
 
