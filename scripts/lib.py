@@ -52,8 +52,12 @@ def hanzi_of(text: str) -> list:
 
 def validate_item(item: dict, level: dict) -> dict:
     """单题校验，返回 {"ok", "errors", "warnings"}。errors 不通过则该题不计入统计。"""
-    cons = level["constraints"]
-    gmap = {g["id"]: g for g in level["grammar"]}
+    cons = level.get("constraints") or {}
+    min_chars = cons.get("min_chars", 1)
+    max_chars = cons.get("max_chars", 10 ** 6)
+    grammar_list = level.get("grammar") or []
+    gmap = {g["id"]: g for g in grammar_list}
+    all_chars = (level.get("chars") or {}).get("all") or []
     errors, warnings = [], []
 
     text = item.get("text", "")
@@ -66,14 +70,17 @@ def validate_item(item: dict, level: dict) -> dict:
 
     # 长度
     n = len(hs)
-    if n < cons["min_chars"] or n > cons["max_chars"]:
-        errors.append(f"字数 {n} 超出范围 [{cons['min_chars']}, {cons['max_chars']}]")
+    if n < min_chars or n > max_chars:
+        errors.append(f"字数 {n} 超出范围 [{min_chars}, {max_chars}]")
 
     # 字表
-    char_set = set(level["chars"]["all"])
-    unknown = sorted({c for c in hs if c not in char_set})
-    if unknown:
-        errors.append("超出本等级字表：" + "、".join(unknown))
+    if all_chars:
+        char_set = set(all_chars)
+        unknown = sorted({c for c in hs if c not in char_set})
+        if unknown:
+            errors.append("超出本等级字表：" + "、".join(unknown))
+    else:
+        warnings.append("本等级字表待补，已跳过字表越界检查")
 
     # 字母数字
     if not cons.get("allow_ascii", False):
@@ -85,10 +92,13 @@ def validate_item(item: dict, level: dict) -> dict:
     decl = item.get("grammar") or []
     if not decl:
         warnings.append("未声明任何语法点")
+    if decl and not gmap:
+        warnings.append("本等级语法点清单待补，已跳过语法点校验")
     for gid in decl:
         g = gmap.get(gid)
         if g is None:
-            errors.append(f"声明的语法点 {gid} 不属于本等级")
+            if gmap:
+                errors.append(f"声明的语法点 {gid} 不属于本等级")
             continue
         pat = g.get("pattern")
         if pat and not re.search(pat, text):
@@ -126,11 +136,12 @@ def validate_bank(items: list, level: dict) -> tuple:
 
 def detect_grammar_freq(items: list, level: dict) -> dict:
     """统计语法点使用频次：正则命中或声明过的题各计一次。"""
-    freq = {g["id"]: 0 for g in level["grammar"]}
+    grammar_list = level.get("grammar") or []
+    freq = {g["id"]: 0 for g in grammar_list}
     for it in items:
         text = it.get("text", "")
         decl = set(it.get("grammar") or [])
-        for g in level["grammar"]:
+        for g in grammar_list:
             pat = g.get("pattern")
             if g["id"] in decl or (pat and re.search(pat, text)):
                 freq[g["id"]] += 1

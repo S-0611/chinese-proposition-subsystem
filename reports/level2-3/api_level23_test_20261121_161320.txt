@@ -1,0 +1,226 @@
+二、三级题库导入 + 接口测试 2026-11-21 16:13:20
+base=http://127.0.0.1:8019
+说明：二、三级正式题库未交付，使用各 6 道占位冒烟题走真实导入链路；一级用正式库 256 题。
+通过 20/20
+
+PASS  level=2 返回 200
+PASS  level=2 共 6 题（占位冒烟题）
+PASS  level=2 全部 level==2
+PASS  level=2 不返回一级题目
+PASS  level=3 返回 200
+PASS  level=3 共 6 题（占位冒烟题）
+PASS  level=3 全部 level==3
+PASS  level=3 不返回一级题目
+PASS  level=3 不混入二级题目
+PASS  level=1 仍为 256 题
+PASS  level=1 不混入二、三级题目
+PASS  不带 level 时总数为 268
+PASS  不带 level 时只含 1/2/3 级
+PASS  /api/levels 二级 available 且 6 题
+PASS  /api/levels 三级 available 且 6 题
+PASS  /api/levels 四级仍 pending
+PASS  random level=2 返回 200
+PASS  random level=2 全部为 2 级
+PASS  random level=3 返回 200
+PASS  random level=3 全部为 3 级
+
+关键响应摘录：
+{
+  "total": 6,
+  "items": [
+    {
+      "id": "L2-T-001",
+      "question_id": "L2-T-001",
+      "question_version": "1",
+      "content_revision": "30326154d026557a874889d8e762491e914bf69a223989498dd97e5788e81a48",
+      "level": 2,
+      "text": "我想点一个牛肉面。",
+      "display_text": "我想点一个牛肉面。",
+      "tokens": [
+        {
+          "c": "我",
+          "py": "wo3",
+          "display_py": "wǒ",
+          "display_start": 0
+        },
+        {
+          "c": "想",
+          "py": "xiang3",
+          "display_py": "xiǎng",
+          "display_start": 1
+        },
+        {
+          "c": "点",
+          "py": "dian3",
+          "display_py": "diǎn",
+          "display_start": 2
+        },
+        {
+          "c": "一",
+          "py": "yi2",
+          "display_py": "yí",
+          "display_start": 3
+        },
+        {
+          "c": "个",
+          "py": "ge4",
+          "display_py": "gè",
+          "display_start": 4
+        },
+        {
+          "c": "牛",
+          "py": "niu2",
+          "display_py": "niú",
+          "display_start": 5
+        },
+        {
+          "c": "肉",
+          "py": "rou4",
+          "display_py": "ròu",
+          "display_start": 6
+        },
+        {
+          "c": "面",
+          "py": "mian4",
+          "display_py": "miàn",
+          "display_start": 7
+        }
+      ],
+      "grammar": [],
+      "status": "published",
+      "rec_count": 0,
+      "last_selected_at": null
+    },
+    {
+      "id": "L2-T-002",
+      "question_id": "L2-T-002",
+  
+{
+  "total": 6,
+  "items": [
+    {
+      "id": "L3-T-001",
+      "question_id": "L3-T-001",
+      "question_version": "1",
+      "content_revision": "a1f005ddc9e58c71a3913611e63227d09b65b27460a8e5472f4707e03a2fa5c5",
+      "level": 3,
+      "text": "他昨天坐火车去了北京。",
+      "display_text": "他昨天坐火车去了北京。",
+      "tokens": [
+        {
+          "c": "他",
+          "py": "ta1",
+          "display_py": "tā",
+          "display_start": 0
+        },
+        {
+          "c": "昨",
+          "py": "zuo2",
+          "display_py": "zuó",
+          "display_start": 1
+        },
+        {
+          "c": "天",
+          "py": "tian1",
+          "display_py": "tiān",
+          "display_start": 2
+        },
+        {
+          "c": "坐",
+          "py": "zuo4",
+          "display_py": "zuò",
+          "display_start": 3
+        },
+        {
+          "c": "火",
+          "py": "huo3",
+          "display_py": "huǒ",
+          "display_start": 4
+        },
+        {
+          "c": "车",
+          "py": "che1",
+          "display_py": "chē",
+          "display_start": 5
+        },
+        {
+          "c": "去",
+          "py": "qu4",
+          "display_py": "qù",
+          "display_start": 6
+        },
+        {
+          "c": "了",
+          "py": "le5",
+          "display_py": "le",
+          "display_start": 7
+        },
+        {
+          "c": "北",
+          "py": "bei3",
+          "display_py": "běi",
+          "display_start": 8
+        },
+        {
+          "c": "京",
+          "py": "jing1",
+     
+{
+  "total": 9,
+  "items": [
+    {
+      "level": 1,
+      "question_count": 256,
+      "status": "available",
+      "detail": null
+    },
+    {
+      "level": 2,
+      "question_count": 6,
+      "status": "available",
+      "detail": null
+    },
+    {
+      "level": 3,
+      "question_count": 6,
+      "status": "available",
+      "detail": null
+    },
+    {
+      "level": 4,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    },
+    {
+      "level": 5,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    },
+    {
+      "level": 6,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    },
+    {
+      "level": 7,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    },
+    {
+      "level": 8,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    },
+    {
+      "level": 9,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    }
+  ]
+}
