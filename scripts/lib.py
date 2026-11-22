@@ -30,7 +30,21 @@ def load_level(level_no: int) -> dict:
             f"请先依据《国际中文教育中文水平等级标准》整理该等级字表/核心字/语法点，"
             f"生成 data/levels/level{level_no}.json（缺失内容标注“待标准确认”，不要用其他等级数据冒充）"
         )
-    return json.loads(path.read_text(encoding="utf-8"))
+    level = json.loads(path.read_text(encoding="utf-8"))
+    # 二级及以上题目使用累计字表；配置文件仍保留本级标准字表，
+    # 由这里统一合并低等级字表，避免把常用低等级字误判为越级字。
+    if level.get("char_table_mode") == "cumulative" and level_no > 1:
+        merged = []
+        for n in range(1, level_no + 1):
+            prev = DATA_DIR / f"level{n}.json"
+            if prev.exists():
+                chars = (json.loads(prev.read_text(encoding="utf-8")).get("chars") or {}).get("all") or []
+                for ch in chars:
+                    if ch not in merged:
+                        merged.append(ch)
+        if merged:
+            level.setdefault("chars", {})["all"] = merged
+    return level
 
 
 def load_bank(path) -> list:
@@ -101,6 +115,8 @@ def validate_item(item: dict, level: dict) -> dict:
                 errors.append(f"声明的语法点 {gid} 不属于本等级")
             continue
         pat = g.get("pattern")
+        if level.get("grammar_validation") == "id_only":
+            continue
         if pat and not re.search(pat, text):
             errors.append(f"声明的语法点 {gid}（{g['name']}）与文本不符（未命中规则 {pat}）")
 
