@@ -363,12 +363,13 @@ def _publish_gate(conn, level, qid):
     s, _ = stats_mod.compute(cfg, items)
     if s["verdict"] != "pass":
         raise HTTPException(400, f"题库整体未达标，不能发布：{'；'.join(s['failed_checks'])}")
-    review_gate = manual_review_gate(ROOT, level)
-    if not review_gate["ok"]:
-        if review_gate["reason"] == "manual_review_missing_or_invalid":
-            raise HTTPException(400, f"人工复核门禁未通过：复核文件缺失或无效（{review_gate['review'].get('path')}）")
-        ids = '、'.join(i.get("id", "?") for i in review_gate["blocking_p0"])
-        raise HTTPException(400, f"人工复核门禁未通过：仍有未解决的 P0 问题（{ids}）")
+    if cfg.get("manual_review_required", True):
+        review_gate = manual_review_gate(ROOT, level)
+        if not review_gate["ok"]:
+            if review_gate["reason"] == "manual_review_missing_or_invalid":
+                raise HTTPException(400, f"人工复核门禁未通过：复核文件缺失或无效（{review_gate['review'].get('path')}）")
+            ids = '、'.join(i.get("id", "?") for i in review_gate["blocking_p0"])
+            raise HTTPException(400, f"人工复核门禁未通过：仍有未解决的 P0 问题（{ids}）")
     return target
 
 
@@ -404,12 +405,13 @@ def publish_level(body: PublishBody):
         s, _ = stats_mod.compute(cfg, items)
         if s["verdict"] != "pass":
             raise HTTPException(400, f"题库整体未达标，不能发布：{'；'.join(s['failed_checks'])}")
-        review_gate = manual_review_gate(ROOT, body.level)
-        if not review_gate["ok"]:
-            if review_gate["reason"] == "manual_review_missing_or_invalid":
-                raise HTTPException(400, f"人工复核门禁未通过：复核文件缺失或无效（{review_gate['review'].get('path')}）")
-            ids = '、'.join(i.get("id", "?") for i in review_gate["blocking_p0"])
-            raise HTTPException(400, f"人工复核门禁未通过：仍有未解决的 P0 问题（{ids}）")
+        if cfg.get("manual_review_required", True):
+            review_gate = manual_review_gate(ROOT, body.level)
+            if not review_gate["ok"]:
+                if review_gate["reason"] == "manual_review_missing_or_invalid":
+                    raise HTTPException(400, f"人工复核门禁未通过：复核文件缺失或无效（{review_gate['review'].get('path')}）")
+                ids = '、'.join(i.get("id", "?") for i in review_gate["blocking_p0"])
+                raise HTTPException(400, f"人工复核门禁未通过：仍有未解决的 P0 问题（{ids}）")
         cur = conn.execute(
             "UPDATE questions SET status='published' WHERE level=? AND status IN ('ready','validated','draft')",
             (body.level,)).rowcount

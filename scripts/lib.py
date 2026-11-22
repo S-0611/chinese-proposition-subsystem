@@ -87,12 +87,16 @@ def validate_item(item: dict, level: dict) -> dict:
     if n < min_chars or n > max_chars:
         errors.append(f"字数 {n} 超出范围 [{min_chars}, {max_chars}]")
 
-    # 字表
+    # 字表（out_of_list_mode=warn 时只告警，用于官方字表未齐前的过渡口径）
     if all_chars:
         char_set = set(all_chars)
         unknown = sorted({c for c in hs if c not in char_set})
         if unknown:
-            errors.append("超出本等级字表：" + "、".join(unknown))
+            msg = "超出本等级字表：" + "、".join(unknown)
+            if (level.get("chars") or {}).get("out_of_list_mode") == "warn":
+                warnings.append(msg + "（警告，不阻断）")
+            else:
+                errors.append(msg)
     else:
         warnings.append("本等级字表待补，已跳过字表越界检查")
 
@@ -153,13 +157,14 @@ def validate_bank(items: list, level: dict) -> tuple:
 def detect_grammar_freq(items: list, level: dict) -> dict:
     """统计语法点使用频次：正则命中或声明过的题各计一次。"""
     grammar_list = level.get("grammar") or []
+    id_only = level.get("grammar_validation") == "id_only"
     freq = {g["id"]: 0 for g in grammar_list}
     for it in items:
         text = it.get("text", "")
         decl = set(it.get("grammar") or [])
         for g in grammar_list:
             pat = g.get("pattern")
-            if g["id"] in decl or (pat and re.search(pat, text)):
+            if g["id"] in decl or (not id_only and pat and re.search(pat, text)):
                 freq[g["id"]] += 1
     return freq
 

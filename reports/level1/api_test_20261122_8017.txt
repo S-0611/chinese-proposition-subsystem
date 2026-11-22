@@ -29412,7 +29412,7 @@ PASS n 超上限 → 422
   "validate": {
     "kind": "validate",
     "level": 1,
-    "run_at": "2026-11-22T17:29:00+08:00",
+    "run_at": "2026-11-22T21:35:38+08:00",
     "total": 256,
     "valid": 256,
     "invalid": 0,
@@ -29420,12 +29420,12 @@ PASS n 超上限 → 422
     "dup_texts": [],
     "verdict": "pass",
     "bad_items": [],
-    "saved_to": "reports\\level1\\api_validate_20261122_092900.json"
+    "saved_to": "reports\\level1\\api_validate_20261122_133538.json"
   },
   "stats": {
     "kind": "stats",
     "level": 1,
-    "run_at": "2026-11-22T17:29:00+08:00",
+    "run_at": "2026-11-22T21:35:39+08:00",
     "tag": null,
     "items_total": 256,
     "items_valid": 256,
@@ -29806,7 +29806,7 @@ PASS n 超上限 → 422
       "uncovered_chars": [],
       "uncovered_grammar": []
     },
-    "saved_to": "reports\\level1\\api_stats_20261122_092900.json"
+    "saved_to": "reports\\level1\\api_stats_20261122_133539.json"
   },
   "publish_one": {
     "ok": true,
@@ -29882,249 +29882,136 @@ PASS n 超上限 → 422
     "mode": "random",
     "items": [
       {
-        "id": "L1-014",
-        "question_id": "L1-014",
+        "id": "L1-039",
+        "question_id": "L1-039",
         "question_version": "1",
-        "content_revision": "3047eaaef22c0aa04c18d95a5be8fddd99663ce4b4aee339852768234259b3ab",
+        "content_revision": "a369002068e2543eb108d49121f1c69e054a2819c7b85290db3ebab6705fcb62",
         "level": 1,
-        "text": "我爸爸是医生，我妈妈是老师。",
-        "display_text": "我爸爸是医生，我妈妈是老师。",
+        "text": "汉语难不难？",
+        "display_text": "汉语难不难？",
         "tokens": [
           {
-            "c": "我",
-            "py": "wo3",
-            "display_py": "wǒ",
+            "c": "汉",
+            "py": "han4",
+            "display_py": "hàn",
             "display_start": 0
           },
           {
-            "c": "爸",
-            "py": "ba4",
-            "display_py": "bà",
+            "c": "语",
+            "py": "yu3",
+            "display_py": "yǔ",
             "display_start": 1
           },
           {
-            "c": "爸",
-            "py": "ba4",
-            "display_py": "bà",
+            "c": "难",
+            "py": "nan2",
+            "display_py": "nán",
             "display_start": 2
           },
           {
-            "c": "是",
-            "py": "shi4",
-            "display_py": "shì",
+            "c": "不",
+            "py": "bu4",
+            "display_py": "bù",
             "display_start": 3
           },
           {
-            "c": "医",
-            "py": "yi1",
-            "display_py": "yī",
+            "c": "难",
+            "py": "nan2",
+            "display_py": "nán",
             "display_start": 4
-          },
+          }
+        ],
+        "grammar": [
+          "G1-05"
+        ],
+        "status": "published",
+        "rec_count": 0,
+        "last_selected_at": "2026-11-22T21:35:39+08:00"
+      },
+      {
+        "id": "L1-044",
+        "question_id": "L1-044",
+        "question_version": "1",
+        "content_revision": "1c7ffcef4b1aff80cbc3483c3435fbc770bd891c7aa41699de42ebc2cb971ad8",
+        "level": 1,
+        "text": "从我家到商店很近。",
+        "display_text": "从我家到商店很近。",
+        "tokens": [
           {
-            "c": "生",
-            "py": "sheng1",
-            "display_py": "shēng",
-            "display_start": 5
+            "c": "从",
+            "py": "cong2",
+            "display_py": "cóng",
+            "display_start": 0
           },
           {
             "c": "我",
             "py": "wo3",
             "display_py": "wǒ",
+            "display_start": 1
+          },
+          {
+            "c": "家",
+            "py": "jia1",
+            "display_py": "jiā",
+            "display_start": 2
+          },
+          {
+            "c": "到",
+            "py": "dao4",
+            "display_py": "dào",
+            "display_start": 3
+          },
+          {
+            "c": "商",
+            "py": "shang1",
+            "display_py": "shāng",
+            "display_start": 4
+          },
+          {
+            "c": "店",
+            "py": "dian4",
+            "display_py": "diàn",
+            "display_start": 5
+          },
+          {
+            "c": "很",
+            "py": "hen3",
+            "display_py": "hěn",
+            "display_start": 6
+          },
+          {
+            "c": "近",
+            "py": "jin4",
+            "display_py": "jìn",
             "display_start": 7
-          },
-          {
-            "c": "妈",
-            "py": "ma1",
-            "display_py": "mā",
-            "display_start": 8
-          },
-          {
-            "c": "妈",
-            "py": "ma1",
-            "display_py": "mā",
-            "display_start": 9
-          },
-          {
-            "c": "是",
-            "py": "shi4",
-            "display_py": "shì",
-            "display_start": 10
-          },
-          {
-            "c": "老",
-            "py": "lao3",
-            "display_py": "lǎo",
-            "display_start": 11
-          },
-          {
-            "c": "师",
-            "py": "shi1",
-            "display_py": "shī",
-            "display_start": 12
           }
         ],
         "grammar": [
-          "G1-01"
+          "G1-25"
         ],
         "status": "published",
         "rec_count": 0,
-        "last_selected_at": "2026-11-22T17:29:00+08:00"
+        "last_selected_at": "2026-11-22T21:35:39+08:00"
       },
       {
-        "id": "L1-196",
-        "question_id": "L1-196",
+        "id": "L1-206",
+        "question_id": "L1-206",
         "question_version": "1",
-        "content_revision": "e5dd66905ab627d0a37844e13b74e930f5218a48ae9f53553f77ad66319bd14c",
+        "content_revision": "c8de061ab6aff7d7cf84561eb9e4907471c69502f8d2485c34b5268bcd6a327e",
         "level": 1,
-        "text": "走吧，别晚了。",
-        "display_text": "走吧，别晚了。",
+        "text": "一月很冷。",
+        "display_text": "一月很冷。",
         "tokens": [
           {
-            "c": "走",
-            "py": "zou3",
-            "display_py": "zǒu",
+            "c": "一",
+            "py": "yi2",
+            "display_py": "yí",
             "display_start": 0
           },
           {
-            "c": "吧",
-            "py": "ba5",
-            "display_py": "ba",
-            "display_start": 1
-          },
-          {
-            "c": "别",
-            "py": "bie2",
-            "display_py": "bié",
-            "display_start": 3
-          },
-          {
-            "c": "晚",
-            "py": "wan3",
-            "display_py": "wǎn",
-            "display_start": 4
-          },
-          {
-            "c": "了",
-            "py": "le5",
-            "display_py": "le",
-            "display_start": 5
-          }
-        ],
-        "grammar": [
-          "G1-10",
-          "G1-29"
-        ],
-        "status": "published",
-        "rec_count": 0,
-        "last_selected_at": "2026-11-22T17:29:00+08:00"
-      },
-      {
-        "id": "L1-112",
-        "question_id": "L1-112",
-        "question_version": "1",
-        "content_revision": "6f41208ac9c433b57d1bbef8daff97fce7fe712e5a69294b5e04c524f26c1de2",
-        "level": 1,
-        "text": "请慢走！",
-        "display_text": "请慢走！",
-        "tokens": [
-          {
-            "c": "请",
-            "py": "qing3",
-            "display_py": "qǐng",
-            "display_start": 0
-          },
-          {
-            "c": "慢",
-            "py": "man4",
-            "display_py": "màn",
-            "display_start": 1
-          },
-          {
-            "c": "走",
-            "py": "zou3",
-            "display_py": "zǒu",
-            "display_start": 2
-          }
-        ],
-        "grammar": [
-          "G1-09"
-        ],
-        "status": "published",
-        "rec_count": 0,
-        "last_selected_at": "2026-11-22T17:29:00+08:00"
-      },
-      {
-        "id": "L1-251",
-        "question_id": "L1-251",
-        "question_version": "1",
-        "content_revision": "be98acd32dd21351ef51c3bacfd7436f26c856576317efd717175d9e25eb2a71",
-        "level": 1,
-        "text": "我们星期六见。",
-        "display_text": "我们星期六见。",
-        "tokens": [
-          {
-            "c": "我",
-            "py": "wo3",
-            "display_py": "wǒ",
-            "display_start": 0
-          },
-          {
-            "c": "们",
-            "py": "men5",
-            "display_py": "men",
-            "display_start": 1
-          },
-          {
-            "c": "星",
-            "py": "xing1",
-            "display_py": "xīng",
-            "display_start": 2
-          },
-          {
-            "c": "期",
-            "py": "qi1",
-            "display_py": "qī",
-            "display_start": 3
-          },
-          {
-            "c": "六",
-            "py": "liu4",
-            "display_py": "liù",
-            "display_start": 4
-          },
-          {
-            "c": "见",
-            "py": "jian4",
-            "display_py": "jiàn",
-            "display_start": 5
-          }
-        ],
-        "grammar": [
-          "G1-38"
-        ],
-        "status": "published",
-        "rec_count": 0,
-        "last_selected_at": "2026-11-22T17:29:00+08:00"
-      },
-      {
-        "id": "L1-163",
-        "question_id": "L1-163",
-        "question_version": "1",
-        "content_revision": "961b4d4bd4b672e0ddbae1f3489b93a491ba84b9526af89d340aeed2274eec1d",
-        "level": 1,
-        "text": "可乐很凉。",
-        "display_text": "可乐很凉。",
-        "tokens": [
-          {
-            "c": "可",
-            "py": "ke3",
-            "display_py": "kě",
-            "display_start": 0
-          },
-          {
-            "c": "乐",
-            "py": "le4",
-            "display_py": "lè",
+            "c": "月",
+            "py": "yue4",
+            "display_py": "yuè",
             "display_start": 1
           },
           {
@@ -30134,9 +30021,9 @@ PASS n 超上限 → 422
             "display_start": 2
           },
           {
-            "c": "凉",
-            "py": "liang2",
-            "display_py": "liáng",
+            "c": "冷",
+            "py": "leng3",
+            "display_py": "lěng",
             "display_start": 3
           }
         ],
@@ -30145,7 +30032,133 @@ PASS n 超上限 → 422
         ],
         "status": "published",
         "rec_count": 0,
-        "last_selected_at": "2026-11-22T17:29:00+08:00"
+        "last_selected_at": "2026-11-22T21:35:39+08:00"
+      },
+      {
+        "id": "L1-214",
+        "question_id": "L1-214",
+        "question_version": "1",
+        "content_revision": "0088a8afc8fd266a987a600069ed97402287898fb1d5c98079b2b47b279272e3",
+        "level": 1,
+        "text": "我的朋友会游泳。",
+        "display_text": "我的朋友会游泳。",
+        "tokens": [
+          {
+            "c": "我",
+            "py": "wo3",
+            "display_py": "wǒ",
+            "display_start": 0
+          },
+          {
+            "c": "的",
+            "py": "de5",
+            "display_py": "de",
+            "display_start": 1
+          },
+          {
+            "c": "朋",
+            "py": "peng2",
+            "display_py": "péng",
+            "display_start": 2
+          },
+          {
+            "c": "友",
+            "py": "you3",
+            "display_py": "yǒu",
+            "display_start": 3
+          },
+          {
+            "c": "会",
+            "py": "hui4",
+            "display_py": "huì",
+            "display_start": 4
+          },
+          {
+            "c": "游",
+            "py": "you2",
+            "display_py": "yóu",
+            "display_start": 5
+          },
+          {
+            "c": "泳",
+            "py": "yong3",
+            "display_py": "yǒng",
+            "display_start": 6
+          }
+        ],
+        "grammar": [
+          "G1-31",
+          "G1-28"
+        ],
+        "status": "published",
+        "rec_count": 0,
+        "last_selected_at": "2026-11-22T21:35:39+08:00"
+      },
+      {
+        "id": "L1-193",
+        "question_id": "L1-193",
+        "question_version": "1",
+        "content_revision": "58aafedaaf856e27e0082142041cb1e166f8701c13098e78bcf5eb136eab74dc",
+        "level": 1,
+        "text": "别喝了，你应该睡觉。",
+        "display_text": "别喝了，你应该睡觉。",
+        "tokens": [
+          {
+            "c": "别",
+            "py": "bie2",
+            "display_py": "bié",
+            "display_start": 0
+          },
+          {
+            "c": "喝",
+            "py": "he1",
+            "display_py": "hē",
+            "display_start": 1
+          },
+          {
+            "c": "了",
+            "py": "le5",
+            "display_py": "le",
+            "display_start": 2
+          },
+          {
+            "c": "你",
+            "py": "ni3",
+            "display_py": "nǐ",
+            "display_start": 4
+          },
+          {
+            "c": "应",
+            "py": "ying1",
+            "display_py": "yīng",
+            "display_start": 5
+          },
+          {
+            "c": "该",
+            "py": "gai1",
+            "display_py": "gāi",
+            "display_start": 6
+          },
+          {
+            "c": "睡",
+            "py": "shui4",
+            "display_py": "shuì",
+            "display_start": 7
+          },
+          {
+            "c": "觉",
+            "py": "jiao4",
+            "display_py": "jiào",
+            "display_start": 8
+          }
+        ],
+        "grammar": [
+          "G1-10",
+          "G1-34"
+        ],
+        "status": "published",
+        "rec_count": 0,
+        "last_selected_at": "2026-11-22T21:35:39+08:00"
       }
     ]
   },
@@ -30160,8 +30173,8 @@ PASS n 超上限 → 422
       "window_relaxed_min": null,
       "weights_used": {
         "L1-016": 10.0,
-        "L1-020": 10.0,
-        "L1-003": 10.0
+        "L1-012": 10.0,
+        "L1-005": 10.0
       }
     },
     "items": [
@@ -30241,80 +30254,21 @@ PASS n 超上限 → 422
         ],
         "status": "published",
         "rec_count": 0,
-        "last_selected_at": "2026-11-22T17:29:00+08:00"
+        "last_selected_at": "2026-11-22T21:35:39+08:00"
       },
       {
-        "id": "L1-020",
-        "question_id": "L1-020",
+        "id": "L1-012",
+        "question_id": "L1-012",
         "question_version": "1",
-        "content_revision": "a91cebe859828d2d752d77c47b8264f702f132c53746abcde35e3a2681230cd7",
+        "content_revision": "615fb1d20bbdcb4ecc36ba003cc3311046f6116932920d0ea166e21ae8ef2030",
         "level": 1,
-        "text": "我儿子二十岁了。",
-        "display_text": "我儿子二十岁了。",
+        "text": "这是我的朋友。",
+        "display_text": "这是我的朋友。",
         "tokens": [
           {
-            "c": "我",
-            "py": "wo3",
-            "display_py": "wǒ",
-            "display_start": 0
-          },
-          {
-            "c": "儿",
-            "py": "er2",
-            "display_py": "ér",
-            "display_start": 1
-          },
-          {
-            "c": "子",
-            "py": "zi5",
-            "display_py": "zi",
-            "display_start": 2
-          },
-          {
-            "c": "二",
-            "py": "er4",
-            "display_py": "èr",
-            "display_start": 3
-          },
-          {
-            "c": "十",
-            "py": "shi2",
-            "display_py": "shí",
-            "display_start": 4
-          },
-          {
-            "c": "岁",
-            "py": "sui4",
-            "display_py": "suì",
-            "display_start": 5
-          },
-          {
-            "c": "了",
-            "py": "le5",
-            "display_py": "le",
-            "display_start": 6
-          }
-        ],
-        "grammar": [
-          "G1-29"
-        ],
-        "status": "published",
-        "rec_count": 0,
-        "last_selected_at": "2026-11-22T17:29:00+08:00"
-      },
-      {
-        "id": "L1-003",
-        "question_id": "L1-003",
-        "question_version": "1",
-        "content_revision": "f3b90f79ba7699c51b2207e1c69552c3f6c0f2d4508b2fd1cf70449a9789c9eb",
-        "level": 1,
-        "text": "我是中国人，我学汉语。",
-        "display_text": "我是中国人，我学汉语。",
-        "tokens": [
-          {
-            "c": "我",
-            "py": "wo3",
-            "display_py": "wǒ",
+            "c": "这",
+            "py": "zhe4",
+            "display_py": "zhè",
             "display_start": 0
           },
           {
@@ -30324,54 +30278,91 @@ PASS n 超上限 → 422
             "display_start": 1
           },
           {
-            "c": "中",
-            "py": "zhong1",
-            "display_py": "zhōng",
+            "c": "我",
+            "py": "wo3",
+            "display_py": "wǒ",
             "display_start": 2
           },
           {
-            "c": "国",
-            "py": "guo2",
-            "display_py": "guó",
+            "c": "的",
+            "py": "de5",
+            "display_py": "de",
             "display_start": 3
           },
           {
-            "c": "人",
-            "py": "ren2",
-            "display_py": "rén",
+            "c": "朋",
+            "py": "peng2",
+            "display_py": "péng",
             "display_start": 4
+          },
+          {
+            "c": "友",
+            "py": "you3",
+            "display_py": "yǒu",
+            "display_start": 5
+          }
+        ],
+        "grammar": [
+          "G1-01",
+          "G1-28"
+        ],
+        "status": "published",
+        "rec_count": 0,
+        "last_selected_at": "2026-11-22T21:35:39+08:00"
+      },
+      {
+        "id": "L1-005",
+        "question_id": "L1-005",
+        "question_version": "1",
+        "content_revision": "d15d656dc972278bf68db3de8bf0232a6e42227933362823599c06c97f80ed77",
+        "level": 1,
+        "text": "你好吗？我很好。",
+        "display_text": "你好吗？我很好。",
+        "tokens": [
+          {
+            "c": "你",
+            "py": "ni3",
+            "display_py": "nǐ",
+            "display_start": 0
+          },
+          {
+            "c": "好",
+            "py": "hao3",
+            "display_py": "hǎo",
+            "display_start": 1
+          },
+          {
+            "c": "吗",
+            "py": "ma5",
+            "display_py": "ma",
+            "display_start": 2
           },
           {
             "c": "我",
             "py": "wo3",
             "display_py": "wǒ",
+            "display_start": 4
+          },
+          {
+            "c": "很",
+            "py": "hen3",
+            "display_py": "hěn",
+            "display_start": 5
+          },
+          {
+            "c": "好",
+            "py": "hao3",
+            "display_py": "hǎo",
             "display_start": 6
-          },
-          {
-            "c": "学",
-            "py": "xue2",
-            "display_py": "xué",
-            "display_start": 7
-          },
-          {
-            "c": "汉",
-            "py": "han4",
-            "display_py": "hàn",
-            "display_start": 8
-          },
-          {
-            "c": "语",
-            "py": "yu3",
-            "display_py": "yǔ",
-            "display_start": 9
           }
         ],
         "grammar": [
-          "G1-01"
+          "G1-03",
+          "G1-13"
         ],
         "status": "published",
         "rec_count": 0,
-        "last_selected_at": "2026-11-22T17:29:00+08:00"
+        "last_selected_at": "2026-11-22T21:35:39+08:00"
       }
     ]
   }

@@ -38,7 +38,8 @@ def compute(level, items):
     gfreq = detect_grammar_freq(clean, level)
 
     chars_cfg = level.get("chars") or {}
-    all_chars = chars_cfg.get("all") or []
+    # 覆盖率按“本级新增字”计算；没有 new 字段时退回 all（一级及旧配置行为不变）
+    all_chars = chars_cfg.get("new") or chars_cfg.get("all") or []
     core_chars = set(chars_cfg.get("core") or [])
     grammar_list = level.get("grammar") or []
     uncovered = [c for c in all_chars if cfreq.get(c, 0) == 0]

@@ -1,0 +1,12 @@
+{
+  "kind": "validate",
+  "level": 3,
+  "run_at": "2026-11-22T21:35:28+08:00",
+  "total": 374,
+  "valid": 374,
+  "invalid": 0,
+  "dup_ids": [],
+  "dup_texts": [],
+  "verdict": "pass",
+  "bad_items": []
+}

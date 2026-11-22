@@ -1,7 +1,7 @@
 {
   "kind": "stats",
   "level": 1,
-  "run_at": "2026-11-22T17:29:00+08:00",
+  "run_at": "2026-11-22T21:35:39+08:00",
   "tag": null,
   "items_total": 256,
   "items_valid": 256,
@@ -382,5 +382,5 @@
     "uncovered_chars": [],
     "uncovered_grammar": []
   },
-  "saved_to": "reports\\level1\\api_stats_20261122_092900.json"
+  "saved_to": "reports\\level1\\api_stats_20261122_133539.json"
 }
