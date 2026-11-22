@@ -1240,12 +1240,145 @@ function saveReg(){
 pickRole('student');
 
 
-const PROPOSITION_API_BASE = 'http://127.0.0.1:8001';
-const PROPOSITION_SAMPLE = [{id:'L1-001',level:1,text:'我姓王，你姓什么？',tokens:[{c:'我',py:'wǒ'},{c:'姓',py:'xìng'},{c:'王',py:'Wáng'}],grammar:['G1-04'],status:'published',rec_count:0}];
-function renderPropositionPipeline(){const t=$('propQuestionTable');if(t)t.innerHTML='<tr><th>编号</th><th>等级</th><th>文本</th><th>拼音</th><th>语法点</th><th>状态</th><th>录音数</th></tr><tr><td colspan="7" class="mut">点击加载按钮查看题库</td></tr>';}
-async function loadPropositionQuestions(){try{const r=await fetch(`${PROPOSITION_API_BASE}/api/questions?level=1`);if(!r.ok)throw Error();const d=await r.json();renderPropositionRows(d.items||d.questions||[],'真实后端数据');}catch(e){renderPropositionRows(PROPOSITION_SAMPLE,'脱敏示例数据');pipelineNotice('后端不可用，当前显示脱敏示例');}}
-async function drawPropositionQuestion(){try{const r=await fetch(`${PROPOSITION_API_BASE}/api/questions/recommend?level=1&n=1`);if(!r.ok)throw Error();const data=await r.json();const questions=Array.isArray(data)?data:(data.items||data.questions||[]);if(!questions.length)throw Error('推荐接口未返回题目');renderPropositionRows(questions,'真实抽题结果');pipelineNotice('抽题成功');}catch(e){renderPropositionRows(PROPOSITION_SAMPLE,'脱敏示例数据');pipelineNotice('推荐接口暂不可用');}}
-function renderPropositionRows(rows,source){const t=$('propQuestionTable');if(!t)return;t.innerHTML='<tr><th>编号</th><th>等级</th><th>文本</th><th>拼音</th><th>语法点</th><th>状态</th><th>录音数</th></tr>';rows.forEach(q=>{const py=(q.tokens||[]).map(x=>x.display_py||x.py||'').join(' ');t.innerHTML+=`<tr><td>${safeProp(q.question_id||q.id)}</td><td>${safeProp(q.level)}</td><td>${safeProp(q.display_text||q.text)}</td><td>${safeProp(py)}</td><td>${safeProp((q.grammar||[]).join(', '))}</td><td>${safeProp(q.status||'')}</td><td>${Number(q.rec_count||0)}</td></tr>`});$('propSource').textContent=`${source} · ${rows.length}题`;}
+const PROPOSITION_API_BASE = window.PROPOSITION_API_BASE || 'http://127.0.0.1:8001';
+const PROPOSITION_LEVEL_GROUPS = {
+  1: [1], 2: [2], 3: [3], 4: [4], 5: [5], 6: [6],
+  7: [7, 8, 9], // 页面合并展示，后端仍按实际等级分别调用
+};
+let propositionLevels = [];
+
+function selectedPropositionLevels(){
+  const selected = Number(($('propLevel') || {}).value || 1);
+  return PROPOSITION_LEVEL_GROUPS[selected] || [1];
+}
+function propositionLabel(level){
+  return level === 7 ? '七—九级' : `${level}级`;
+}
+function propositionStatusLabel(status){
+  if (status === 'available') return '已入库';
+  if (status === 'partial') return '部分可用';
+  return '待接入';
+}
+function propositionResult(value){
+  const el = $('propPipelineResult');
+  if (el) el.textContent = typeof value === 'string' ? value : JSON.stringify(value, null, 2);
+}
+function propositionError(data, fallback){
+  return (data && (data.detail || data.message)) || fallback || '请求失败';
+}
+async function propositionFetch(path, options){
+  try{
+    const response = await fetch(`${PROPOSITION_API_BASE}${path}`, options);
+    let data = null;
+    try { data = await response.json(); } catch (_) { /* 空响应 */ }
+    return {ok: response.ok, status: response.status, data};
+  }catch(e){
+    return {ok:false, status:0, data:{detail:'无法连接命题后端，请确认 8001 服务已启动'}};
+  }
+}
+function renderPropositionPipeline(){
+  const t = $('propQuestionTable');
+  if (t) t.innerHTML = '<tr><th>编号</th><th>等级</th><th>文本</th><th>拼音</th><th>语法点</th><th>状态</th><th>录音数</th></tr><tr><td colspan="7" class="mut">选择等级后加载题库</td></tr>';
+  propositionResult('正在读取九级题库状态…');
+  loadPropositionLevels();
+}
+async function loadPropositionLevels(){
+  const r = await propositionFetch('/api/levels');
+  if (!r.ok){
+    renderPropositionLevelStatus([]);
+    propositionResult(propositionError(r.data, '读取等级状态失败'));
+    pipelineNotice(propositionError(r.data, '后端不可用'));
+    return;
+  }
+  propositionLevels = Array.isArray(r.data) ? r.data : (r.data.items || []);
+  renderPropositionLevelStatus(propositionLevels);
+  onPropositionLevelChange();
+}
+function renderPropositionLevelStatus(items){
+  const t = $('nineLevelStatusTable');
+  if (!t) return;
+  const byLevel = Object.fromEntries((items || []).map(x => [Number(x.level), x]));
+  const groups = [[1],[2],[3],[4],[5],[6],[7,8,9]];
+  let html = '<tr><th>等级</th><th>配置</th><th>题目数</th><th>状态</th></tr>';
+  groups.forEach(group => {
+    const rows = group.map(n => byLevel[n] || {level:n, question_count:0, status:'pending'});
+    const total = rows.reduce((sum, x) => sum + Number(x.question_count || 0), 0);
+    const ready = rows.filter(x => x.status === 'available').length;
+    const status = group.length === 1 ? rows[0].status : (ready === group.length ? 'available' : (ready ? 'partial' : 'pending'));
+    const config = group.length === 1 ? (status === 'available' ? '已配置' : '待数据侧整理') : `${ready}/${group.length} 个等级可用`;
+    html += `<tr><td>${safeProp(propositionLabel(group[0]))}</td><td>${safeProp(config)}</td><td>${total}</td><td>${safeProp(propositionStatusLabel(status))}</td></tr>`;
+  });
+  t.innerHTML = html;
+}
+function onPropositionLevelChange(load = true){
+  const levels = selectedPropositionLevels();
+  const hint = $('propLevelHint');
+  if (hint) hint.textContent = levels.length === 1
+    ? `当前调用后端 ${levels[0]} 级接口`
+    : '页面合并展示 7—9 级，抽题时随机选择一个实际等级';
+  const source = $('propSource');
+  if (source) source.textContent = '等待加载';
+  if (load) loadPropositionQuestions();
+}
+async function loadPropositionQuestions(){
+  const levels = selectedPropositionLevels();
+  const responses = await Promise.all(levels.map(level => propositionFetch(`/api/questions?level=${level}`)));
+  const rows = [], errors = [];
+  responses.forEach((r, i) => {
+    const level = levels[i];
+    if (r.ok){
+      const items = Array.isArray(r.data) ? r.data : (r.data.items || r.data.questions || []);
+      rows.push(...items.map(q => ({...q, level: Number(q.level || level)})));
+      if (r.data.detail) errors.push(`${level}级：${r.data.detail}`);
+    }else errors.push(`${level}级：${propositionError(r.data, `HTTP ${r.status || '网络错误'}`)}`);
+  });
+  const source = errors.length && !rows.length ? errors.join('；') : `真实后端数据${errors.length ? `（${errors.join('；')}）` : ''}`;
+  renderPropositionRows(rows, source);
+  if (!rows.length) pipelineNotice(source);
+}
+async function runPropositionPipeline(kind){
+  const levels = selectedPropositionLevels();
+  const results = [];
+  for (const level of levels){
+    const r = await propositionFetch(`/api/pipeline/${kind}?level=${level}`, {method:'POST'});
+    results.push({level, ok:r.ok, status:r.status, result:r.data});
+  }
+  propositionResult({operation: kind, levels, results});
+  const failed = results.filter(x => !x.ok);
+  pipelineNotice(failed.length ? `${kind === 'validate' ? '校验' : '统计'}完成，但有 ${failed.length} 个等级未成功` : `${kind === 'validate' ? '校验' : '统计'}完成`);
+}
+function validatePropositionPipeline(){ return runPropositionPipeline('validate'); }
+function statsPropositionPipeline(){ return runPropositionPipeline('stats'); }
+async function drawPropositionQuestion(){
+  const configured = selectedPropositionLevels();
+  const level = configured.length === 1 ? configured[0] : configured[Math.floor(Math.random() * configured.length)];
+  const mode = (($('propMode') || {}).value || 'recommend') === 'random' ? 'random' : 'recommend';
+  const r = await propositionFetch(`/api/questions/${mode}?level=${level}&n=1`);
+  if (!r.ok){
+    const message = `${level}级：${propositionError(r.data, `HTTP ${r.status || '网络错误'}`)}`;
+    renderPropositionRows([], message);
+    propositionResult({operation: mode, level, ok:false, status:r.status, error:message});
+    pipelineNotice(message);
+    return;
+  }
+  const questions = Array.isArray(r.data) ? r.data : (r.data.items || r.data.questions || []);
+  renderPropositionRows(questions, `真实${mode === 'random' ? '随机' : '推荐'}抽题 · ${level}级`);
+  propositionResult(r.data);
+  pipelineNotice(`${level}级抽题成功`);
+}
+function renderPropositionRows(rows, source){
+  const t = $('propQuestionTable');
+  if (!t) return;
+  t.innerHTML = '<tr><th>编号</th><th>等级</th><th>文本</th><th>拼音</th><th>语法点</th><th>状态</th><th>录音数</th></tr>';
+  if (!rows.length){
+    t.innerHTML += `<tr><td colspan="7" class="mut">${safeProp(source || '没有可显示的题目')}</td></tr>`;
+  }else rows.forEach(q => {
+    const py = (q.tokens || []).map(x => x.display_py || x.py || '').join(' ');
+    t.innerHTML += `<tr><td>${safeProp(q.question_id || q.id)}</td><td>${safeProp(q.level)}</td><td>${safeProp(q.display_text || q.text)}</td><td>${safeProp(py)}</td><td>${safeProp((q.grammar || []).join(', '))}</td><td>${safeProp(q.status || '')}</td><td>${Number(q.rec_count || 0)}</td></tr>`;
+  });
+  const sourceEl = $('propSource');
+  if (sourceEl) sourceEl.textContent = `${source || '真实后端数据'} · ${rows.length}题`;
+}
 function pipelineNotice(m){if(typeof toast==='function')toast(m);}
 function safeProp(v){return String(v??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;');}
 
