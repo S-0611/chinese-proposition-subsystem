@@ -27,44 +27,57 @@ def pct(a, b):
 
 def compute(level, items):
     clean, results, dup_ids, dup_texts = validate_bank(items, level)
-    th = level["thresholds"]
+    th = level.get("thresholds") or {}
+    char_cov_min = th.get("char_coverage_min", 0.0)
+    char_freq_min = th.get("char_freq_min", 0)
+    core_freq_min = th.get("core_char_freq_min", 0)
+    grammar_cov_min = th.get("grammar_coverage_min", 0.0)
+    grammar_freq_min = th.get("grammar_freq_min", 0)
 
     cfreq = char_freq(clean)
     gfreq = detect_grammar_freq(clean, level)
 
-    all_chars = level["chars"]["all"]
-    core_chars = set(level["chars"]["core"])
+    chars_cfg = level.get("chars") or {}
+    all_chars = chars_cfg.get("all") or []
+    core_chars = set(chars_cfg.get("core") or [])
+    grammar_list = level.get("grammar") or []
     uncovered = [c for c in all_chars if cfreq.get(c, 0) == 0]
-    core_low = {c: cfreq.get(c, 0) for c in sorted(core_chars) if cfreq.get(c, 0) < th["core_char_freq_min"]}
+    core_low = {c: cfreq.get(c, 0) for c in sorted(core_chars) if cfreq.get(c, 0) < core_freq_min}
 
-    grammar_total = len(level["grammar"])
-    gname = {g["id"]: g["name"] for g in level["grammar"]}
-    g_uncovered = [g["id"] for g in level["grammar"] if gfreq[g["id"]] == 0]
-    g_low = {g["id"]: gfreq[g["id"]] for g in level["grammar"] if 0 < gfreq[g["id"]] < th["grammar_freq_min"]}
+    grammar_total = len(grammar_list)
+    gname = {g["id"]: g["name"] for g in grammar_list}
+    g_uncovered = [g["id"] for g in grammar_list if gfreq[g["id"]] == 0]
+    g_low = {g["id"]: gfreq[g["id"]] for g in grammar_list if 0 < gfreq[g["id"]] < grammar_freq_min}
 
-    failed = []
+    failed, notes = [], []
     cov = pct(len(all_chars) - len(uncovered), len(all_chars))
-    if cov < th["char_coverage_min"] * 100:
-        failed.append(f"字覆盖率 {cov}% 低于阈值 {th['char_coverage_min'] * 100}%")
-    if uncovered and th["char_freq_min"] > 0:
-        failed.append(f"有 {len(uncovered)} 个字出现 0 次")
-    if core_low:
-        failed.append(f"有 {len(core_low)} 个核心字出现少于 {th['core_char_freq_min']} 次")
+    if all_chars:
+        if cov < char_cov_min * 100:
+            failed.append(f"字覆盖率 {cov}% 低于阈值 {char_cov_min * 100}%")
+        if uncovered and char_freq_min > 0:
+            failed.append(f"有 {len(uncovered)} 个字出现 0 次")
+        if core_low:
+            failed.append(f"有 {len(core_low)} 个核心字出现少于 {core_freq_min} 次")
+    else:
+        notes.append("本等级字表待补，字覆盖率门禁未启用（接入字表后自动生效）")
     gcov = pct(grammar_total - len(g_uncovered), grammar_total)
-    if gcov < th["grammar_coverage_min"] * 100:
-        failed.append(f"语法覆盖率 {gcov}% 低于阈值 {th['grammar_coverage_min'] * 100}%")
-    if g_uncovered:
-        failed.append(f"有 {len(g_uncovered)} 个语法点使用 0 次")
-    if g_low:
-        failed.append(f"有 {len(g_low)} 个语法点使用少于 {th['grammar_freq_min']} 次")
+    if grammar_total:
+        if gcov < grammar_cov_min * 100:
+            failed.append(f"语法覆盖率 {gcov}% 低于阈值 {grammar_cov_min * 100}%")
+        if g_uncovered:
+            failed.append(f"有 {len(g_uncovered)} 个语法点使用 0 次")
+        if g_low:
+            failed.append(f"有 {len(g_low)} 个语法点使用少于 {grammar_freq_min} 次")
+    else:
+        notes.append("本等级语法点清单待补，语法覆盖率门禁未启用（接入清单后自动生效）")
 
-    lo, hi = level["constraints"]["bank_target_items"]
+    lo, hi = (level.get("constraints") or {}).get("bank_target_items", [0, 10 ** 9])
     n_valid = len(clean)
     if n_valid < lo or n_valid > hi:
         failed.append(f"合格题量 {n_valid} 不在目标区间 [{lo}, {hi}]")
 
     # 调整计划：缺口字打包，缺口语法点必须补，低频核心字按当前次数算缺口
-    boost_need = {c: th["core_char_freq_min"] - cfreq.get(c, 0) for c in core_low}
+    boost_need = {c: core_freq_min - cfreq.get(c, 0) for c in core_low}
     char_batches = []
     pool = sorted(uncovered, key=lambda c: -cfreq.get(c, 0))
     for i in range(0, len(pool), 4):
@@ -93,6 +106,7 @@ def compute(level, items):
         },
         "verdict": "pass" if not failed else "fail",
         "failed_checks": failed,
+        "notes": notes,
     }
     plan = {
         "level": level["level"],
@@ -100,7 +114,7 @@ def compute(level, items):
         "new_chars_batches": char_batches,
         "boost_chars": boost_need,
         "new_grammar": [{"id": i, "name": gname[i]} for i in g_uncovered],
-        "boost_grammar": [{"id": i, "name": gname[i], "have": gfreq[i], "need": th["grammar_freq_min"] - gfreq[i]} for i in g_low],
+        "boost_grammar": [{"id": i, "name": gname[i], "have": gfreq[i], "need": grammar_freq_min - gfreq[i]} for i in g_low],
         "suggested_new_items": suggest_items,
         "guidance": (
             "出下一轮题时：每题围绕 2-4 个缺口字造句，仍只准用本等级字表；"
@@ -117,11 +131,15 @@ def render_md(level, s, tag):
         f"# 覆盖与频次统计报告（{s['level']} 级，标签 {tag}）",
         "",
         f"- 题库：共 {s['items_total']} 题，合格 {s['items_valid']}，不合格剔除 {s['items_invalid']}",
-        f"- 字覆盖：{c['covered']}/{c['total']}（{c['coverage']}%），阈值 {level['thresholds']['char_coverage_min'] * 100}%",
+        f"- 字覆盖：{c['covered']}/{c['total']}（{c['coverage']}%），阈值 {(level.get('thresholds') or {}).get('char_coverage_min', 0) * 100}%",
         f"- 语法覆盖：{g['covered']}/{g['total']}（{g['coverage']}%）",
         f"- 结论：{'达标' if s['verdict'] == 'pass' else '未达标'}",
         "",
     ]
+    if s.get("notes"):
+        lines.append("## 说明")
+        lines.extend(f"- {x}" for x in s["notes"])
+        lines.append("")
     if s["failed_checks"]:
         lines.append("## 未达标项")
         lines.extend(f"- {f}" for f in s["failed_checks"])
@@ -140,7 +158,7 @@ def render_md(level, s, tag):
         lines += ["", "## 低频核心字（次数不足）", "", "| 字 | 当前次数 |", "| --- | --- |"]
         lines += [f"| {ch} | {n} |" for ch, n in sorted(c["core_below_min"].items(), key=lambda kv: kv[1])]
     lines += ["", "## 语法点频次", "", "| 语法点 | 名称 | 次数 |", "| --- | --- | --- |"]
-    gname = {gg["id"]: gg["name"] for gg in level["grammar"]}
+    gname = {gg["id"]: gg["name"] for gg in (level.get("grammar") or [])}
     lines += [f"| {gid} | {gname[gid]} | {n} |" for gid, n in g["freq"]]
     return "\n".join(lines) + "\n"
 

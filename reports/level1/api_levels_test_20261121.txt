@@ -1,0 +1,103 @@
+九级接口统一测试 2026-11-21 16:13:17
+base=http://127.0.0.1:8018
+通过 33/33
+
+PASS  level=1 返回 200
+PASS  level=1 共 256 题
+PASS  level=1 全部题目 level==1
+PASS  level=2 返回标准空题库响应
+PASS  level=2 不串题（无一级题目）
+PASS  level=3 返回标准空题库响应
+PASS  level=3 不串题（无一级题目）
+PASS  level=4 返回标准空题库响应
+PASS  level=4 不串题（无一级题目）
+PASS  level=5 返回标准空题库响应
+PASS  level=5 不串题（无一级题目）
+PASS  level=6 返回标准空题库响应
+PASS  level=6 不串题（无一级题目）
+PASS  level=7 返回标准空题库响应
+PASS  level=7 不串题（无一级题目）
+PASS  level=8 返回标准空题库响应
+PASS  level=8 不串题（无一级题目）
+PASS  level=9 返回标准空题库响应
+PASS  level=9 不串题（无一级题目）
+PASS  /api/levels 返回 200
+PASS  /api/levels 覆盖 1—9
+PASS  一级 status=available 且 256 题
+PASS  二至九级 status=pending 且 detail 正确
+PASS  level=0 返回 422
+PASS  level=10 返回 422
+PASS  level=99 返回 422
+PASS  random level=10 返回 422
+PASS  publish level=10 返回 422
+PASS  random level=2 返回 404
+PASS  recommend level=2 返回 404
+PASS  validate level=2 返回 404 且说明题库尚未完成
+PASS  stats level=2 返回 404 且说明题库尚未完成
+PASS  publish level=2 返回 404 且说明题库尚未完成
+
+关键响应摘录：
+{
+  "total": 0,
+  "items": [],
+  "detail": "该等级题库尚未完成"
+}
+{
+  "total": 9,
+  "items": [
+    {
+      "level": 1,
+      "question_count": 256,
+      "status": "available",
+      "detail": null
+    },
+    {
+      "level": 2,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    },
+    {
+      "level": 3,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    },
+    {
+      "level": 4,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    },
+    {
+      "level": 5,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    },
+    {
+      "level": 6,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    },
+    {
+      "level": 7,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    },
+    {
+      "level": 8,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    },
+    {
+      "level": 9,
+      "question_count": 0,
+      "status": "pending",
+      "detail": "该等级题库尚未完成"
+    }
+  ]
+}
