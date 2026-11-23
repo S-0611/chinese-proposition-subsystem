@@ -1,0 +1,38 @@
+{
+ "1": {
+  "ok": true,
+  "level": 1,
+  "published_count": 303,
+  "message": "等级 1 已发布 303 题（仅 published 题目可被抽取）"
+ },
+ "2": {
+  "ok": true,
+  "level": 2,
+  "published_count": 362,
+  "message": "等级 2 已发布 362 题（仅 published 题目可被抽取）"
+ },
+ "3": {
+  "ok": true,
+  "level": 3,
+  "published_count": 549,
+  "message": "等级 3 已发布 549 题（仅 published 题目可被抽取）"
+ },
+ "4": {
+  "ok": true,
+  "level": 4,
+  "published_count": 692,
+  "message": "等级 4 已发布 692 题（仅 published 题目可被抽取）"
+ },
+ "5": {
+  "ok": true,
+  "level": 5,
+  "published_count": 760,
+  "message": "等级 5 已发布 760 题（仅 published 题目可被抽取）"
+ },
+ "6": {
+  "ok": true,
+  "level": 6,
+  "published_count": 1174,
+  "message": "等级 6 已发布 1174 题（仅 published 题目可被抽取）"
+ }
+}

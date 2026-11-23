@@ -1,0 +1,137 @@
+{
+ "levels": [
+  {
+   "level": 1,
+   "question_count": 303,
+   "status": "available"
+  },
+  {
+   "level": 2,
+   "question_count": 362,
+   "status": "available"
+  },
+  {
+   "level": 3,
+   "question_count": 549,
+   "status": "available"
+  },
+  {
+   "level": 4,
+   "question_count": 692,
+   "status": "available"
+  },
+  {
+   "level": 5,
+   "question_count": 760,
+   "status": "available"
+  },
+  {
+   "level": 6,
+   "question_count": 1174,
+   "status": "available"
+  },
+  {
+   "level": 7,
+   "question_count": 360,
+   "status": "available"
+  },
+  {
+   "level": 8,
+   "question_count": 0,
+   "status": "merged"
+  },
+  {
+   "level": 9,
+   "question_count": 0,
+   "status": "merged"
+  }
+ ],
+ "random": {
+  "1": {
+   "count": 3,
+   "ids": [
+    "L1-059",
+    "L1-272",
+    "L1-008"
+   ],
+   "level": 1
+  },
+  "2": {
+   "count": 3,
+   "ids": [
+    "L2-350",
+    "L2-327",
+    "L2-004"
+   ],
+   "level": 2
+  },
+  "3": {
+   "count": 3,
+   "ids": [
+    "L3-346",
+    "L3-225",
+    "L3-515"
+   ],
+   "level": 3
+  },
+  "4": {
+   "count": 3,
+   "ids": [
+    "L4-597",
+    "L4-548",
+    "L4-062"
+   ],
+   "level": 4
+  },
+  "5": {
+   "count": 3,
+   "ids": [
+    "L5-129",
+    "L5-342",
+    "L5-020"
+   ],
+   "level": 5
+  },
+  "6": {
+   "count": 3,
+   "ids": [
+    "L6-939",
+    "L6-305",
+    "L6-767"
+   ],
+   "level": 6
+  },
+  "7": {
+   "count": 3,
+   "ids": [
+    "L7-243",
+    "L7-118",
+    "L7-142"
+   ],
+   "level": 7
+  }
+ },
+ "db": {
+  "1": {
+   "published": 303
+  },
+  "2": {
+   "published": 362
+  },
+  "3": {
+   "published": 549
+  },
+  "4": {
+   "published": 692
+  },
+  "5": {
+   "published": 760
+  },
+  "6": {
+   "published": 1174
+  },
+  "7": {
+   "published": 360
+  }
+ }
+}

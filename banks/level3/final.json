@@ -5481,6 +5481,16 @@
       "grammar": [
         "G3-19"
       ]
+    },
+    {
+      "id": "L3-549",
+      "level": 3,
+      "round": 5,
+      "text": "他站在旁边，腿疼得厉害。",
+      "pinyin": "tā zhàn zài páng biān， tuǐ téng de lì hai。",
+      "grammar": [
+        "G3-49"
+      ]
     }
   ]
 }

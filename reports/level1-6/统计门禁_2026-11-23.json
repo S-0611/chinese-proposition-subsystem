@@ -1,0 +1,50 @@
+{
+ "1": {
+  "verdict": "pass",
+  "char_covered": null,
+  "char_total": null,
+  "grammar_covered": null,
+  "grammar_total": null,
+  "failed_checks": []
+ },
+ "2": {
+  "verdict": "pass",
+  "char_covered": null,
+  "char_total": null,
+  "grammar_covered": null,
+  "grammar_total": null,
+  "failed_checks": []
+ },
+ "3": {
+  "verdict": "pass",
+  "char_covered": null,
+  "char_total": null,
+  "grammar_covered": null,
+  "grammar_total": null,
+  "failed_checks": []
+ },
+ "4": {
+  "verdict": "pass",
+  "char_covered": null,
+  "char_total": null,
+  "grammar_covered": null,
+  "grammar_total": null,
+  "failed_checks": []
+ },
+ "5": {
+  "verdict": "pass",
+  "char_covered": null,
+  "char_total": null,
+  "grammar_covered": null,
+  "grammar_total": null,
+  "failed_checks": []
+ },
+ "6": {
+  "verdict": "pass",
+  "char_covered": null,
+  "char_total": null,
+  "grammar_covered": null,
+  "grammar_total": null,
+  "failed_checks": []
+ }
+}
