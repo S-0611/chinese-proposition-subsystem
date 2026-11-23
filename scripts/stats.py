@@ -38,8 +38,12 @@ def compute(level, items):
     gfreq = detect_grammar_freq(clean, level)
 
     chars_cfg = level.get("chars") or {}
-    # 累计字表口径下统计一级至本级全部允许字；旧配置继续按 new 字段统计。
-    if level.get("char_table_mode") == "cumulative":
+    # 可用 coverage_chars_key 指定验收口径（如高等只统计新增 1200 字），
+    # 否则沿用累计字表/旧配置逻辑。
+    coverage_key = level.get("coverage_chars_key")
+    if coverage_key and chars_cfg.get(coverage_key):
+        all_chars = chars_cfg[coverage_key]
+    elif level.get("char_table_mode") == "cumulative":
         all_chars = chars_cfg.get("all") or []
     else:
         all_chars = chars_cfg.get("new") or chars_cfg.get("all") or []
