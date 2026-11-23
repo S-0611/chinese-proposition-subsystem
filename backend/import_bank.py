@@ -38,7 +38,7 @@ _VOWEL = {
 FINALS_LONGEST_FIRST = [
     "iong", "iang", "uang", "ueng", "uan", "uai", "ian", "iao",
     "ang", "eng", "ing", "ong", "ai", "ei", "ao", "ou", "an", "en",
-    "er", "ia", "ie", "iu", "ui", "un", "ua", "uo", "üe", "ue",
+    "er", "ia", "ie", "in", "iu", "ui", "un", "ua", "uo", "üe", "ue",
     "a", "o", "e", "i", "u", "ü", "v",
 ]
 
@@ -58,7 +58,9 @@ def segment_pinyin(py_str: str):
     """把 pinyin 字段按音节切成列表；失败返回 None。"""
     if not py_str:
         return None
-    chunks = re.split(r"[^A-Za-züÜǖǘǚǜ]+", py_str)
+    # 注意：音节里含带调元音（ā á ǎ à 等），切分时不能把它们当分隔符，
+    # 否则 "tā"、"huā" 会被截成 "t"、"hu" 并导致整条回退到 pypinyin。
+    chunks = re.split(r"[^A-Za-züÜǖǘǚǜāáǎàēéěèīíǐìōóǒòūúǔùńňǹ]+", py_str)
     syllables = []
     for chunk in chunks:
         if not chunk:

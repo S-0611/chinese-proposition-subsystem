@@ -1,0 +1,66 @@
+{
+  "level": 3,
+  "reviewed_at": "2026-11-23",
+  "reviewer": "AI 助手抽检",
+  "scope": "三级题库全库 548 题；重点复核字表口径、越级字、语法点标注与新增补题",
+  "method": "逐条核对 33 条越级字题与 138 条语法点错标题；对新增 172 题按句长、字表、语法点三层抽检 60 题",
+  "sample_size": 60,
+  "issues_found": 5,
+  "issues": [
+    {
+      "id": "表-字表口径",
+      "severity": "P0",
+      "status": "resolved",
+      "problem": "资料包把第223号“伟”误录为“传”，得出“299 唯一字/累计 899”的错误结论，并据此要求勘误替代字",
+      "before": "300 源条目 / 299 唯一 / 累计 899",
+      "after": "300 唯一 / 累计 900，与原表逐条一致",
+      "resolution": "按用户提供的原表截图逐条核对并放大复核，修正资料包与仓库配置"
+    },
+    {
+      "id": "全库-G3-39",
+      "severity": "P0",
+      "status": "resolved",
+      "problem": "110 条补充题被统一标注为 G3-39「从……起」，句中没有一处“从……起”，语法点频次虚高至 112 次",
+      "before": "G3-39 声明 112 次，其中 110 次与句意不符",
+      "after": "G3-39 保留 4 次，110 条按句意重新标注",
+      "resolution": "逐条改写为可体现目标语法点的句子，并保留原覆盖字"
+    },
+    {
+      "id": "全库-越级字",
+      "severity": "P1",
+      "status": "resolved",
+      "problem": "33 题含 36 个超出累计 900 字表的字（居、邻、窗、宝、趣等）",
+      "before": "33 题警告，字覆盖 686/900",
+      "after": "0 警告，字覆盖 900/900",
+      "resolution": "改写 33 题并新增 172 题覆盖全部缺口字"
+    },
+    {
+      "id": "pattern-G3-05/G3-09",
+      "severity": "P2",
+      "status": "resolved",
+      "problem": "pattern 由示例词直译生成：G3-05 无法匹配离合拆分形式，G3-09 量词表漏“块”",
+      "before": "G3-05 无法匹配“帮了我的忙”；G3-09 无法匹配“这块布”",
+      "after": "两处 pattern 已按语法实际结构修正",
+      "resolution": "修正 data/levels/level3.json 的 pattern 定义"
+    },
+    {
+      "id": "导入拼音切分",
+      "severity": "P1",
+      "status": "resolved",
+      "problem": "import_bank.py 把带调元音当分隔符、韵母表缺 in，导致 86 题 tokens 回退 pypinyin、个别题切错",
+      "before": "tokens 与题库拼音 86 处不一致",
+      "after": "548 题 tokens 与题库拼音 0 处不一致",
+      "resolution": "修正 backend/import_bank.py 的分隔正则与韵母表，重新导入"
+    }
+  ],
+  "sampling": {
+    "checked": 60,
+    "natural_language_ok": 57,
+    "revised_after_check": 3,
+    "note": "抽检中 3 条句式雷同（“相当……”）已改为“看起来/极了/比”等表达"
+  },
+  "remaining_notes": [
+    "G3-12（41 次）、G3-49（32 次）、G3-73（31 次）仍偏高，最低 2 次",
+    "测试句以单句为主，缺少成段语境，建议后续增加对话/短文型题目"
+  ]
+}
