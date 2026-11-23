@@ -61,8 +61,8 @@
     },
     {
       "name": "入库与发布",
-      "status": "warn",
-      "detail": "按 skill 第 5—8 阶段留待确认：未导入 backend/bank.db、未发布、未做随机/推荐抽题测试"
+      "status": "pass",
+      "detail": "已按 skill 第 5—8 阶段完成：1174 题导入（ready）、API 校验/统计、整级发布（1174 published）、随机/推荐抽题验证通过"
     },
     {
       "name": "拼音复核",
@@ -71,8 +71,8 @@
     }
   ],
   "summary": {
-    "pass": 11,
-    "warn": 2,
+    "pass": 12,
+    "warn": 1,
     "fail": 0
   },
   "bank": {
@@ -275,7 +275,7 @@
       "bytes": 5829
     },
     "说明.md": {
-      "bytes": 6390
+      "bytes": 6522
     }
   },
   "notes": [
