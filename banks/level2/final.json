@@ -2014,8 +2014,8 @@
    "id": "L2-202",
    "level": 2,
    "round": 1,
-   "text": "教室里很安静。",
-   "pinyin": "jiào shì lǐ hěn ān jìng。",
+   "text": "教室里很安静，坐着几个人。",
+   "pinyin": "jiào shì lǐ hěn ān jìng， zuò zhe jǐ gè rén。",
    "grammar": [
     "G2-56"
    ]
@@ -2024,8 +2024,8 @@
    "id": "L2-203",
    "level": 2,
    "round": 1,
-   "text": "他举起手来。",
-   "pinyin": "tā jǔ qǐ shǒu lái。",
+   "text": "他举手问老师。",
+   "pinyin": "tā jǔ shǒu wèn lǎo shī。",
    "grammar": [
     "G2-57"
    ]
@@ -2077,7 +2077,7 @@
    "text": "他刻上了一个名字。",
    "pinyin": "tā kè shàng le yī gè míng zì。",
    "grammar": [
-    "G2-49"
+    "G2-50"
    ]
   },
   {
@@ -2244,8 +2244,8 @@
    "id": "L2-225",
    "level": 2,
    "round": 1,
-   "text": "小猫在门边睡觉。",
-   "pinyin": "xiǎo māo zài mén biān shuì jiào。",
+   "text": "门边睡着一只小猫。",
+   "pinyin": "mén biān shuì zhe yī zhǐ xiǎo māo。",
    "grammar": [
     "G2-56"
    ]
@@ -2264,8 +2264,8 @@
    "id": "L2-227",
    "level": 2,
    "round": 1,
-   "text": "他的手放在书上。",
-   "pinyin": "tā de shǒu fàng zài shū shàng。",
+   "text": "他的书上放着几支笔。",
+   "pinyin": "tā de shū shàng fàng zhe jǐ zhī bǐ。",
    "grammar": [
     "G2-56"
    ]
@@ -2314,8 +2314,8 @@
    "id": "L2-232",
    "level": 2,
    "round": 1,
-   "text": "大家排成一排。",
-   "pinyin": "dà jiā pái chéng yī pái。",
+   "text": "门口排着一排人。",
+   "pinyin": "mén kǒu pái zhe yī pái rén。",
    "grammar": [
     "G2-56"
    ]
@@ -2404,8 +2404,8 @@
    "id": "L2-241",
    "level": 2,
    "round": 2,
-   "text": "他喜欢青色。",
-   "pinyin": "tā xǐ huān qīng sè。",
+   "text": "他喜欢那件青色的衣服。",
+   "pinyin": "tā xǐ huān nà jiàn qīng sè de yī fú。",
    "grammar": [
     "G2-39"
    ]
@@ -2604,8 +2604,8 @@
    "id": "L2-261",
    "level": 2,
    "round": 2,
-   "text": "他称了体重。",
-   "pinyin": "tā chēng le tǐ zhòng。",
+   "text": "他称完了体重。",
+   "pinyin": "tā chēng wán le tǐ zhòng。",
    "grammar": [
     "G2-49"
    ]
@@ -2664,8 +2664,8 @@
    "id": "L2-267",
    "level": 2,
    "round": 2,
-   "text": "他生病了，头疼得不行。",
-   "pinyin": "tā shēng bìng le， tóu téng dé bù xíng。",
+   "text": "他累病了，头疼得不行。",
+   "pinyin": "tā lèi bìng le， tóu téng dé bù xíng。",
    "grammar": [
     "G2-49"
    ]
@@ -2674,8 +2674,8 @@
    "id": "L2-268",
    "level": 2,
    "round": 2,
-   "text": "他家养了狗、猫和鱼。",
-   "pinyin": "tā jiā yǎng le gǒu、māo hé yú。",
+   "text": "院里养着狗和猫。",
+   "pinyin": "yuàn lǐ yǎng zhe gǒu hé māo。",
    "grammar": [
     "G2-56"
    ]
@@ -2714,8 +2714,8 @@
    "id": "L2-272",
    "level": 2,
    "round": 2,
-   "text": "他站在一边。",
-   "pinyin": "tā zhàn zài yī biān。",
+   "text": "门边站着一个人。",
+   "pinyin": "mén biān zhàn zhe yī gè rén。",
    "grammar": [
     "G2-56"
    ]
@@ -2794,8 +2794,8 @@
    "id": "L2-280",
    "level": 2,
    "round": 2,
-   "text": "课堂上他提出了问题。",
-   "pinyin": "kè táng shàng tā tí chū le wèn tí。",
+   "text": "课堂上有人提出了问题。",
+   "pinyin": "kè táng shàng yǒu rén tí chū le wèn tí。",
    "grammar": [
     "G2-56"
    ]
@@ -2864,8 +2864,8 @@
    "id": "L2-287",
    "level": 2,
    "round": 2,
-   "text": "服务生夏天很忙。",
-   "pinyin": "fú wù shēng xià tiān hěn máng。",
+   "text": "夏天的服务生很忙。",
+   "pinyin": "xià tiān de fú wù shēng hěn máng。",
    "grammar": [
     "G2-39"
    ]
@@ -2964,8 +2964,8 @@
    "id": "L2-297",
    "level": 2,
    "round": 2,
-   "text": "音乐很好听。",
-   "pinyin": "yīn lè hěn hǎo tīng。",
+   "text": "他放的音乐很好听。",
+   "pinyin": "tā fàng de yīn lè hěn hǎo tīng。",
    "grammar": [
     "G2-39"
    ]
@@ -2974,8 +2974,8 @@
    "id": "L2-298",
    "level": 2,
    "round": 2,
-   "text": "他印了两份文件。",
-   "pinyin": "tā yìn le liǎng fèn wén jiàn。",
+   "text": "他印完了两份文件。",
+   "pinyin": "tā yìn wán le liǎng fèn wén jiàn。",
    "grammar": [
     "G2-49"
    ]
@@ -3044,8 +3044,8 @@
    "id": "L2-305",
    "level": 2,
    "round": 3,
-   "text": "鱼在水里游。",
-   "pinyin": "yú zài shuǐ lǐ yóu。",
+   "text": "水里游着几条鱼。",
+   "pinyin": "shuǐ lǐ yóu zhe jǐ tiáo yú。",
    "grammar": [
     "G2-56"
    ]
@@ -3134,10 +3134,10 @@
    "id": "L2-314",
    "level": 2,
    "round": 3,
-   "text": "他帮助了我。",
-   "pinyin": "tā bāng zhù le wǒ。",
+   "text": "他帮助我解决了问题。",
+   "pinyin": "tā bāng zhù wǒ jiě jué le wèn tí。",
    "grammar": [
-    "G2-49"
+    "G2-57"
    ]
   },
   {
@@ -3154,8 +3154,8 @@
    "id": "L2-316",
    "level": 2,
    "round": 3,
-   "text": "他租了一间房子。",
-   "pinyin": "tā zū le yī jiān fáng zi。",
+   "text": "他租房住了半年。",
+   "pinyin": "tā zū fáng zhù le bàn nián。",
    "grammar": [
     "G2-57"
    ]
@@ -3214,8 +3214,8 @@
    "id": "L2-322",
    "level": 2,
    "round": 3,
-   "text": "请进入房间，里面有小虫。",
-   "pinyin": "qǐng jìn rù fáng jiān， lǐ miàn yǒu xiǎo chóng。",
+   "text": "进入房间，里面虽小但有人。",
+   "pinyin": "jìn rù fáng jiān， lǐ miàn suī xiǎo dàn yǒu rén。",
    "grammar": [
     "G2-56"
    ]
@@ -3554,18 +3554,18 @@
    "id": "L2-356",
    "level": 2,
    "round": 3,
-   "text": "这件事使我很高兴。",
-   "pinyin": "zhè jiàn shì shǐ wǒ hěn gāo xìng。",
+   "text": "这件事使大家急得不行。",
+   "pinyin": "zhè jiàn shì shǐ dà jiā jí dé bù xíng。",
    "grammar": [
-    "G2-49"
+    "G2-51"
    ]
   },
   {
    "id": "L2-357",
    "level": 2,
    "round": 3,
-   "text": "他也受到帮助。",
-   "pinyin": "tā yě shòu dào bāng zhù。",
+   "text": "他受够了这种生活。",
+   "pinyin": "tā shòu gòu le zhè zhǒng shēng huó。",
    "grammar": [
     "G2-49"
    ]
@@ -3584,8 +3584,8 @@
    "id": "L2-359",
    "level": 2,
    "round": 3,
-   "text": "房间里装了电脑。",
-   "pinyin": "fáng jiān lǐ zhuāng le diàn nǎo。",
+   "text": "房间里装着两台电脑。",
+   "pinyin": "fáng jiān lǐ zhuāng zhe liǎng tái diàn nǎo。",
    "grammar": [
     "G2-56"
    ]

@@ -17,7 +17,7 @@
  },
  "thresholds": {
   "char_coverage_min": 0.9,
-  "char_freq_min": 0,
+  "char_freq_min": 1,
   "core_char_freq_min": 2,
   "grammar_coverage_min": 1.0,
   "grammar_freq_min": 2
@@ -223,7 +223,7 @@
    "司",
    "思",
    "算",
-   "虫",
+   "虽",
    "随",
    "所",
    "它",
@@ -567,7 +567,7 @@
    "司",
    "思",
    "算",
-   "虫",
+   "虽",
    "随",
    "所",
    "它",

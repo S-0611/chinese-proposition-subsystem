@@ -1,0 +1,307 @@
+{
+  "level": 2,
+  "reviewed_at": "2026-11-23",
+  "reviewer": "AI 助手抽检",
+  "method": "对 5 个结构性/易错语法点（G2-39、G2-41、G2-56、G2-57、G2-49）两轮各抽 12 题，共 120 题判读",
+  "sample_size": 120,
+  "issues_found": 21,
+  "issues": [
+    {
+      "id": "L2-241",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-39"
+      ],
+      "grammar_after": [
+        "G2-39"
+      ],
+      "before": "他喜欢青色。",
+      "after": "他喜欢那件青色的衣服。",
+      "problem": "「青色」是词不是短语，改为含名词性短语的句子"
+    },
+    {
+      "id": "L2-287",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-39"
+      ],
+      "grammar_after": [
+        "G2-39"
+      ],
+      "before": "服务生夏天很忙。",
+      "after": "夏天的服务生很忙。",
+      "problem": "「服务生夏天」是主谓短语作话题，不是名词性短语"
+    },
+    {
+      "id": "L2-202",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-56"
+      ],
+      "grammar_after": [
+        "G2-56"
+      ],
+      "before": "教室里很安静。",
+      "after": "教室里很安静，坐着几个人。",
+      "problem": "「教室里很安静」是描写句，不是存现句"
+    },
+    {
+      "id": "L2-225",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-56"
+      ],
+      "grammar_after": [
+        "G2-56"
+      ],
+      "before": "小猫在门边睡觉。",
+      "after": "门边睡着一只小猫。",
+      "problem": "主语是小猫（施事），不是存现句"
+    },
+    {
+      "id": "L2-227",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-56"
+      ],
+      "grammar_after": [
+        "G2-56"
+      ],
+      "before": "他的手放在书上。",
+      "after": "他的书上放着几支笔。",
+      "problem": "主语是「他的手」，不是存现句"
+    },
+    {
+      "id": "L2-203",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-57"
+      ],
+      "grammar_after": [
+        "G2-57"
+      ],
+      "before": "他举起手来。",
+      "after": "他举手问老师。",
+      "problem": "「举起手来」是单个动作，不是连动句"
+    },
+    {
+      "id": "L2-261",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-49"
+      ],
+      "grammar_after": [
+        "G2-49"
+      ],
+      "before": "他称了体重。",
+      "after": "他称完了体重。",
+      "problem": "「称了」没有结果补语"
+    },
+    {
+      "id": "L2-267",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-49"
+      ],
+      "grammar_after": [
+        "G2-49"
+      ],
+      "before": "他生病了，头疼得不行。",
+      "after": "他累病了，头疼得不行。",
+      "problem": "原句只有状态补语，补上结果补语「累病」"
+    },
+    {
+      "id": "L2-208",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-49"
+      ],
+      "grammar_after": [
+        "G2-50"
+      ],
+      "before": "他刻上了一个名字。",
+      "after": "他刻上了一个名字。",
+      "problem": "「刻上」是趋向补语，改挂 G2-50"
+    },
+    {
+      "id": "L2-297",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-39"
+      ],
+      "grammar_after": [
+        "G2-39"
+      ],
+      "before": "音乐很好听。",
+      "after": "他放的音乐很好听。",
+      "problem": "「音乐」是词不是短语"
+    },
+    {
+      "id": "L2-232",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-56"
+      ],
+      "grammar_after": [
+        "G2-56"
+      ],
+      "before": "大家排成一排。",
+      "after": "门口排着一排人。",
+      "problem": "「大家排成一排」是主谓句"
+    },
+    {
+      "id": "L2-268",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-56"
+      ],
+      "grammar_after": [
+        "G2-56"
+      ],
+      "before": "他家养了狗、猫和鱼。",
+      "after": "院里养着狗和猫。",
+      "problem": "「他家养了猫狗」是主谓句"
+    },
+    {
+      "id": "L2-272",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-56"
+      ],
+      "grammar_after": [
+        "G2-56"
+      ],
+      "before": "他站在一边。",
+      "after": "门边站着一个人。",
+      "problem": "「他站在一边」主语是施事"
+    },
+    {
+      "id": "L2-280",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-56"
+      ],
+      "grammar_after": [
+        "G2-56"
+      ],
+      "before": "课堂上他提出了问题。",
+      "after": "课堂上坐着很多学生。",
+      "problem": "「课堂上他提出了问题」是主谓句"
+    },
+    {
+      "id": "L2-305",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-56"
+      ],
+      "grammar_after": [
+        "G2-56"
+      ],
+      "before": "鱼在水里游。",
+      "after": "水里游着几条鱼。",
+      "problem": "「鱼在水里游」主语是施事"
+    },
+    {
+      "id": "L2-359",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-56"
+      ],
+      "grammar_after": [
+        "G2-56"
+      ],
+      "before": "房间里装了电脑。",
+      "after": "房间里放着两台电脑。",
+      "problem": "「房间里装了电脑」是动作句"
+    },
+    {
+      "id": "L2-316",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-57"
+      ],
+      "grammar_after": [
+        "G2-57"
+      ],
+      "before": "他租了一间房子。",
+      "after": "他租房住了半年。",
+      "problem": "「他租了一间房子」只有一个动作"
+    },
+    {
+      "id": "L2-298",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-49"
+      ],
+      "grammar_after": [
+        "G2-49"
+      ],
+      "before": "他印了两份文件。",
+      "after": "他印完了两份文件。",
+      "problem": "「印了」没有结果补语"
+    },
+    {
+      "id": "L2-314",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-49"
+      ],
+      "grammar_after": [
+        "G2-57"
+      ],
+      "before": "他帮助了我。",
+      "after": "他帮助我解决了问题。",
+      "problem": "原句是单个动作，改为连动并保留「帮助」"
+    },
+    {
+      "id": "L2-356",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-49"
+      ],
+      "grammar_after": [
+        "G2-51"
+      ],
+      "before": "这件事使我很高兴。",
+      "after": "这件事办得很顺利。",
+      "problem": "「使我很高兴」是兼语，改挂状态补语"
+    },
+    {
+      "id": "L2-357",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G2-49"
+      ],
+      "grammar_after": [
+        "G2-49"
+      ],
+      "before": "他也受到帮助。",
+      "after": "他听懂了老师的话。",
+      "problem": "「受到帮助」没有结果补语"
+    }
+  ],
+  "p0_open": 0,
+  "p1_open": 0,
+  "result": "两轮共发现 21 处标注不成立（第一轮 9 处、第二轮 12 处），已全部改写/改标并复跑门禁；其余 76 个语法点未抽检。"
+}
