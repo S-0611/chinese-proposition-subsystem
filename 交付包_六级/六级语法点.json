@@ -1,0 +1,1181 @@
+{
+  "level": 6,
+  "level_name": "六级",
+  "section": "附录 A（规范性）语法等级大纲 A.6 六级语法点",
+  "source_pdf": "国际中文教育中文水平等级标准.pdf",
+  "pdf_pages": [
+    233,
+    242
+  ],
+  "printed_pages": [
+    227,
+    236
+  ],
+  "new_count": 67,
+  "cumulative_count": 424,
+  "count_rule": "六级新增语法点 67 个，编号【六01】—【六67】连续无缺号；截至六级累计 424 个（《语言量化指标总表》第 8 页）。",
+  "points": [
+    {
+      "order": 1,
+      "id": "六01",
+      "name": "类前缀：超-、多-、反-、无-、亚-、准-",
+      "category_code": "A.6.1.1",
+      "top_category": "语素",
+      "category": "类前缀",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "超自然",
+        "多角度",
+        "反作用",
+        "无烟",
+        "亚健康",
+        "准妈妈"
+      ],
+      "pdf_page": 233,
+      "printed_page": 227
+    },
+    {
+      "order": 2,
+      "id": "六02",
+      "name": "类后缀：-化、-式、-型、-性",
+      "category_code": "A.6.1.2",
+      "top_category": "语素",
+      "category": "类后缀",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "现代化",
+        "美式",
+        "小型",
+        "普遍性"
+      ],
+      "pdf_page": 233,
+      "printed_page": 227
+    },
+    {
+      "order": 3,
+      "id": "六03",
+      "name": "指示代词：本、此",
+      "category_code": "A.6.2.1",
+      "top_category": "词类",
+      "category": "代词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "本市",
+        "本人",
+        "此事",
+        "此处"
+      ],
+      "pdf_page": 233,
+      "printed_page": 227
+    },
+    {
+      "order": 4,
+      "id": "六04",
+      "name": "名量词：餐、串、滴、副、股、集、枝",
+      "category_code": "A.6.2.2",
+      "top_category": "词类",
+      "category": "量词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "一餐饭",
+        "一串葡萄",
+        "一滴水",
+        "一副球拍",
+        "一股力量",
+        "一集电视剧",
+        "一枝花"
+      ],
+      "pdf_page": 234,
+      "printed_page": 228
+    },
+    {
+      "order": 5,
+      "id": "六05",
+      "name": "动量词：番、声、趟",
+      "category_code": "A.6.2.2",
+      "top_category": "词类",
+      "category": "量词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "讨论一番",
+        "说一声",
+        "跑两趟"
+      ],
+      "pdf_page": 234,
+      "printed_page": 228
+    },
+    {
+      "order": 6,
+      "id": "六06",
+      "name": "程度副词：特、异常",
+      "category_code": "A.6.2.3",
+      "top_category": "词类",
+      "category": "副词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "他特高兴，因为他的设计获奖了。",
+        "今天天气异常寒冷。"
+      ],
+      "pdf_page": 234,
+      "printed_page": 228
+    },
+    {
+      "order": 7,
+      "id": "六07",
+      "name": "范围、协同副词：尽、净、一齐、一同",
+      "category_code": "A.6.2.3",
+      "top_category": "词类",
+      "category": "副词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "刚上班，分配给我的尽是些基础工作。",
+        "这里净是垃圾，都没地方站。",
+        "大家一齐动手，清理路上的垃圾。",
+        "这是我们一同努力的结果。"
+      ],
+      "pdf_page": 234,
+      "printed_page": 228
+    },
+    {
+      "order": 8,
+      "id": "六08",
+      "name": "时间副词：时时、一时、早晚",
+      "category_code": "A.6.2.3",
+      "top_category": "词类",
+      "category": "副词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "老师时时关注着我们的学习。",
+        "我好像在哪儿见过他，可一时又想不起来了。",
+        "他早晚会知道事情的真相。"
+      ],
+      "pdf_page": 234,
+      "printed_page": 228
+    },
+    {
+      "order": 9,
+      "id": "六09",
+      "name": "关联副词：便",
+      "category_code": "A.6.2.3",
+      "top_category": "词类",
+      "category": "副词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "他一下课便回家了。",
+        "他一毕业便决定回国。"
+      ],
+      "pdf_page": 234,
+      "printed_page": 228
+    },
+    {
+      "order": 10,
+      "id": "六10",
+      "name": "方式副词：不禁、赶忙、亲眼、特地、特意",
+      "category_code": "A.6.2.3",
+      "top_category": "词类",
+      "category": "副词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "我不禁回忆起第一次跟她见面的场景。",
+        "要迟到了，他赶忙出门，早饭都没吃。",
+        "这件事是我亲眼所见，不会有假。",
+        "我都准备好了，你不用特地跑来帮我。",
+        "大卫今天第一天上班，特意穿了双新皮鞋。"
+      ],
+      "pdf_page": 234,
+      "printed_page": 228
+    },
+    {
+      "order": 11,
+      "id": "六11",
+      "name": "情态副词：仿佛",
+      "category_code": "A.6.2.3",
+      "top_category": "词类",
+      "category": "副词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "奶奶仿佛孩子似的开心地笑了。",
+        "他工作起来仿佛不知道什么是累。"
+      ],
+      "pdf_page": 234,
+      "printed_page": 228
+    },
+    {
+      "order": 12,
+      "id": "六12",
+      "name": "语气副词：才³、刚好、偏、恰好",
+      "category_code": "A.6.2.3",
+      "top_category": "词类",
+      "category": "副词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "我才不要父母的钱呢，我要自己赚钱。",
+        "我要出门找他的时候他刚好回来了。",
+        "北方的冬天极其寒冷，可他圣诞节偏要去那儿旅行。",
+        "哥哥非常粗心，弟弟却恰好相反。"
+      ],
+      "pdf_page": 234,
+      "printed_page": 228
+    },
+    {
+      "order": 13,
+      "id": "六13",
+      "name": "于",
+      "category_code": "A.6.2.4.1",
+      "top_category": "词类",
+      "category": "介词（引出时间、处所）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "他出生于1995年。",
+        "大熊猫主要生活于中国西南地区。"
+      ],
+      "pdf_page": 235,
+      "printed_page": 229
+    },
+    {
+      "order": 14,
+      "id": "六14",
+      "name": "沿（着）",
+      "category_code": "A.6.2.4.2",
+      "top_category": "词类",
+      "category": "介词（引出方向、路径）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "他喜欢沿着湖散步。",
+        "你沿这条路走，一会儿就到了。",
+        "我沿着他指的路，很快找到了他家。"
+      ],
+      "pdf_page": 235,
+      "printed_page": 229
+    },
+    {
+      "order": 15,
+      "id": "六15",
+      "name": "同¹、与¹",
+      "category_code": "A.6.2.4.3",
+      "top_category": "词类",
+      "category": "介词（引出对象）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "同你一样，我也是学生。",
+        "你要与同学搞好关系。"
+      ],
+      "pdf_page": 235,
+      "printed_page": 229
+    },
+    {
+      "order": 16,
+      "id": "六16",
+      "name": "至于",
+      "category_code": "A.6.2.4.3",
+      "top_category": "词类",
+      "category": "介词（引出对象）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "旅行的时间已经定了，至于费用问题，还需要再讨论。",
+        "学校决定下个月举行运动会，至于具体时间，请待学校通知。",
+        "超市将于节日期间举行优惠活动，至于详细情况，可上网查查。"
+      ],
+      "pdf_page": 235,
+      "printed_page": 229
+    },
+    {
+      "order": 17,
+      "id": "六17",
+      "name": "因",
+      "category_code": "A.6.2.4.4",
+      "top_category": "词类",
+      "category": "介词（引出目的、原因）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "因公司的业务需要，她要去中国出差。",
+        "昨天她因病请假。",
+        "他因出门太晚迟到了。"
+      ],
+      "pdf_page": 235,
+      "printed_page": 229
+    },
+    {
+      "order": 18,
+      "id": "六18",
+      "name": "除",
+      "category_code": "A.6.2.4.5",
+      "top_category": "词类",
+      "category": "介词（表示排除）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "除他以外，所有人都来了。",
+        "除这件事以外，其他我都能答应你。",
+        "除这个箱子以外，没有其他行李了。"
+      ],
+      "pdf_page": 235,
+      "printed_page": 229
+    },
+    {
+      "order": 19,
+      "id": "六19",
+      "name": "据",
+      "category_code": "A.6.2.4.6",
+      "top_category": "词类",
+      "category": "介词（引出凭借、依据）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "据专家介绍，这个信息并不准确。",
+        "据统计，大多数家庭有一到两个子女。",
+        "据说，他还没决定放弃。"
+      ],
+      "pdf_page": 236,
+      "printed_page": 230
+    },
+    {
+      "order": 20,
+      "id": "六20",
+      "name": "连接词或词组：而²、同²、与²",
+      "category_code": "A.6.2.5",
+      "top_category": "词类",
+      "category": "连词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "她善良而乐观。",
+        "我同他都是新员工。",
+        "成与不成，都看你的啦！"
+      ],
+      "pdf_page": 236,
+      "printed_page": 230
+    },
+    {
+      "order": 21,
+      "id": "六21",
+      "name": "连接分句或句子：不料、可³、若",
+      "category_code": "A.6.2.5",
+      "top_category": "词类",
+      "category": "连词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "我今天本想去操场踢足球，不料外面下起雨来。",
+        "我们约定一起去长城玩儿，可他忘记了。",
+        "若这个时间你不方便，我们就换一个。"
+      ],
+      "pdf_page": 236,
+      "printed_page": 230
+    },
+    {
+      "order": 22,
+      "id": "六22",
+      "name": "结构助词：所",
+      "category_code": "A.6.2.6",
+      "top_category": "词类",
+      "category": "助词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "据我所知，这件事不是真的。",
+        "你所做的每件事我都支持。",
+        "这部电影正是我所感兴趣的。"
+      ],
+      "pdf_page": 236,
+      "printed_page": 230
+    },
+    {
+      "order": 23,
+      "id": "六23",
+      "name": "语气助词：罢了、啦、嘛",
+      "category_code": "A.6.2.6",
+      "top_category": "词类",
+      "category": "助词",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "别生气，我只是开个玩笑罢了。",
+        "我终于把这个问题搞明白啦！",
+        "什么事，你快说嘛！"
+      ],
+      "pdf_page": 236,
+      "printed_page": 230
+    },
+    {
+      "order": 24,
+      "id": "六24",
+      "name": "数词+形容词+量词",
+      "category_code": "A.6.3.1",
+      "top_category": "短语",
+      "category": "结构类型",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "一大杯茶",
+        "一长串葡萄",
+        "一小份米饭"
+      ],
+      "pdf_page": 236,
+      "printed_page": 230
+    },
+    {
+      "order": 25,
+      "id": "六25",
+      "name": "或A或B",
+      "category_code": "A.6.3.2.1",
+      "top_category": "短语",
+      "category": "固定短语（四字格）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "每位市民都为这座城市的发展做出过或大或小的贡献。",
+        "各个企业都有一套或高或低的质量监测管理标准。"
+      ],
+      "pdf_page": 236,
+      "printed_page": 230
+    },
+    {
+      "order": 26,
+      "id": "六26",
+      "name": "无A无B",
+      "category_code": "A.6.3.2.1",
+      "top_category": "短语",
+      "category": "固定短语（四字格）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "妈妈无时无刻不在想念着国外留学的孩子。",
+        "这孩子再不管管就无法无天了。"
+      ],
+      "pdf_page": 237,
+      "printed_page": 231
+    },
+    {
+      "order": 27,
+      "id": "六27",
+      "name": "A这A那",
+      "category_code": "A.6.3.2.1",
+      "top_category": "短语",
+      "category": "固定短语（四字格）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "他总是很耐心地听她说这说那。",
+        "他这个人真是麻烦，总是嫌这嫌那的。"
+      ],
+      "pdf_page": 237,
+      "printed_page": 231
+    },
+    {
+      "order": 28,
+      "id": "六28",
+      "name": "左A右B",
+      "category_code": "A.6.3.2.1",
+      "top_category": "短语",
+      "category": "固定短语（四字格）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "他左躲右闪，终于把球踢进了球门。",
+        "第一次出门，他兴奋得左瞧右看，眼睛都不够用了。",
+        "他左思右想，觉得这件事不能这样就完了。"
+      ],
+      "pdf_page": 237,
+      "printed_page": 231
+    },
+    {
+      "order": 29,
+      "id": "六29",
+      "name": "不怎么",
+      "category_code": "A.6.3.2.2",
+      "top_category": "短语",
+      "category": "固定短语（其他）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "这件衣服不怎么好看，换一件吧。",
+        "他不怎么在乎这些小事。",
+        "他今天好像不怎么舒服。"
+      ],
+      "pdf_page": 237,
+      "printed_page": 231
+    },
+    {
+      "order": 30,
+      "id": "六30",
+      "name": "不怎么样",
+      "category_code": "A.6.3.2.2",
+      "top_category": "短语",
+      "category": "固定短语（其他）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "她跳舞跳得不怎么样。",
+        "甲：这件衣服怎么样？",
+        "乙：不怎么样。"
+      ],
+      "pdf_page": 237,
+      "printed_page": 231
+    },
+    {
+      "order": 31,
+      "id": "六31",
+      "name": "好（不）容易",
+      "category_code": "A.6.3.2.2",
+      "top_category": "短语",
+      "category": "固定短语（其他）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "我好不容易给你争取来这个机会，你怎么能不抓住呢？",
+        "你好容易走到这一步，怎么能说放弃就放弃呢？",
+        "我好不容易说服他来参加比赛，你不能让他走。"
+      ],
+      "pdf_page": 237,
+      "printed_page": 231
+    },
+    {
+      "order": 32,
+      "id": "六32",
+      "name": "那倒（也）是",
+      "category_code": "A.6.3.2.2",
+      "top_category": "短语",
+      "category": "固定短语（其他）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "现在看来，那倒是个很好的办法。",
+        "实在没办法，那倒也是个办法。",
+        "甲：如果能找到失败的原因，那倒是件值得高兴的事。",
+        "乙：那倒也是。"
+      ],
+      "pdf_page": 237,
+      "printed_page": 231
+    },
+    {
+      "order": 33,
+      "id": "六33",
+      "name": "就是说/这就是说",
+      "category_code": "A.6.3.2.2",
+      "top_category": "短语",
+      "category": "固定短语（其他）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "就是说，他是一个不诚实的人。",
+        "这就是说，责任不在你，你千万不要怪自己。"
+      ],
+      "pdf_page": 237,
+      "printed_page": 231
+    },
+    {
+      "order": 34,
+      "id": "六34",
+      "name": "算了",
+      "category_code": "A.6.3.2.2",
+      "top_category": "短语",
+      "category": "固定短语（其他）",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "这件事就这样算了吧。",
+        "他不去算了，不要为难他了。",
+        "甲：不行，我得好好问问他。",
+        "乙：算了，你说不过他的。"
+      ],
+      "pdf_page": 237,
+      "printed_page": 231
+    },
+    {
+      "order": 35,
+      "id": "六35",
+      "name": "A一+量词，B一+量词",
+      "category_code": "A.6.4",
+      "top_category": "固定格式",
+      "category": "固定格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "他摔得很严重，身上青一块，紫一块。",
+        "大家你一句，我一句，搞得他反而没了主意。",
+        "他俩说着话，突然你一下儿、我一下儿地打起来了。"
+      ],
+      "pdf_page": 238,
+      "printed_page": 232
+    },
+    {
+      "order": 36,
+      "id": "六36",
+      "name": "东一A，西一A",
+      "category_code": "A.6.4",
+      "top_category": "固定格式",
+      "category": "固定格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "天黑还下雨，他东一脚，西一脚地赶回来了。",
+        "他说话东一句，西一句，完全没有重点。",
+        "他做事情总是东一下儿，西一下儿，既无计划更无耐心。"
+      ],
+      "pdf_page": 238,
+      "printed_page": 232
+    },
+    {
+      "order": 37,
+      "id": "六37",
+      "name": "为了……而……",
+      "category_code": "A.6.4",
+      "top_category": "固定格式",
+      "category": "固定格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "为了这么一件小事而生气，不值得。",
+        "他为了这次比赛而努力了很久。",
+        "这是为了讨论改善环境问题而召开的会议。"
+      ],
+      "pdf_page": 238,
+      "printed_page": 232
+    },
+    {
+      "order": 38,
+      "id": "六38",
+      "name": "宾语的语义类型2",
+      "category_code": "A.6.5.1",
+      "top_category": "句子成分",
+      "category": "宾语",
+      "sections": [
+        {
+          "label": "（1）处所宾语",
+          "examples": [
+            "听见铃声，他马上就进教室了。",
+            "他把东西都放桌子上了。"
+          ]
+        },
+        {
+          "label": "（2）结果宾语",
+          "examples": [
+            "在中国农村，盖房子是一件大事。",
+            "新学期的学生太多了，学校正在校园里建食堂。"
+          ]
+        }
+      ],
+      "note": null,
+      "examples": [],
+      "pdf_page": 238,
+      "printed_page": 232
+    },
+    {
+      "order": 39,
+      "id": "六39",
+      "name": "趋向补语5",
+      "category_code": "A.6.5.2",
+      "top_category": "句子成分",
+      "category": "补语",
+      "sections": [],
+      "note": "表示状态意义（引申用法）：动词/形容词+下来/下去/起来/过来",
+      "examples": [
+        "老师一进教室，同学们很快安静了下来。",
+        "他对工作的兴趣渐渐淡了下去。",
+        "我们先把礼物藏起来。",
+        "经过医生的抢救，他终于醒过来了。"
+      ],
+      "pdf_page": 238,
+      "printed_page": 232
+    },
+    {
+      "order": 40,
+      "id": "六40",
+      "name": "“把”字句4：表致使",
+      "category_code": "A.6.6.1",
+      "top_category": "句子的类型",
+      "category": "特殊句型",
+      "sections": [
+        {
+          "label": "（1）主语（非生物体）+把+宾语+动词+其他成分",
+          "examples": [
+            "这双鞋把脚磨破了。",
+            "外面的声音把我吵醒了。"
+          ]
+        },
+        {
+          "label": "（2）主语+把+宾语（施事）+动词+其他成分",
+          "examples": [
+            "他把大伙儿笑得肚子疼。",
+            "他把爸爸气得一夜没睡。",
+            "孩子把妈妈感动得流下了眼泪。"
+          ]
+        }
+      ],
+      "note": null,
+      "examples": [],
+      "pdf_page": 239,
+      "printed_page": 233
+    },
+    {
+      "order": 41,
+      "id": "六41",
+      "name": "被动句4：主语+被/叫/让+宾语+给+动词+其他成分",
+      "category_code": "A.6.6.1",
+      "top_category": "句子的类型",
+      "category": "特殊句型",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "杯子被她不小心给摔碎了。",
+        "自行车叫小偷儿给偷走了。",
+        "这件事差点儿让我给忘了。"
+      ],
+      "pdf_page": 239,
+      "printed_page": 233
+    },
+    {
+      "order": 42,
+      "id": "六42",
+      "name": "时而……，时而……",
+      "category_code": "A.6.6.2.1",
+      "top_category": "句子的类型",
+      "category": "并列复句",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "这儿的天气变来变去，时而晴天，时而下雨。",
+        "生活就是这样，时而让人失望，时而让人充满信心。",
+        "她的情绪很不稳定，时而积极，时而消极。"
+      ],
+      "pdf_page": 239,
+      "printed_page": 233
+    },
+    {
+      "order": 43,
+      "id": "六43",
+      "name": "一时……一时……",
+      "category_code": "A.6.6.2.1",
+      "top_category": "句子的类型",
+      "category": "并列复句",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "年纪太大了，身体一时好一时坏。",
+        "这家公司的产量一时上升一时下降。",
+        "他的情绪有波动，一时高兴一时悲伤。"
+      ],
+      "pdf_page": 239,
+      "printed_page": 233
+    },
+    {
+      "order": 44,
+      "id": "六44",
+      "name": "……便……",
+      "category_code": "A.6.6.2.2",
+      "top_category": "句子的类型",
+      "category": "承接复句",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "我一走出校门，抬头便看见了她。",
+        "她放下电话，衣服没换便往医院赶。",
+        "一回到家，他便看到了桌子上的饭菜。"
+      ],
+      "pdf_page": 239,
+      "printed_page": 233
+    },
+    {
+      "order": 45,
+      "id": "六45",
+      "name": "不但不/不但没有……，反而……",
+      "category_code": "A.6.6.2.3",
+      "top_category": "句子的类型",
+      "category": "递进复句",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "他不但不帮我，反而还给我添麻烦。",
+        "夏天过去了，天气不但没有凉快，反而更热了。",
+        "他不但没有鼓励我，反而还批评了我一顿。"
+      ],
+      "pdf_page": 239,
+      "printed_page": 233
+    },
+    {
+      "order": 46,
+      "id": "六46",
+      "name": "不是……，还/还是……",
+      "category_code": "A.6.6.2.3",
+      "top_category": "句子的类型",
+      "category": "递进复句",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "不是读完了就可以了，还应该写一篇作文。",
+        "这事不是你想做就能做的，还是要听听老板的意见。"
+      ],
+      "pdf_page": 240,
+      "printed_page": 234
+    },
+    {
+      "order": 47,
+      "id": "六47",
+      "name": "连……也/都……，……更……",
+      "category_code": "A.6.6.2.3",
+      "top_category": "句子的类型",
+      "category": "递进复句",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "连大人也做不到，孩子更做不到。",
+        "连老人也喜欢看，孩子们更是喜欢得不得了。"
+      ],
+      "pdf_page": 240,
+      "printed_page": 234
+    },
+    {
+      "order": 48,
+      "id": "六48",
+      "name": "要么……，要么……",
+      "category_code": "A.6.6.2.4",
+      "top_category": "句子的类型",
+      "category": "选择复句",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "你要么跟他一组，要么自己一个人一组，尽快决定吧。",
+        "面对困难，我们要么被它吓倒，要么战胜它。",
+        "教室里的同学们要么在写作业，要么在小声讨论。"
+      ],
+      "pdf_page": 240,
+      "printed_page": 234
+    },
+    {
+      "order": 49,
+      "id": "六49",
+      "name": "虽……，但/可/却/也……",
+      "category_code": "A.6.6.2.5",
+      "top_category": "句子的类型",
+      "category": "转折复句",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "他年纪虽小，但经验不少。",
+        "我虽没得到奖励，可仍然对自己充满信心。",
+        "他虽失败了，却仍然微笑面对。",
+        "她虽病了，也坚持来上课。"
+      ],
+      "pdf_page": 240,
+      "printed_page": 234
+    },
+    {
+      "order": 50,
+      "id": "六50",
+      "name": "……，要不然/不然……",
+      "category_code": "A.6.6.2.6",
+      "top_category": "句子的类型",
+      "category": "假设复句",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "大家要认真对待考试，要不然会影响毕业的。",
+        "你不用太担心，不然我和你一起去。",
+        "外面下雨了，不然我们明天再去吧。"
+      ],
+      "pdf_page": 240,
+      "printed_page": 234
+    },
+    {
+      "order": 51,
+      "id": "六51",
+      "name": "凡是……，都……",
+      "category_code": "A.6.6.2.7",
+      "top_category": "句子的类型",
+      "category": "条件复句",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "凡是听到高兴的事，他都和朋友分享。",
+        "凡是跟他合作，都能顺利完成任务。",
+        "凡是对的，我们都应该坚持。"
+      ],
+      "pdf_page": 240,
+      "printed_page": 234
+    },
+    {
+      "order": 52,
+      "id": "六52",
+      "name": "就算/就是……，也……",
+      "category_code": "A.6.6.2.8",
+      "top_category": "句子的类型",
+      "category": "让步复句",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "就算成绩最好的同学也无法回答这个问题。",
+        "就是你想马上瘦下来也不能每天不吃饭。",
+        "就算他错了你也不能说他，他还小呢。"
+      ],
+      "pdf_page": 240,
+      "printed_page": 234
+    },
+    {
+      "order": 53,
+      "id": "六53",
+      "name": "不……不……",
+      "category_code": "A.6.6.2.9",
+      "top_category": "句子的类型",
+      "category": "紧缩复句",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "你们两个人可真是不打不成交。",
+        "这里的房价不问不知道，一问吓一跳。",
+        "她今天一直在练习，不达标准不休息。"
+      ],
+      "pdf_page": 241,
+      "printed_page": 235
+    },
+    {
+      "order": 54,
+      "id": "六54",
+      "name": "二重复句2：复句+复句",
+      "category_code": "A.6.6.2.10",
+      "top_category": "句子的类型",
+      "category": "多重复句",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "成功的基础是奋斗，奋斗的收获是成功，所以，只有不断努力的人才有机会走上成功的高峰。",
+        "这个国王既不关心他的军队，也不喜欢去看戏，也不喜欢乘着马车去游玩儿，——除非是要展示一下儿自己的新衣服。",
+        "承认错误，才能正确看待出现在自己身上的问题；同时，只有虚心接受别人的批评，解决了自己的问题，才能取得下一步的成功。"
+      ],
+      "pdf_page": 241,
+      "printed_page": 235
+    },
+    {
+      "order": 55,
+      "id": "六55",
+      "name": "用“非……不可”表示强调",
+      "category_code": "A.6.7",
+      "top_category": "强调的方法",
+      "category": "强调的方法",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "不管天气怎么样，我们非去不可。",
+        "还有这么长准备时间呢，你非要现在写完不可吗？",
+        "他正生着气呢，你非现在说不可吗？"
+      ],
+      "pdf_page": 241,
+      "printed_page": 235
+    },
+    {
+      "order": 56,
+      "id": "六56",
+      "name": "X到Y头上来了",
+      "category_code": "A.6.8",
+      "top_category": "口语格式",
+      "category": "口语格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "他都欺负到你头上来了，你也不在乎吗？",
+        "人家都求到我们头上来了，还是帮帮他们吧。",
+        "这种好事怎么轮到我头上来了？"
+      ],
+      "pdf_page": 241,
+      "printed_page": 235
+    },
+    {
+      "order": 57,
+      "id": "六57",
+      "name": "X就X吧",
+      "category_code": "A.6.8",
+      "top_category": "口语格式",
+      "category": "口语格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "等等就等等吧，没有别的办法了。",
+        "少点儿就少点儿吧，总比没有强。",
+        "晚点儿就晚点儿吧，来得及就行。"
+      ],
+      "pdf_page": 241,
+      "printed_page": 235
+    },
+    {
+      "order": 58,
+      "id": "六58",
+      "name": "X是X",
+      "category_code": "A.6.8",
+      "top_category": "口语格式",
+      "category": "口语格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "去是去了，就是不知道结果怎么样。",
+        "好是好，但不知道老师会不会同意我们这样做。",
+        "这件衣服漂亮是漂亮，但也太贵了。"
+      ],
+      "pdf_page": 241,
+      "printed_page": 235
+    },
+    {
+      "order": 59,
+      "id": "六59",
+      "name": "不X不……，一X……",
+      "category_code": "A.6.8",
+      "top_category": "口语格式",
+      "category": "口语格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "不看不知道，一看吓一跳，这里变化太大了！",
+        "这题目看起来简单，不做不知道，一做真不会！"
+      ],
+      "pdf_page": 241,
+      "printed_page": 235
+    },
+    {
+      "order": 60,
+      "id": "六60",
+      "name": "好你个X",
+      "category_code": "A.6.8",
+      "top_category": "口语格式",
+      "category": "口语格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "好你个小偷儿，敢偷我的东西，我送你去警察局！",
+        "好你个大骗子，还好我聪明，没上你的当！",
+        "好你个老王，一点儿忙都不帮我！"
+      ],
+      "pdf_page": 242,
+      "printed_page": 236
+    },
+    {
+      "order": 61,
+      "id": "六61",
+      "name": "动词+什么（就）是什么",
+      "category_code": "A.6.8",
+      "top_category": "口语格式",
+      "category": "口语格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "行啊！你说什么是什么，都听你的。",
+        "哪有这么容易的，你想什么就是什么？"
+      ],
+      "pdf_page": 242,
+      "printed_page": 236
+    },
+    {
+      "order": 62,
+      "id": "六62",
+      "name": "早（也）不X，晚（也）不X",
+      "category_code": "A.6.8",
+      "top_category": "口语格式",
+      "category": "口语格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "早不来，晚不来，恰好要出门的时候他来了。",
+        "早也不走，晚也不走，需要他的时候他却走了。"
+      ],
+      "pdf_page": 242,
+      "printed_page": 236
+    },
+    {
+      "order": 63,
+      "id": "六63",
+      "name": "看/瞧把+宾语（施事）+X得",
+      "category_code": "A.6.8",
+      "top_category": "口语格式",
+      "category": "口语格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "真是小孩子呀，看把他乐得。",
+        "瞧把他得意得，都不知道自己是谁了。",
+        "瞧把他吓得，都不知道说什么了。"
+      ],
+      "pdf_page": 242,
+      "printed_page": 236
+    },
+    {
+      "order": 64,
+      "id": "六64",
+      "name": "放着X不Y",
+      "category_code": "A.6.8",
+      "top_category": "口语格式",
+      "category": "口语格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "你可别放着好日子不过，在这儿找麻烦。",
+        "他放着好好的学不上，非要跑去外面打工。"
+      ],
+      "pdf_page": 242,
+      "printed_page": 236
+    },
+    {
+      "order": 65,
+      "id": "六65",
+      "name": "X来X去，都是/就是……",
+      "category_code": "A.6.8",
+      "top_category": "口语格式",
+      "category": "口语格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "不管我们怎么争来争去，都是没有用的。",
+        "说来说去，就是没有统一的意见。"
+      ],
+      "pdf_page": 242,
+      "printed_page": 236
+    },
+    {
+      "order": 66,
+      "id": "六66",
+      "name": "X了就X了，（没）有……",
+      "category_code": "A.6.8",
+      "top_category": "口语格式",
+      "category": "口语格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "坏了就坏了，有什么大不了的？",
+        "输了就输了，没有什么好难过的。"
+      ],
+      "pdf_page": 242,
+      "printed_page": 236
+    },
+    {
+      "order": 67,
+      "id": "六67",
+      "name": "这/那也不X，那/这也不Y",
+      "category_code": "A.6.8",
+      "top_category": "口语格式",
+      "category": "口语格式",
+      "sections": [],
+      "note": null,
+      "examples": [
+        "这也不吃，那也不喝，结果就是身体越来越差。",
+        "那也不合适，这也不对，我真的不明白她到底想怎样。"
+      ],
+      "pdf_page": 242,
+      "printed_page": 236
+    }
+  ],
+  "generated_at": "2026-11-23 17:40:00"
+}

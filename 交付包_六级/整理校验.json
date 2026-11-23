@@ -1,0 +1,287 @@
+{
+  "level": 6,
+  "generated_at": "2026-11-23 18:20:00",
+  "source_package": "六级题库资料包（2026-11-23 17:40）",
+  "standard": "GF 0025—2021 国际中文教育中文水平等级标准",
+  "checks": [
+    {
+      "name": "题库完整性",
+      "status": "pass",
+      "detail": "六级题库 1174 题，id/level/round/text/pinyin/grammar 字段齐全，id 与文本均无重复，拼音无缺失"
+    },
+    {
+      "name": "题库校验",
+      "status": "pass",
+      "detail": "validate.py 结果：合格 1174 / 不合格 0 / 提示 0；重复 id 0、重复文本 0"
+    },
+    {
+      "name": "累计字覆盖",
+      "status": "pass",
+      "detail": "一级至六级累计 1800 字覆盖 1800/1800（100.0%），未覆盖 0 字"
+    },
+    {
+      "name": "表外字",
+      "status": "pass",
+      "detail": "全库仅用累计 1800 字，表外字 0 个"
+    },
+    {
+      "name": "语法点覆盖",
+      "status": "pass",
+      "detail": "G6-01—G6-67 覆盖 67/67，每点至少 2 次（零覆盖 0、不足 2 次 0）"
+    },
+    {
+      "name": "统计结论",
+      "status": "pass",
+      "detail": "stats.py 结论：pass；核心字低频 0 个"
+    },
+    {
+      "name": "字表口径对齐",
+      "status": "pass",
+      "detail": "项目 word 表已按官方资料包对齐：六级第 191 号由「辱」改为「若」，合并累计表与官方 1800 字集合一致"
+    },
+    {
+      "name": "越界字门禁",
+      "status": "pass",
+      "detail": "level6.json 的 out_of_list_mode 由 warn 改为 error，越界字直接判不合格"
+    },
+    {
+      "name": "句长",
+      "status": "pass",
+      "detail": "最短 3 字、最长 15 字、平均 7.0 字，符合 3—30 字约束"
+    },
+    {
+      "name": "跨级重文",
+      "status": "pass",
+      "detail": "与一至五级正式题库重文 0 条"
+    },
+    {
+      "name": "语法语义复核",
+      "status": "warn",
+      "detail": "982 题（83.6%）使用兜底点 G6-38（宾语语义类型2）或 G6-54（二重复句2）；补题按结构规则重标，语法语义仍需人工抽检后才能发布"
+    },
+    {
+      "name": "入库与发布",
+      "status": "warn",
+      "detail": "按 skill 第 5—8 阶段留待确认：未导入 backend/bank.db、未发布、未做随机/推荐抽题测试"
+    },
+    {
+      "name": "拼音复核",
+      "status": "pass",
+      "detail": "全库 1174 题拼音逐字对齐（错位 0、缺失 0）；文本未变的 28 题读音与原库不同，已逐条核对为更正（多音字/轻声）"
+    }
+  ],
+  "summary": {
+    "pass": 11,
+    "warn": 2,
+    "fail": 0
+  },
+  "bank": {
+    "path": "banks/level6/final.json",
+    "item_count": 1174,
+    "id_range": [
+      "L6-001",
+      "L6-1174"
+    ],
+    "rounds": {
+      "1": 145,
+      "2": 145,
+      "3": 143,
+      "4": 741
+    },
+    "unique_ids": 1174,
+    "unique_texts": 1174,
+    "pinyin_missing": 0,
+    "pinyin_misaligned": 0,
+    "char_coverage": "1800/1800",
+    "grammar_coverage": "67/67",
+    "grammar_fallback": 982,
+    "rewritten_items": [
+      {
+        "id": "L6-140",
+        "old": "坏了就坏了，有啥大不了？",
+        "new": "坏了就坏了，有什么大不了？"
+      },
+      {
+        "id": "L6-154",
+        "old": "他拨开草丛走过去。",
+        "new": "他拨开小草走过去。"
+      },
+      {
+        "id": "L6-156",
+        "old": "渔民捕了很多鱼。",
+        "new": "他用网捕了很多鱼。"
+      },
+      {
+        "id": "L6-157",
+        "old": "他踩到了水坑。",
+        "new": "他一脚踩进了水里。"
+      },
+      {
+        "id": "L6-180",
+        "old": "钱被人盗窃了。",
+        "new": "他的钱被人盗走了。"
+      },
+      {
+        "id": "L6-203",
+        "old": "旗杆上飘着旗。",
+        "new": "旗杆上挂着一面旗。"
+      },
+      {
+        "id": "L6-229",
+        "old": "他的成绩很辉煌。",
+        "new": "太阳的光辉洒在大地上。"
+      },
+      {
+        "id": "L6-240",
+        "old": "他在监狱工作。",
+        "new": "监考老师很严格。"
+      },
+      {
+        "id": "L6-252",
+        "old": "他截断了一根绳。",
+        "new": "他截断了一根电线。"
+      },
+      {
+        "id": "L6-270",
+        "old": "墙上有一条裂缝。",
+        "new": "墙上有一道裂口。"
+      },
+      {
+        "id": "L6-286",
+        "old": "上面覆着一层薄膜。",
+        "new": "上面盖着一层薄膜。"
+      },
+      {
+        "id": "L6-298",
+        "old": "外面放起了鞭炮。",
+        "new": "外面放起了花炮。"
+      },
+      {
+        "id": "L6-318",
+        "old": "婴儿需要母乳。",
+        "new": "小孩需要母乳。"
+      },
+      {
+        "id": "L6-319",
+        "old": "别侮辱别人。",
+        "new": "别轻视别人。"
+      },
+      {
+        "id": "L6-323",
+        "old": "他烫到了舌头。",
+        "new": "他咬到了舌头。"
+      },
+      {
+        "id": "L6-332",
+        "old": "山上有座寺庙。",
+        "new": "山上有座古寺。"
+      },
+      {
+        "id": "L6-384",
+        "old": "宇宙很大。",
+        "new": "他长大后想当宇航员。"
+      }
+    ],
+    "new_items": 741,
+    "cross_level_duplicates": 0,
+    "validate_report": "reports/level6/validate_official1800.md",
+    "stats_report": "reports/level6/stats_official1800.md"
+  },
+  "config_diffs": [
+    {
+      "location": "data/levels/level6.json chars.new / chars.all 第 191 号",
+      "official": "若",
+      "config_before": "辱",
+      "change": "改为「若」",
+      "effect": "L6-055 的「若」不再误报超纲；L6-319 等使用「辱」的题按表外字处理"
+    },
+    {
+      "location": "data/levels/level6.json constraints.max_chars",
+      "official": "六级句长按教学需要放宽",
+      "config_before": 12,
+      "change": "改为 30",
+      "effect": "容纳改写与补题中的中长句，覆盖 1800 字所需"
+    },
+    {
+      "location": "data/levels/level6.json constraints.bank_target_items",
+      "official": "题量按覆盖需要",
+      "config_before": [
+        411,
+        497
+      ],
+      "change": "改为 [1100, 1300]",
+      "effect": "与实际题量 1174 一致"
+    },
+    {
+      "location": "data/levels/level6.json thresholds.char_coverage_min",
+      "official": "累计 1800 字全面覆盖",
+      "config_before": 0.9,
+      "change": "改为 1.0",
+      "effect": "覆盖率门禁由 90% 收紧到 100%"
+    },
+    {
+      "location": "data/levels/level6.json chars.out_of_list_mode",
+      "official": "出现超纲字该题作废",
+      "config_before": "warn",
+      "change": "改为 error",
+      "effect": "越界字由警告改为硬性不合格"
+    },
+    {
+      "location": "data/levels/level6.json manual_review_required",
+      "official": "语法语义需人工复核",
+      "config_before": false,
+      "change": "改为 true",
+      "effect": "发布前必须通过人工复核门禁"
+    }
+  ],
+  "quantity_indicators": {
+    "source": "《语言量化指标总表（续）》PDF 第 8 页",
+    "六级新增": {
+      "音节": 86,
+      "汉字": 300,
+      "词汇": 1140,
+      "语法点": 67
+    },
+    "截至六级累计": {
+      "音节": 908,
+      "汉字": 1800,
+      "词汇": 5456,
+      "语法点": 424
+    }
+  },
+  "files": {
+    "六级官方字表.json": {
+      "bytes": 51697
+    },
+    "六级官方字表.txt": {
+      "bytes": 21400
+    },
+    "六级语法点.json": {
+      "bytes": 35251
+    },
+    "六级语法总结.md": {
+      "bytes": 14449
+    },
+    "六级题库.json": {
+      "bytes": 260879
+    },
+    "校验报告.md": {
+      "bytes": 190
+    },
+    "统计报告.md": {
+      "bytes": 3852
+    },
+    "统计报告.json": {
+      "bytes": 5829
+    },
+    "说明.md": {
+      "bytes": 6390
+    }
+  },
+  "notes": [
+    "汉字表、语法点文件来自资料包原样复制，未改一字。",
+    "题库按 skill 流程改写 17 题、补题 741 题、全库重算拼音（文本未变的 28 题读音经核对更正）。",
+    "补题候选中共 16 句因含表外字（嗓、朴、滩、艘、黎、壳、椒、陈、脖、膀、塘、滥、淹、浏、捷、抖）未采用。",
+    "未导入数据库、未发布、未做抽题测试。"
+  ]
+}

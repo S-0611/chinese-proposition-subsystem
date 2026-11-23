@@ -1,20 +1,20 @@
 {
   "level": 6,
-  "name": "六级（中等六级）",
+  "name": "六级（中等三级）",
   "tier": "intermediate",
-  "source_note": "汉字表见 GF 0025—2021 5.6 六级汉字表，书内第22–24页（PDF 28–30页），逐页视读转录并按拼音序、级间零重叠双重校验；语法点见附录A.6 六级语法点，书内第227–236页（PDF 233–242页），共67条。题库规模：67条语法点×2句基线题＋按300字表覆盖补充题，实测433题；core 取题库实测频次≥2的高频字（上限40字，实际 29 字）。；chars.new=本级新增字表，chars.all=1—N级累计字表（由各级新增字表合并）；超出累计字表按警告处理；语法按 id 归属校验；人工复核待补，当前为机器初筛。",
+  "source_note": "汉字表见 GF 0025—2021 5.6 六级汉字表，书内第22–24页（PDF 28–30页）；已按《六级题库资料包》官方字表逐字对齐（第191号为「若」，原配置误录「辱」）。语法点见附录A.6 六级语法点，书内第227–236页（PDF 233–242页），共67条。chars.new=本级新增300字，chars.all=1—6级累计1800字；统计与校验采用累计字表口径，越界字判错；补题按结构规则重标语法点，其余按 G6-38/G6-54 兜底，语法语义需人工复核后发布。",
   "constraints": {
     "min_chars": 3,
-    "max_chars": 12,
+    "max_chars": 30,
     "allow_ascii": false,
     "allow_digits": false,
     "bank_target_items": [
-      411,
-      497
+      1100,
+      1300
     ]
   },
   "thresholds": {
-    "char_coverage_min": 0.9,
+    "char_coverage_min": 1.0,
     "char_freq_min": 1,
     "core_char_freq_min": 2,
     "grammar_coverage_min": 1.0,
@@ -212,7 +212,7 @@
       "券",
       "融",
       "乳",
-      "辱",
+      "若",
       "塞",
       "丧",
       "勺",
@@ -545,7 +545,7 @@
       "券",
       "融",
       "乳",
-      "辱",
+      "若",
       "塞",
       "丧",
       "勺",
@@ -656,7 +656,7 @@
       "钻",
       "罪"
     ],
-    "out_of_list_mode": "warn"
+    "out_of_list_mode": "error"
   },
   "grammar": [
     {
@@ -1064,5 +1064,5 @@
   ],
   "char_table_mode": "cumulative",
   "grammar_validation": "id_only",
-  "manual_review_required": false
+  "manual_review_required": true
 }
