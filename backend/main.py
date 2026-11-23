@@ -45,6 +45,18 @@ app.add_middleware(
     allow_origins=["*"], allow_methods=["*"], allow_headers=["*"],
 )
 
+
+@app.middleware("http")
+async def no_cache_api(request, call_next):
+    """题库会导入/发布更新，API 响应禁止浏览器缓存，避免读到旧题库。"""
+    response = await call_next(request)
+    if request.url.path.startswith("/api/"):
+        response.headers["Cache-Control"] = "no-store, no-cache, must-revalidate, max-age=0"
+        response.headers["Pragma"] = "no-cache"
+        response.headers["Expires"] = "0"
+    return response
+
+
 DEFAULT_C = 10            # w = max(0, C - rec_count) 的常数
 DEFAULT_CANDIDATE = 20    # 最低覆盖候选集大小
 DEFAULT_RECENT_MIN = 10   # 短时间内不重复返回同一题（分钟）
