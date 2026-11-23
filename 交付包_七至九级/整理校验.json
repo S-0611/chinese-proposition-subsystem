@@ -1,0 +1,53 @@
+{
+ "standard": "GF 0025—2021《国际中文教育中文水平等级标准》",
+ "generated_at": "2026-11-23",
+ "scope": "七至九级（高等，合并为 level 7）题库交付包",
+ "checks": {
+  "merged_level": true,
+  "merged_from": [
+   7,
+   8,
+   9
+  ],
+  "char_table_count": 1200,
+  "char_table_standard": 1200,
+  "char_table_unique": 1200,
+  "char_table_pdf_direct_matches": 1119,
+  "char_table_crosscheck_supplied": 81,
+  "char_table_not_individually_ocr_confirmed": 80,
+  "grammar_count": 148,
+  "grammar_standard": 148,
+  "grammar_ids_unique": true,
+  "grammar_entries_with_examples": 148,
+  "bank_items": 0,
+  "bank_status": "待补入正式题目",
+  "cumulative_chars_standard": 3000,
+  "cumulative_chars_project": 2997,
+  "cross_level_overlap": [
+   "腕",
+   "辱"
+  ],
+  "lower_table_duplicate": [
+   "怒"
+  ]
+ },
+ "verdict": "字表与语法表通过；正式题库缺失，不具备题目级校验条件",
+ "failed_checks": [
+  "正式题库缺失：banks/level7/final.json 为待补清单（items=[]），无法校验题量、字段、覆盖率与重复率",
+  "累计汉字 2997 / 标准 3000：低等级配置存在「怒」重复 1 处，且「腕」「辱」被低等级表占用但按标准属高等表；本包未改动低等级题库"
+ ],
+ "not_applicable": [
+  "题目级校验（题干字符、选项、答案、语法点覆盖率）因无正式题目不执行",
+  "音节 202/1110、词汇 5636/11092 未建表，不在本次题库口径内",
+  "高等手写汉字 500 字：标准 PDF 未见 5.8.3 表，暂不建表"
+ ],
+ "sources": {
+  "pdf": "C:/Users/LX/Desktop/国际中文教育中文水平等级标准(1).pdf",
+  "pdf_pages": {
+   "chars": "30-36",
+   "grammar": "242-260",
+   "quantification": "8"
+  },
+  "crosscheck": "https://github.com/shawkynasr/HSK-official-Query-System (汉字.csv, HSK 3.0-Yufa 2025 final.csv)"
+ }
+}

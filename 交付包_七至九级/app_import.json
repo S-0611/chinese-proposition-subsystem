@@ -1,0 +1,14 @@
+{
+ "level": 7,
+ "levels": [
+  7,
+  8,
+  9
+ ],
+ "name": "七至九级（高等）",
+ "char_table": "七至九级官方字表.json",
+ "grammar": "七至九级语法点.json",
+ "bank_manifest": "正式题库.json",
+ "import_bank": false,
+ "reason": "正式题库 items 为空，禁止导入。"
+}
