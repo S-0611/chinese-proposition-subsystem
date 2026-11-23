@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinese Levelled Bank Workflow"
+  short_description: "Build, validate, publish, and test Chinese levelled question banks"
+  default_prompt: "Use $chinese-leveled-bank-workflow to reconcile the supplied official character tables and grammar notes with a Chinese levelled question bank, then guide or execute the staged validation, statistics, import, publication, and extraction tests."
