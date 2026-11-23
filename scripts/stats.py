@@ -38,8 +38,11 @@ def compute(level, items):
     gfreq = detect_grammar_freq(clean, level)
 
     chars_cfg = level.get("chars") or {}
-    # 覆盖率按“本级新增字”计算；没有 new 字段时退回 all（一级及旧配置行为不变）
-    all_chars = chars_cfg.get("new") or chars_cfg.get("all") or []
+    # 累计字表口径下统计一级至本级全部允许字；旧配置继续按 new 字段统计。
+    if level.get("char_table_mode") == "cumulative":
+        all_chars = chars_cfg.get("all") or []
+    else:
+        all_chars = chars_cfg.get("new") or chars_cfg.get("all") or []
     core_chars = set(chars_cfg.get("core") or [])
     grammar_list = level.get("grammar") or []
     uncovered = [c for c in all_chars if cfreq.get(c, 0) == 0]
