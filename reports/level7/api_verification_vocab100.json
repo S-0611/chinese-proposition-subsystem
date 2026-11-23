@@ -1,0 +1,162 @@
+{
+ "levels": [
+  {
+   "level": 1,
+   "question_count": 303,
+   "status": "available",
+   "merged_into": null
+  },
+  {
+   "level": 2,
+   "question_count": 362,
+   "status": "available",
+   "merged_into": null
+  },
+  {
+   "level": 3,
+   "question_count": 549,
+   "status": "available",
+   "merged_into": null
+  },
+  {
+   "level": 4,
+   "question_count": 692,
+   "status": "available",
+   "merged_into": null
+  },
+  {
+   "level": 5,
+   "question_count": 760,
+   "status": "available",
+   "merged_into": null
+  },
+  {
+   "level": 6,
+   "question_count": 1174,
+   "status": "available",
+   "merged_into": null
+  },
+  {
+   "level": 7,
+   "question_count": 890,
+   "status": "available",
+   "merged_into": null
+  },
+  {
+   "level": 8,
+   "question_count": 0,
+   "status": "merged",
+   "merged_into": 7
+  },
+  {
+   "level": 9,
+   "question_count": 0,
+   "status": "merged",
+   "merged_into": 7
+  }
+ ],
+ "random": {
+  "7": {
+   "count": 20,
+   "level": 7,
+   "ids": [
+    "L7-150",
+    "L7-181",
+    "L7-572",
+    "L7-543",
+    "L7-182",
+    "L7-434",
+    "L7-841",
+    "L7-085",
+    "L7-483",
+    "L7-031",
+    "L7-798",
+    "L7-646",
+    "L7-207",
+    "L7-081",
+    "L7-609",
+    "L7-738",
+    "L7-143",
+    "L7-546",
+    "L7-571",
+    "L7-439"
+   ]
+  },
+  "8": {
+   "count": 20,
+   "level": 7,
+   "ids": [
+    "L7-674",
+    "L7-751",
+    "L7-080",
+    "L7-106",
+    "L7-416",
+    "L7-763",
+    "L7-623",
+    "L7-380",
+    "L7-700",
+    "L7-383",
+    "L7-001",
+    "L7-682",
+    "L7-285",
+    "L7-852",
+    "L7-573",
+    "L7-152",
+    "L7-619",
+    "L7-301",
+    "L7-262",
+    "L7-498"
+   ]
+  },
+  "9": {
+   "count": 20,
+   "level": 7,
+   "ids": [
+    "L7-855",
+    "L7-070",
+    "L7-682",
+    "L7-622",
+    "L7-442",
+    "L7-660",
+    "L7-409",
+    "L7-890",
+    "L7-748",
+    "L7-864",
+    "L7-523",
+    "L7-458",
+    "L7-552",
+    "L7-866",
+    "L7-549",
+    "L7-182",
+    "L7-476",
+    "L7-247",
+    "L7-500",
+    "L7-434"
+   ]
+  }
+ },
+ "db": {
+  "1": {
+   "published": 303
+  },
+  "2": {
+   "published": 362
+  },
+  "3": {
+   "published": 549
+  },
+  "4": {
+   "published": 692
+  },
+  "5": {
+   "published": 760
+  },
+  "6": {
+   "published": 1174
+  },
+  "7": {
+   "published": 890
+  }
+ },
+ "total": 4730
+}

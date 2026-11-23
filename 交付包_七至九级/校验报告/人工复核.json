@@ -1,18 +1,18 @@
 {
  "level": 7,
  "status": "completed_with_notes",
- "reviewer": "LobsterAI（自动校验 + 抽样复核）",
+ "reviewer": "LobsterAI（自动校验 + 规则审计 + 抽样复核）",
  "reviewed_at": "2026-11-23",
- "scope": "banks/level7/final.json 360 题",
- "method": "逐题 validate + stats 门禁；人工抽检官方例句与词语跟读题；检查重复、越界、长度、拼音字段",
+ "scope": "banks/level7/final.json 890 题（296 题 A.7 官方例句 + 589 题词汇跟读 + 5 题汉字跟读）",
+ "method": "逐题 validate + stats 门禁；新增词汇表覆盖审计；检查重复、越界、长度、拼音字段；对官方例句和词汇跟读题做抽样复核。",
  "issues": [
   {
    "id": "MR-7-001",
    "severity": "P1",
    "status": "open",
    "category": "题型适配",
-   "title": "64 条词语跟读题为词表式文本，不是自然句",
-   "detail": "L7-297 至 L7-360 每题列 10 个双字词，用于覆盖高等新增字；语法点统一标注 G7-147。建议上线前确认是否保留为跟读题，或改写为自然句后重新统计覆盖率。",
+   "title": "589 条词汇跟读题为词表式文本，不是自然句",
+   "detail": "词汇题按高等新增词汇表分组，题干为‘本课词语有……’，用于保证 5620 个规范词形 100% 出现；语法点由 296 条 A.7 官方例句覆盖。建议后续把这些词改写为自然句，或确认词表跟读题型可用于教学。",
    "blocking": false
   },
   {
@@ -20,28 +20,19 @@
    "severity": "P2",
    "status": "open",
    "category": "文本质量",
-   "title": "30 条 A.7 官方例句曾存在 OCR 截断、缺标点或结构说明误当例句",
-   "detail": "已在题库中修复明显问题，validate 提示为 0；仍建议对照 PDF 242–260 页抽检语义与标点。",
+   "title": "部分 A.7 官方例句存在 OCR 截断、缺标点或结构说明误当例句的风险",
+   "detail": "已修复明显问题，validate 提示为 0；仍建议对照 PDF 242–260 页抽检语义与标点。",
    "blocking": false
   },
   {
    "id": "MR-7-003",
    "severity": "P2",
    "status": "open",
-   "category": "字覆盖",
-   "title": "79 个高等新增字未覆盖",
-   "detail": "新增 1200 字覆盖 1121 字（93.4%），高于 90% 阈值；未覆盖清单见 reports/level7/stats_cumulative1200.json。",
-   "blocking": false
-  },
-  {
-   "id": "MR-7-004",
-   "severity": "P2",
-   "status": "open",
    "category": "拼音",
-   "title": "导入时 137 题出现多音字提示",
+   "title": "导入时 116 题出现多音字提示",
    "detail": "题库 pinyin 使用逐字标注，导入器与 pypinyin 默认读音存在差异；tokens 采用题库 pinyin，建议对多音字题人工抽检。",
    "blocking": false
   }
  ],
- "notes": "无 P0 阻断项。P1/P2 为发布后质量改进项，不影响本轮导入与接口抽题验证。"
+ "notes": "无 P0 阻断项。新增 1200 字覆盖 1200/1200（100%），高等词汇规范词形覆盖 5620/5620（100%），语法 148/148；P1/P2 为发布后质量改进项。"
 }

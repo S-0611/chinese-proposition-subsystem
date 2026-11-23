@@ -2,7 +2,7 @@
  "level": 7,
  "name": "七至九级（高等）",
  "tier": "advanced",
- "source_note": "依据《国际中文教育中文水平等级标准》(GF 0025-2021) 整理；标准高等阶段不按 7/8/9 细分，七至九级合并为一个等级。汉字表：5.7（PDF 30-36 页，新增 1200 字，累计 3000 字）；语法点：附录 A.7（PDF 242-260 页，148 条）。本题库验收口径为新增 1200 字覆盖率不低于 90%。",
+ "source_note": "依据《国际中文教育中文水平等级标准》(GF 0025-2021) 整理；标准高等阶段不按 7/8/9 细分，七至九级合并为一个等级。汉字表：5.7（PDF 30-36 页，新增 1200 字，累计 3000 字）；词汇：标准量化指标为高等新增 5636 个、累计 11092 个，逐词表采用公开 HSK 3.0 词汇转录并在 data/vocabulary/level7.json 固化；语法点：附录 A.7（PDF 242-260 页，148 条）。本题库验收口径为新增 1200 字 100% 覆盖、高等规范词形 100% 覆盖。",
  "constraints": {
   "min_chars": 3,
   "max_chars": 36,
@@ -10,14 +10,15 @@
   "allow_digits": false,
   "bank_target_items": [
    148,
-   360
+   1200
   ],
-  "note": "高等合并级题量 148–360；当前正式题库 360 题；覆盖率按新增 1200 字验收（不低于 90%）。"
+  "note": "高等合并级题量 148–1200；当前正式题库包含语法例句与词汇/汉字跟读题；新增 1200 字和高等规范词形均按 100% 覆盖验收。"
  },
  "thresholds": {
-  "char_coverage_min": 0.9,
+  "char_coverage_min": 1.0,
   "char_freq_min": 0,
   "core_char_freq_min": 0,
+  "vocab_coverage_min": 1.0,
   "grammar_coverage_min": 1.0,
   "grammar_freq_min": 2
  },
@@ -3328,7 +3329,10 @@
  "vocabulary": {
   "new_count": 5636,
   "total_count": 11092,
-  "note": "高等阶段词汇总量统一，不再按级细分"
+  "unique_headwords": 5620,
+  "list_path": "data/vocabulary/level7.json",
+  "source": "HSK 3.0 vocabulary transcription",
+  "note": "高等阶段词汇总量统一，不再按级细分；逐词表见 data/vocabulary/level7.json"
  },
  "chars_total_count": 3000,
  "chars_new_count": 1200,

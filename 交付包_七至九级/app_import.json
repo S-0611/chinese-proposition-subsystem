@@ -10,10 +10,10 @@
  "grammar": "七至九级语法点.json",
  "bank_manifest": "正式题库.json",
  "import_bank": true,
- "reason": "已导入 360 题并发布；导入前备份 backend/bank.db.bak_20261123_before_l7_import；随机/推荐抽题验证通过。",
- "bank_items": 360,
- "validation": "360/360 合格，0 警告；新增字覆盖 93.4%；语法 148/148",
+ "reason": "已导入 890 题并发布；新增字 1200/1200、规范词形 5620/5620、语法 148/148；随机抽题验证通过。",
+ "bank_items": 890,
+ "validation": "890/890 合格，0 警告；新增字覆盖 100%；词汇覆盖 100%；语法 148/148",
  "imported_at": "2026-11-23",
- "published_count": 360,
+ "published_count": 890,
  "api_verification": "pass"
 }

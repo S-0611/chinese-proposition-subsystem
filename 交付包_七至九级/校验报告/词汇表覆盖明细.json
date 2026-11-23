@@ -1,0 +1,24 @@
+{
+ "items": 890,
+ "base": 296,
+ "vocabulary_items": 589,
+ "character_items": 5,
+ "max_text_chars": 33,
+ "vocab_entries": 5636,
+ "vocab_unique": 5620,
+ "vocab_covered": 5620,
+ "vocab_missing": [],
+ "chars_new": 1200,
+ "chars_covered": 1200,
+ "chars_missing": [],
+ "chunk_sizes": {
+  "7": 16,
+  "8": 52,
+  "10": 273,
+  "9": 176,
+  "11": 64,
+  "6": 2,
+  "12": 5,
+  "2": 1
+ }
+}

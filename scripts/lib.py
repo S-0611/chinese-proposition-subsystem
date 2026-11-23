@@ -63,6 +63,18 @@ def load_bank(path) -> list:
     raise ValueError(f"题库格式不对：{p}（应为数组或含 items 字段的对象）")
 
 
+def load_vocabulary(level: dict) -> dict | None:
+    """读取等级配置中声明的词汇表；没有词汇表时返回 None。"""
+    cfg = level.get("vocabulary") or {}
+    rel = cfg.get("list_path")
+    if not rel:
+        return None
+    path = ROOT / rel
+    if not path.exists():
+        raise FileNotFoundError(f"词汇表不存在：{path}")
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
 def hanzi_of(text: str) -> list:
     return HANZI_RE.findall(text or "")
 
@@ -111,7 +123,8 @@ def validate_item(item: dict, level: dict) -> dict:
 
     # 语法声明
     decl = item.get("grammar") or []
-    if not decl:
+    # 词汇跟读/汉字跟读题只承担覆盖任务，不强行绑定语法点。
+    if not decl and item.get("kind") not in {"vocabulary", "character"}:
         warnings.append("未声明任何语法点")
     if decl and not gmap:
         warnings.append("本等级语法点清单待补，已跳过语法点校验")

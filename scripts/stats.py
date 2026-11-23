@@ -15,8 +15,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))  # 保证任意 cwd 下可 import lib
 
-from lib import (default_bank, load_bank, load_level, out_dir, validate_bank,
-                 char_freq, detect_grammar_freq)
+from lib import (default_bank, load_bank, load_level, load_vocabulary, out_dir,
+                 validate_bank, char_freq, detect_grammar_freq)
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -33,9 +33,29 @@ def compute(level, items):
     core_freq_min = th.get("core_char_freq_min", 0)
     grammar_cov_min = th.get("grammar_coverage_min", 0.0)
     grammar_freq_min = th.get("grammar_freq_min", 0)
+    vocab_cov_min = th.get("vocab_coverage_min", 0.0)
 
     cfreq = char_freq(clean)
     gfreq = detect_grammar_freq(clean, level)
+
+    # 词汇覆盖：以配置声明的词汇表为准，词条按规范词形去重统计。
+    # 题目可以显式声明 vocab_words（词汇/汉字跟读题），也可以由正文自然命中。
+    vocab_data = load_vocabulary(level)
+    vocab_words = []
+    if vocab_data:
+        vocab_words = sorted({x["word"] for x in (vocab_data.get("items") or []) if x.get("word")})
+    vocab_word_set = set(vocab_words)
+    vcovered = set()
+    if vocab_words:
+        for item in clean:
+            for w in item.get("vocab_words") or []:
+                if w in vocab_word_set:
+                    vcovered.add(w)
+            text = item.get("text", "")
+            for w in vocab_words:
+                if w in text:
+                    vcovered.add(w)
+    v_uncovered = [w for w in vocab_words if w not in vcovered]
 
     chars_cfg = level.get("chars") or {}
     # 可用 coverage_chars_key 指定验收口径（如高等只统计新增 1200 字），
@@ -79,6 +99,15 @@ def compute(level, items):
     else:
         notes.append("本等级语法点清单待补，语法覆盖率门禁未启用（接入清单后自动生效）")
 
+    vcov = pct(len(vocab_words) - len(v_uncovered), len(vocab_words))
+    if vocab_words:
+        if vcov < vocab_cov_min * 100:
+            failed.append(f"词汇覆盖率 {vcov}% 低于阈值 {vocab_cov_min * 100}%")
+        if v_uncovered and vocab_cov_min > 0:
+            failed.append(f"有 {len(v_uncovered)} 个词汇出现 0 次")
+    else:
+        notes.append("本等级词汇表待补，词汇覆盖率门禁未启用（接入词汇表后自动生效）")
+
     lo, hi = (level.get("constraints") or {}).get("bank_target_items", [0, 10 ** 9])
     n_valid = len(clean)
     if n_valid < lo or n_valid > hi:
@@ -112,6 +141,10 @@ def compute(level, items):
             "coverage": gcov, "uncovered": g_uncovered, "below_min": g_low,
             "freq": sorted(gfreq.items(), key=lambda kv: -kv[1]),
         },
+        "vocabulary": {
+            "total": len(vocab_words), "covered": len(vocab_words) - len(v_uncovered),
+            "coverage": vcov, "uncovered": v_uncovered,
+        },
         "verdict": "pass" if not failed else "fail",
         "failed_checks": failed,
         "notes": notes,
@@ -123,6 +156,7 @@ def compute(level, items):
         "boost_chars": boost_need,
         "new_grammar": [{"id": i, "name": gname[i]} for i in g_uncovered],
         "boost_grammar": [{"id": i, "name": gname[i], "have": gfreq[i], "need": grammar_freq_min - gfreq[i]} for i in g_low],
+        "new_vocab": v_uncovered[:500],
         "suggested_new_items": suggest_items,
         "guidance": (
             "出下一轮题时：每题围绕 2-4 个缺口字造句，仍只准用本等级字表；"
@@ -135,11 +169,13 @@ def compute(level, items):
 
 def render_md(level, s, tag):
     c, g = s["char"], s["grammar"]
+    v = s.get("vocabulary") or {"total": 0, "covered": 0, "coverage": 0, "uncovered": []}
     lines = [
         f"# 覆盖与频次统计报告（{s['level']} 级，标签 {tag}）",
         "",
         f"- 题库：共 {s['items_total']} 题，合格 {s['items_valid']}，不合格剔除 {s['items_invalid']}",
         f"- 字覆盖：{c['covered']}/{c['total']}（{c['coverage']}%），阈值 {(level.get('thresholds') or {}).get('char_coverage_min', 0) * 100}%",
+        f"- 词汇覆盖：{v['covered']}/{v['total']}（{v['coverage']}%），阈值 {(level.get('thresholds') or {}).get('vocab_coverage_min', 0) * 100}%",
         f"- 语法覆盖：{g['covered']}/{g['total']}（{g['coverage']}%）",
         f"- 结论：{'达标' if s['verdict'] == 'pass' else '未达标'}",
         "",
@@ -168,6 +204,8 @@ def render_md(level, s, tag):
     lines += ["", "## 语法点频次", "", "| 语法点 | 名称 | 次数 |", "| --- | --- | --- |"]
     gname = {gg["id"]: gg["name"] for gg in (level.get("grammar") or [])}
     lines += [f"| {gid} | {gname[gid]} | {n} |" for gid, n in g["freq"]]
+    if v["uncovered"]:
+        lines += ["", f"## 未覆盖词汇（{len(v['uncovered'])} 个）", "", "、".join(v["uncovered"])]
     return "\n".join(lines) + "\n"
 
 
@@ -190,9 +228,10 @@ def main():
     (d / f"adjust_plan_{args.tag}.json").write_text(json.dumps(plan, ensure_ascii=False, indent=2), encoding="utf-8")
     (d / f"stats_{args.tag}.md").write_text(render_md(level, stats, args.tag), encoding="utf-8")
 
-    c, g = stats["char"], stats["grammar"]
+    c, g, v = stats["char"], stats["grammar"], stats["vocabulary"]
     print(f"[统计] 合格 {stats['items_valid']}/{stats['items_total']} 题")
     print(f"[统计] 字覆盖 {c['covered']}/{c['total']}（{c['coverage']}%），未覆盖 {len(c['uncovered'])} 个")
+    print(f"[统计] 词汇覆盖 {v['covered']}/{v['total']}（{v['coverage']}%），未覆盖 {len(v['uncovered'])} 个")
     print(f"[统计] 核心字低频 {len(c['core_below_min'])} 个；语法覆盖 {g['covered']}/{g['total']}，缺口 {len(g['uncovered'])} 个，低频 {len(g['below_min'])} 个")
     print(f"[统计] 结论：{stats['verdict']}")
     for f in stats["failed_checks"]:

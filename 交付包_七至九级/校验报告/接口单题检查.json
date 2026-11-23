@@ -1,0 +1,17 @@
+{
+ "http://127.0.0.1:8001/api/questions?level=7&status=published&page=1&page_size=1": {
+  "total": 890
+ },
+ "http://127.0.0.1:8001/api/questions/L7-890": {
+  "id": "L7-890",
+  "level": 7,
+  "status": "published",
+  "grammar": []
+ },
+ "http://127.0.0.1:8001/api/questions/L7-600": {
+  "id": "L7-600",
+  "level": 7,
+  "status": "published",
+  "grammar": []
+ }
+}
