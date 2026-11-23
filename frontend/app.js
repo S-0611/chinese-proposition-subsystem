@@ -1243,7 +1243,7 @@ pickRole('student');
 const PROPOSITION_API_BASE = window.PROPOSITION_API_BASE || 'http://127.0.0.1:8001';
 const PROPOSITION_LEVEL_GROUPS = {
   1: [1], 2: [2], 3: [3], 4: [4], 5: [5], 6: [6],
-  7: [7, 8, 9], // 页面合并展示，后端仍按实际等级分别调用
+  7: [7], // 七至九级合并为 level 7；后端只存 level 7
 };
 let propositionLevels = [];
 
@@ -1298,7 +1298,7 @@ function renderPropositionLevelStatus(items){
   const t = $('nineLevelStatusTable');
   if (!t) return;
   const byLevel = Object.fromEntries((items || []).map(x => [Number(x.level), x]));
-  const groups = [[1],[2],[3],[4],[5],[6],[7,8,9]];
+  const groups = [[1],[2],[3],[4],[5],[6],[7]];
   let html = '<tr><th>等级</th><th>配置</th><th>题目数</th><th>状态</th></tr>';
   groups.forEach(group => {
     const rows = group.map(n => byLevel[n] || {level:n, question_count:0, status:'pending'});

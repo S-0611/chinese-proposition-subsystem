@@ -357,7 +357,7 @@
       <div class="card"><div class="hd">统计</div><div class="bd"><p>查看当前等级字覆盖率和语法点覆盖率。</p><button class="btn sm" onclick="statsPropositionPipeline()">开始统计</button></div></div>
       <div class="card"><div class="hd">抽题测试</div><div class="bd"><p>按当前等级和抽题方式测试接口。</p><button class="btn sm" onclick="drawPropositionQuestion()">开始抽题</button></div></div>
     </div>
-    <div class="card" style="margin-top:16px"><div class="hd">九级题库状态</div><div class="bd"><table id="nineLevelStatusTable"><tr><th>等级</th><th>配置</th><th>题目数</th><th>状态</th></tr><tr><td colspan="4" class="mut">正在读取后端状态…</td></tr></table><p class="note">七至九级在页面上合并为一个抽题入口；后端仍按 7、8、9 级分别存储和校验，只有已发布题目才会被抽取。</p></div></div>
+    <div class="card" style="margin-top:16px"><div class="hd">九级题库状态</div><div class="bd"><table id="nineLevelStatusTable"><tr><th>等级</th><th>配置</th><th>题目数</th><th>状态</th></tr><tr><td colspan="4" class="mut">正在读取后端状态…</td></tr></table><p class="note">七至九级在页面上合并为一个抽题入口；后端按 level 7 合并存储和校验，只有已发布题目才会被抽取。</p></div></div>
     <div class="card" style="margin-top:16px"><div class="hd">当前等级题库 <span id="propSource" class="mut">等待加载</span></div><div class="bd" style="padding:0;overflow:auto"><table id="propQuestionTable"></table></div></div>
     <div class="card" style="margin-top:16px"><div class="hd">流水线结果</div><div class="bd"><pre id="propPipelineResult" class="jsonview">尚未执行校验、统计或抽题</pre></div></div>
   </section>
