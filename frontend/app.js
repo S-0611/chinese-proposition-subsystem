@@ -1257,6 +1257,7 @@ function propositionLabel(level){
 function propositionStatusLabel(status){
   if (status === 'available') return '已入库';
   if (status === 'partial') return '部分可用';
+  if (status === 'merged') return '已合并';
   return '待接入';
 }
 function propositionResult(value){
@@ -1268,7 +1269,8 @@ function propositionError(data, fallback){
 }
 async function propositionFetch(path, options){
   try{
-    const response = await fetch(`${PROPOSITION_API_BASE}${path}`, options);
+    const opts = {cache:'no-store', ...(options || {})};
+    const response = await fetch(`${PROPOSITION_API_BASE}${path}`, opts);
     let data = null;
     try { data = await response.json(); } catch (_) { /* 空响应 */ }
     return {ok: response.ok, status: response.status, data};
