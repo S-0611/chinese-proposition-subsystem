@@ -1,0 +1,7 @@
+{
+  "check": "github-upload-connectivity",
+  "checked_at": "2026-11-23T19:57:07+08:00",
+  "repository": "S-0611/chinese-proposition-subsystem",
+  "purpose": "验证当前网络环境下能否把新文件提交并推送到 GitHub main",
+  "expected_remote_head_before": "7e2cd132c9fd83acd1c944c4eeb02629ecf97d77"
+}
