@@ -8,8 +8,10 @@
     python -m uvicorn backend.main:app --host 127.0.0.1 --port 8001
     Swagger 文档：http://127.0.0.1:8001/docs
 
-九级约定：
+等级约定：
     level 取值范围 1—9；数据文件 data/levels/levelN.json，题库 banks/levelN/，报告 reports/levelN/。
+    七至九级按标准合并：data/levels/level8.json、level9.json 的 merged_into=7，
+    所有 level=8/9 的请求统一归一到 level=7 读写；响应保留 requested_level 便于调用方追踪。
     尚未建立题库的等级返回标准空题库响应（见 docs/九级空题库返回示例.json）。
 """
 import json
@@ -35,8 +37,8 @@ from lib import SUPPORTED_LEVELS, load_level, validate_bank, validate_item  # no
 import stats as stats_mod  # noqa: E402
 from manual_review import manual_review_gate  # noqa: E402
 
-app = FastAPI(title="命题子系统后端 API", version="0.3.0",
-              description="题库查询 / 校验 / 统计 / 发布 / 按等级抽题 / 按覆盖程度推荐抽题（一级至九级）")
+app = FastAPI(title="命题子系统后端 API", version="0.3.1",
+              description="题库查询 / 校验 / 统计 / 发布 / 按等级抽题 / 按覆盖程度推荐抽题（一级至九级；7-9 合并为 level 7）")
 
 app.add_middleware(
     CORSMiddleware,
@@ -57,6 +59,47 @@ STATUS_FLOW = {
 }
 
 
+def _load_level_aliases() -> dict[int, int]:
+    """读取配置中的 merged_into，建立 8/9 → 7 的别名表。"""
+    aliases: dict[int, int] = {}
+    for n in SUPPORTED_LEVELS:
+        path = ROOT / "data" / "levels" / f"level{n}.json"
+        if not path.exists():
+            continue
+        try:
+            cfg = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        target = cfg.get("merged_into")
+        if target:
+            aliases[int(n)] = int(target)
+    return aliases
+
+
+LEVEL_ALIASES = _load_level_aliases()
+
+
+def canonical_level(level: int | None) -> int | None:
+    """把 8/9 等合并级别归一到实际存储级别（7）；支持多跳别名。"""
+    if level is None:
+        return None
+    seen = set()
+    while level in LEVEL_ALIASES and level not in seen:
+        seen.add(level)
+        level = LEVEL_ALIASES[level]
+    return level
+
+
+def level_meta(requested: int | None, canonical: int | None) -> dict:
+    """响应中的等级元数据：level 为实际读写级别，requested_level 保留入参。"""
+    merged = requested if requested != canonical else None
+    return {
+        "level": canonical,
+        "requested_level": requested,
+        "merged_into": canonical if merged is not None else None,
+    }
+
+
 def now_iso() -> str:
     return datetime.now(CN_TZ).isoformat(timespec="seconds")
 
@@ -65,6 +108,7 @@ def fetch_items(conn, level=None, status=None):
     sql = "SELECT * FROM questions WHERE 1=1"
     args = []
     if level is not None:
+        level = canonical_level(level)
         sql += " AND level=?"
         args.append(level)
     if status is not None:
@@ -74,6 +118,7 @@ def fetch_items(conn, level=None, status=None):
 
 
 def level_has_data(conn, level) -> bool:
+    level = canonical_level(level)
     return conn.execute("SELECT COUNT(*) FROM questions WHERE level=?", (level,)).fetchone()[0] > 0
 
 
@@ -86,8 +131,9 @@ def service_info():
         n = conn.execute("SELECT COUNT(*) FROM questions").fetchone()[0]
     finally:
         conn.close()
-    return {"service": "命题子系统后端", "version": "0.2.0",
-            "questions_total": n, "docs": "/docs"}
+    return {"service": "命题子系统后端", "version": "0.3.1",
+            "questions_total": n, "docs": "/docs",
+            "merged_levels": LEVEL_ALIASES}
 
 
 MAX_LEVEL = max(SUPPORTED_LEVELS)  # 9
@@ -98,15 +144,23 @@ def list_questions(level: int | None = Query(None, ge=1, le=MAX_LEVEL),
                    status: str | None = Query(None)):
     if status is not None and status not in db.ALLOWED_STATUS:
         raise HTTPException(400, f"非法状态 {status}，允许：{', '.join(db.ALLOWED_STATUS)}")
+    requested_level = level
+    level = canonical_level(level)
     conn = db.connect()
     try:
         if level is not None and not level_has_data(conn, level):
             # 标准空题库响应：明确区分“题库尚未完成”与“查询出错”，绝不返回其他等级的题目
-            return {"total": 0, "items": [], "detail": "该等级题库尚未完成"}
+            payload = {"total": 0, "items": [], "detail": "该等级题库尚未完成"}
+            if requested_level is not None:
+                payload.update(level_meta(requested_level, level))
+            return payload
         items = fetch_items(conn, level, status)
     finally:
         conn.close()
-    return {"total": len(items), "items": items}
+    payload = {"total": len(items), "items": items}
+    if requested_level is not None:
+        payload.update(level_meta(requested_level, level))
+    return payload
 
 
 @app.get("/api/levels")
@@ -121,14 +175,34 @@ def list_levels():
     counts = {r["level"]: r["n"] for r in rows}
     items = []
     for lv in SUPPORTED_LEVELS:
+        canonical = canonical_level(lv)
+        if canonical != lv:
+            items.append({
+                "level": lv,
+                "question_count": 0,
+                "status": "merged",
+                "merged_into": canonical,
+                "detail": f"该等级合并至 level {canonical}，请使用 level={canonical} 查询",
+            })
+            continue
         n = counts.get(lv, 0)
         items.append({
             "level": lv,
             "question_count": n,
             "status": "available" if n > 0 else "pending",
+            "merged_into": None,
             "detail": None if n > 0 else "该等级题库尚未完成",
         })
-    return {"total": len(items), "items": items}
+    merged_groups = []
+    for canonical in sorted({canonical_level(n) for n in SUPPORTED_LEVELS}):
+        members = [n for n in SUPPORTED_LEVELS if canonical_level(n) == canonical]
+        if len(members) > 1:
+            merged_groups.append({
+                "levels": members,
+                "level": canonical,
+                "question_count": counts.get(canonical, 0),
+            })
+    return {"total": len(items), "items": items, "merged_groups": merged_groups}
 
 
 # ── 抽题接口（必须先于 /api/questions/{qid} 注册，避免路径抢占）──
@@ -136,7 +210,9 @@ def list_levels():
 @app.get("/api/questions/random")
 def random_questions(level: int = Query(..., ge=1, le=MAX_LEVEL),
                      n: int = Query(1, ge=1, le=MAX_N)):
-    """按等级抽题：仅在 published 题中等概率抽取（成员B 第四天任务）。"""
+    """按等级抽题：仅在 published 题中等概率抽取；8/9 自动归一到 7。"""
+    requested_level = level
+    level = canonical_level(level)
     conn = db.connect()
     try:
         pool = fetch_items(conn, level=level, status="published")
@@ -149,10 +225,11 @@ def random_questions(level: int = Query(..., ge=1, le=MAX_LEVEL),
         for it in picked:
             conn.execute("UPDATE questions SET last_selected_at=? WHERE id=?", (stamp, it["id"]))
             it["last_selected_at"] = stamp
-        db.add_run(conn, "draw", level, {"mode": "random", "n": n, "ids": [i["id"] for i in picked]})
+        db.add_run(conn, "draw", level, {"mode": "random", "n": n, "requested_level": requested_level,
+                                         "ids": [i["id"] for i in picked]})
     finally:
         conn.close()
-    return {"level": level, "mode": "random", "items": picked}
+    return {"mode": "random", **level_meta(requested_level, level), "items": picked}
 
 
 @app.get("/api/questions/recommend")
@@ -168,6 +245,8 @@ def recommend_questions(level: int = Query(..., ge=1, le=MAX_LEVEL),
       2. 排除最近 recent_minutes 内抽过的题后，按 w = max(0, C - rec_count) 加权不放回抽取 n 题。
     若候选被时间窗排空，自动放宽时间窗；若候选权重全为 0（录音数已达 C），返回 404。
     """
+    requested_level = level
+    level = canonical_level(level)
     conn = db.connect()
     try:
         pool = fetch_items(conn, level=level, status="published")
@@ -220,6 +299,7 @@ def recommend_questions(level: int = Query(..., ge=1, le=MAX_LEVEL),
             conn.execute("UPDATE questions SET last_selected_at=? WHERE id=?", (stamp, it["id"]))
             it["last_selected_at"] = stamp
         db.add_run(conn, "draw", level, {"mode": "recommend", "n": len(picked),
+                                         "requested_level": requested_level,
                                          "C": C, "candidate_size": candidate_size,
                                          "recent_minutes": recent_minutes,
                                          "window_relaxed_min": relaxed,
@@ -227,7 +307,7 @@ def recommend_questions(level: int = Query(..., ge=1, le=MAX_LEVEL),
     finally:
         conn.close()
     return {
-        "level": level, "mode": "recommend",
+        **level_meta(requested_level, level), "mode": "recommend",
         "algorithm": {
             "formula": "w = max(0, C - rec_count)",
             "C": C, "candidate_size": candidate_size,
@@ -395,18 +475,20 @@ class PublishBody(BaseModel):
 
 @app.post("/api/pipeline/publish")
 def publish_level(body: PublishBody):
-    """整级发布：先做题库整体达标检查，通过后把该等级全部 ready/validated/draft 题置为 published。"""
+    """整级发布：先做题库整体达标检查，通过后把该等级全部 ready/validated/draft 题置为 published；8/9 归一到 7。"""
+    requested_level = body.level
+    level = canonical_level(requested_level)
     conn = db.connect()
     try:
-        if not level_has_data(conn, body.level):
-            raise HTTPException(404, f"等级 {body.level} 题库尚未完成（该等级题库尚未完成，请先导入）")
-        items = fetch_items(conn, level=body.level)
-        cfg = load_level(body.level)
+        if not level_has_data(conn, level):
+            raise HTTPException(404, f"等级 {level} 题库尚未完成（该等级题库尚未完成，请先导入）")
+        items = fetch_items(conn, level=level)
+        cfg = load_level(level)
         s, _ = stats_mod.compute(cfg, items)
         if s["verdict"] != "pass":
             raise HTTPException(400, f"题库整体未达标，不能发布：{'；'.join(s['failed_checks'])}")
         if cfg.get("manual_review_required", True):
-            review_gate = manual_review_gate(ROOT, body.level)
+            review_gate = manual_review_gate(ROOT, level)
             if not review_gate["ok"]:
                 if review_gate["reason"] == "manual_review_missing_or_invalid":
                     raise HTTPException(400, f"人工复核门禁未通过：复核文件缺失或无效（{review_gate['review'].get('path')}）")
@@ -414,12 +496,12 @@ def publish_level(body: PublishBody):
                 raise HTTPException(400, f"人工复核门禁未通过：仍有未解决的 P0 问题（{ids}）")
         cur = conn.execute(
             "UPDATE questions SET status='published' WHERE level=? AND status IN ('ready','validated','draft')",
-            (body.level,)).rowcount
-        db.add_run(conn, "publish", body.level, {"scope": "level", "count": cur})
+            (level,)).rowcount
+        db.add_run(conn, "publish", level, {"scope": "level", "requested_level": requested_level, "count": cur})
     finally:
         conn.close()
-    return {"ok": True, "level": body.level, "published_count": cur,
-            "message": f"等级 {body.level} 已发布 {cur} 题（仅 published 题目可被抽取）"}
+    return {"ok": True, **level_meta(requested_level, level), "published_count": cur,
+            "message": f"等级 {level} 已发布 {cur} 题（仅 published 题目可被抽取）"}
 
 
 # ── 校验 / 统计接入（第三天任务）────────────────────────────
@@ -427,13 +509,15 @@ def publish_level(body: PublishBody):
 def _save_round(level, kind, payload):
     d = ROOT / "reports" / f"level{level}"
     d.mkdir(parents=True, exist_ok=True)
-    fname = d / f"api_{kind}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+    fname = d / f"api_{kind}_{datetime.now().strftime('%Y%m%d_%H%M%S_%f')}.json"
     fname.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     return fname
 
 
 @app.post("/api/pipeline/validate")
 def pipeline_validate(level: int = Query(1, ge=1, le=MAX_LEVEL)):
+    requested_level = level
+    level = canonical_level(level)
     conn = db.connect()
     try:
         items = fetch_items(conn, level=level)
@@ -444,7 +528,7 @@ def pipeline_validate(level: int = Query(1, ge=1, le=MAX_LEVEL)):
         bad = [{"id": r["item"]["id"], "text": r["item"]["text"],
                 "errors": r["errors"]} for r in results if not r["ok"]]
         payload = {
-            "kind": "validate", "level": level,
+            "kind": "validate", **level_meta(requested_level, level),
             "run_at": now_iso(), "total": len(items),
             "valid": len(items) - len(bad), "invalid": len(bad),
             "dup_ids": dup_ids, "dup_texts": dup_texts,
@@ -453,6 +537,7 @@ def pipeline_validate(level: int = Query(1, ge=1, le=MAX_LEVEL)):
         }
         fname = _save_round(level, "validate", payload)
         db.add_run(conn, "validate", level, {"verdict": payload["verdict"],
+                                             "requested_level": requested_level,
                                              "valid": payload["valid"],
                                              "invalid": payload["invalid"], "file": str(fname)})
     finally:
@@ -462,6 +547,8 @@ def pipeline_validate(level: int = Query(1, ge=1, le=MAX_LEVEL)):
 
 @app.post("/api/pipeline/stats")
 def pipeline_stats(level: int = Query(1, ge=1, le=MAX_LEVEL)):
+    requested_level = level
+    level = canonical_level(level)
     conn = db.connect()
     try:
         items = fetch_items(conn, level=level)
@@ -469,12 +556,13 @@ def pipeline_stats(level: int = Query(1, ge=1, le=MAX_LEVEL)):
             raise HTTPException(404, f"等级 {level} 题库尚未完成（该等级题库尚未完成，请先导入）")
         cfg = load_level(level)
         s, plan = stats_mod.compute(cfg, items)
-        payload = {"kind": "stats", "level": level, "run_at": now_iso(), **s,
+        payload = {"kind": "stats", **level_meta(requested_level, level), "run_at": now_iso(), **s,
                    "plan": {"suggested_new_items": plan["suggested_new_items"],
                             "uncovered_chars": plan["new_chars"],
                             "uncovered_grammar": plan["new_grammar"]}}
         fname = _save_round(level, "stats", payload)
-        db.add_run(conn, "stats", level, {"verdict": s["verdict"], "file": str(fname)})
+        db.add_run(conn, "stats", level, {"verdict": s["verdict"],
+                                          "requested_level": requested_level, "file": str(fname)})
     finally:
         conn.close()
     return {**payload, "saved_to": str(fname.relative_to(ROOT))}

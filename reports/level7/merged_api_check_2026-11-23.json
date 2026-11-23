@@ -1,0 +1,140 @@
+{
+ "levels": {
+  "l7": {
+   "level": 7,
+   "question_count": 360,
+   "status": "available",
+   "merged_into": null,
+   "detail": null
+  },
+  "l8": {
+   "level": 8,
+   "question_count": 0,
+   "status": "merged",
+   "merged_into": 7,
+   "detail": "该等级合并至 level 7，请使用 level=7 查询"
+  },
+  "l9": {
+   "level": 9,
+   "question_count": 0,
+   "status": "merged",
+   "merged_into": 7,
+   "detail": "该等级合并至 level 7，请使用 level=7 查询"
+  },
+  "merged_groups": [
+   {
+    "levels": [
+     7,
+     8,
+     9
+    ],
+    "level": 7,
+    "question_count": 360
+   }
+  ]
+ },
+ "list_8": {
+  "total": 360,
+  "level": 7,
+  "requested_level": 8,
+  "merged_into": 7,
+  "item_levels": [
+   7
+  ],
+  "first_id": "L7-001"
+ },
+ "random_8": {
+  "count": 5,
+  "level": 7,
+  "requested_level": 8,
+  "ids": [
+   "L7-070",
+   "L7-082",
+   "L7-188",
+   "L7-262",
+   "L7-214"
+  ]
+ },
+ "recommend_8": {
+  "count": 5,
+  "level": 7,
+  "requested_level": 8,
+  "ids": [
+   "L7-002",
+   "L7-011",
+   "L7-017",
+   "L7-015",
+   "L7-018"
+  ]
+ },
+ "list_9": {
+  "total": 360,
+  "level": 7,
+  "requested_level": 9,
+  "merged_into": 7,
+  "item_levels": [
+   7
+  ],
+  "first_id": "L7-001"
+ },
+ "random_9": {
+  "count": 5,
+  "level": 7,
+  "requested_level": 9,
+  "ids": [
+   "L7-276",
+   "L7-045",
+   "L7-273",
+   "L7-282",
+   "L7-275"
+  ]
+ },
+ "recommend_9": {
+  "count": 5,
+  "level": 7,
+  "requested_level": 9,
+  "ids": [
+   "L7-010",
+   "L7-014",
+   "L7-003",
+   "L7-007",
+   "L7-013"
+  ]
+ },
+ "validate_8": {
+  "level": 7,
+  "requested_level": 8,
+  "total": 360,
+  "valid": 360,
+  "invalid": 0,
+  "verdict": "pass",
+  "saved_to": "reports\\level7\\api_validate_20261123_112458_647764.json"
+ },
+ "stats_8": {
+  "level": 7,
+  "requested_level": 8,
+  "char_covered": 1121,
+  "char_total": 1200,
+  "grammar_covered": 148,
+  "grammar_total": 148,
+  "verdict": "pass"
+ },
+ "validate_9": {
+  "level": 7,
+  "requested_level": 9,
+  "total": 360,
+  "valid": 360,
+  "invalid": 0,
+  "verdict": "pass",
+  "saved_to": "reports\\level7\\api_validate_20261123_112458_795699.json"
+ },
+ "stats_9": {
+  "level": 7,
+  "requested_level": 9,
+  "char_covered": 1121,
+  "char_total": 1200,
+  "grammar_covered": 148,
+  "grammar_total": 148,
+  "verdict": "pass"
+ }
+}
