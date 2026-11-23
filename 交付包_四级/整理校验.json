@@ -1,0 +1,66 @@
+{
+  "standard": "GF 0025—2021《国际中文教育中文水平等级标准》",
+  "generated_at": "2026-11-23",
+  "scope": "四级题库交付包（level 4）",
+  "checks": {
+    "all_json_utf8_readable": true,
+    "bank_items": 691,
+    "bank_fields_complete": true,
+    "bank_ids_unique": true,
+    "bank_level_field": [
+      4
+    ],
+    "bank_round_distribution": {
+      "1": 142,
+      "2": 142,
+      "3": 142,
+      "4": 265
+    },
+    "chars_new_level4": 300,
+    "chars_new_level4_standard": 300,
+    "cumulative_chars_project": 1200,
+    "cumulative_chars_standard": 1200,
+    "cumulative_chars_diff": 0,
+    "table_internal_duplicates": {
+      "L1": [],
+      "L2": [],
+      "L3": [],
+      "L4": []
+    },
+    "cross_level_duplicate_chars": {},
+    "grammar_new_level4": 76,
+    "grammar_new_level4_standard": 76,
+    "grammar_cumulative_project": 280,
+    "grammar_cumulative_standard": 286,
+    "syllable_and_vocab": "未建（本项目按汉字出题，标准四级音节 116/724、词汇 1000/3245 未纳入）",
+    "mock_vs_formal": "banks/final4.json（426 题草稿）单独存为「四级题库_原稿426题_未改.json」；banks/level4/final.json（690 题）为本次整理后的正式题库，二者未混并"
+  },
+  "verdict": "题库项全部通过；表源项 2 项未通过（见 failed_checks）",
+  "failed_checks": [
+    "累计表存在跨等级重复：二级表第 200 号应为「虽」却写成「虫」，三级表第 251 号应为「烟」却插入了「严」；PDF 原文二、三级表均无「虫」「严」，二字只属四级表",
+    "累计语法点 280，标准 286（一级 42 vs 48）"
+  ],
+  "not_applicable": [
+    "音节 116/724、词汇 1000/3245 未建表，不在本次题库口径内"
+  ],
+  "differences": [
+    {
+      "item": "累计汉字",
+      "standard": 1200,
+      "project": 1200,
+      "detail": "二级表第 200 号 PDF 原文为「虽」，配置原写「虫」——已于 2026-11-23 修正配置并改写 L2-322；三级表第 251 号 PDF 原文为「烟」，配置在此插入「严」并把「烟」前移到 250。二者是二、三级配置的转录错误，不是标准表重叠；修正后累计即为 1200（四级表本身无误，无需改动）"
+    },
+    {
+      "item": "累计语法点",
+      "standard": 286,
+      "project": 280,
+      "detail": "一级语法点项目为 42 条，标准为 48 条（标准 PDF 第 8 页 3.1.1 一级标准：语法点 48 个）"
+    },
+    {
+      "item": "音节/词汇",
+      "standard": "四级新增音节 116（累计 724）；新增词汇 1000（累计 3245）",
+      "project": "未建",
+      "detail": "题库按汉字出题，未建音节表与词汇表，覆盖率只考核汉字与语法点"
+    }
+  ]
+}

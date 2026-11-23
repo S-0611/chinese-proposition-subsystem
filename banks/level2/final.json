@@ -2264,8 +2264,8 @@
    "id": "L2-227",
    "level": 2,
    "round": 1,
-   "text": "他的书上放着几支笔。",
-   "pinyin": "tā de shū shàng fàng zhe jǐ zhī bǐ。",
+   "text": "他的书上放着几本书。",
+   "pinyin": "tā de shū shàng fàng zhe jǐ běn shū。",
    "grammar": [
     "G2-56"
    ]
@@ -3134,8 +3134,8 @@
    "id": "L2-314",
    "level": 2,
    "round": 3,
-   "text": "他帮助我解决了问题。",
-   "pinyin": "tā bāng zhù wǒ jiě jué le wèn tí。",
+   "text": "他帮助我做完作业。",
+   "pinyin": "tā bāng zhù wǒ zuò wán zuò yè。",
    "grammar": [
     "G2-57"
    ]
@@ -3564,8 +3564,8 @@
    "id": "L2-357",
    "level": 2,
    "round": 3,
-   "text": "他受够了这种生活。",
-   "pinyin": "tā shòu gòu le zhè zhǒng shēng huó。",
+   "text": "他受够了这份工作。",
+   "pinyin": "tā shòu gòu le zhè fèn gōng zuò。",
    "grammar": [
     "G2-49"
    ]
@@ -3584,8 +3584,8 @@
    "id": "L2-359",
    "level": 2,
    "round": 3,
-   "text": "房间里装着两台电脑。",
-   "pinyin": "fáng jiān lǐ zhuāng zhe liǎng tái diàn nǎo。",
+   "text": "房间里装着新灯。",
+   "pinyin": "fáng jiān lǐ zhuāng zhe xīn dēng。",
    "grammar": [
     "G2-56"
    ]
