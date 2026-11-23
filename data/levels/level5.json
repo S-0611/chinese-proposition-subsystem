@@ -1,20 +1,20 @@
 {
   "level": 5,
-  "name": "五级（中等五级）",
+  "name": "五级（中等二级）",
   "tier": "intermediate",
-  "source_note": "汉字表见 GF 0025—2021 5.5 五级汉字表，书内第21–22页（PDF 27–28页），逐页视读转录并按拼音序、级间零重叠双重校验；语法点见附录A.5 五级语法点，书内第216–227页（PDF 222–233页），共71条。题库规模：71条语法点×2句基线题＋按300字表覆盖补充题，实测384题；core 取题库实测频次≥2的高频字（上限40字，实际 38 字）。；chars.new=本级新增字表，chars.all=1—N级累计字表（由各级新增字表合并）；超出累计字表按警告处理；语法按 id 归属校验；人工复核待补，当前为机器初筛。",
+  "source_note": "汉字表见 GF 0025—2021 5.5 五级汉字表，书内第21–22页（PDF 27–28页）；以《五级官方字表.json》累计 1500 字为口径（chars.all 由一级至五级新增表合并，级间零重叠）。语法点见附录A.5 五级语法点，书内第216–227页（PDF 222–233页），共71条。正式题库 760 题，覆盖累计 1500 字与 71 个语法点；句长 3–30 字；超出累计字表按错误处理；语法按 id 归属校验，语义仍需人工复核（发布前必须通过 manual_review 门禁）。",
   "constraints": {
     "min_chars": 3,
-    "max_chars": 12,
+    "max_chars": 30,
     "allow_ascii": false,
     "allow_digits": false,
     "bank_target_items": [
-      364,
-      441
+      480,
+      760
     ]
   },
   "thresholds": {
-    "char_coverage_min": 0.9,
+    "char_coverage_min": 1.0,
     "char_freq_min": 1,
     "core_char_freq_min": 2,
     "grammar_coverage_min": 1.0,
@@ -665,7 +665,7 @@
       "尊",
       "遵"
     ],
-    "out_of_list_mode": "warn"
+    "out_of_list_mode": "error"
   },
   "grammar": [
     {
@@ -1097,5 +1097,5 @@
   ],
   "char_table_mode": "cumulative",
   "grammar_validation": "id_only",
-  "manual_review_required": false
+  "manual_review_required": true
 }

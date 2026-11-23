@@ -1,0 +1,937 @@
+{
+  "level": 5,
+  "section": "附录 A（规范性）语法等级大纲 A.5 五级语法点",
+  "source_pdf": "国际中文教育中文水平等级标准.pdf",
+  "pdf_pages": [
+    222,
+    233
+  ],
+  "printed_pages": [
+    216,
+    227
+  ],
+  "new_count": 71,
+  "cumulative_count": 357,
+  "count_rule": "五级新增语法点 71 个，截至五级累计 357 个；71 个点编号为【五01】—【五71】。",
+  "points": [
+    {
+      "order": 1,
+      "id": "五01",
+      "name": "指示代词：彼此、如此",
+      "category_code": "A.5.1.1",
+      "category": "代词",
+      "examples": [
+        "朋友之间应该彼此信任。",
+        "我们是多年的好朋友，不分彼此。"
+      ],
+      "pdf_page": 222,
+      "printed_page": 216
+    },
+    {
+      "order": 2,
+      "id": "五02",
+      "name": "名量词：册、朵、幅、届、颗、匹、扇",
+      "category_code": "A.5.1.2",
+      "category": "量词",
+      "examples": [],
+      "pdf_page": 222,
+      "printed_page": 216
+    },
+    {
+      "order": 3,
+      "id": "五03",
+      "name": "程度副词：过于、可1、稍、稍微、尤其",
+      "category_code": "A.5.1.3",
+      "category": "副词",
+      "examples": [
+        "这件事发生得过于突然了。",
+        "他女朋友可漂亮了！"
+      ],
+      "pdf_page": 222,
+      "printed_page": 216
+    },
+    {
+      "order": 4,
+      "id": "五04",
+      "name": "范围副词：大都",
+      "category_code": "A.5.1.3",
+      "category": "副词",
+      "examples": [
+        "参加划船比赛的大都是女生。",
+        "我们班的学生大都很爱学习。"
+      ],
+      "pdf_page": 222,
+      "printed_page": 216
+    },
+    {
+      "order": 5,
+      "id": "五05",
+      "name": "时间副词：不时、将、将要、仍旧、时常、时刻、依旧、一向",
+      "category_code": "A.5.1.3",
+      "category": "副词",
+      "examples": [
+        "我不时想起过去的事情。",
+        "明年我们将去国外考察。"
+      ],
+      "pdf_page": 222,
+      "printed_page": 216
+    },
+    {
+      "order": 6,
+      "id": "五06",
+      "name": "频率、重复副词：偶尔、再次",
+      "category_code": "A.5.1.3",
+      "category": "副词",
+      "examples": [
+        "他不常请假，只是偶尔迟到一次。",
+        "我们决不让类似的事情再次发生。"
+      ],
+      "pdf_page": 223,
+      "printed_page": 217
+    },
+    {
+      "order": 7,
+      "id": "五07",
+      "name": "方式副词：偷偷",
+      "category_code": "A.5.1.3",
+      "category": "副词",
+      "examples": [
+        "我偷偷送给他一件礼物。",
+        "她偷偷地从窗户向外看。"
+      ],
+      "pdf_page": 223,
+      "printed_page": 217
+    },
+    {
+      "order": 8,
+      "id": "五08",
+      "name": "语气副词：毕竟、不免、差（一）点儿、倒是、干脆、就、居然、可、明明、总算",
+      "category_code": "A.5.1.3",
+      "category": "副词",
+      "examples": [
+        "不要怪他，他毕竟还小。",
+        "第一次参加考试，不免有些紧张。"
+      ],
+      "pdf_page": 223,
+      "printed_page": 217
+    },
+    {
+      "order": 9,
+      "id": "五09",
+      "name": "随着",
+      "category_code": "A.5.1.4.1",
+      "category": "引出时间、处所",
+      "examples": [
+        "随着时间的推进，我慢慢理解了他的做法。",
+        "随着冬天的到来，房间越来越冷。"
+      ],
+      "pdf_page": 223,
+      "printed_page": 217
+    },
+    {
+      "order": 10,
+      "id": "五10",
+      "name": "将",
+      "category_code": "A.5.1.4.2",
+      "category": "引出施事、受事",
+      "examples": [
+        "父母将他送到中国留学。",
+        "禁止将书带出阅览室。"
+      ],
+      "pdf_page": 223,
+      "printed_page": 217
+    },
+    {
+      "order": 11,
+      "id": "五11",
+      "name": "由²",
+      "category_code": "A.5.1.4.2",
+      "category": "引出施事、受事",
+      "examples": [
+        "这道题由你来回答吧。",
+        "这件事情由班长负责。"
+      ],
+      "pdf_page": 223,
+      "printed_page": 217
+    },
+    {
+      "order": 12,
+      "id": "五12",
+      "name": "凭",
+      "category_code": "A.5.1.4.3",
+      "category": "引出凭借、依据",
+      "examples": [
+        "凭他的水平，通过这次考试没有问题。",
+        "凭经验进行判断往往是不准确的。"
+      ],
+      "pdf_page": 224,
+      "printed_page": 218
+    },
+    {
+      "order": 13,
+      "id": "五13",
+      "name": "依据",
+      "category_code": "A.5.1.4.3",
+      "category": "引出凭借、依据",
+      "examples": [
+        "要依据事实办事。",
+        "警察依据线索抓住了坏人。"
+      ],
+      "pdf_page": 224,
+      "printed_page": 218
+    },
+    {
+      "order": 14,
+      "id": "五14",
+      "name": "依照",
+      "category_code": "A.5.1.4.3",
+      "category": "引出凭借、依据",
+      "examples": [
+        "他想依照自己喜欢的方式去生活。",
+        "依照学校的规定，学生要按时上课，不能迟到。"
+      ],
+      "pdf_page": 224,
+      "printed_page": 218
+    },
+    {
+      "order": 15,
+      "id": "五15",
+      "name": "连接分句或句子：从而、加上、完了、一旦",
+      "category_code": "A.5.1.5",
+      "category": "连词",
+      "examples": [
+        "他努力学习，从而实现了当翻译的理想。",
+        "今天天气不太好，加上你还有很多作业，我们还是别去公园了吧。"
+      ],
+      "pdf_page": 224,
+      "printed_page": 218
+    },
+    {
+      "order": 16,
+      "id": "五16",
+      "name": "其他助词：也好",
+      "category_code": "A.5.1.6",
+      "category": "助词",
+      "examples": [
+        "你来也好，不来也好，随便吧。",
+        "多学一门语言也好，将来可以凭此找份工作。"
+      ],
+      "pdf_page": 224,
+      "printed_page": 218
+    },
+    {
+      "order": 17,
+      "id": "五17",
+      "name": "A来A去",
+      "category_code": "A.5.2.1.1",
+      "category": "四字格",
+      "examples": [
+        "想来想去，还是小王最合适。",
+        "大家讨论来讨论去，最后还是没解决。"
+      ],
+      "pdf_page": 224,
+      "printed_page": 218
+    },
+    {
+      "order": 18,
+      "id": "五18",
+      "name": "A着A着",
+      "category_code": "A.5.2.1.1",
+      "category": "四字格",
+      "examples": [
+        "她说着说着就哭起来了。",
+        "我躺在床上看电视，看着看着就睡着了。"
+      ],
+      "pdf_page": 224,
+      "printed_page": 218
+    },
+    {
+      "order": 19,
+      "id": "五19",
+      "name": "没A没B",
+      "category_code": "A.5.2.1.1",
+      "category": "四字格",
+      "examples": [
+        "一上午没吃没喝，我要饿死了。",
+        "这孩子说话没大没小的，一点儿礼貌都没有。"
+      ],
+      "pdf_page": 225,
+      "printed_page": 219
+    },
+    {
+      "order": 20,
+      "id": "五20",
+      "name": "说A就A",
+      "category_code": "A.5.2.1.1",
+      "category": "四字格",
+      "examples": [
+        "为什么人生需要有一次说走就走的旅行？",
+        "说干就干，只有干才能找到办法。"
+      ],
+      "pdf_page": 225,
+      "printed_page": 219
+    },
+    {
+      "order": 21,
+      "id": "五21",
+      "name": "有A有B",
+      "category_code": "A.5.2.1.1",
+      "category": "四字格",
+      "examples": [
+        "下课了，同学们有说有笑地走出了教室。",
+        "这里的农村有山有水，空气好，农民们过上了好日子。"
+      ],
+      "pdf_page": 225,
+      "printed_page": 219
+    },
+    {
+      "order": 22,
+      "id": "五22",
+      "name": "不得了",
+      "category_code": "A.5.2.1.2",
+      "category": "其他",
+      "examples": [
+        "你又考了第一名，真是不得了！",
+        "不得了了，房间里进水了。"
+      ],
+      "pdf_page": 225,
+      "printed_page": 219
+    },
+    {
+      "order": 23,
+      "id": "五23",
+      "name": "不敢当",
+      "category_code": "A.5.2.1.2",
+      "category": "其他",
+      "examples": [
+        "这样的奖励我真是不敢当。",
+        "不敢当，我只是做了我应该做的事情。"
+      ],
+      "pdf_page": 225,
+      "printed_page": 219
+    },
+    {
+      "order": 24,
+      "id": "五24",
+      "name": "得了",
+      "category_code": "A.5.2.1.2",
+      "category": "其他",
+      "examples": [
+        "麻烦别人还不如你自己去得了。",
+        "得了吧，他不可能帮助别人的。"
+      ],
+      "pdf_page": 225,
+      "printed_page": 219
+    },
+    {
+      "order": 25,
+      "id": "五25",
+      "name": "用不着",
+      "category_code": "A.5.2.1.2",
+      "category": "其他",
+      "examples": [
+        "你有话可以直接说，用不着害怕。",
+        "用不着听他的，他什么都不懂。"
+      ],
+      "pdf_page": 225,
+      "printed_page": 219
+    },
+    {
+      "order": 26,
+      "id": "五26",
+      "name": "从……来看",
+      "category_code": "A.5.3",
+      "category": "固定格式",
+      "examples": [
+        "从这个角度来看，很多问题都可以解决。",
+        "从他的考试成绩来看，他平时根本没有认真学习。"
+      ],
+      "pdf_page": 225,
+      "printed_page": 219
+    },
+    {
+      "order": 27,
+      "id": "五27",
+      "name": "到……为止",
+      "category_code": "A.5.3",
+      "category": "固定格式",
+      "examples": [
+        "到目前为止，他还没有出过什么错。",
+        "到昨天为止，这个项目已经完成了一半。"
+      ],
+      "pdf_page": 226,
+      "printed_page": 220
+    },
+    {
+      "order": 28,
+      "id": "五28",
+      "name": "够……的",
+      "category_code": "A.5.3",
+      "category": "固定格式",
+      "examples": [
+        "眼前这几件事就够他忙的了。",
+        "他可真够聪明的，竟然抓住了这个机会。"
+      ],
+      "pdf_page": 226,
+      "printed_page": 220
+    },
+    {
+      "order": 29,
+      "id": "五29",
+      "name": "拿……来说",
+      "category_code": "A.5.3",
+      "category": "固定格式",
+      "examples": [
+        "拿成绩来说，他绝对是第一。",
+        "拿这件事来说，你没有做错什么。"
+      ],
+      "pdf_page": 226,
+      "printed_page": 220
+    },
+    {
+      "order": 30,
+      "id": "五30",
+      "name": "A的A，B的B",
+      "category_code": "A.5.3",
+      "category": "固定格式",
+      "examples": [
+        "衣服大的大，小的小，没有一件合适的。",
+        "家里老的老，少的少，我们得帮帮她。"
+      ],
+      "pdf_page": 226,
+      "printed_page": 220
+    },
+    {
+      "order": 31,
+      "id": "五31",
+      "name": "在……看来",
+      "category_code": "A.5.3",
+      "category": "固定格式",
+      "examples": [
+        "在我看来，这次中文考试实在是太难了。",
+        "在老师看来，每一个学生都有自己的优点。"
+      ],
+      "pdf_page": 226,
+      "printed_page": 220
+    },
+    {
+      "order": 32,
+      "id": "五32",
+      "name": "宾语的语义类型1",
+      "category_code": "A.5.4.1",
+      "category": "宾语",
+      "examples": [
+        "家里来了一位客人。",
+        "门口站着一个人。"
+      ],
+      "pdf_page": 226,
+      "printed_page": 220
+    },
+    {
+      "order": 33,
+      "id": "五33",
+      "name": "多项状语",
+      "category_code": "A.5.4.2",
+      "category": "状语",
+      "examples": [
+        "他昨天在教室里认真地写完了作业。",
+        "她为了通过考试昨天在家复习了一整天。"
+      ],
+      "pdf_page": 226,
+      "printed_page": 220
+    },
+    {
+      "order": 34,
+      "id": "五34",
+      "name": "趋向补语4",
+      "category_code": "A.5.4.3",
+      "category": "补语",
+      "examples": [
+        "这孩子又玩儿上游戏了。",
+        "他大声地哭起来了。"
+      ],
+      "pdf_page": 227,
+      "printed_page": 221
+    },
+    {
+      "order": 35,
+      "id": "五35",
+      "name": "可能补语2：动词+得／不得",
+      "category_code": "A.5.4.3",
+      "category": "补语",
+      "examples": [
+        "这种药吃得还是吃不得，得听医生的。",
+        "这些东西你可拿不得，很危险的。"
+      ],
+      "pdf_page": 227,
+      "printed_page": 221
+    },
+    {
+      "order": 36,
+      "id": "五36",
+      "name": "程度补语2",
+      "category_code": "A.5.4.3",
+      "category": "补语",
+      "examples": [
+        "爸爸答应去公园，儿子开心得不得了。",
+        "听说要打针，她害怕得厉害。"
+      ],
+      "pdf_page": 227,
+      "printed_page": 221
+    },
+    {
+      "order": 37,
+      "id": "五37",
+      "name": "状态补语2：动词/形容词+得+短语",
+      "category_code": "A.5.4.3",
+      "category": "补语",
+      "examples": [
+        "他难过得吃不下饭。",
+        "她气得说不出话来。"
+      ],
+      "pdf_page": 227,
+      "printed_page": 221
+    },
+    {
+      "order": 38,
+      "id": "五38",
+      "name": "“有”字句3",
+      "category_code": "A.5.5.1",
+      "category": "特殊句型",
+      "examples": [
+        "两个国家之间有着长期的友好关系。",
+        "他们之间有着很深的误会。"
+      ],
+      "pdf_page": 228,
+      "printed_page": 222
+    },
+    {
+      "order": 39,
+      "id": "五39",
+      "name": "“把”字句3：表处置",
+      "category_code": "A.5.5.1",
+      "category": "特殊句型",
+      "examples": [
+        "他总是把东西到处乱扔。",
+        "下雨了，她赶紧把外面的东西往回收。"
+      ],
+      "pdf_page": 228,
+      "printed_page": 222
+    },
+    {
+      "order": 40,
+      "id": "五40",
+      "name": "被动句3：意念被动句",
+      "category_code": "A.5.5.1",
+      "category": "特殊句型",
+      "examples": [
+        "蛋糕吃光了。",
+        "衣服穿破了。"
+      ],
+      "pdf_page": 228,
+      "printed_page": 222
+    },
+    {
+      "order": 41,
+      "id": "五41",
+      "name": "连动句3：前后两个动词性词语具有因果、转折、条件关系",
+      "category_code": "A.5.5.1",
+      "category": "特殊句型",
+      "examples": [
+        "李老师生病住院了。",
+        "这本书她借了没看。"
+      ],
+      "pdf_page": 228,
+      "printed_page": 222
+    },
+    {
+      "order": 42,
+      "id": "五42",
+      "name": "兼语句3",
+      "category_code": "A.5.5.1",
+      "category": "特殊句型",
+      "examples": [
+        "老师叫她早点儿回去。",
+        "这件事令她吃不下饭。"
+      ],
+      "pdf_page": 229,
+      "printed_page": 223
+    },
+    {
+      "order": 43,
+      "id": "五43",
+      "name": "比较句5",
+      "category_code": "A.5.5.1",
+      "category": "特殊句型",
+      "examples": [
+        "跟上次考试相比，这次没有那么难。",
+        "跟别人相比，我的想法太简单了。"
+      ],
+      "pdf_page": 229,
+      "printed_page": 223
+    },
+    {
+      "order": 44,
+      "id": "五44",
+      "name": "或是……，或是……",
+      "category_code": "A.5.5.2.1",
+      "category": "选择复句",
+      "examples": [
+        "这件事或是哥哥做的，或是弟弟做的。"
+      ],
+      "pdf_page": 229,
+      "printed_page": 223
+    },
+    {
+      "order": 45,
+      "id": "五45",
+      "name": "尽管……，但是/可是……",
+      "category_code": "A.5.5.2.2",
+      "category": "转折复句",
+      "examples": [
+        "尽管这次考试很难，但是很多人都通过了。",
+        "尽管外面在下雨，可是他一定要去超市买东西。"
+      ],
+      "pdf_page": 229,
+      "printed_page": 223
+    },
+    {
+      "order": 46,
+      "id": "五46",
+      "name": "一旦……，就……",
+      "category_code": "A.5.5.2.3",
+      "category": "假设复句",
+      "examples": [
+        "一旦考试不及格，我就要延期毕业了。",
+        "一旦地铁建成，堵车的情况就可大大缓解。"
+      ],
+      "pdf_page": 229,
+      "printed_page": 223
+    },
+    {
+      "order": 47,
+      "id": "五47",
+      "name": "要是……，（就）……，否则……",
+      "category_code": "A.5.5.2.3",
+      "category": "假设复句",
+      "examples": [
+        "要是他不去，我也不去了，否则我一个人去太危险了。",
+        "要是明天下雨，我们就不去爬山了，否则会冻感冒的。"
+      ],
+      "pdf_page": 229,
+      "printed_page": 223
+    },
+    {
+      "order": 48,
+      "id": "五48",
+      "name": "除非……，才……",
+      "category_code": "A.5.5.2.4",
+      "category": "条件复句",
+      "examples": [
+        "除非你答应我，我才和你一起去。",
+        "除非你努力学习，才有可能考上大学。"
+      ],
+      "pdf_page": 230,
+      "printed_page": 224
+    },
+    {
+      "order": 49,
+      "id": "五49",
+      "name": "除非……，否则/不然……",
+      "category_code": "A.5.5.2.4",
+      "category": "条件复句",
+      "examples": [
+        "除非坐飞机去，否则肯定来不及了。",
+        "除非你仔细检查，不然太容易出错了。"
+      ],
+      "pdf_page": 230,
+      "printed_page": 224
+    },
+    {
+      "order": 50,
+      "id": "五50",
+      "name": "……，因而……",
+      "category_code": "A.5.5.2.5",
+      "category": "因果复句",
+      "examples": [
+        "他生病了，因而没来上课。",
+        "她按时完成了任务，因而受到公司的奖励。"
+      ],
+      "pdf_page": 230,
+      "printed_page": 224
+    },
+    {
+      "order": 51,
+      "id": "五51",
+      "name": "即使……，也……",
+      "category_code": "A.5.5.2.6",
+      "category": "让步复句",
+      "examples": [
+        "即使天气不好，爬长城的人也不会少。",
+        "他即使生病了，也坚持工作。"
+      ],
+      "pdf_page": 230,
+      "printed_page": 224
+    },
+    {
+      "order": 52,
+      "id": "五52",
+      "name": "……，为的是……",
+      "category_code": "A.5.5.2.7",
+      "category": "目的复句",
+      "examples": [
+        "我把车停在外面，为的是走的时候方便。",
+        "她给你发这个信息，为的是提醒你注意安全。"
+      ],
+      "pdf_page": 230,
+      "printed_page": 224
+    },
+    {
+      "order": 53,
+      "id": "五53",
+      "name": "……，以便……",
+      "category_code": "A.5.5.2.7",
+      "category": "目的复句",
+      "examples": [
+        "我们要早一点儿出门，以便乘坐第一班公交车。",
+        "她每天步行上班，以便锻炼身体。"
+      ],
+      "pdf_page": 230,
+      "printed_page": 224
+    },
+    {
+      "order": 54,
+      "id": "五54",
+      "name": "没有……就没有……",
+      "category_code": "A.5.5.2.8",
+      "category": "紧缩复句",
+      "examples": [
+        "没有你的帮助就没有我的成功。",
+        "没有水就没有生命的存在。"
+      ],
+      "pdf_page": 230,
+      "printed_page": 224
+    },
+    {
+      "order": 55,
+      "id": "五55",
+      "name": "再……也……",
+      "category_code": "A.5.5.2.8",
+      "category": "紧缩复句",
+      "examples": [
+        "这件事再难也要坚持下去。",
+        "雨下得再大我也要去上班。"
+      ],
+      "pdf_page": 231,
+      "printed_page": 225
+    },
+    {
+      "order": 56,
+      "id": "五56",
+      "name": "二重复句1：单句+复句；复句+单句",
+      "category_code": "A.5.5.2.9",
+      "category": "多重复句",
+      "examples": [
+        "我决定去中国留学，即使中文再难我也要去学。",
+        "因为生病所以我没去上课，没想到的是老师一下课就来看我了。"
+      ],
+      "pdf_page": 231,
+      "printed_page": 225
+    },
+    {
+      "order": 57,
+      "id": "五57",
+      "name": "用“再也不／没”表示强调",
+      "category_code": "A.5.6",
+      "category": "强调的方法",
+      "examples": [
+        "从今天开始，我再也不会出这种错了。",
+        "他再也没跟我联系过。"
+      ],
+      "pdf_page": 231,
+      "printed_page": 225
+    },
+    {
+      "order": 58,
+      "id": "五58",
+      "name": "用副词“可”表示强调",
+      "category_code": "A.5.6",
+      "category": "强调的方法",
+      "examples": [
+        "你可来了，急死我了！",
+        "你可不能让大家失望！"
+      ],
+      "pdf_page": 231,
+      "printed_page": 225
+    },
+    {
+      "order": 59,
+      "id": "五59",
+      "name": "用“怎么都/也+不／没”表示强调",
+      "category_code": "A.5.6",
+      "category": "强调的方法",
+      "examples": [
+        "她怎么都没想到自己会失败。",
+        "他怎么也不会猜到谁要来看望他。"
+      ],
+      "pdf_page": 231,
+      "printed_page": 225
+    },
+    {
+      "order": 60,
+      "id": "五60",
+      "name": "×也不是，Y也不是",
+      "category_code": "A.5.7",
+      "category": "口语格式",
+      "examples": [
+        "他这样开玩笑，气得我哭也不是，笑也不是。",
+        "一看来了这么多人，他紧张得坐也不是，站也不是。"
+      ],
+      "pdf_page": 231,
+      "printed_page": 225
+    },
+    {
+      "order": 61,
+      "id": "五61",
+      "name": "×也×不得，Y也Y不得",
+      "category_code": "A.5.7",
+      "category": "口语格式",
+      "examples": [
+        "他腰疼起来的时候站也站不得，坐也坐不得。",
+        "孩子大了，骂也骂不得，打也打不得。"
+      ],
+      "pdf_page": 231,
+      "printed_page": 225
+    },
+    {
+      "order": 62,
+      "id": "五62",
+      "name": "×是它，Y也是它",
+      "category_code": "A.5.7",
+      "category": "口语格式",
+      "examples": [
+        "好是它，坏也是它，你没有别的选择。",
+        "成功是它，失败也是它，这个选择我绝对不后悔。"
+      ],
+      "pdf_page": 232,
+      "printed_page": 226
+    },
+    {
+      "order": 63,
+      "id": "五63",
+      "name": "×着也是×着",
+      "category_code": "A.5.7",
+      "category": "口语格式",
+      "examples": [
+        "明天我去超市逛逛，反正闲着也是闲着。",
+        "那些衣服她不喜欢了，放着也是放着，不如送人吧。"
+      ],
+      "pdf_page": 232,
+      "printed_page": 226
+    },
+    {
+      "order": 64,
+      "id": "五64",
+      "name": "×归×，Y归Y",
+      "category_code": "A.5.7",
+      "category": "口语格式",
+      "examples": [
+        "想归想，做归做，结果完全不一样。",
+        "吵归吵，闹归闹，大家还是好朋友。"
+      ],
+      "pdf_page": 232,
+      "printed_page": 226
+    },
+    {
+      "order": 65,
+      "id": "五65",
+      "name": "不管怎样说",
+      "category_code": "A.5.7",
+      "category": "口语格式",
+      "examples": [
+        "不管怎样说，你这么做就是不对的。",
+        "不管怎样说，这事总算办成了。"
+      ],
+      "pdf_page": 232,
+      "printed_page": 226
+    },
+    {
+      "order": 66,
+      "id": "五66",
+      "name": "看你×的/瞧他×的",
+      "category_code": "A.5.7",
+      "category": "口语格式",
+      "examples": [
+        "看你说的，我哪有那么能干？"
+      ],
+      "pdf_page": 232,
+      "printed_page": 226
+    },
+    {
+      "order": 67,
+      "id": "五67",
+      "name": "真有你／他/她的",
+      "category_code": "A.5.7",
+      "category": "口语格式",
+      "examples": [
+        "真有你的！电脑你也会修？",
+        "这么难的事情他都有办法，真有他的！"
+      ],
+      "pdf_page": 232,
+      "printed_page": 226
+    },
+    {
+      "order": 68,
+      "id": "五68",
+      "name": "×什么×",
+      "category_code": "A.5.7",
+      "category": "口语格式",
+      "examples": [
+        "看什么看，再看就迟到了！",
+        "吃什么吃，再吃就胖死了！"
+      ],
+      "pdf_page": 232,
+      "printed_page": 226
+    },
+    {
+      "order": 69,
+      "id": "五69",
+      "name": "什么×不×（的）",
+      "category_code": "A.5.7",
+      "category": "口语格式",
+      "examples": [
+        "什么钱不钱的，你这话说的太客气了。",
+        "什么麻烦不麻烦，我们之间不用这么客气。"
+      ],
+      "pdf_page": 232,
+      "printed_page": 226
+    },
+    {
+      "order": 70,
+      "id": "五70",
+      "name": "用代词复指",
+      "category_code": "A.5.8",
+      "category": "句群",
+      "examples": [
+        "中文很有意思。去年公司派他来中国学习中文，现在还想让他留在中国工作。",
+        "门就能通过它买东西、跟朋友交流，它让生活变得越来越方便。"
+      ],
+      "pdf_page": 232,
+      "printed_page": 226
+    },
+    {
+      "order": 71,
+      "id": "五71",
+      "name": "带省略成分",
+      "category_code": "A.5.8",
+      "category": "句群",
+      "examples": [
+        "登上了前往北京的航班，开始了我的留学生活。",
+        "和语法，短时间内不容易发现（这些变化），日子长了就表现出来了。"
+      ],
+      "pdf_page": 233,
+      "printed_page": 227
+    }
+  ],
+  "generated_at": "2026-11-23 16:38:21"
+}
