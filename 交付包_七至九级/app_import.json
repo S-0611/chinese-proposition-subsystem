@@ -9,8 +9,11 @@
  "char_table": "七至九级官方字表.json",
  "grammar": "七至九级语法点.json",
  "bank_manifest": "正式题库.json",
- "import_bank": false,
- "reason": "题库已校验通过，但尚未执行数据库导入；导入前需备份 backend/bank.db，并按工作流第 5 阶段执行。",
+ "import_bank": true,
+ "reason": "已导入 360 题并发布；导入前备份 backend/bank.db.bak_20261123_before_l7_import；随机/推荐抽题验证通过。",
  "bank_items": 360,
- "validation": "360/360 合格，0 警告"
+ "validation": "360/360 合格，0 警告；新增字覆盖 93.4%；语法 148/148",
+ "imported_at": "2026-11-23",
+ "published_count": 360,
+ "api_verification": "pass"
 }

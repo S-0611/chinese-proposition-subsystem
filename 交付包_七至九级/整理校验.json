@@ -20,7 +20,7 @@
   "grammar_ids_unique": true,
   "grammar_entries_with_examples": 148,
   "bank_items": 360,
-  "bank_status": "已校验，待导入",
+  "bank_status": "已导入并发布，抽题验证通过",
   "cumulative_chars_standard": 3000,
   "cumulative_chars_project": 3000,
   "cross_level_overlap": [],
@@ -124,12 +124,23 @@
   "bank_len_min": 7,
   "bank_len_max": 33,
   "bank_len_avg": 18.3,
-  "bank_missing_pinyin": 0
+  "bank_missing_pinyin": 0,
+  "db_import": true,
+  "db_total_after_import": 3033,
+  "db_level7_published": 360,
+  "api_random_calls": 20,
+  "api_random_draws": 200,
+  "api_random_distinct": 154,
+  "api_recommend_calls": 10,
+  "api_recommend_draws": 100,
+  "api_recommend_distinct": 20,
+  "api_verification": "pass",
+  "manual_review_p0": 0,
+  "polyphone_notes": 137
  },
- "verdict": "字表、语法表与正式题库通过；360/360 题合格，0 警告，新增 1200 字覆盖 93.4%，语法覆盖 100%；尚未导入数据库",
+ "verdict": "字表、语法表、正式题库通过；360 题已导入并发布；随机/推荐抽题接口验证通过；保留 P1/P2 质量改进项",
  "failed_checks": [],
  "not_applicable": [
-  "数据库导入、发布、随机/推荐抽题接口测试尚未执行",
   "音节 202/1110、词汇 5636/11092 未建表，不在本次题库口径内",
   "高等手写汉字 500 字：标准 PDF 未见 5.8.3 表，暂不建表"
  ],
@@ -145,6 +156,8 @@
  "quality_notes": [
   "296 题为 A.7 官方例句，其中 30 条 OCR 残缺或标点异常已修复。",
   "64 题为高等新增字词语跟读补充题，每题 10 个双字词，用于覆盖生僻字；语法点统一标注 G7-147，需人工复核题型适配。",
-  "79 个新增字未覆盖，清单见 reports/level7/stats_cumulative1200.json。"
+  "79 个新增字未覆盖，清单见 reports/level7/stats_cumulative1200.json。",
+  "导入时 137 题出现多音字提示，tokens 采用题库拼音，建议人工抽检。",
+  "人工复核记录：reports/level7/manual_review.json，无 P0 阻断项。"
  ]
 }

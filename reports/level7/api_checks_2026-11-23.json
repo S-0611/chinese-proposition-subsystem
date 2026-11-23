@@ -1,0 +1,343 @@
+{
+ "list_published": {
+  "total": 360,
+  "first": {
+   "id": "L7-001",
+   "question_id": "L7-001",
+   "question_version": "1",
+   "content_revision": "a134f9dfae56e3677cc4b89668544d98e158959ee89567d97177302e9cce7e54",
+   "level": 7,
+   "text": "父亲的身体需休养一段时间。",
+   "display_text": "父亲的身体需休养一段时间。",
+   "tokens": [
+    {
+     "c": "父",
+     "py": "fu4",
+     "display_py": "fù",
+     "display_start": 0
+    },
+    {
+     "c": "亲",
+     "py": "qin1",
+     "display_py": "qīn",
+     "display_start": 1
+    },
+    {
+     "c": "的",
+     "py": "de5",
+     "display_py": "de",
+     "display_start": 2
+    },
+    {
+     "c": "身",
+     "py": "shen1",
+     "display_py": "shēn",
+     "display_start": 3
+    },
+    {
+     "c": "体",
+     "py": "ti3",
+     "display_py": "tǐ",
+     "display_start": 4
+    },
+    {
+     "c": "需",
+     "py": "xu1",
+     "display_py": "xū",
+     "display_start": 5
+    },
+    {
+     "c": "休",
+     "py": "xiu1",
+     "display_py": "xiū",
+     "display_start": 6
+    },
+    {
+     "c": "养",
+     "py": "yang3",
+     "display_py": "yǎng",
+     "display_start": 7
+    },
+    {
+     "c": "一",
+     "py": "yi1",
+     "display_py": "yī",
+     "display_start": 8
+    },
+    {
+     "c": "段",
+     "py": "duan4",
+     "display_py": "duàn",
+     "display_start": 9
+    },
+    {
+     "c": "时",
+     "py": "shi2",
+     "display_py": "shí",
+     "display_start": 10
+    },
+    {
+     "c": "间",
+     "py": "jian1",
+     "display_py": "jiān",
+     "display_start": 11
+    }
+   ],
+   "grammar": [
+    "G7-001"
+   ],
+   "status": "published",
+   "rec_count": 0,
+   "last_selected_at": "2026-11-23T18:46:28+08:00"
+  }
+ },
+ "one": {
+  "id": "L7-001",
+  "question_id": "L7-001",
+  "question_version": "1",
+  "content_revision": "a134f9dfae56e3677cc4b89668544d98e158959ee89567d97177302e9cce7e54",
+  "level": 7,
+  "text": "父亲的身体需休养一段时间。",
+  "display_text": "父亲的身体需休养一段时间。",
+  "tokens": [
+   {
+    "c": "父",
+    "py": "fu4",
+    "display_py": "fù",
+    "display_start": 0
+   },
+   {
+    "c": "亲",
+    "py": "qin1",
+    "display_py": "qīn",
+    "display_start": 1
+   },
+   {
+    "c": "的",
+    "py": "de5",
+    "display_py": "de",
+    "display_start": 2
+   },
+   {
+    "c": "身",
+    "py": "shen1",
+    "display_py": "shēn",
+    "display_start": 3
+   },
+   {
+    "c": "体",
+    "py": "ti3",
+    "display_py": "tǐ",
+    "display_start": 4
+   },
+   {
+    "c": "需",
+    "py": "xu1",
+    "display_py": "xū",
+    "display_start": 5
+   },
+   {
+    "c": "休",
+    "py": "xiu1",
+    "display_py": "xiū",
+    "display_start": 6
+   },
+   {
+    "c": "养",
+    "py": "yang3",
+    "display_py": "yǎng",
+    "display_start": 7
+   },
+   {
+    "c": "一",
+    "py": "yi1",
+    "display_py": "yī",
+    "display_start": 8
+   },
+   {
+    "c": "段",
+    "py": "duan4",
+    "display_py": "duàn",
+    "display_start": 9
+   },
+   {
+    "c": "时",
+    "py": "shi2",
+    "display_py": "shí",
+    "display_start": 10
+   },
+   {
+    "c": "间",
+    "py": "jian1",
+    "display_py": "jiān",
+    "display_start": 11
+   }
+  ],
+  "grammar": [
+   "G7-001"
+  ],
+  "status": "published",
+  "rec_count": 0,
+  "last_selected_at": "2026-11-23T18:46:28+08:00"
+ },
+ "levels_l7": [
+  {
+   "level": 7,
+   "question_count": 360,
+   "status": "available",
+   "detail": null
+  }
+ ],
+ "random_sample": {
+  "id": "L7-232",
+  "question_id": "L7-232",
+  "question_version": "1",
+  "content_revision": "d85ddfd429d6cd47fc4f5369e7ee5d1830a008008a8d8b37f6649c9284cf5114",
+  "level": 7,
+  "text": "这篇课文他读了很多遍，以至于全文都背得出来。",
+  "display_text": "这篇课文他读了很多遍，以至于全文都背得出来。",
+  "tokens": [
+   {
+    "c": "这",
+    "py": "zhe4",
+    "display_py": "zhè",
+    "display_start": 0
+   },
+   {
+    "c": "篇",
+    "py": "pian1",
+    "display_py": "piān",
+    "display_start": 1
+   },
+   {
+    "c": "课",
+    "py": "ke4",
+    "display_py": "kè",
+    "display_start": 2
+   },
+   {
+    "c": "文",
+    "py": "wen2",
+    "display_py": "wén",
+    "display_start": 3
+   },
+   {
+    "c": "他",
+    "py": "ta1",
+    "display_py": "tā",
+    "display_start": 4
+   },
+   {
+    "c": "读",
+    "py": "du2",
+    "display_py": "dú",
+    "display_start": 5
+   },
+   {
+    "c": "了",
+    "py": "le5",
+    "display_py": "le",
+    "display_start": 6
+   },
+   {
+    "c": "很",
+    "py": "hen3",
+    "display_py": "hěn",
+    "display_start": 7
+   },
+   {
+    "c": "多",
+    "py": "duo1",
+    "display_py": "duō",
+    "display_start": 8
+   },
+   {
+    "c": "遍",
+    "py": "bian4",
+    "display_py": "biàn",
+    "display_start": 9
+   },
+   {
+    "c": "以",
+    "py": "yi3",
+    "display_py": "yǐ",
+    "display_start": 11
+   },
+   {
+    "c": "至",
+    "py": "zhi4",
+    "display_py": "zhì",
+    "display_start": 12
+   },
+   {
+    "c": "于",
+    "py": "yu2",
+    "display_py": "yú",
+    "display_start": 13
+   },
+   {
+    "c": "全",
+    "py": "quan2",
+    "display_py": "quán",
+    "display_start": 14
+   },
+   {
+    "c": "文",
+    "py": "wen2",
+    "display_py": "wén",
+    "display_start": 15
+   },
+   {
+    "c": "都",
+    "py": "dou1",
+    "display_py": "dōu",
+    "display_start": 16
+   },
+   {
+    "c": "背",
+    "py": "bei4",
+    "display_py": "bèi",
+    "display_start": 17
+   },
+   {
+    "c": "得",
+    "py": "de2",
+    "display_py": "dé",
+    "display_start": 18
+   },
+   {
+    "c": "出",
+    "py": "chu1",
+    "display_py": "chū",
+    "display_start": 19
+   },
+   {
+    "c": "来",
+    "py": "lai2",
+    "display_py": "lái",
+    "display_start": 20
+   }
+  ],
+  "grammar": [
+   "G7-116"
+  ],
+  "status": "published",
+  "rec_count": 0,
+  "last_selected_at": "2026-11-23T18:46:36+08:00"
+ },
+ "recommend_broad": {
+  "count": 10,
+  "ids": [
+   "L7-095",
+   "L7-158",
+   "L7-171",
+   "L7-144",
+   "L7-275",
+   "L7-230",
+   "L7-327",
+   "L7-222",
+   "L7-087",
+   "L7-344"
+  ]
+ }
+}
