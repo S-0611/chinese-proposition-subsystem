@@ -22,19 +22,13 @@
   "bank_items": 0,
   "bank_status": "待补入正式题目",
   "cumulative_chars_standard": 3000,
-  "cumulative_chars_project": 2997,
-  "cross_level_overlap": [
-   "腕",
-   "辱"
-  ],
-  "lower_table_duplicate": [
-   "怒"
-  ]
+  "cumulative_chars_project": 3000,
+  "cross_level_overlap": [],
+  "lower_table_duplicate": []
  },
  "verdict": "字表与语法表通过；正式题库缺失，不具备题目级校验条件",
  "failed_checks": [
-  "正式题库缺失：banks/level7/final.json 为待补清单（items=[]），无法校验题量、字段、覆盖率与重复率",
-  "累计汉字 2997 / 标准 3000：低等级配置存在「怒」重复 1 处，且「腕」「辱」被低等级表占用但按标准属高等表；本包未改动低等级题库"
+  "正式题库缺失：banks/level7/final.json 为待补清单（items=[]），无法校验题量、字段、覆盖率与重复率"
  ],
  "not_applicable": [
   "题目级校验（题干字符、选项、答案、语法点覆盖率）因无正式题目不执行",

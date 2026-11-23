@@ -31,6 +31,9 @@ def load_level(level_no: int) -> dict:
             f"生成 data/levels/level{level_no}.json（缺失内容标注“待标准确认”，不要用其他等级数据冒充）"
         )
     level = json.loads(path.read_text(encoding="utf-8"))
+    # 七至九级按标准合并为同一个高等等级；8/9 级配置保留为别名，统一回落到 7 级。
+    if level.get("merged_into"):
+        return load_level(int(level["merged_into"]))
     # 二级及以上题目使用累计字表；配置文件仍保留本级标准字表，
     # 由这里统一合并低等级字表，避免把常用低等级字误判为越级字。
     if level.get("char_table_mode") == "cumulative" and level_no > 1:
