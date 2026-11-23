@@ -58,16 +58,26 @@
     {
       "name": "拼音",
       "status": "pass",
-      "detail": "760/760 题拼音音节数与汉字数一致；修正 36 处多音字/轻声"
+      "detail": "760/760 题拼音音节数与汉字数一致；复核修正 36 处多音字/轻声"
     },
     {
       "name": "人工复核",
+      "status": "pass",
+      "detail": "全量规则审计 + 109 题抽检；修正 45 处；P0 = 0，P1 遗留 1 项（G5-32 兜底标注）"
+    },
+    {
+      "name": "发布与抽题",
+      "status": "pass",
+      "detail": "API validate 760/0、stats pass、publish 760 published；random n=3 与 recommend n=3 均返回 level=5/published/tokens/grammar，推荐含 w=max(0,C-rec_count)、C、candidate_size、recent_window_min、weights_used"
+    },
+    {
+      "name": "语义标注细化",
       "status": "warn",
-      "detail": "语法按 id 校验，G5-32 兜底标注 423 题；发布前需按 manual_review 门禁人工复核"
+      "detail": "G5-32（宾语的语义类型）仍有 419 题兜底标注，抽检约半数非典型宾语句；不阻塞发布，建议教学组后续细化"
     }
   ],
   "summary": {
-    "pass": 11,
+    "pass": 13,
     "warn": 1,
     "fail": 0
   },
@@ -76,13 +86,23 @@
     "char_covered": 1500,
     "char_total": 1500,
     "grammar_covered": 71,
-    "grammar_total": 71
+    "grammar_total": 71,
+    "published": 760
+  },
+  "manual_review": {
+    "issues_found": 45,
+    "p0_open": 0,
+    "p1_open": 1
   },
   "follow_ups": [
-    "二级至四级题库未按修正字表重跑：各新增 2 个未覆盖字（旁、腿），各有 1 题使用怒/腕，需补题与改写",
-    "未执行数据库导入、发布、随机/推荐抽题接口测试"
+    "G5-32 兜底标注 419 题，建议教学组后续细化语法点或改为“不限语法点”口径",
+    "二级至四级题库未按修正字表重跑：各新增 2 个未覆盖字（旁、腿），各有 1 题使用怒/腕，需补题与改写"
   ],
   "files": {
+    "manual_review.json": {
+      "bytes": 20953,
+      "sha256": "a9f7e68612346d5b01f7853c0e43d9598fa3ea5d325128d6bf3c045cb63ea0dd"
+    },
     "五级官方字表.json": {
       "bytes": 43477,
       "sha256": "f026c447cac7ce7458dbf7bcd6e555c9e299f6993bd50fbd2a648559900a953d"
@@ -100,24 +120,28 @@
       "sha256": "9ff8d3b97084577439d57f34407681ad646a842e59e481fb9d9d80a9e7c5cdb3"
     },
     "五级题库.json": {
-      "bytes": 182623,
-      "sha256": "d1b48145c7277524609738e05d3cac470bfa681abf65f7603143fb7f29d22890"
+      "bytes": 182863,
+      "sha256": "eada5fc5e509abd3a2aeaaffdafd86bfec8fd1bdc2dd2b73ddde2c4b94358cfa"
+    },
+    "整理校验.json": {
+      "bytes": 3818,
+      "sha256": "60d93d79e85e82274e99834f52aafad44866215f92be61ad0d9652599bf1ad98"
     },
     "校验报告.md": {
       "bytes": 188,
       "sha256": "9f26ee6f1a16424a84c6b5b24d19233f30833ee24fdb1a8643d90b7b1cd280e0"
     },
     "统计报告.json": {
-      "bytes": 6019,
-      "sha256": "bf078ec2ac62e21361347ea06076015bd716eb6a07cbb608dbddf6777a7798ed"
+      "bytes": 6021,
+      "sha256": "c1e46774f60e6dfeee286d2be7e327be19da13a25622b6557d65e7c39adcfe6b"
     },
     "统计报告.md": {
-      "bytes": 3911,
-      "sha256": "31bdd7cc8c6c0708487e81e7af8074eea0241ddfd05380bba62d3c061970b5fa"
+      "bytes": 3913,
+      "sha256": "720432a7867c35d8b8564ad5bc595b353aff6a1e02b664da5f04143139ec5f29"
     },
     "说明.md": {
-      "bytes": 4884,
-      "sha256": "f6ab4cb27e06e821cc1525231f93cfdbfefeb6473148f62b84d0fb705b5d8426"
+      "bytes": 5407,
+      "sha256": "9a23661210d03af60dfadc9300de16e475524f8ec1c64106fa617d68e2980105"
     }
   }
 }

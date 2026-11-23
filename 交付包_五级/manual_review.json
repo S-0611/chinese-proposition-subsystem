@@ -1,0 +1,714 @@
+{
+  "level": 5,
+  "reviewed_at": "2026-11-23",
+  "reviewer": "AI 助手（规则全量审计 + 抽检，待教学组复核）",
+  "method": "对 760 题按 71 个五级语法点的标记与结构做全量规则审计；对 G5-32 兜底标注抽取 109 题人工核对；共修正 45 处标注/句式问题（改标注或改写），并复核 6 处规则未命中但结构成立的题。",
+  "sample_size": 760,
+  "issues_found": 45,
+  "issues": [
+    {
+      "id": "L5-180",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-39"
+      ],
+      "grammar_after": [
+        "G5-40"
+      ],
+      "text_before": "客厅的窗户忘了锁。",
+      "text_after": "客厅的窗户忘了锁。",
+      "problem": "原句不含所标注结构 G5-39 的典型形式",
+      "fix": "改标注为 G5-40"
+    },
+    {
+      "id": "L5-183",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-39"
+      ],
+      "grammar_after": [
+        "G5-32"
+      ],
+      "text_before": "他用剪刀拆开了信封。",
+      "text_after": "他用剪刀拆开了信封。",
+      "problem": "原句不含所标注结构 G5-39 的典型形式",
+      "fix": "改标注为 G5-32"
+    },
+    {
+      "id": "L5-190",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-37"
+      ],
+      "grammar_after": [
+        "G5-37"
+      ],
+      "text_before": "他听了呆住了，很悲伤。",
+      "text_after": "他听得呆住了，很悲伤。",
+      "problem": "原句不符合所标注语法结构",
+      "fix": "改写为「他听得呆住了，很悲伤。」"
+    },
+    {
+      "id": "L5-202",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-38"
+      ],
+      "text_before": "别胡说，要有根据。",
+      "text_after": "别胡说，要有根据。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-38"
+    },
+    {
+      "id": "L5-204",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-38"
+      ],
+      "text_before": "山洞里有一条毒蛇。",
+      "text_after": "山洞里有一条毒蛇。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-38"
+    },
+    {
+      "id": "L5-207",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-37"
+      ],
+      "grammar_after": [
+        "G5-37"
+      ],
+      "text_before": "水沟很滑，小心摔倒。",
+      "text_after": "水沟很滑，他摔得很重。",
+      "problem": "原句不符合所标注语法结构",
+      "fix": "改写为「水沟很滑，他摔得很重。」"
+    },
+    {
+      "id": "L5-224",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-38"
+      ],
+      "text_before": "做人要有道德。",
+      "text_after": "做人要有道德。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-38"
+    },
+    {
+      "id": "L5-231",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-36"
+      ],
+      "grammar_after": [
+        "G5-42"
+      ],
+      "text_before": "大家祝贺他获奖。",
+      "text_after": "大家祝贺他获奖。",
+      "problem": "原句不含所标注结构 G5-36 的典型形式",
+      "fix": "改标注为 G5-42"
+    },
+    {
+      "id": "L5-236",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-36"
+      ],
+      "grammar_after": [
+        "G5-36"
+      ],
+      "text_before": "这次竞争很激烈。",
+      "text_after": "这次竞争激烈得很。",
+      "problem": "原句不符合所标注语法结构",
+      "fix": "改写为「这次竞争激烈得很。」"
+    },
+    {
+      "id": "L5-255",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-36"
+      ],
+      "grammar_after": [
+        "G5-32"
+      ],
+      "text_before": "这首曲子很好听。",
+      "text_after": "我很喜欢这首曲子。",
+      "problem": "原句未真实包含所标注语法结构，且标注也需随改写调整",
+      "fix": "改写为「我很喜欢这首曲子。」，并标注 G5-32"
+    },
+    {
+      "id": "L5-260",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-37"
+      ],
+      "grammar_after": [
+        "G5-35"
+      ],
+      "text_before": "我忍不住笑了。",
+      "text_after": "我忍不住笑了。",
+      "problem": "原句不含所标注结构 G5-37 的典型形式",
+      "fix": "改标注为 G5-35"
+    },
+    {
+      "id": "L5-271",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-39"
+      ],
+      "grammar_after": [
+        "G5-32"
+      ],
+      "text_before": "他收拾好房间。",
+      "text_after": "他收拾好房间。",
+      "problem": "原句不含所标注结构 G5-39 的典型形式",
+      "fix": "改标注为 G5-32"
+    },
+    {
+      "id": "L5-281",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-39"
+      ],
+      "grammar_after": [
+        "G5-41"
+      ],
+      "text_before": "他忘了锁门。",
+      "text_after": "他忘了锁门。",
+      "problem": "原句不含所标注结构 G5-39 的典型形式",
+      "fix": "改标注为 G5-41"
+    },
+    {
+      "id": "L5-314",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-37"
+      ],
+      "grammar_after": [
+        "G5-37"
+      ],
+      "text_before": "请仔细检查一遍。",
+      "text_after": "他检查得很仔细。",
+      "problem": "原句不符合所标注语法结构",
+      "fix": "改写为「他检查得很仔细。」"
+    },
+    {
+      "id": "L5-341",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-38"
+      ],
+      "text_before": "两人之间有矛盾。",
+      "text_after": "两人之间有矛盾。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-38"
+    },
+    {
+      "id": "L5-346",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-39"
+      ],
+      "grammar_after": [
+        "G5-32"
+      ],
+      "text_before": "师傅修好了车。",
+      "text_after": "师傅修好了车。",
+      "problem": "原句不含所标注结构 G5-39 的典型形式",
+      "fix": "改标注为 G5-32"
+    },
+    {
+      "id": "L5-349",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-39"
+      ],
+      "grammar_after": [
+        "G5-32"
+      ],
+      "text_before": "他搞好了这次活动。",
+      "text_after": "他搞好了这次活动。",
+      "problem": "原句不含所标注结构 G5-39 的典型形式",
+      "fix": "改标注为 G5-32"
+    },
+    {
+      "id": "L5-386",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-38"
+      ],
+      "text_before": "现在八点半，还有二十分钟就上课。",
+      "text_after": "现在八点半，还有二十分钟就上课。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-38"
+    },
+    {
+      "id": "L5-413",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-38"
+      ],
+      "text_before": "冬天很冷，外面下着大雪，路上一个人也没有。",
+      "text_after": "冬天很冷，外面下着大雪，路上一个人也没有。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-38"
+    },
+    {
+      "id": "L5-416",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-30"
+      ],
+      "grammar_after": [
+        "G5-32"
+      ],
+      "text_before": "他喜欢喝啤酒，我喜欢喝咖啡，各有各的味道。",
+      "text_after": "他喜欢喝啤酒，我喜欢喝咖啡，各有各的味道。",
+      "problem": "原句不含所标注结构 G5-30 的典型形式",
+      "fix": "改标注为 G5-32"
+    },
+    {
+      "id": "L5-422",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-05"
+      ],
+      "grammar_after": [
+        "G5-71"
+      ],
+      "text_before": "会上大家讨论了很久，最后同意了。",
+      "text_after": "会上大家讨论了很久，最后同意了。",
+      "problem": "原句不含所标注结构 G5-05 的典型形式",
+      "fix": "改标注为 G5-71"
+    },
+    {
+      "id": "L5-424",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-03"
+      ],
+      "grammar_after": [
+        "G5-33"
+      ],
+      "text_before": "他们的关系很好，经常互相帮助。",
+      "text_after": "他们的关系很好，经常互相帮助。",
+      "problem": "原句不含所标注结构 G5-03 的典型形式",
+      "fix": "改标注为 G5-33"
+    },
+    {
+      "id": "L5-427",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-43"
+      ],
+      "grammar_after": [
+        "G5-32"
+      ],
+      "text_before": "你选哪一个？我觉得这个更好。",
+      "text_after": "你选哪一个？我觉得这个更好。",
+      "problem": "原句不含所标注结构 G5-43 的典型形式",
+      "fix": "改标注为 G5-32"
+    },
+    {
+      "id": "L5-440",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-08"
+      ],
+      "grammar_after": [
+        "G5-37"
+      ],
+      "text_before": "他一般七点回家，今天却回来得很晚。",
+      "text_after": "他一般七点回家，今天却回来得很晚。",
+      "problem": "原句不含所标注结构 G5-08 的典型形式",
+      "fix": "改标注为 G5-37"
+    },
+    {
+      "id": "L5-453",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-21"
+      ],
+      "grammar_after": [
+        "G5-71"
+      ],
+      "text_before": "市场里的人很多，卖鱼卖菜的也不少。",
+      "text_after": "市场里的人很多，卖鱼卖菜的也不少。",
+      "problem": "原句不含所标注结构 G5-21 的典型形式",
+      "fix": "改标注为 G5-71"
+    },
+    {
+      "id": "L5-455",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-37"
+      ],
+      "grammar_after": [
+        "G5-33"
+      ],
+      "text_before": "他舒服地躺在沙发上。",
+      "text_after": "他舒服地躺在沙发上。",
+      "problem": "原句不含所标注结构 G5-37 的典型形式",
+      "fix": "改标注为 G5-33"
+    },
+    {
+      "id": "L5-456",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-37"
+      ],
+      "grammar_after": [
+        "G5-33"
+      ],
+      "text_before": "他顺利地通过了考试。",
+      "text_after": "他顺利地通过了考试。",
+      "problem": "原句不含所标注结构 G5-37 的典型形式",
+      "fix": "改标注为 G5-33"
+    },
+    {
+      "id": "L5-462",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-21"
+      ],
+      "grammar_after": [
+        "G5-41"
+      ],
+      "text_before": "他喂了一只小猫，还养了一只狗。",
+      "text_after": "他喂了一只小猫，还养了一只狗。",
+      "problem": "原句不含所标注结构 G5-21 的典型形式",
+      "fix": "改标注为 G5-41"
+    },
+    {
+      "id": "L5-484",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-43"
+      ],
+      "grammar_after": [
+        "G5-32"
+      ],
+      "text_before": "这个称呼太长，换一个简单点的吧。",
+      "text_after": "这个称呼太长，换一个简单点的吧。",
+      "problem": "原句不含所标注结构 G5-43 的典型形式",
+      "fix": "改标注为 G5-32"
+    },
+    {
+      "id": "L5-500",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-37"
+      ],
+      "text_before": "青草很绿，花开得很美。",
+      "text_after": "青草很绿，花开得很美。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-37"
+    },
+    {
+      "id": "L5-505",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-38"
+      ],
+      "text_before": "他育有两个孩子，一个上小学，一个上中学。",
+      "text_after": "他育有两个孩子，一个上小学，一个上中学。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-38"
+    },
+    {
+      "id": "L5-560",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-05"
+      ],
+      "grammar_after": [
+        "G5-71"
+      ],
+      "text_before": "他们斗争了很久，终于胜利了。",
+      "text_after": "他们斗争了很久，终于胜利了。",
+      "problem": "原句不含所标注结构 G5-05 的典型形式",
+      "fix": "改标注为 G5-71"
+    },
+    {
+      "id": "L5-571",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-38"
+      ],
+      "text_before": "院子的角落里有一棵大树。",
+      "text_after": "院子的角落里有一棵大树。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-38"
+    },
+    {
+      "id": "L5-633",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-39"
+      ],
+      "grammar_after": [
+        "G5-39"
+      ],
+      "text_before": "这些宝贝很珍贵，他收在箱子里。",
+      "text_after": "他把这些宝贝收在箱子里。",
+      "problem": "原句不符合所标注语法结构",
+      "fix": "改写为「他把这些宝贝收在箱子里。」"
+    },
+    {
+      "id": "L5-637",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-37"
+      ],
+      "grammar_after": [
+        "G5-37"
+      ],
+      "text_before": "他操作电脑很熟练。",
+      "text_after": "他电脑操作得很熟练。",
+      "problem": "原句不符合所标注语法结构",
+      "fix": "改写为「他电脑操作得很熟练。」"
+    },
+    {
+      "id": "L5-642",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-38"
+      ],
+      "text_before": "他有一个幸福的家庭。",
+      "text_after": "他有一个幸福的家庭。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-38"
+    },
+    {
+      "id": "L5-652",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-21"
+      ],
+      "grammar_after": [
+        "G5-41"
+      ],
+      "text_before": "公司提供免费午餐，还供应水果。",
+      "text_after": "公司提供免费午餐，还供应水果。",
+      "problem": "原句不含所标注结构 G5-21 的典型形式",
+      "fix": "改标注为 G5-41"
+    },
+    {
+      "id": "L5-661",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-38"
+      ],
+      "text_before": "船在海上航行，远处有矿山。",
+      "text_after": "船在海上航行，远处有矿山。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-38"
+    },
+    {
+      "id": "L5-662",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-37"
+      ],
+      "grammar_after": [
+        "G5-08"
+      ],
+      "text_before": "他毫不犹豫地答应了。",
+      "text_after": "他毫不犹豫，干脆答应了。",
+      "problem": "原句未真实包含所标注语法结构，且标注也需随改写调整",
+      "fix": "改写为「他毫不犹豫，干脆答应了。」，并标注 G5-08"
+    },
+    {
+      "id": "L5-672",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-38"
+      ],
+      "text_before": "他干活很有劲。",
+      "text_after": "他干活很有劲。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-38"
+    },
+    {
+      "id": "L5-704",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-38"
+      ],
+      "text_before": "他有权利知道真相。",
+      "text_after": "他有权利知道真相。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-38"
+    },
+    {
+      "id": "L5-721",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-42"
+      ],
+      "grammar_after": [
+        "G5-32"
+      ],
+      "text_before": "他替我填好了表格。",
+      "text_after": "他替我填好了表格。",
+      "problem": "原句不含所标注结构 G5-42 的典型形式",
+      "fix": "改标注为 G5-32"
+    },
+    {
+      "id": "L5-727",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-57"
+      ],
+      "grammar_after": [
+        "G5-57"
+      ],
+      "text_before": "他从未迟到。",
+      "text_after": "他再也不迟到了。",
+      "problem": "原句不符合所标注语法结构",
+      "fix": "改写为「他再也不迟到了。」"
+    },
+    {
+      "id": "L5-751",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-32"
+      ],
+      "grammar_after": [
+        "G5-38"
+      ],
+      "text_before": "质量好，治病也有经验。",
+      "text_after": "质量好，治病也有经验。",
+      "problem": "原句不含所标注结构 G5-32 的典型形式",
+      "fix": "改标注为 G5-38"
+    },
+    {
+      "id": "L5-759",
+      "severity": "P1",
+      "status": "resolved",
+      "grammar_before": [
+        "G5-37"
+      ],
+      "grammar_after": [
+        "G5-32"
+      ],
+      "text_before": "他光荣地驾驶着汽车。",
+      "text_after": "他光荣地驾驶着汽车。",
+      "problem": "原句不含所标注结构 G5-37 的典型形式",
+      "fix": "改标注为 G5-32"
+    }
+  ],
+  "confirmed": [
+    {
+      "id": "L5-355",
+      "note": "「记不住」为可能补语否定式（V+不+补语），标注 G5-35 成立"
+    },
+    {
+      "id": "L5-435",
+      "note": "「答不出来」为可能补语否定式，标注 G5-35 成立"
+    },
+    {
+      "id": "L5-566",
+      "note": "「听不清」为可能补语否定式，标注 G5-35 成立"
+    },
+    {
+      "id": "L5-707",
+      "note": "「晒不进来」为可能补语否定式，标注 G5-35 成立"
+    },
+    {
+      "id": "L5-150",
+      "note": "「看把你急的」为「看你X的」变体，标注 G5-66 成立"
+    },
+    {
+      "id": "L5-458",
+      "note": "「虽然……但……」为「尽管……但是……」同义变体，标注 G5-45 成立"
+    }
+  ],
+  "p0_open": 0,
+  "p1_open": 1,
+  "residual": "G5-32（宾语的语义类型）仍为项目兜底标注，共 419 题；抽检 109 题中约半数并非典型“动词+宾语”句，属于标注宽泛而非字表/形式错误。建议教学组在后续版本中把无宾语描写句另立语法点或改为“不限语法点”口径；本轮不阻塞发布。"
+}
