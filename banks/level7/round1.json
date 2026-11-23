@@ -1,0 +1,3605 @@
+{
+ "total": 360,
+ "items": [
+  {
+   "level": 7,
+   "round": 1,
+   "text": "父亲的身体需休养一段时间。",
+   "pinyin": "fù qīn de shēn tǐ xū xiū yǎng yī duàn shí jiān 。",
+   "grammar": [
+    "G7-001"
+   ],
+   "id": "L7-001"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我们仍需耐心等待。",
+   "pinyin": "wǒ men réng xū nài xīn děng dài 。",
+   "grammar": [
+    "G7-001"
+   ],
+   "id": "L7-002"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我们何时出发，请提前通知我。",
+   "pinyin": "wǒ men hé shí chū fā ， qǐng tí qián tōng zhī wǒ 。",
+   "grammar": [
+    "G7-002"
+   ],
+   "id": "L7-003"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "不管你有何疑问，都可以到办公室找我。",
+   "pinyin": "bù guǎn nǐ yǒu hé yí wèn ， dōu kě yǐ dào bàn gōng shì zhǎo wǒ 。",
+   "grammar": [
+    "G7-002"
+   ],
+   "id": "L7-004"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "该企业另设分支机构，兹定于下月开业。",
+   "pinyin": "gāi qǐ yè lìng shè fēn zhī jī gòu ， zī dìng yú xià yuè kāi yè 。",
+   "grammar": [
+    "G7-003"
+   ],
+   "id": "L7-005"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "该企业另有一处仓库，兹定于月底启用。",
+   "pinyin": "gāi qǐ yè lìng yǒu yī chù cāng kù ， zī dìng yú yuè dǐ qǐ yòng 。",
+   "grammar": [
+    "G7-003"
+   ],
+   "id": "L7-006"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "桌上放着一盏灯、两枚硬币和三粒药。",
+   "pinyin": "zhuō shàng fàng zhe yī zhǎn dēng 、 liǎng méi yìng bì hé sān lì yào 。",
+   "grammar": [
+    "G7-004"
+   ],
+   "id": "L7-007"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "四栋楼、五则新闻、三千人次，这些数据都要核实。",
+   "pinyin": "sì dòng lóu 、 wǔ zé xīn wén 、 sān qiān rén cì ， zhè xiē shù jù dōu yào hé shí 。",
+   "grammar": [
+    "G7-004"
+   ],
+   "id": "L7-008"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "齐白石是极为杰出的画家，作品广受赞誉。",
+   "pinyin": "qí bái shí shì jí wèi jié chū de huà jiā ， zuò pǐn guǎng shòu zàn yù 。",
+   "grammar": [
+    "G7-005"
+   ],
+   "id": "L7-009"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "能源汽车的发展前景极为广阔。",
+   "pinyin": "néng yuán qì chē de fā zhǎn qián jǐng jí wèi guǎng kuò 。",
+   "grammar": [
+    "G7-005"
+   ],
+   "id": "L7-010"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "坐在尽前头的是我女朋友，她刚下飞机。",
+   "pinyin": "zuò zài jǐn qián tóu de shì wǒ nǚ péng yǒu ， tā gāng xià fēi jī 。",
+   "grammar": [
+    "G7-006"
+   ],
+   "id": "L7-011"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "尽北边有一个空位，您可以考虑这个位置。",
+   "pinyin": "jǐn běi biān yǒu yī gè kōng wèi ， nín kě yǐ kǎo lǜ zhè gè wèi zhì 。",
+   "grammar": [
+    "G7-006"
+   ],
+   "id": "L7-012"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "她的分数蛮高的，大学肯定能考上。",
+   "pinyin": "tā de fēn shù mán gāo de ， dà xué kěn dìng néng kǎo shàng 。",
+   "grammar": [
+    "G7-007"
+   ],
+   "id": "L7-013"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "昨天刚下完雪，今天蛮冷的。",
+   "pinyin": "zuó tiān gāng xià wán xuě ， jīn tiān mán lěng de 。",
+   "grammar": [
+    "G7-007"
+   ],
+   "id": "L7-014"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我对这部电影的印象颇深。",
+   "pinyin": "wǒ duì zhè bù diàn yǐng de yìn xiàng pǒ shēn 。",
+   "grammar": [
+    "G7-008"
+   ],
+   "id": "L7-015"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他对导游这份工作颇有兴趣。",
+   "pinyin": "tā duì dǎo yóu zhè fèn gōng zuò pǒ yǒu xīng qù 。",
+   "grammar": [
+    "G7-008"
+   ],
+   "id": "L7-016"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "听了他的话，我稍稍松了一口气。",
+   "pinyin": "tīng le tā de huà ， wǒ shāo shāo sōng le yī kǒu qì 。",
+   "grammar": [
+    "G7-009"
+   ],
+   "id": "L7-017"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "上海的夏天又闷又热，稍稍一动就会出汗。",
+   "pinyin": "shàng hǎi de xià tiān yòu mèn yòu rè ， shāo shāo yī dòng jiù huì chū hàn 。",
+   "grammar": [
+    "G7-009"
+   ],
+   "id": "L7-018"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "葡萄中的维生素含量尤为丰厚。",
+   "pinyin": "pú táo zhōng de wéi shēng sù hán liàng yóu wèi fēng hòu 。",
+   "grammar": [
+    "G7-010"
+   ],
+   "id": "L7-019"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他对自己的要求尤为严格。",
+   "pinyin": "tā duì zì jǐ de yào qiú yóu wèi yán gé 。",
+   "grammar": [
+    "G7-010"
+   ],
+   "id": "L7-020"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "听到这个消息，同学们越发有热情了。",
+   "pinyin": "tīng dào zhè gè xiāo xī ， tóng xué men yuè fā yǒu rè qíng le 。",
+   "grammar": [
+    "G7-011"
+   ],
+   "id": "L7-021"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "随着年龄的增长，他越发不喜欢出去旅行了。",
+   "pinyin": "suí zhe nián líng de zēng zhǎng ， tā yuè fā bù xǐ huān chū qù lǚ xíng le 。",
+   "grammar": [
+    "G7-011"
+   ],
+   "id": "L7-022"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "凡事自己努力去做就好。",
+   "pinyin": "fán shì zì jǐ nǔ lì qù zuò jiù hǎo 。",
+   "grammar": [
+    "G7-012"
+   ],
+   "id": "L7-023"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "凡年龄满十八岁的公民都有选举与被选举的权利。",
+   "pinyin": "fán nián líng mǎn shí bā suì de gōng mín dōu yǒu xuǎn jǔ yǔ bèi xuǎn jǔ de quán lì 。",
+   "grammar": [
+    "G7-012"
+   ],
+   "id": "L7-024"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这已是人人皆知的事实。",
+   "pinyin": "zhè yǐ shì rén rén jiē zhī de shì shí 。",
+   "grammar": [
+    "G7-013"
+   ],
+   "id": "L7-025"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这个比赛十六到十九岁的男性青少年皆可报名参加。",
+   "pinyin": "zhè gè bǐ sài shí liù dào shí jiǔ suì de nán xìng qīng shǎo nián jiē kě bào míng cān jiā 。",
+   "grammar": [
+    "G7-013"
+   ],
+   "id": "L7-026"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我们不得不承认这些材料统统没有价值。",
+   "pinyin": "wǒ men bù dé bù chéng rèn zhè xiē cái liào tǒng tǒng méi yǒu jià zhí 。",
+   "grammar": [
+    "G7-014"
+   ],
+   "id": "L7-027"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "时间、地点、人物、事件，她统统不记得。",
+   "pinyin": "shí jiān 、 dì diǎn 、 rén wù 、 shì jiàn ， tā tǒng tǒng bù jì dé 。",
+   "grammar": [
+    "G7-014"
+   ],
+   "id": "L7-028"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "全班同学都在认真听讲，唯独他在睡觉。",
+   "pinyin": "quán bān tóng xué dōu zài rèn zhēn tīng jiǎng ， wéi dú tā zài shuì jué 。",
+   "grammar": [
+    "G7-015"
+   ],
+   "id": "L7-029"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他什么都不在乎，唯独受不了家人的不理解。",
+   "pinyin": "tā shén me dōu bù zài hū ， wéi dú shòu bù le jiā rén de bù lǐ jiě 。",
+   "grammar": [
+    "G7-015"
+   ],
+   "id": "L7-030"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "对待教育问题，不宜忽视，要严肃对待，有错即改。",
+   "pinyin": "duì dài jiào yù wèn tí ， bù yí hū shì ， yào yán sù duì dài ， yǒu cuò jí gǎi 。",
+   "grammar": [
+    "G7-016"
+   ],
+   "id": "L7-031"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "西北人张口即来的这种民歌，是高原上一道美丽的风景。",
+   "pinyin": "xī běi rén zhāng kǒu jí lái de zhè zhǒng mín gē ， shì gāo yuán shàng yī dào měi lì de fēng jǐng 。",
+   "grammar": [
+    "G7-016"
+   ],
+   "id": "L7-032"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "王老师历来重视培养学生的动手能力。",
+   "pinyin": "wáng lǎo shī lì lái zhòng shì péi yǎng xué shēng de dòng shǒu néng lì 。",
+   "grammar": [
+    "G7-017"
+   ],
+   "id": "L7-033"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "流行歌曲历来是社会文化不可以缺少的一部分。",
+   "pinyin": "liú xíng gē qū lì lái shì shè huì wén huà bù kě yǐ quē shǎo de yī bù fēn 。",
+   "grammar": [
+    "G7-017"
+   ],
+   "id": "L7-034"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这个调查到现在为止尚无进展。",
+   "pinyin": "zhè gè diào chá dào xiàn zài wèi zhǐ shàng wú jìn zhǎn 。",
+   "grammar": [
+    "G7-018"
+   ],
+   "id": "L7-035"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这个问题想研究明白，尚需努力。",
+   "pinyin": "zhè gè wèn tí xiǎng yán jiū míng bái ， shàng xū nǔ lì 。",
+   "grammar": [
+    "G7-018"
+   ],
+   "id": "L7-036"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他这个人向来吃软不吃硬，你不能硬来。",
+   "pinyin": "tā zhè gè rén xiàng lái chī ruǎn bù chī yìng ， nǐ bù néng yìng lái 。",
+   "grammar": [
+    "G7-019"
+   ],
+   "id": "L7-037"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他向来第一个到学校，从未迟到过。",
+   "pinyin": "tā xiàng lái dì yī gè dào xué xiào ， cóng wèi chí dào guò 。",
+   "grammar": [
+    "G7-019"
+   ],
+   "id": "L7-038"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他频频与朋友们以及他的竞争者们打招呼。",
+   "pinyin": "tā pín pín yǔ péng yǒu men yǐ jí tā de jìng zhēng zhě men dǎ zhāo hū 。",
+   "grammar": [
+    "G7-020"
+   ],
+   "id": "L7-039"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "气氛十分热烈，大家频频举杯，说笑不停，非常高兴。",
+   "pinyin": "qì fēn shí fēn rè liè ， dà jiā pín pín jǔ bēi ， shuō xiào bù tíng ， fēi cháng gāo xīng 。",
+   "grammar": [
+    "G7-020"
+   ],
+   "id": "L7-040"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这个班再度被评为“优秀班集体”。",
+   "pinyin": "zhè gè bān zài dù bèi píng wèi “ yōu xiù bān jí tǐ ” 。",
+   "grammar": [
+    "G7-021"
+   ],
+   "id": "L7-041"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "两位好友三十年后再度相遇。",
+   "pinyin": "liǎng wèi hǎo yǒu sān shí nián hòu zài dù xiāng yù 。",
+   "grammar": [
+    "G7-021"
+   ],
+   "id": "L7-042"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "此人并不存在，将来亦不会出现，永远不会。",
+   "pinyin": "cǐ rén bìng bù cún zài ， jiāng lái yì bù huì chū xiàn ， yǒng yuǎn bù huì 。",
+   "grammar": [
+    "G7-022"
+   ],
+   "id": "L7-043"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "若能从失败中获得教训，失败亦是成功。",
+   "pinyin": "ruò néng cóng shī bài zhōng huò dé jiào xùn ， shī bài yì shì chéng gōng 。",
+   "grammar": [
+    "G7-022"
+   ],
+   "id": "L7-044"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他至今还未和我联系。",
+   "pinyin": "tā zhì jīn hái wèi hé wǒ lián xì 。",
+   "grammar": [
+    "G7-023"
+   ],
+   "id": "L7-045"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "虽然他四十未到，但已经是很成熟的经理了。",
+   "pinyin": "suī rán tā sì shí wèi dào ， dàn yǐ jīng shì hěn chéng shú de jīng lǐ le 。",
+   "grammar": [
+    "G7-023"
+   ],
+   "id": "L7-046"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "希望各位勿忘十年后的约定。",
+   "pinyin": "xī wàng gè wèi wù wàng shí nián hòu de yuē dìng 。",
+   "grammar": [
+    "G7-024"
+   ],
+   "id": "L7-047"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我在国外一切都很好，勿念。",
+   "pinyin": "wǒ zài guó wài yī qiè dōu hěn hǎo ， wù niàn 。",
+   "grammar": [
+    "G7-024"
+   ],
+   "id": "L7-048"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "看着父亲粗糙的手，我不由得流下了眼泪。",
+   "pinyin": "kàn zhe fù qīn cū cāo de shǒu ， wǒ bù yóu dé liú xià le yǎn lèi 。",
+   "grammar": [
+    "G7-025"
+   ],
+   "id": "L7-049"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "看着毕业照，我不由得开始回忆起往事。",
+   "pinyin": "kàn zhe bì yè zhào ， wǒ bù yóu dé kāi shǐ huí yì qǐ wǎng shì 。",
+   "grammar": [
+    "G7-025"
+   ],
+   "id": "L7-050"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "去老师办公室的时候，他顺便把我的作业也交了。",
+   "pinyin": "qù lǎo shī bàn gōng shì de shí hòu ， tā shùn biàn bǎ wǒ de zuò yè yě jiāo le 。",
+   "grammar": [
+    "G7-026"
+   ],
+   "id": "L7-051"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我到了上海，顺便去看望了小学老师。",
+   "pinyin": "wǒ dào le shàng hǎi ， shùn biàn qù kàn wàng le xiǎo xué lǎo shī 。",
+   "grammar": [
+    "G7-026"
+   ],
+   "id": "L7-052"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这场大雨一连下了十多天，也就把工人们困在这里十多天。",
+   "pinyin": "zhè chǎng dà yǔ yī lián xià le shí duō tiān ， yě jiù bǎ gōng rén men kùn zài zhè lǐ shí duō tiān 。",
+   "grammar": [
+    "G7-027"
+   ],
+   "id": "L7-053"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他上了床，在一连三天三夜没睡好以后终于能舒舒服服地睡上一觉了。",
+   "pinyin": "tā shàng le chuáng ， zài yī lián sān tiān sān yè méi shuì hǎo yǐ hòu zhōng yú néng shū shū fú fú dì shuì shàng yī jué le 。",
+   "grammar": [
+    "G7-027"
+   ],
+   "id": "L7-054"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "按说现在是蔬菜供应淡季，可是这里的蔬菜种类还是不少。",
+   "pinyin": "àn shuō xiàn zài shì shū cài gōng yīng dàn jì ， kě shì zhè lǐ de shū cài zhǒng lèi hái shì bù shǎo 。",
+   "grammar": [
+    "G7-028"
+   ],
+   "id": "L7-055"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "按说这个时候应该下雪了，可今年一场雪还没下。",
+   "pinyin": "àn shuō zhè gè shí hòu yīng gāi xià xuě le ， kě jīn nián yī chǎng xuě hái méi xià 。",
+   "grammar": [
+    "G7-028"
+   ],
+   "id": "L7-056"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "若是有个太太照顾着他，他的生活必定不会那么乱七八糟了。",
+   "pinyin": "ruò shì yǒu gè tài tài zhào gù zhe tā ， tā de shēng huó bì dìng bù huì nà me luàn qī bā zāo le 。",
+   "grammar": [
+    "G7-029"
+   ],
+   "id": "L7-057"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "倘若他们想要人为地挽救这一文明，必定会失败。",
+   "pinyin": "tǎng ruò tā men xiǎng yào rén wèi dì wǎn jiù zhè yī wén míng ， bì dìng huì shī bài 。",
+   "grammar": [
+    "G7-029"
+   ],
+   "id": "L7-058"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "据说这个药效果很好，你不妨试一试。",
+   "pinyin": "jù shuō zhè gè yào xiào guǒ hěn hǎo ， nǐ bù fáng shì yī shì 。",
+   "grammar": [
+    "G7-030"
+   ],
+   "id": "L7-059"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "关于这个问题，咱们不妨听一听别人的建议。",
+   "pinyin": "guān yú zhè gè wèn tí ， zán men bù fáng tīng yī tīng bié rén de jiàn yì 。",
+   "grammar": [
+    "G7-030"
+   ],
+   "id": "L7-060"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我只是和你开玩笑，何必当真呢？",
+   "pinyin": "wǒ zhǐ shì hé nǐ kāi wán xiào ， hé bì dāng zhēn ne ？",
+   "grammar": [
+    "G7-031"
+   ],
+   "id": "L7-061"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "咱们是老同学，何必这么客气。",
+   "pinyin": "zán men shì lǎo tóng xué ， hé bì zhè me kè qì 。",
+   "grammar": [
+    "G7-031"
+   ],
+   "id": "L7-062"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "她今天没来学校，莫非出了什么事？",
+   "pinyin": "tā jīn tiān méi lái xué xiào ， mò fēi chū le shén me shì ？",
+   "grammar": [
+    "G7-032"
+   ],
+   "id": "L7-063"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "你平时不认真学习，莫非要等到期末考试了才开始紧张吗？",
+   "pinyin": "nǐ píng shí bù rèn zhēn xué xí ， mò fēi yào děng dào qī mò kǎo shì le cái kāi shǐ jǐn zhāng ma ？",
+   "grammar": [
+    "G7-032"
+   ],
+   "id": "L7-064"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "她忘了关水龙头，白白浪费了很多水。",
+   "pinyin": "tā wàng le guān shuǐ lóng tóu ， bái bái làng fèi le hěn duō shuǐ 。",
+   "grammar": [
+    "G7-033"
+   ],
+   "id": "L7-065"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这次投资失败了，让公司白白损失了很多钱。",
+   "pinyin": "zhè cì tóu zī shī bài le ， ràng gōng sī bái bái sǔn shī le hěn duō qián 。",
+   "grammar": [
+    "G7-033"
+   ],
+   "id": "L7-066"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "明明是你的错，怎么反倒怪我了？",
+   "pinyin": "míng míng shì nǐ de cuò ， zěn me fǎn dào guài wǒ le ？",
+   "grammar": [
+    "G7-034"
+   ],
+   "id": "L7-067"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他越是在困难的时候反倒越能坚持。",
+   "pinyin": "tā yuè shì zài kùn nán de shí hòu fǎn dào yuè néng jiān chí 。",
+   "grammar": [
+    "G7-034"
+   ],
+   "id": "L7-068"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我分明看他走过来了，怎么一下子就不见了呢？",
+   "pinyin": "wǒ fēn míng kàn tā zǒu guò lái le ， zěn me yī xià zi jiù bù jiàn le ne ？",
+   "grammar": [
+    "G7-035"
+   ],
+   "id": "L7-069"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "让我三天就完成，你分明是在为难我。",
+   "pinyin": "ràng wǒ sān tiān jiù wán chéng ， nǐ fēn míng shì zài wèi nán wǒ 。",
+   "grammar": [
+    "G7-035"
+   ],
+   "id": "L7-070"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "怪不得她没去爬山，原来昨天下雨了。",
+   "pinyin": "guài bù dé tā méi qù pá shān ， yuán lái zuó tiān xià yǔ le 。",
+   "grammar": [
+    "G7-036"
+   ],
+   "id": "L7-071"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这姑娘漂亮，人品也好，怪不得有很多男孩儿喜欢她。",
+   "pinyin": "zhè gū niáng piāo liàng ， rén pǐn yě hǎo ， guài bù dé yǒu hěn duō nán hái ér xǐ huān tā 。",
+   "grammar": [
+    "G7-036"
+   ],
+   "id": "L7-072"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "好在你现在也在北京，你们可以互相照顾。",
+   "pinyin": "hǎo zài nǐ xiàn zài yě zài běi jīng ， nǐ men kě yǐ hù xiāng zhào gù 。",
+   "grammar": [
+    "G7-037"
+   ],
+   "id": "L7-073"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "好在他病得不重，应该马上就能上班了。",
+   "pinyin": "hǎo zài tā bìng dé bù zhòng ， yīng gāi mǎ shàng jiù néng shàng bān le 。",
+   "grammar": [
+    "G7-037"
+   ],
+   "id": "L7-074"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "《红楼梦》乃古代小说的杰出代表。",
+   "pinyin": "《 hóng lóu mèng 》 nǎi gǔ dài xiǎo shuō de jié chū dài biǎo 。",
+   "grammar": [
+    "G7-038"
+   ],
+   "id": "L7-075"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "失败乃成功之母。",
+   "pinyin": "shī bài nǎi chéng gōng zhī mǔ 。",
+   "grammar": [
+    "G7-038"
+   ],
+   "id": "L7-076"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这道题非常难，难怪她一时答不出来。",
+   "pinyin": "zhè dào tí fēi cháng nán ， nán guài tā yī shí dá bù chū lái 。",
+   "grammar": [
+    "G7-039"
+   ],
+   "id": "L7-077"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他是个东北人，难怪他不怕冷。",
+   "pinyin": "tā shì gè dōng běi rén ， nán guài tā bù pà lěng 。",
+   "grammar": [
+    "G7-039"
+   ],
+   "id": "L7-078"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "周围这么多漂亮的女生，你怎么偏偏喜欢她？",
+   "pinyin": "zhōu wéi zhè me duō piāo liàng de nǚ shēng ， nǐ zěn me piān piān xǐ huān tā ？",
+   "grammar": [
+    "G7-040"
+   ],
+   "id": "L7-079"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我们已经穿好衣服准备要走了，可孩子偏偏又醒了。",
+   "pinyin": "wǒ men yǐ jīng chuān hǎo yī fú zhǔn bèi yào zǒu le ， kě hái zi piān piān yòu xǐng le 。",
+   "grammar": [
+    "G7-040"
+   ],
+   "id": "L7-080"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "衣服已经被雨淋湿了，我索性就合上了伞，直接在雨中散步了。",
+   "pinyin": "yī fú yǐ jīng bèi yǔ lín shī le ， wǒ suǒ xìng jiù hé shàng le sǎn ， zhí jiē zài yǔ zhōng sàn bù le 。",
+   "grammar": [
+    "G7-041"
+   ],
+   "id": "L7-081"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "现在已经很晚了，我索性直接在外面吃完饭再回家好了。",
+   "pinyin": "xiàn zài yǐ jīng hěn wǎn le ， wǒ suǒ xìng zhí jiē zài wài miàn chī wán fàn zài huí jiā hǎo le 。",
+   "grammar": [
+    "G7-041"
+   ],
+   "id": "L7-082"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "万万不能开着煤气出门。",
+   "pinyin": "wàn wàn bù néng kāi zhe méi qì chū mén 。",
+   "grammar": [
+    "G7-042"
+   ],
+   "id": "L7-083"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "触犯法律的事情是万万干不得的。",
+   "pinyin": "chù fàn fǎ lǜ de shì qíng shì wàn wàn gàn bù dé de 。",
+   "grammar": [
+    "G7-042"
+   ],
+   "id": "L7-084"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这道题未免也太难了吧。",
+   "pinyin": "zhè dào tí wèi miǎn yě tài nán le ba 。",
+   "grammar": [
+    "G7-043"
+   ],
+   "id": "L7-085"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "你这样说她，未免也太过分了。",
+   "pinyin": "nǐ zhè yàng shuō tā ， wèi miǎn yě tài guò fēn le 。",
+   "grammar": [
+    "G7-043"
+   ],
+   "id": "L7-086"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他这么做，无非是为了早点儿回家。",
+   "pinyin": "tā zhè me zuò ， wú fēi shì wèi le zǎo diǎn ér huí jiā 。",
+   "grammar": [
+    "G7-044"
+   ],
+   "id": "L7-087"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "她想要的无非是一份稳定的工作。",
+   "pinyin": "tā xiǎng yào de wú fēi shì yī fèn wěn dìng de gōng zuò 。",
+   "grammar": [
+    "G7-044"
+   ],
+   "id": "L7-088"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他来的时候，幸好我在家，不然他又该生气了。",
+   "pinyin": "tā lái de shí hòu ， xìng hǎo wǒ zài jiā ， bù rán tā yòu gāi shēng qì le 。",
+   "grammar": [
+    "G7-045"
+   ],
+   "id": "L7-089"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "幸好你提醒了我，要不我就忘了。",
+   "pinyin": "xìng hǎo nǐ tí xǐng le wǒ ， yào bù wǒ jiù wàng le 。",
+   "grammar": [
+    "G7-045"
+   ],
+   "id": "L7-090"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "幸亏你回来得早，不然我就不知道怎么办才好了。",
+   "pinyin": "xìng kuī nǐ huí lái dé zǎo ， bù rán wǒ jiù bù zhī dào zěn me bàn cái hǎo le 。",
+   "grammar": [
+    "G7-046"
+   ],
+   "id": "L7-091"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我们幸亏走了这条路，才没碰到堵车。",
+   "pinyin": "wǒ men xìng kuī zǒu le zhè tiáo lù ， cái méi pèng dào dǔ chē 。",
+   "grammar": [
+    "G7-046"
+   ],
+   "id": "L7-092"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他终究是个孩子，你得耐心一点儿。",
+   "pinyin": "tā zhōng jiū shì gè hái zi ， nǐ dé nài xīn yī diǎn ér 。",
+   "grammar": [
+    "G7-047"
+   ],
+   "id": "L7-093"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "你们对工作这么不负责任，终究会出问题的。",
+   "pinyin": "nǐ men duì gōng zuò zhè me bù fù zé rèn ， zhōng jiū huì chū wèn tí de 。",
+   "grammar": [
+    "G7-047"
+   ],
+   "id": "L7-094"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "雨水顺着我的头发滴了下来。",
+   "pinyin": "yǔ shuǐ shùn zhe wǒ de tóu fā dī le xià lái 。",
+   "grammar": [
+    "G7-048"
+   ],
+   "id": "L7-095"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我们就顺着这条路走，走到哪儿算哪儿。",
+   "pinyin": "wǒ men jiù shùn zhe zhè tiáo lù zǒu ， zǒu dào nǎ ér suàn nǎ ér 。",
+   "grammar": [
+    "G7-048"
+   ],
+   "id": "L7-096"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "当着我的面，你有什么想说的就都说出来吧。",
+   "pinyin": "dāng zhe wǒ de miàn ， nǐ yǒu shén me xiǎng shuō de jiù dōu shuō chū lái ba 。",
+   "grammar": [
+    "G7-049"
+   ],
+   "id": "L7-097"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我当着大家的面把礼物拆开了。",
+   "pinyin": "wǒ dāng zhe dà jiā de miàn bǎ lǐ wù chāi kāi le 。",
+   "grammar": [
+    "G7-049"
+   ],
+   "id": "L7-098"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他已就这个问题做了检讨。",
+   "pinyin": "tā yǐ jiù zhè gè wèn tí zuò le jiǎn tǎo 。",
+   "grammar": [
+    "G7-050"
+   ],
+   "id": "L7-099"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我想就如何找到自己满意的工作这个问题来谈一谈。",
+   "pinyin": "wǒ xiǎng jiù rú hé zhǎo dào zì jǐ mǎn yì de gōng zuò zhè gè wèn tí lái tán yī tán 。",
+   "grammar": [
+    "G7-050"
+   ],
+   "id": "L7-100"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "趁你还年轻，一定要多尝试。",
+   "pinyin": "chèn nǐ hái nián qīng ， yī dìng yào duō cháng shì 。",
+   "grammar": [
+    "G7-051"
+   ],
+   "id": "L7-101"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "趁火车还没开，你现在还能下车。",
+   "pinyin": "chèn huǒ chē hái méi kāi ， nǐ xiàn zài hái néng xià chē 。",
+   "grammar": [
+    "G7-051"
+   ],
+   "id": "L7-102"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这两种不同的人生态度是基于对人生不同的理解。",
+   "pinyin": "zhè liǎng zhǒng bù tóng de rén shēng tài dù shì jī yú duì rén shēng bù tóng de lǐ jiě 。",
+   "grammar": [
+    "G7-052"
+   ],
+   "id": "L7-103"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "你的结论都基于假设，所以不可信。",
+   "pinyin": "nǐ de jié lùn dōu jī yú jiǎ shè ， suǒ yǐ bù kě xìn 。",
+   "grammar": [
+    "G7-052"
+   ],
+   "id": "L7-104"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "依你看，这件事该怎么解决？",
+   "pinyin": "yī nǐ kàn ， zhè jiàn shì gāi zěn me jiě jué ？",
+   "grammar": [
+    "G7-053"
+   ],
+   "id": "L7-105"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这件事就依你的方案做吧。",
+   "pinyin": "zhè jiàn shì jiù yī nǐ de fāng àn zuò ba 。",
+   "grammar": [
+    "G7-053"
+   ],
+   "id": "L7-106"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "工人、农民及士兵都参加了此次会议。",
+   "pinyin": "gōng rén 、 nóng mín jí shì bīng dōu cān jiā le cǐ cì huì yì 。",
+   "grammar": [
+    "G7-054"
+   ],
+   "id": "L7-107"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "现急需煤炭、石油、电力及其他能源。",
+   "pinyin": "xiàn jí xū méi tàn 、 shí yóu 、 diàn lì jí qí tā néng yuán 。",
+   "grammar": [
+    "G7-054"
+   ],
+   "id": "L7-108"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他本来不同意的，可继而一想，又觉得是一个好机会。",
+   "pinyin": "tā běn lái bù tóng yì de ， kě jì ér yī xiǎng ， yòu jué dé shì yī gè hǎo jī huì 。",
+   "grammar": [
+    "G7-055"
+   ],
+   "id": "L7-109"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "人民币升值将会影响到中国的出口，继而影响中国的经济增长。",
+   "pinyin": "rén mín bì shēng zhí jiāng huì yǐng xiǎng dào zhōng guó de chū kǒu ， jì ér yǐng xiǎng zhōng guó de jīng jì zēng zhǎng 。",
+   "grammar": [
+    "G7-055"
+   ],
+   "id": "L7-110"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我们可以将北京描绘为一本梦之书。",
+   "pinyin": "wǒ men kě yǐ jiāng běi jīng miáo huì wèi yī běn mèng zhī shū 。",
+   "grammar": [
+    "G7-056"
+   ],
+   "id": "L7-111"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "由于做了好事，做出了贡献，因此他得到所爱之人的欣赏。",
+   "pinyin": "yóu yú zuò le hǎo shì ， zuò chū le gòng xiàn ， yīn cǐ tā dé dào suǒ ài zhī rén de xīn shǎng 。",
+   "grammar": [
+    "G7-056"
+   ],
+   "id": "L7-112"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这算什么，只是一堆纸而已。",
+   "pinyin": "zhè suàn shén me ， zhǐ shì yī duī zhǐ ér yǐ 。",
+   "grammar": [
+    "G7-057"
+   ],
+   "id": "L7-113"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我不过是出于好奇，随便问问而已。",
+   "pinyin": "wǒ bù guò shì chū yú hǎo qí ， suí biàn wèn wèn ér yǐ 。",
+   "grammar": [
+    "G7-057"
+   ],
+   "id": "L7-114"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "人生得一知己足矣。",
+   "pinyin": "rén shēng dé yī zhī jǐ zú yǐ 。",
+   "grammar": [
+    "G7-058"
+   ],
+   "id": "L7-115"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他的想法可谓多矣。",
+   "pinyin": "tā de xiǎng fǎ kě wèi duō yǐ 。",
+   "grammar": [
+    "G7-058"
+   ],
+   "id": "L7-116"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他有一身本领，颇有才华。",
+   "pinyin": "tā yǒu yī shēn běn lǐng ， pǒ yǒu cái huá 。",
+   "grammar": [
+    "G7-059"
+   ],
+   "id": "L7-117"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这里虽然听不见什么争吵声，但并不是一团和气。",
+   "pinyin": "zhè lǐ suī rán tīng bù jiàn shén me zhēng chǎo shēng ， dàn bìng bù shì yī tuán hé qì 。",
+   "grammar": [
+    "G7-059"
+   ],
+   "id": "L7-118"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他瞧不起她，对她总是一副爱理不理的样子。",
+   "pinyin": "tā qiáo bù qǐ tā ， duì tā zǒng shì yī fù ài lǐ bù lǐ de yàng zi 。",
+   "grammar": [
+    "G7-060"
+   ],
+   "id": "L7-119"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这是我的想法，你爱听不听。",
+   "pinyin": "zhè shì wǒ de xiǎng fǎ ， nǐ ài tīng bù tīng 。",
+   "grammar": [
+    "G7-060"
+   ],
+   "id": "L7-120"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他说话半真半假，你不要完全相信他。",
+   "pinyin": "tā shuō huà bàn zhēn bàn jiǎ ， nǐ bù yào wán quán xiāng xìn tā 。",
+   "grammar": [
+    "G7-061"
+   ],
+   "id": "L7-121"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "突然听到明天放假的消息，我一直半信半疑。",
+   "pinyin": "tū rán tīng dào míng tiān fàng jiǎ de xiāo xī ， wǒ yī zhí bàn xìn bàn yí 。",
+   "grammar": [
+    "G7-061"
+   ],
+   "id": "L7-122"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "她买东西就喜欢东挑西选，从不轻易下单。",
+   "pinyin": "tā mǎi dōng xī jiù xǐ huān dōng tiāo xī xuǎn ， cóng bù qīng yì xià dān 。",
+   "grammar": [
+    "G7-062"
+   ],
+   "id": "L7-123"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "为了买到一张火车票，我东奔西跑，累得一身汗。",
+   "pinyin": "wèi le mǎi dào yī zhāng huǒ chē piào ， wǒ dōng bēn xī pǎo ， lèi dé yī shēn hàn 。",
+   "grammar": [
+    "G7-062"
+   ],
+   "id": "L7-124"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这场悲剧的制造者非你非我，另有他人。",
+   "pinyin": "zhè chǎng bēi jù de zhì zào zhě fēi nǐ fēi wǒ ， lìng yǒu tā rén 。",
+   "grammar": [
+    "G7-063"
+   ],
+   "id": "L7-125"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我们非敌非友，只是那天见过一面而已。",
+   "pinyin": "wǒ men fēi dí fēi yǒu ， zhǐ shì nà tiān jiàn guò yī miàn ér yǐ 。",
+   "grammar": [
+    "G7-063"
+   ],
+   "id": "L7-126"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "叔叔书房的门关着，里边的说话声忽高忽低。",
+   "pinyin": "shū shū shū fáng de mén guān zhe ， lǐ biān de shuō huà shēng hū gāo hū dī 。",
+   "grammar": [
+    "G7-064"
+   ],
+   "id": "L7-127"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他十分紧张，心跳得忽快忽慢。",
+   "pinyin": "tā shí fēn jǐn zhāng ， xīn tiào dé hū kuài hū màn 。",
+   "grammar": [
+    "G7-064"
+   ],
+   "id": "L7-128"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "几个小孩儿吓得连哭带叫。",
+   "pinyin": "jǐ gè xiǎo hái ér xià dé lián kū dài jiào 。",
+   "grammar": [
+    "G7-065"
+   ],
+   "id": "L7-129"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "信是男朋友写的，她高兴得连蹦带跳。",
+   "pinyin": "xìn shì nán péng yǒu xiě de ， tā gāo xīng dé lián bèng dài tiào 。",
+   "grammar": [
+    "G7-065"
+   ],
+   "id": "L7-130"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "小鸟发出的声音时长时短。",
+   "pinyin": "xiǎo niǎo fā chū de shēng yīn shí zhǎng shí duǎn 。",
+   "grammar": [
+    "G7-066"
+   ],
+   "id": "L7-131"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他的成绩时好时坏，老师也拿他没办法。",
+   "pinyin": "tā de chéng jì shí hǎo shí huài ， lǎo shī yě ná tā méi bàn fǎ 。",
+   "grammar": [
+    "G7-066"
+   ],
+   "id": "L7-132"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他自说自话，完全不顾别人的感受。",
+   "pinyin": "tā zì shuō zì huà ， wán quán bù gù bié rén de gǎn shòu 。",
+   "grammar": [
+    "G7-067"
+   ],
+   "id": "L7-133"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "她自怨自艾，整天闷闷不乐。",
+   "pinyin": "tā zì yuàn zì ài ， zhěng tiān mèn mèn bù lè 。",
+   "grammar": [
+    "G7-067"
+   ],
+   "id": "L7-134"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他一口气跑了半个多小时，巴不得一步就到家。",
+   "pinyin": "tā yī kǒu qì pǎo le bàn gè duō xiǎo shí ， bā bù dé yī bù jiù dào jiā 。",
+   "grammar": [
+    "G7-068"
+   ],
+   "id": "L7-135"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我恨这个行业，巴不得早点儿离开。",
+   "pinyin": "wǒ hèn zhè gè xíng yè ， bā bù dé zǎo diǎn ér lí kāi 。",
+   "grammar": [
+    "G7-068"
+   ],
+   "id": "L7-136"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "晚饭还没开始吃他就已经醉了，后来就更别提了。",
+   "pinyin": "wǎn fàn hái méi kāi shǐ chī tā jiù yǐ jīng zuì le ， hòu lái jiù gèng bié tí le 。",
+   "grammar": [
+    "G7-069"
+   ],
+   "id": "L7-137"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "别提了，我根本都不认识那个人，他硬拉着我不让我走。",
+   "pinyin": "bié tí le ， wǒ gēn běn dōu bù rèn shí nà gè rén ， tā yìng lā zhe wǒ bù ràng wǒ zǒu 。",
+   "grammar": [
+    "G7-069"
+   ],
+   "id": "L7-138"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他是个老师，除此之外，我不知道别的。",
+   "pinyin": "tā shì gè lǎo shī ， chú cǐ zhī wài ， wǒ bù zhī dào bié de 。",
+   "grammar": [
+    "G7-070"
+   ],
+   "id": "L7-139"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我只带了一个书包，除此之外什么都没带。",
+   "pinyin": "wǒ zhǐ dài le yī gè shū bāo ， chú cǐ zhī wài shén me dōu méi dài 。",
+   "grammar": [
+    "G7-070"
+   ],
+   "id": "L7-140"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "人生归根到底是一个人的旅行。",
+   "pinyin": "rén shēng guī gēn dào dǐ shì yī gè rén de lǚ xíng 。",
+   "grammar": [
+    "G7-071"
+   ],
+   "id": "L7-141"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "归根到底，成长是一种幸福。",
+   "pinyin": "guī gēn dào dǐ ， chéng zhǎng shì yī zhǒng xìng fú 。",
+   "grammar": [
+    "G7-071"
+   ],
+   "id": "L7-142"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "甲：什么？我们家出事了？",
+   "pinyin": "jiǎ ： shén me ？ wǒ men jiā chū shì le ？",
+   "grammar": [
+    "G7-072"
+   ],
+   "id": "L7-143"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "乙：可不是，警察都已经来了。",
+   "pinyin": "yǐ ： kě bù shì ， jǐng chá dōu yǐ jīng lái le 。",
+   "grammar": [
+    "G7-072"
+   ],
+   "id": "L7-144"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我愿意做这件事，那是没说的，只是我不知道还能做多长时间。",
+   "pinyin": "wǒ yuàn yì zuò zhè jiàn shì ， nà shì méi shuō de ， zhǐ shì wǒ bù zhī dào hái néng zuò duō zhǎng shí jiān 。",
+   "grammar": [
+    "G7-073"
+   ],
+   "id": "L7-145"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "新来的领导我都见过了，真是没说的！",
+   "pinyin": "xīn lái de lǐng dǎo wǒ dōu jiàn guò le ， zhēn shì méi shuō de ！",
+   "grammar": [
+    "G7-073"
+   ],
+   "id": "L7-146"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "无论如何，他没有别的选择。",
+   "pinyin": "wú lùn rú hé ， tā méi yǒu bié de xuǎn zé 。",
+   "grammar": [
+    "G7-074"
+   ],
+   "id": "L7-147"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "听到这里，他无论如何也不答应。",
+   "pinyin": "tīng dào zhè lǐ ， tā wú lùn rú hé yě bù dá yīng 。",
+   "grammar": [
+    "G7-074"
+   ],
+   "id": "L7-148"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "很多中国孩子从小学习书法，由此可见书法在中国教育中的重要地位。",
+   "pinyin": "hěn duō zhōng guó hái zi cóng xiǎo xué xí shū fǎ ， yóu cǐ kě jiàn shū fǎ zài zhōng guó jiào yù zhōng de zhòng yào dì wèi 。",
+   "grammar": [
+    "G7-075"
+   ],
+   "id": "L7-149"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他一遍遍说明自己的计划，由此可见，他对这件事非常重视。",
+   "pinyin": "tā yī biàn biàn shuō míng zì jǐ de jì huà ， yóu cǐ kě jiàn ， tā duì zhè jiàn shì fēi cháng zhòng shì 。",
+   "grammar": [
+    "G7-075"
+   ],
+   "id": "L7-150"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "太阳落山了，几乎与此同时下起了大雨。",
+   "pinyin": "tài yáng luò shān le ， jǐ hū yǔ cǐ tóng shí xià qǐ le dà yǔ 。",
+   "grammar": [
+    "G7-076"
+   ],
+   "id": "L7-151"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "几个月之后，他的眼晴开始不停地流眼泪，与此同时他的视力也变得越来越差。",
+   "pinyin": "jǐ gè yuè zhī hòu ， tā de yǎn qíng kāi shǐ bù tíng dì liú yǎn lèi ， yǔ cǐ tóng shí tā de shì lì yě biàn dé yuè lái yuè chà 。",
+   "grammar": [
+    "G7-076"
+   ],
+   "id": "L7-152"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这些小鸟总是在唱歌，这样一来，我家门前可热闹了。",
+   "pinyin": "zhè xiē xiǎo niǎo zǒng shì zài chàng gē ， zhè yàng yī lái ， wǒ jiā mén qián kě rè nào le 。",
+   "grammar": [
+    "G7-077"
+   ],
+   "id": "L7-153"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他听了医生的话，每天都去外面散步，这样一来，他的病很快就好了。",
+   "pinyin": "tā tīng le yī shēng de huà ， měi tiān dōu qù wài miàn sàn bù ， zhè yàng yī lái ， tā de bìng hěn kuài jiù hǎo le 。",
+   "grammar": [
+    "G7-077"
+   ],
+   "id": "L7-154"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "综上所述，如果希望交流顺利地进行，需要大家共同努力。",
+   "pinyin": "zōng shàng suǒ shù ， rú guǒ xī wàng jiāo liú shùn lì dì jìn xíng ， xū yào dà jiā gòng tóng nǔ lì 。",
+   "grammar": [
+    "G7-078"
+   ],
+   "id": "L7-155"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "综上所述，随着科技的发展，人们越来越依赖手机。",
+   "pinyin": "zōng shàng suǒ shù ， suí zhe kē jì de fā zhǎn ， rén men yuè lái yuè yī lài shǒu jī 。",
+   "grammar": [
+    "G7-078"
+   ],
+   "id": "L7-156"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "总的来说，他的身体状态还算不错。",
+   "pinyin": "zǒng de lái shuō ， tā de shēn tǐ zhuàng tài hái suàn bù cuò 。",
+   "grammar": [
+    "G7-079"
+   ],
+   "id": "L7-157"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "她的专业能力很不错，工作态度总的来说也很端正，是个很好的合作伙伴。",
+   "pinyin": "tā de zhuān yè néng lì hěn bù cuò ， gōng zuò tài dù zǒng de lái shuō yě hěn duān zhèng ， shì gè hěn hǎo de hé zuò huǒ bàn 。",
+   "grammar": [
+    "G7-079"
+   ],
+   "id": "L7-158"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这件事很复杂，不知如何解决才好。",
+   "pinyin": "zhè jiàn shì hěn fù zá ， bù zhī rú hé jiě jué cái hǎo 。",
+   "grammar": [
+    "G7-080"
+   ],
+   "id": "L7-159"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "看他紧张得手心都是汗，我也不知说什么好。",
+   "pinyin": "kàn tā jǐn zhāng dé shǒu xīn dōu shì hàn ， wǒ yě bù zhī shuō shén me hǎo 。",
+   "grammar": [
+    "G7-080"
+   ],
+   "id": "L7-160"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "房内没有一样值钱的东西，所谓家具就是这几把椅子。",
+   "pinyin": "fáng nèi méi yǒu yī yàng zhí qián de dōng xī ， suǒ wèi jiā jù jiù shì zhè jǐ bǎ yǐ zi 。",
+   "grammar": [
+    "G7-081"
+   ],
+   "id": "L7-161"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他所谓的好家庭就是住在一栋大房子里，妻子穿着漂亮的衣服。",
+   "pinyin": "tā suǒ wèi de hǎo jiā tíng jiù shì zhù zài yī dòng dà fáng zi lǐ ， qī zi chuān zhe piāo liàng de yī fú 。",
+   "grammar": [
+    "G7-081"
+   ],
+   "id": "L7-162"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "不要相信他，这无非是他的借口罢了。",
+   "pinyin": "bù yào xiāng xìn tā ， zhè wú fēi shì tā de jiè kǒu bà le 。",
+   "grammar": [
+    "G7-082"
+   ],
+   "id": "L7-163"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我这么说没有其他意思，不过是想鼓励他而已。",
+   "pinyin": "wǒ zhè me shuō méi yǒu qí tā yì sī ， bù guò shì xiǎng gǔ lì tā ér yǐ 。",
+   "grammar": [
+    "G7-082"
+   ],
+   "id": "L7-164"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我们不能以自己为中心，要考虑别人的感受。",
+   "pinyin": "wǒ men bù néng yǐ zì jǐ wèi zhōng xīn ， yào kǎo lǜ bié rén de gǎn shòu 。",
+   "grammar": [
+    "G7-083"
+   ],
+   "id": "L7-165"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "她以和平为主题，创作了一部小说。",
+   "pinyin": "tā yǐ hé píng wèi zhǔ tí ， chuàng zuò le yī bù xiǎo shuō 。",
+   "grammar": [
+    "G7-083"
+   ],
+   "id": "L7-166"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我经常看到他因一件小事而快乐的场景。",
+   "pinyin": "wǒ jīng cháng kàn dào tā yīn yī jiàn xiǎo shì ér kuài lè de chǎng jǐng 。",
+   "grammar": [
+    "G7-084"
+   ],
+   "id": "L7-167"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "她胆子很大，不会因一些奇怪的声音而害怕。",
+   "pinyin": "tā dǎn zi hěn dà ， bù huì yīn yī xiē qí guài de shēng yīn ér hài pà 。",
+   "grammar": [
+    "G7-084"
+   ],
+   "id": "L7-168"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "为了方便取出来，他把钱存了个活期。",
+   "pinyin": "wèi le fāng biàn qǔ chū lái ， tā bǎ qián cún le gè huó qī 。",
+   "grammar": [
+    "G7-085"
+   ],
+   "id": "L7-169"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "为了节省时间，这封信还是寄航空吧。",
+   "pinyin": "wèi le jié shěng shí jiān ， zhè fēng xìn hái shì jì háng kōng ba 。",
+   "grammar": [
+    "G7-085"
+   ],
+   "id": "L7-170"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "终于要去旅游了，儿子兴奋得不行。",
+   "pinyin": "zhōng yú yào qù lǚ yóu le ， ér zi xīng fèn dé bù xíng 。",
+   "grammar": [
+    "G7-086"
+   ],
+   "id": "L7-171"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "上学时我对体育课也是讨厌得不行。",
+   "pinyin": "shàng xué shí wǒ duì tǐ yù kè yě shì tǎo yàn dé bù xíng 。",
+   "grammar": [
+    "G7-086"
+   ],
+   "id": "L7-172"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "那个小女孩儿哭个不停，说是找不到妈妈了。",
+   "pinyin": "nà gè xiǎo nǚ hái ér kū gè bù tíng ， shuō shì zhǎo bù dào mā mā le 。",
+   "grammar": [
+    "G7-087"
+   ],
+   "id": "L7-173"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他在我们面前说个没完。",
+   "pinyin": "tā zài wǒ men miàn qián shuō gè méi wán 。",
+   "grammar": [
+    "G7-087"
+   ],
+   "id": "L7-174"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他的一番话把大家逗得哈哈大笑。",
+   "pinyin": "tā de yī fān huà bǎ dà jiā dòu dé hā hā dà xiào 。",
+   "grammar": [
+    "G7-088"
+   ],
+   "id": "L7-175"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "去年她把丈夫死了，后来父母也去世了。",
+   "pinyin": "qù nián tā bǎ zhàng fū sǐ le ， hòu lái fù mǔ yě qù shì le 。",
+   "grammar": [
+    "G7-088"
+   ],
+   "id": "L7-176"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这是我第一次感到自己被一个人所吸引。",
+   "pinyin": "zhè shì wǒ dì yī cì gǎn dào zì jǐ bèi yī gè rén suǒ xī yǐn 。",
+   "grammar": [
+    "G7-089"
+   ],
+   "id": "L7-177"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "没想到，他竟然会被一个小学生所欺骗。",
+   "pinyin": "méi xiǎng dào ， tā jìng rán huì bèi yī gè xiǎo xué shēng suǒ qī piàn 。",
+   "grammar": [
+    "G7-089"
+   ],
+   "id": "L7-178"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "比起其他人，我的想法太简单了。",
+   "pinyin": "bǐ qǐ qí tā rén ， wǒ de xiǎng fǎ tài jiǎn dān le 。",
+   "grammar": [
+    "G7-090"
+   ],
+   "id": "L7-179"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "比起唱歌来，他更喜欢跳舞。",
+   "pinyin": "bǐ qǐ chàng gē lái ， tā gèng xǐ huān tiào wǔ 。",
+   "grammar": [
+    "G7-090"
+   ],
+   "id": "L7-180"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他一面听老师讲课，一面认真记笔记。",
+   "pinyin": "tā yī miàn tīng lǎo shī jiǎng kè ， yī miàn rèn zhēn jì bǐ jì 。",
+   "grammar": [
+    "G7-091"
+   ],
+   "id": "L7-181"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他一面做作业，一面看电视，做事一点儿都不用心。",
+   "pinyin": "tā yī miàn zuò zuò yè ， yī miàn kàn diàn shì ， zuò shì yī diǎn ér dōu bù yòng xīn 。",
+   "grammar": [
+    "G7-091"
+   ],
+   "id": "L7-182"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我们三年前见过一面，此后再也没有见过。",
+   "pinyin": "wǒ men sān nián qián jiàn guò yī miàn ， cǐ hòu zài yě méi yǒu jiàn guò 。",
+   "grammar": [
+    "G7-092"
+   ],
+   "id": "L7-183"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "她二十岁结了婚，此后丈夫生病，她照顾了四年。",
+   "pinyin": "tā èr shí suì jié le hūn ， cǐ hòu zhàng fū shēng bìng ， tā zhào gù le sì nián 。",
+   "grammar": [
+    "G7-092"
+   ],
+   "id": "L7-184"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他起初没明白，后来才理解了游戏的规则。",
+   "pinyin": "tā qǐ chū méi míng bái ， hòu lái cái lǐ jiě le yóu xì de guī zé 。",
+   "grammar": [
+    "G7-093"
+   ],
+   "id": "L7-185"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我们起初不想参加的，只是不好意思拒绝，才去了那里。",
+   "pinyin": "wǒ men qǐ chū bù xiǎng cān jiā de ， zhǐ shì bù hǎo yì sī jù jué ， cái qù le nà lǐ 。",
+   "grammar": [
+    "G7-093"
+   ],
+   "id": "L7-186"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "别说是大学生了，连小学生都比他写得好。",
+   "pinyin": "bié shuō shì dà xué shēng le ， lián xiǎo xué shēng dōu bǐ tā xiě dé hǎo 。",
+   "grammar": [
+    "G7-094"
+   ],
+   "id": "L7-187"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我现在穷得连饭也吃不起了，别说买新衣服了。",
+   "pinyin": "wǒ xiàn zài qióng dé lián fàn yě chī bù qǐ le ， bié shuō mǎi xīn yī fú le 。",
+   "grammar": [
+    "G7-094"
+   ],
+   "id": "L7-188"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我不道歉，何况根本不是我的错！",
+   "pinyin": "wǒ bù dào qiàn ， hé kuàng gēn běn bù shì wǒ de cuò ！",
+   "grammar": [
+    "G7-095"
+   ],
+   "id": "L7-189"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这道菜做起来很花时间的，何况今天顾客那么多。",
+   "pinyin": "zhè dào cài zuò qǐ lái hěn huā shí jiān de ， hé kuàng jīn tiān gù kè nà me duō 。",
+   "grammar": [
+    "G7-095"
+   ],
+   "id": "L7-190"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "只有在这样的国家里，教师才能充分发展，进而保护他自己和公共利益。",
+   "pinyin": "zhǐ yǒu zài zhè yàng de guó jiā lǐ ， jiào shī cái néng chōng fēn fā zhǎn ， jìn ér bǎo hù tā zì jǐ hé gōng gòng lì yì 。",
+   "grammar": [
+    "G7-096"
+   ],
+   "id": "L7-191"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "遇到困难不要回避，挺起身来向它挑战，进而战胜它。",
+   "pinyin": "yù dào kùn nán bù yào huí bì ， tǐng qǐ shēn lái xiàng tā tiāo zhàn ， jìn ér zhàn shèng tā 。",
+   "grammar": [
+    "G7-096"
+   ],
+   "id": "L7-192"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "北京这么大，况且你又是第一次来，怎么能一下子就找到我家呢？",
+   "pinyin": "běi jīng zhè me dà ， kuàng qiě nǐ yòu shì dì yī cì lái ， zěn me néng yī xià zi jiù zhǎo dào wǒ jiā ne ？",
+   "grammar": [
+    "G7-097"
+   ],
+   "id": "L7-193"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "那时天已经黑了，况且人又坐在车上，肯定看不清楚。",
+   "pinyin": "nà shí tiān yǐ jīng hēi le ， kuàng qiě rén yòu zuò zài chē shàng ， kěn dìng kàn bù qīng chǔ 。",
+   "grammar": [
+    "G7-097"
+   ],
+   "id": "L7-194"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "连他都不会，更不用说我了。",
+   "pinyin": "lián tā dōu bù huì ， gèng bù yòng shuō wǒ le 。",
+   "grammar": [
+    "G7-098"
+   ],
+   "id": "L7-195"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我连上次的考试都没通过，更不用说这次的了。",
+   "pinyin": "wǒ lián shàng cì de kǎo shì dōu méi tōng guò ， gèng bù yòng shuō zhè cì de le 。",
+   "grammar": [
+    "G7-098"
+   ],
+   "id": "L7-196"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他的脸色、眼神，乃至一举一动，都被别人看得清清楚楚。",
+   "pinyin": "tā de liǎn sè 、 yǎn shén ， nǎi zhì yī jǔ yī dòng ， dōu bèi bié rén kàn dé qīng qīng chǔ chǔ 。",
+   "grammar": [
+    "G7-099"
+   ],
+   "id": "L7-197"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他熟悉北京，也熟悉巴黎，乃至全世界。",
+   "pinyin": "tā shú xī běi jīng ， yě shú xī bā lí ， nǎi zhì quán shì jiè 。",
+   "grammar": [
+    "G7-099"
+   ],
+   "id": "L7-198"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他办事严谨而认真，且十分负责，获得了领导的信任。",
+   "pinyin": "tā bàn shì yán jǐn ér rèn zhēn ， qiě shí fēn fù zé ， huò dé le lǐng dǎo de xìn rèn 。",
+   "grammar": [
+    "G7-100"
+   ],
+   "id": "L7-199"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这一条街又脏又乱，总是很潮湿，且一年四季总不免有种古怪气味。",
+   "pinyin": "zhè yī tiáo jiē yòu zàng yòu luàn ， zǒng shì hěn cháo shī ， qiě yī nián sì jì zǒng bù miǎn yǒu zhǒng gǔ guài qì wèi 。",
+   "grammar": [
+    "G7-100"
+   ],
+   "id": "L7-200"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "她不能忍受这种想法，甚至于一秒钟也受不了。",
+   "pinyin": "tā bù néng rěn shòu zhè zhǒng xiǎng fǎ ， shèn zhì yú yī miǎo zhōng yě shòu bù le 。",
+   "grammar": [
+    "G7-101"
+   ],
+   "id": "L7-201"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这个小姑娘始终都是那副模样，甚至于一点儿也没长高。",
+   "pinyin": "zhè gè xiǎo gū niáng shǐ zhōng dōu shì nà fù mó yàng ， shèn zhì yú yī diǎn ér yě méi zhǎng gāo 。",
+   "grammar": [
+    "G7-101"
+   ],
+   "id": "L7-202"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他把信藏在某个秘密的地方了，或一块石头下面，或一棵树后面。",
+   "pinyin": "tā bǎ xìn cáng zài mǒu gè mì mì de dì fāng le ， huò yī kuài shí tóu xià miàn ， huò yī kē shù hòu miàn 。",
+   "grammar": [
+    "G7-102"
+   ],
+   "id": "L7-203"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "阿姨每次来我家都带着一群朋友，或二三人，或三四人，大家说说笑笑。",
+   "pinyin": "ā yí měi cì lái wǒ jiā dōu dài zhe yī qún péng yǒu ， huò èr sān rén ， huò sān sì rén ， dà jiā shuō shuō xiào xiào 。",
+   "grammar": [
+    "G7-102"
+   ],
+   "id": "L7-204"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他宁可饿着肚子去上课，也不愿意吃垃圾食品。",
+   "pinyin": "tā níng kě è zhe dù zi qù shàng kè ， yě bù yuàn yì chī lā jī shí pǐn 。",
+   "grammar": [
+    "G7-103"
+   ],
+   "id": "L7-205"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他宁愿自已承担，也不肯把责任推给别人。",
+   "pinyin": "tā níng yuàn zì yǐ chéng dān ， yě bù kěn bǎ zé rèn tuī gěi bié rén 。",
+   "grammar": [
+    "G7-103"
+   ],
+   "id": "L7-206"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "与其去爬山，还不如在家看电视。",
+   "pinyin": "yǔ qí qù pá shān ， hái bù rú zài jiā kàn diàn shì 。",
+   "grammar": [
+    "G7-104"
+   ],
+   "id": "L7-207"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "与其在这里浪费时间，我们不如认真复习。",
+   "pinyin": "yǔ qí zài zhè lǐ làng fèi shí jiān ， wǒ men bù rú rèn zhēn fù xí 。",
+   "grammar": [
+    "G7-104"
+   ],
+   "id": "L7-208"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "与其在这里洗半天的衣服，我宁可去买新的。",
+   "pinyin": "yǔ qí zài zhè lǐ xǐ bàn tiān de yī fú ， wǒ níng kě qù mǎi xīn de 。",
+   "grammar": [
+    "G7-105"
+   ],
+   "id": "L7-209"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "与其跟他一组，我宁愿一个人做这个项目。",
+   "pinyin": "yǔ qí gēn tā yī zǔ ， wǒ níng yuàn yī gè rén zuò zhè gè xiàng mù 。",
+   "grammar": [
+    "G7-105"
+   ],
+   "id": "L7-210"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "绝大多数的人用感觉来思考，而我却用思考来感觉。",
+   "pinyin": "jué dà duō shù de rén yòng gǎn jué lái sī kǎo ， ér wǒ què yòng sī kǎo lái gǎn jué 。",
+   "grammar": [
+    "G7-106"
+   ],
+   "id": "L7-211"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "北方人过春节往往吃饺子，而南方人的习俗则是吃汤圆。",
+   "pinyin": "běi fāng rén guò chūn jié wǎng wǎng chī jiǎo zi ， ér nán fāng rén de xí sú zé shì chī tāng yuán 。",
+   "grammar": [
+    "G7-106"
+   ],
+   "id": "L7-212"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我好心劝他，他倒怪我，真是好笑！",
+   "pinyin": "wǒ hǎo xīn quàn tā ， tā dào guài wǒ ， zhēn shì hǎo xiào ！",
+   "grammar": [
+    "G7-107"
+   ],
+   "id": "L7-213"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "听护士这么一说，他反倒放松了下来。",
+   "pinyin": "tīng hù shì zhè me yī shuō ， tā fǎn dào fàng sōng le xià lái 。",
+   "grammar": [
+    "G7-107"
+   ],
+   "id": "L7-214"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "倘若这几个问题你都能解决，你一定会获得成功。",
+   "pinyin": "tǎng ruò zhè jǐ gè wèn tí nǐ dōu néng jiě jué ， nǐ yī dìng huì huò dé chéng gōng 。",
+   "grammar": [
+    "G7-108"
+   ],
+   "id": "L7-215"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "若不小心，是不是又会发生纠纷？",
+   "pinyin": "ruò bù xiǎo xīn ， shì bù shì yòu huì fā shēng jiū fēn ？",
+   "grammar": [
+    "G7-108"
+   ],
+   "id": "L7-216"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "倘若一点儿音乐知识都没有，就会遇到困难。",
+   "pinyin": "tǎng ruò yī diǎn ér yīn lè zhī shí dōu méi yǒu ， jiù huì yù dào kùn nán 。",
+   "grammar": [
+    "G7-109"
+   ],
+   "id": "L7-217"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "假设这是我们未来的家园，那这个世界就不会再有饥饿的儿童。",
+   "pinyin": "jiǎ shè zhè shì wǒ men wèi lái de jiā yuán ， nà zhè gè shì jiè jiù bù huì zài yǒu jī è de ér tóng 。",
+   "grammar": [
+    "G7-109"
+   ],
+   "id": "L7-218"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "幸亏你提醒了我，要不然我就忘了。",
+   "pinyin": "xìng kuī nǐ tí xǐng le wǒ ， yào bù rán wǒ jiù wàng le 。",
+   "grammar": [
+    "G7-110"
+   ],
+   "id": "L7-219"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "幸亏有你帮忙，不然我真不知道怎么办才好。",
+   "pinyin": "xìng kuī yǒu nǐ bāng máng ， bù rán wǒ zhēn bù zhī dào zěn me bàn cái hǎo 。",
+   "grammar": [
+    "G7-110"
+   ],
+   "id": "L7-220"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "别管台下坐的是谁，你都要充满信心。",
+   "pinyin": "bié guǎn tái xià zuò de shì shuí ， nǐ dōu yào chōng mǎn xìn xīn 。",
+   "grammar": [
+    "G7-111"
+   ],
+   "id": "L7-221"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这样的话一出口，别管是谁，都得挨骂。",
+   "pinyin": "zhè yàng de huà yī chū kǒu ， bié guǎn shì shuí ， dōu dé āi mà 。",
+   "grammar": [
+    "G7-111"
+   ],
+   "id": "L7-222"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "任他们怎么推，也推不动。",
+   "pinyin": "rèn tā men zěn me tuī ， yě tuī bù dòng 。",
+   "grammar": [
+    "G7-112"
+   ],
+   "id": "L7-223"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "任他是什么高职位的人，也管不了我。",
+   "pinyin": "rèn tā shì shén me gāo zhí wèi de rén ， yě guǎn bù le wǒ 。",
+   "grammar": [
+    "G7-112"
+   ],
+   "id": "L7-224"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "因不是体面的事情，故不敢说出来。",
+   "pinyin": "yīn bù shì tǐ miàn de shì qíng ， gù bù gǎn shuō chū lái 。",
+   "grammar": [
+    "G7-113"
+   ],
+   "id": "L7-225"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他已经适应了国外的生活，故不打算再回国。",
+   "pinyin": "tā yǐ jīng shì yīng le guó wài de shēng huó ， gù bù dǎ suàn zài huí guó 。",
+   "grammar": [
+    "G7-113"
+   ],
+   "id": "L7-226"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "鉴于他的表现良好，学校决定允许他回来上课。",
+   "pinyin": "jiàn yú tā de biǎo xiàn liáng hǎo ， xué xiào jué dìng yǔn xǔ tā huí lái shàng kè 。",
+   "grammar": [
+    "G7-114"
+   ],
+   "id": "L7-227"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "鉴于他在处理这种问题上毫无经验，公司决定派我来帮助他。",
+   "pinyin": "jiàn yú tā zài chù lǐ zhè zhǒng wèn tí shàng háo wú jīng yàn ， gōng sī jué dìng pài wǒ lái bāng zhù tā 。",
+   "grammar": [
+    "G7-114"
+   ],
+   "id": "L7-228"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他睡过头了，以致错过了第一节课。",
+   "pinyin": "tā shuì guò tóu le ， yǐ zhì cuò guò le dì yī jié kè 。",
+   "grammar": [
+    "G7-115"
+   ],
+   "id": "L7-229"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他由于学习不认真，以致考了最后一名。",
+   "pinyin": "tā yóu yú xué xí bù rèn zhēn ， yǐ zhì kǎo le zuì hòu yī míng 。",
+   "grammar": [
+    "G7-115"
+   ],
+   "id": "L7-230"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "事情发展得太快，以至于大家都难以反应。",
+   "pinyin": "shì qíng fā zhǎn dé tài kuài ， yǐ zhì yú dà jiā dōu nán yǐ fǎn yīng 。",
+   "grammar": [
+    "G7-116"
+   ],
+   "id": "L7-231"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这篇课文他读了很多遍，以至于全文都背得出来。",
+   "pinyin": "zhè piān kè wén tā dú le hěn duō biàn ， yǐ zhì yú quán wén dōu bèi dé chū lái 。",
+   "grammar": [
+    "G7-116"
+   ],
+   "id": "L7-232"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这部电影之所以好看，是因为内容很有趣。",
+   "pinyin": "zhè bù diàn yǐng zhī suǒ yǐ hǎo kàn ， shì yīn wèi nèi róng hěn yǒu qù 。",
+   "grammar": [
+    "G7-117"
+   ],
+   "id": "L7-233"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "妈妈之所以生气了，是由于他不肯承认自己的错误。",
+   "pinyin": "mā mā zhī suǒ yǐ shēng qì le ， shì yóu yú tā bù kěn chéng rèn zì jǐ de cuò wù 。",
+   "grammar": [
+    "G7-117"
+   ],
+   "id": "L7-234"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "那固然是我们的习惯，也还需要有另外的理由。",
+   "pinyin": "nà gù rán shì wǒ men de xí guàn ， yě hái xū yào yǒu lìng wài de lǐ yóu 。",
+   "grammar": [
+    "G7-118"
+   ],
+   "id": "L7-235"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他的话固然给我安慰，也使我难过。",
+   "pinyin": "tā de huà gù rán gěi wǒ ān wèi ， yě shǐ wǒ nán guò 。",
+   "grammar": [
+    "G7-118"
+   ],
+   "id": "L7-236"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "一个人的成功，聪明固然重要，但是努力更重要。",
+   "pinyin": "yī gè rén de chéng gōng ， cōng míng gù rán zhòng yào ， dàn shì nǔ lì gèng zhòng yào 。",
+   "grammar": [
+    "G7-119"
+   ],
+   "id": "L7-237"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "网络固然给我们带来了便利，可是也给我们带来了麻烦。",
+   "pinyin": "wǎng luò gù rán gěi wǒ men dài lái le biàn lì ， kě shì yě gěi wǒ men dài lái le má fán 。",
+   "grammar": [
+    "G7-119"
+   ],
+   "id": "L7-238"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "即便你成绩好，也不能骄傲。",
+   "pinyin": "jí biàn nǐ chéng jì hǎo ， yě bù néng jiāo ào 。",
+   "grammar": [
+    "G7-120"
+   ],
+   "id": "L7-239"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他眼神中充满的即便不是感动，至少也是同情。",
+   "pinyin": "tā yǎn shén zhōng chōng mǎn de jí biàn bù shì gǎn dòng ， zhì shǎo yě shì tóng qíng 。",
+   "grammar": [
+    "G7-120"
+   ],
+   "id": "L7-240"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "虽说他年纪小，但是也不能过于任性。",
+   "pinyin": "suī shuō tā nián jì xiǎo ， dàn shì yě bù néng guò yú rèn xìng 。",
+   "grammar": [
+    "G7-121"
+   ],
+   "id": "L7-241"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "虽说中文很难，可是它很有趣。",
+   "pinyin": "suī shuō zhōng wén hěn nán ， kě shì tā hěn yǒu qù 。",
+   "grammar": [
+    "G7-121"
+   ],
+   "id": "L7-242"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我们的意见纵然不一致，也应当互相理解。",
+   "pinyin": "wǒ men de yì jiàn zòng rán bù yī zhì ， yě yīng dāng hù xiāng lǐ jiě 。",
+   "grammar": [
+    "G7-122"
+   ],
+   "id": "L7-243"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这事纵然不好，也是他们之间的事，就让他们自己处理吧。",
+   "pinyin": "zhè shì zòng rán bù hǎo ， yě shì tā men zhī jiān de shì ， jiù ràng tā men zì jǐ chù lǐ ba 。",
+   "grammar": [
+    "G7-122"
+   ],
+   "id": "L7-244"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "政府用他们的名字命名这条街，以纪念在战争中牺牲的战士。",
+   "pinyin": "zhèng fǔ yòng tā men de míng zì mìng míng zhè tiáo jiē ， yǐ jì niàn zài zhàn zhēng zhōng xī shēng de zhàn shì 。",
+   "grammar": [
+    "G7-123"
+   ],
+   "id": "L7-245"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "老师采用新的教学方法上课，以调动学生的积极性。",
+   "pinyin": "lǎo shī cǎi yòng xīn de jiào xué fāng fǎ shàng kè ， yǐ diào dòng xué shēng de jī jí xìng 。",
+   "grammar": [
+    "G7-123"
+   ],
+   "id": "L7-246"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "出门在外看好你的东西，以免丢失。",
+   "pinyin": "chū mén zài wài kàn hǎo nǐ de dōng xī ， yǐ miǎn diū shī 。",
+   "grammar": [
+    "G7-124"
+   ],
+   "id": "L7-247"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "你把这个写下来，免得过后忘记。",
+   "pinyin": "nǐ bǎ zhè gè xiě xià lái ， miǎn dé guò hòu wàng jì 。",
+   "grammar": [
+    "G7-124"
+   ],
+   "id": "L7-248"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这是我的决定，也就是说不关你的事。",
+   "pinyin": "zhè shì wǒ de jué dìng ， yě jiù shì shuō bù guān nǐ de shì 。",
+   "grammar": [
+    "G7-125"
+   ],
+   "id": "L7-249"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他说这是他新买的书，也就是说他不想借给我们看。",
+   "pinyin": "tā shuō zhè shì tā xīn mǎi de shū ， yě jiù shì shuō tā bù xiǎng jiè gěi wǒ men kàn 。",
+   "grammar": [
+    "G7-125"
+   ],
+   "id": "L7-250"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "要玩儿就玩儿个痛快，别总想工作。",
+   "pinyin": "yào wán ér jiù wán ér gè tòng kuài ， bié zǒng xiǎng gōng zuò 。",
+   "grammar": [
+    "G7-126"
+   ],
+   "id": "L7-251"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "喝就喝个够，今天不醉不回家。",
+   "pinyin": "hē jiù hē gè gòu ， jīn tiān bù zuì bù huí jiā 。",
+   "grammar": [
+    "G7-126"
+   ],
+   "id": "L7-252"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "走就走，别用这个威胁我！",
+   "pinyin": "zǒu jiù zǒu ， bié yòng zhè gè wēi xié wǒ ！",
+   "grammar": [
+    "G7-127"
+   ],
+   "id": "L7-253"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "说几句就说几句，别太在意。",
+   "pinyin": "shuō jǐ jù jiù shuō jǐ jù ， bié tài zài yì 。",
+   "grammar": [
+    "G7-127"
+   ],
+   "id": "L7-254"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他先整理资料，再撰写提纲，最后完成论文，整个过程井井有条。",
+   "pinyin": "tā xiān zhěng lǐ zī liào ， zài zhuàn xiě tí gāng ， zuì hòu wán chéng lùn wén ， zhěng gè guò chéng jǐng jǐng yǒu tiáo 。",
+   "grammar": [
+    "G7-128"
+   ],
+   "id": "L7-255"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "大家既要看管好行李，也要照看好老人和孩子，以免发生意外。",
+   "pinyin": "dà jiā jì yào kàn guǎn hǎo xíng lǐ ， yě yào zhào kàn hǎo lǎo rén hé hái zi ， yǐ miǎn fā shēng yì wài 。",
+   "grammar": [
+    "G7-128"
+   ],
+   "id": "L7-256"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这么简单的事我又何必一件事分两次做呢？",
+   "pinyin": "zhè me jiǎn dān de shì wǒ yòu hé bì yī jiàn shì fēn liǎng cì zuò ne ？",
+   "grammar": [
+    "G7-129"
+   ],
+   "id": "L7-257"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我对谁都没有讲，何苦事先就让他们伤心呢？",
+   "pinyin": "wǒ duì shuí dōu méi yǒu jiǎng ， hé kǔ shì xiān jiù ràng tā men shāng xīn ne ？",
+   "grammar": [
+    "G7-129"
+   ],
+   "id": "L7-258"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "话又说回来，不能因为生病就失去希望。",
+   "pinyin": "huà yòu shuō huí lái ， bù néng yīn wèi shēng bìng jiù shī qù xī wàng 。",
+   "grammar": [
+    "G7-130"
+   ],
+   "id": "L7-259"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "但话又说回来，我们为什么不能把事情处理得对我们更有利呢？",
+   "pinyin": "dàn huà yòu shuō huí lái ， wǒ men wèi shén me bù néng bǎ shì qíng chù lǐ dé duì wǒ men gèng yǒu lì ne ？",
+   "grammar": [
+    "G7-130"
+   ],
+   "id": "L7-260"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "走不是，不走也不是，弄得我们不知道怎么办才好。",
+   "pinyin": "zǒu bù shì ， bù zǒu yě bù shì ， nòng dé wǒ men bù zhī dào zěn me bàn cái hǎo 。",
+   "grammar": [
+    "G7-131"
+   ],
+   "id": "L7-261"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "笑也不是，不笑也不是，真让人尴尬。",
+   "pinyin": "xiào yě bù shì ， bù xiào yě bù shì ， zhēn ràng rén gān gà 。",
+   "grammar": [
+    "G7-131"
+   ],
+   "id": "L7-262"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "去也好，不去也好，反正不是什么大不了的事。",
+   "pinyin": "qù yě hǎo ， bù qù yě hǎo ， fǎn zhèng bù shì shén me dà bù le de shì 。",
+   "grammar": [
+    "G7-132"
+   ],
+   "id": "L7-263"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "快乐也好，伤心也好，这个故事就要结束了。",
+   "pinyin": "kuài lè yě hǎo ， shāng xīn yě hǎo ， zhè gè gù shì jiù yào jié shù le 。",
+   "grammar": [
+    "G7-132"
+   ],
+   "id": "L7-264"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他装了又拆，拆了又装，修理了一整天。",
+   "pinyin": "tā zhuāng le yòu chāi ， chāi le yòu zhuāng ， xiū lǐ le yī zhěng tiān 。",
+   "grammar": [
+    "G7-133"
+   ],
+   "id": "L7-265"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "小朋友写了又擦，擦了又写，正在认真地练习写汉字。",
+   "pinyin": "xiǎo péng yǒu xiě le yòu cā ， cā le yòu xiě ， zhèng zài rèn zhēn dì liàn xí xiě hàn zì 。",
+   "grammar": [
+    "G7-133"
+   ],
+   "id": "L7-266"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "妈妈还处于担心的状态中，吃也吃不下，睡也睡不着。",
+   "pinyin": "mā mā hái chù yú dān xīn de zhuàng tài zhōng ， chī yě chī bù xià ， shuì yě shuì bù zhe 。",
+   "grammar": [
+    "G7-134"
+   ],
+   "id": "L7-267"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "父母与孩子的关系就是这样，赶也赶不走，留也留不住。",
+   "pinyin": "fù mǔ yǔ hái zi de guān xì jiù shì zhè yàng ， gǎn yě gǎn bù zǒu ， liú yě liú bù zhù 。",
+   "grammar": [
+    "G7-134"
+   ],
+   "id": "L7-268"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "刚才买的那件衣服，别提多好看了。",
+   "pinyin": "gāng cái mǎi de nà jiàn yī fú ， bié tí duō hǎo kàn le 。",
+   "grammar": [
+    "G7-135"
+   ],
+   "id": "L7-269"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "听到爸爸的声音，她别提有多兴奋了。",
+   "pinyin": "tīng dào bà bà de shēng yīn ， tā bié tí yǒu duō xīng fèn le 。",
+   "grammar": [
+    "G7-135"
+   ],
+   "id": "L7-270"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "不知怎么的，我的眼泪止不住地往下流。",
+   "pinyin": "bù zhī zěn me de ， wǒ de yǎn lèi zhǐ bù zhù dì wǎng xià liú 。",
+   "grammar": [
+    "G7-136"
+   ],
+   "id": "L7-271"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "不知谁说的，他才是凶手。",
+   "pinyin": "bù zhī shuí shuō de ， tā cái shì xiōng shǒu 。",
+   "grammar": [
+    "G7-136"
+   ],
+   "id": "L7-272"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "话是这么说，不过她还是不习惯。",
+   "pinyin": "huà shì zhè me shuō ， bù guò tā hái shì bù xí guàn 。",
+   "grammar": [
+    "G7-137"
+   ],
+   "id": "L7-273"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "说是这么说，可对方要是真这么干，那我们也做不了什么。",
+   "pinyin": "shuō shì zhè me shuō ， kě duì fāng yào shì zhēn zhè me gàn ， nà wǒ men yě zuò bù le shén me 。",
+   "grammar": [
+    "G7-137"
+   ],
+   "id": "L7-274"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "看你那伤心样，还以为你这回真的好不到哪里去了。",
+   "pinyin": "kàn nǐ nà shāng xīn yàng ， hái yǐ wèi nǐ zhè huí zhēn de hǎo bù dào nǎ lǐ qù le 。",
+   "grammar": [
+    "G7-138"
+   ],
+   "id": "L7-275"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "瞧你那样，还挺得意。",
+   "pinyin": "qiáo nǐ nà yàng ， hái tǐng dé yì 。",
+   "grammar": [
+    "G7-138"
+   ],
+   "id": "L7-276"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "我是看在她的面子上才答应的。",
+   "pinyin": "wǒ shì kàn zài tā de miàn zi shàng cái dá yīng de 。",
+   "grammar": [
+    "G7-139"
+   ],
+   "id": "L7-277"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "三位客人看在老人的面子上又坐下了。",
+   "pinyin": "sān wèi kè rén kàn zài lǎo rén de miàn zi shàng yòu zuò xià le 。",
+   "grammar": [
+    "G7-139"
+   ],
+   "id": "L7-278"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "哪有你这么过分的？好处全让你给占了。",
+   "pinyin": "nǎ yǒu nǐ zhè me guò fēn de ？ hǎo chù quán ràng nǐ gěi zhàn le 。",
+   "grammar": [
+    "G7-140"
+   ],
+   "id": "L7-279"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "哪有你这么直接的？给他留点儿面子呀。",
+   "pinyin": "nǎ yǒu nǐ zhè me zhí jiē de ？ gěi tā liú diǎn ér miàn zi ya 。",
+   "grammar": [
+    "G7-140"
+   ],
+   "id": "L7-280"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "什么你的我的，都是大家的。",
+   "pinyin": "shén me nǐ de wǒ de ， dōu shì dà jiā de 。",
+   "grammar": [
+    "G7-141"
+   ],
+   "id": "L7-281"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "什么好的坏的，我们买的都是一样的。",
+   "pinyin": "shén me hǎo de huài de ， wǒ men mǎi de dōu shì yī yàng de 。",
+   "grammar": [
+    "G7-141"
+   ],
+   "id": "L7-282"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "你看你，说到哪儿去了，我说的是买蛋糕的问题。",
+   "pinyin": "nǐ kàn nǐ ， shuō dào nǎ ér qù le ， wǒ shuō de shì mǎi dàn gāo de wèn tí 。",
+   "grammar": [
+    "G7-142"
+   ],
+   "id": "L7-283"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "你想到哪儿去了！我肯定不会跟别人说的。",
+   "pinyin": "nǐ xiǎng dào nǎ ér qù le ！ wǒ kěn dìng bù huì gēn bié rén shuō de 。",
+   "grammar": [
+    "G7-142"
+   ],
+   "id": "L7-284"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "无所谓好看不好看，我满意就行。",
+   "pinyin": "wú suǒ wèi hǎo kàn bù hǎo kàn ， wǒ mǎn yì jiù xíng 。",
+   "grammar": [
+    "G7-143"
+   ],
+   "id": "L7-285"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "无所谓贵不贵，质量好就可以。",
+   "pinyin": "wú suǒ wèi guì bù guì ， zhì liàng hǎo jiù kě yǐ 。",
+   "grammar": [
+    "G7-143"
+   ],
+   "id": "L7-286"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "她要成绩有成绩，要形象有形象。",
+   "pinyin": "tā yào chéng jì yǒu chéng jì ， yào xíng xiàng yǒu xíng xiàng 。",
+   "grammar": [
+    "G7-144"
+   ],
+   "id": "L7-287"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他要学历没学历，要胆子没胆子。",
+   "pinyin": "tā yào xué lì méi xué lì ， yào dǎn zi méi dǎn zi 。",
+   "grammar": [
+    "G7-144"
+   ],
+   "id": "L7-288"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "除了记忆能力差之外，我还有其他的缺点，这些缺点在很大程度上使我变得无知。",
+   "pinyin": "chú le jì yì néng lì chà zhī wài ， wǒ hái yǒu qí tā de quē diǎn ， zhè xiē quē diǎn zài hěn dà chéng dù shàng shǐ wǒ biàn dé wú zhī 。",
+   "grammar": [
+    "G7-145"
+   ],
+   "id": "L7-289"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "因为准备充分，所以会议进展顺利；因此，大家对结果十分满意。",
+   "pinyin": "yīn wèi zhǔn bèi chōng fēn ， suǒ yǐ huì yì jìn zhǎn shùn lì ； yīn cǐ ， dà jiā duì jié guǒ shí fēn mǎn yì 。",
+   "grammar": [
+    "G7-145"
+   ],
+   "id": "L7-290"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "风更猛了，雪更大了，我们每前进一步都更加艰难。",
+   "pinyin": "fēng gèng měng le ， xuě gèng dà le ， wǒ men měi qián jìn yī bù dōu gèng jiā jiān nán 。",
+   "grammar": [
+    "G7-146"
+   ],
+   "id": "L7-291"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "春天来了，万物复苏，孩子们在草地上奔跑。",
+   "pinyin": "chūn tiān lái le ， wàn wù fù sū ， hái zi men zài cǎo dì shàng bēn pǎo 。",
+   "grammar": [
+    "G7-146"
+   ],
+   "id": "L7-292"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "时间虽然不长，但是哥哥的身体逐渐康复，我们也就放心了。",
+   "pinyin": "shí jiān suī rán bù zhǎng ， dàn shì gē gē de shēn tǐ zhú jiàn kāng fù ， wǒ men yě jiù fàng xīn le 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-293"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "每天早上我都拉他起来吃早饭，他也慢慢养成了规律作息。",
+   "pinyin": "měi tiān zǎo shàng wǒ dōu lā tā qǐ lái chī zǎo fàn ， tā yě màn màn yǎng chéng le guī lǜ zuò xī 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-294"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "他们俩正是这样有思想的一对青年，在当时的青年中十分突出。",
+   "pinyin": "tā men liǎ zhèng shì zhè yàng yǒu sī xiǎng de yī duì qīng nián ， zài dāng shí de qīng nián zhōng shí fēn tū chū 。",
+   "grammar": [
+    "G7-148"
+   ],
+   "id": "L7-295"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "虽然天气恶劣，但是大家仍然坚持施工，因此工程进度没有受到影响。",
+   "pinyin": "suī rán tiān qì è liè ， dàn shì dà jiā réng rán jiān chí shī gōng ， yīn cǐ gōng chéng jìn dù méi yǒu shòu dào yǐng xiǎng 。",
+   "grammar": [
+    "G7-148"
+   ],
+   "id": "L7-296"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课词语有奢侈、乞丐、荒旷、泌尿、吕擎、耽搁、吩咐、耿飙、朦胧、驰骤。",
+   "pinyin": "běn kè cí yǔ yǒu shē chǐ 、 qǐ gài 、 huāng kuàng 、 mì niào 、 lǚ qíng 、 dān gē 、 fēn fù 、 gěng biāo 、 méng lóng 、 chí zhòu 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-297"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表中有缝缀、拄杖、酣嬉、绑赴、荐贤、贪婪、荡漾、赵屹、覆辙、饥馁。",
+   "pinyin": "cí yǔ biǎo zhōng yǒu fèng zhuì 、 zhǔ zhàng 、 hān xī 、 bǎng fù 、 jiàn xián 、 tān lán 、 dàng yàng 、 zhào yì 、 fù zhé 、 jī něi 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-298"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这些词语是辐凑、蘑菇、骇惧、孵卵、窒闷、徘徊、逞娇、喉咙、携侣、凝瞩。",
+   "pinyin": "zhè xiē cí yǔ shì fú còu 、 mó gū 、 hài jù 、 fū luǎn 、 zhì mèn 、 pái huái 、 chěng jiāo 、 hóu lóng 、 xié lǚ 、 níng zhǔ 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-299"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "请跟读词语：嫦娥、窥觅、雇佣、敦睦、驭凤、朱瞻、宙斯、慷慨、酌盈、甩脂。",
+   "pinyin": "qǐng gēn dú cí yǔ ： cháng é 、 kuī mì 、 gù yōng 、 dūn mù 、 yù fèng 、 zhū zhān 、 zhòu sī 、 kāng kǎi 、 zhuó yíng 、 shuǎi zhī 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-300"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课重点词：闺阁、刘呐、脂肪、搀兑、孕畜、舵舱、涡桨、伪誓、畴昔、诈唬。",
+   "pinyin": "běn kè zhòng diǎn cí ： guī gé 、 liú nà 、 zhī fáng 、 chān duì 、 yùn chù 、 duò cāng 、 wō jiǎng 、 wěi shì 、 chóu xī 、 zhà hǔ 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-301"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表列出纬纱、诀窍、灌溉、灶膛、啃蚀、垄亩、浇熄、倚仗、塘沽、钥匙。",
+   "pinyin": "cí yǔ biǎo liè chū wěi shā 、 jué qiào 、 guàn gài 、 zào táng 、 kěn shí 、 lǒng mǔ 、 jiāo xī 、 yǐ zhàng 、 táng gū 、 yào shi 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-302"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课词语有溅溢、瘫痪、莫衷、蜜橘、狼狈、枉勘、寥廓、窟窿、祭祀、畸胎。",
+   "pinyin": "běn kè cí yǔ yǒu jiàn yì 、 tān huàn 、 mò zhōng 、 mì jú 、 láng bèi 、 wǎng kān 、 liáo kuò 、 kū lóng 、 jì sì 、 jī tāi 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-303"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表中有泰晤、纱绽、颁赐、贿赂、呕哑、扛鼎、祈祷、灌婴、酬庸、剃齿。",
+   "pinyin": "cí yǔ biǎo zhōng yǒu tài wù 、 shā zhàn 、 bān cì 、 huì lù 、 ǒu yǎ 、 káng dǐng 、 qí dǎo 、 guàn yīng 、 chóu yōng 、 tì chǐ 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-304"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这些词语是拽巷、挟仇、陈灿、凿隧、兜揽、翁婿、柔韧、涂窜、淌凌、橡筋。",
+   "pinyin": "zhè xiē cí yǔ shì zhuāi xiàng 、 xié chóu 、 chén càn 、 záo suì 、 dōu lǎn 、 wēng xù 、 róu rèn 、 tú cuàn 、 tǎng líng 、 xiàng jīn 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-305"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "请跟读词语：徽帜、哀唤、窘厄、闸阀、淹旬、拧绳、冯粹、炊砂、柬帖、祸殃。",
+   "pinyin": "qǐng gēn dú cí yǔ ： huī zhì 、 āi huàn 、 jiǒng è 、 zhá fá 、 yān xún 、 níng shéng 、 féng cuì 、 chuī shā 、 jiǎn tiē 、 huò yāng 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-306"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课重点词：瞅筹、辟谣、赵歧、坑绷、掐喉、酝酿、缅甸、枯燥、诽谤、浑抡。",
+   "pinyin": "běn kè zhòng diǎn cí ： chǒu chóu 、 pì yáo 、 zhào qí 、 kēng bēng 、 qiā hóu 、 yùn niàng 、 miǎn diān 、 kū zào 、 fěi bàng 、 hún lūn 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-307"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表列出黏稠、惕惧、娶媳、哑谜、淆惑、抚恤、蹭蹬、驮轿、匪谍、陈抒。",
+   "pinyin": "cí yǔ biǎo liè chū nián chóu 、 tì jù 、 qǔ xí 、 yǎ mí 、 xiáo huò 、 fǔ xù 、 cèng dēng 、 tuó jiào 、 fěi dié 、 chén shū 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-308"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课词语有菩萨、殴辱、仇岂、蜡炬、愚氓、玄稽、盯梢、沮泄、掀腾、玫瑰。",
+   "pinyin": "běn kè cí yǔ yǒu pú sà 、 ōu rǔ 、 chóu qǐ 、 là jù 、 yú máng 、 xuán jī 、 dīng shāo 、 jǔ xiè 、 xiān téng 、 méi guī 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-309"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表中有讥讽、怡悦、彬彬、涮涮、俯伏、扒窃、炫昼、扳钳、疲惫、卸妆。",
+   "pinyin": "cí yǔ biǎo zhōng yǒu jī fěng 、 yí yuè 、 bīn bīn 、 shuàn shuàn 、 fǔ fú 、 bā qiè 、 xuàn zhòu 、 bān qián 、 pí bèi 、 xiè zhuāng 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-310"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这些词语是聋哑、捂捂、堪舆、膨胀、愣愣、帕腊、喇叭、敞篷、怠惰、蕴藻。",
+   "pinyin": "zhè xiē cí yǔ shì lóng yǎ 、 wǔ wǔ 、 kān yú 、 péng zhàng 、 lèng lèng 、 pà là 、 lǎ bā 、 chǎng péng 、 dài duò 、 yùn zǎo 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-311"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "请跟读词语：罗掘、摧垮、撒谎、扯嗓、捧腹、肇衅、榨渣、辨伪、侦缉、魂魄。",
+   "pinyin": "qǐng gēn dú cí yǔ ： luó jué 、 cuī kuǎ 、 sā huǎng 、 chě sǎng 、 pěng fù 、 zhào xìn 、 zhà zhā 、 biàn wěi 、 zhēn jī 、 hún pò 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-312"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课重点词：烹宰、艾灸、凤凰、惭愧、俘虏、沪绸、卜卦、御旨、撇撇、浙昆。",
+   "pinyin": "běn kè zhòng diǎn cí ： pēng zǎi 、 ài jiǔ 、 fèng huáng 、 cán kuì 、 fú lǔ 、 hù chóu 、 bo guà 、 yù zhǐ 、 piē piē 、 zhè kūn 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-313"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表列出膳羞、烁烁、兽槛、磕磕、撕剥、狡猾、鞠躬、嚼蜡、瞒哄、颓堕。",
+   "pinyin": "cí yǔ biǎo liè chū shàn xiū 、 shuò shuò 、 shòu kǎn 、 kē kē 、 sī bō 、 jiǎo huá 、 jū gōng 、 jué là 、 mán hǒng 、 tuí duò 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-314"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课词语有恳挚、猩猩、弈棋、棺罩、豁拳、唾沫、舅舅、蒜瓣、廉署、韩愈。",
+   "pinyin": "běn kè cí yǔ yǒu kěn zhì 、 xīng xīng 、 yì qí 、 guān zhào 、 huō quán 、 tuò mò 、 jiù jiù 、 suàn bàn 、 lián shǔ 、 hán yù 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-315"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表中有嘿嘿、逆溯、姻伯、蛙鸣、贬斥、咧咧、兢兢、催芽、爹爹、诵咏。",
+   "pinyin": "cí yǔ biǎo zhōng yǒu hēi hēi 、 nì sù 、 yīn bó 、 wā míng 、 biǎn chì 、 liě liě 、 jīng jīng 、 cuī yá 、 diē diē 、 sòng yǒng 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-316"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这些词语是卤莽、绰绰、唉唉、伺隙、柳陌、俭朴、煽诱、劣绅、丝毯、沼泽。",
+   "pinyin": "zhè xiē cí yǔ shì lǔ mǎng 、 chuò chuò 、 āi āi 、 cì xì 、 liǔ mò 、 jiǎn pǔ 、 shān yòu 、 liè shēn 、 sī tǎn 、 zhǎo zé 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-317"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "请跟读词语：衍绎、趴窝、刨削、斧柄、拴缚、讹谬、厢橱、祭奠、杜撰、叮嘱。",
+   "pinyin": "qǐng gēn dú cí yǔ ： yǎn yì 、 pā wō 、 páo xuē 、 fǔ bǐng 、 shuān fù 、 é miù 、 xiāng chú 、 jì diàn 、 dù zhuàn 、 dīng zhǔ 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-318"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课重点词：妖魅、锦涛、苛吏、募穴、吴虹、憋屈、陡峻、瞪瞪、旱涝、疏钞。",
+   "pinyin": "běn kè zhòng diǎn cí ： yāo mèi 、 jǐn tāo 、 kē lì 、 mù xué 、 wú hóng 、 biē qū 、 dǒu jùn 、 dèng dèng 、 hàn lào 、 shū chāo 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-319"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表列出茫昧、恍恍、譬喻、哼哼、兰屿、俄顷、幢幢、腾挪、哦哦、铲迹。",
+   "pinyin": "cí yǔ biǎo liè chū máng mèi 、 huǎng huǎng 、 pì yù 、 hēng hēng 、 lán yǔ 、 é qǐng 、 chuáng chuáng 、 téng nuó 、 ó ó 、 chǎn jì 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-320"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课词语有肆虐、杨拯、捍疆、禽饲、呛熏、侨陵、炖炖、朱佑、迭戈、瘾君。",
+   "pinyin": "běn kè cí yǔ yǒu sì nüè 、 yáng zhěng 、 hàn jiāng 、 qín sì 、 qiāng xūn 、 qiáo líng 、 dùn dùn 、 zhū yòu 、 dié gē 、 yǐn jūn 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-321"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表中有胳肢、戚墅、唐寓、呈缴、皂靴、磅逊、姜曙、遏抑、哆嗦、揣琢。",
+   "pinyin": "cí yǔ biǎo zhōng yǒu gē zhī 、 qī shù 、 táng yù 、 chéng jiǎo 、 zào xuē 、 bàng xùn 、 jiāng shǔ 、 è yì 、 duō suo 、 chuāi zuó 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-322"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这些词语是侮蔑、殷墟、腥臊、淘汰、蔼蔼、剖腹、逾恒、耻辱、瓷碟、宋辽。",
+   "pinyin": "zhè xiē cí yǔ shì wǔ miè 、 yīn xū 、 xīng sāo 、 táo tài 、 ǎi ǎi 、 pōu fù 、 yú héng 、 chǐ rǔ 、 cí dié 、 sòng liáo 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-323"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "请跟读词语：枕垫、巡哨、禾稼、屡屡、萎雕、妥洽、撬棍、嫉妒、鹅岭、蔽匿。",
+   "pinyin": "qǐng gēn dú cí yǔ ： zhěn diàn 、 xún shào 、 hé jià 、 lǚ lǚ 、 wēi diāo 、 tuǒ qià 、 qiào gùn 、 jí dù 、 é lǐng 、 bì nì 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-324"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课重点词：贮槽、摊贩、揪捏、赋役、缆舟、嗽嗽、碌碌、臂腕、渔汛、钓饵。",
+   "pinyin": "běn kè zhòng diǎn cí ： zhù cáo 、 tān fàn 、 jiū niē 、 fù yì 、 lǎn zhōu 、 sòu sòu 、 lù lù 、 bì wàn 、 yú xùn 、 diào ěr 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-325"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表列出删削、笼屉、弛懈、筛孔、赤焰、囚狱、腺瘤、嚷嚷、拱廊、姥姥。",
+   "pinyin": "cí yǔ biǎo liè chū shān xuē 、 lóng tì 、 chí xiè 、 shāi kǒng 、 chì yàn 、 qiú yù 、 xiàn liú 、 rǎng rǎng 、 gǒng láng 、 lǎo lǎo 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-326"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课词语有苗裔、椰枣、弓弦、涕泣、忌讳、芳馨、斩竿、杜弊、吁吁、丛葬。",
+   "pinyin": "běn kè cí yǔ yǒu miáo yì 、 yē zǎo 、 gōng xián 、 tì qì 、 jì huì 、 fāng xīn 、 zhǎn gān 、 dù bì 、 xū xū 、 cóng zàng 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-327"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表中有嘲讽、瘟疫、秦椒、寝丘、挫辱、坟丘、喧噪、寂寞、呜咽、斑驳。",
+   "pinyin": "cí yǔ biǎo zhōng yǒu cháo fěng 、 wēn yì 、 qín jiāo 、 qǐn qiū 、 cuò rǔ 、 fén qiū 、 xuān zào 、 jì mò 、 wū yàn 、 bān bó 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-328"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这些词语是叙叙、贼魁、仙逝、潦潦、鸽翼、臣僚、诫勉、藤茎、揉搓、脉搏。",
+   "pinyin": "zhè xiē cí yǔ shì xù xù 、 zéi kuí 、 xiān shì 、 lǎo lǎo 、 gē yì 、 chén liáo 、 jiè miǎn 、 téng jīng 、 róu cuō 、 mài bó 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-329"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "请跟读词语：侠溪、抠搂、锈蚀、柳橙、鹰厦、脊髓、捣腾、筒瓦、仇兼、沐浴。",
+   "pinyin": "qǐng gēn dú cí yǔ ： xiá xī 、 kōu lǒu 、 xiù shí 、 liǔ chéng 、 yīng shà 、 jí suǐ 、 dǎo téng 、 tǒng wǎ 、 chóu jiān 、 mù yù 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-330"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课重点词：槐荫、螺栓、潇潇、乒乓、框框、汹涌、渗碳、劫掠、狭隘、磁矩。",
+   "pinyin": "běn kè zhòng diǎn cí ： huái yīn 、 luó shuān 、 xiāo xiāo 、 pīng pāng 、 kuāng kuāng 、 xiōng yǒng 、 shèn tàn 、 jié lüè 、 xiá ài 、 cí jǔ 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-331"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表列出脖颈、渝州、捞虾、戳戳、躯壳、僵尸、牡丹、泻剂、缠讼、衰竭。",
+   "pinyin": "cí yǔ biǎo liè chū bó jǐng 、 yú zhōu 、 lāo xiā 、 chuō chuō 、 qū ké 、 jiāng shī 、 mǔ dān 、 xiè jì 、 chán sòng 、 shuāi jié 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-332"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课词语有粤桂、攀岩、屠潭、哗哗、瞎掰、滔滔、镶嵌、腻歪、惹恼、狮吼。",
+   "pinyin": "běn kè cí yǔ yǒu yuè guì 、 pān yán 、 tú tán 、 huā huā 、 xiā bāi 、 tāo tāo 、 xiāng qiàn 、 nì wāi 、 rě nǎo 、 shī hǒu 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-333"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表中有慕煌、肾癌、慎裕、巫峡、搅拌、纺锤、沾沾、芭蕾、驱遣、拟凸。",
+   "pinyin": "cí yǔ biǎo zhōng yǒu mù huáng 、 shèn ái 、 shèn yù 、 wū xiá 、 jiǎo bàn 、 fǎng chuí 、 zhān zhān 、 bā lěi 、 qū qiǎn 、 nǐ tū 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-334"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这些词语是竖笛、慈焕、秽浊、荆棘、帆拱、铝屑、萍踪、喧骚、掩袭、匆匆。",
+   "pinyin": "zhè xiē cí yǔ shì shù dí 、 cí huàn 、 huì zhuó 、 jīng jí 、 fān gǒng 、 lǚ xiè 、 píng zōng 、 xuān sāo 、 yǎn xí 、 cōng cōng 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-335"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "请跟读词语：煎熬、萝筐、梳拢、挠钩、涵蓄、耸峙、萌兆、崩溃、钙粘、贱敛。",
+   "pinyin": "qǐng gēn dú cí yǔ ： jiān áo 、 luó kuāng 、 shū lǒng 、 náo gōu 、 hán xù 、 sǒng zhì 、 méng zhào 、 bēng kuì 、 gài zhān 、 jiàn liǎn 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-336"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课重点词：崖畔、秤纽、遮拦、暮鸦、颠沛、澜沧、蠢拙、疲倦、痰喘、颊囊。",
+   "pinyin": "běn kè zhòng diǎn cí ： yá pàn 、 chèng niǔ 、 zhē lán 、 mù yā 、 diān pèi 、 lán cāng 、 chǔn zhuō 、 pí juàn 、 tán chuǎn 、 jiá náng 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-337"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表列出彰彰、饶恕、轰隆、翅膀、垒砌、遂曰、叛逆、尘刹、蒸酥、割捆。",
+   "pinyin": "cí yǔ biǎo liè chū zhāng zhāng 、 ráo shù 、 hōng lóng 、 chì bǎng 、 lěi qì 、 suì yuē 、 pàn nì 、 chén shā 、 zhēng sū 、 gē kǔn 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-338"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课词语有裸燕、翘棱、遥遥、灼烫、蒜辫、栽赃、刘翔、俊俏、钦羡、侃侃。",
+   "pinyin": "běn kè cí yǔ yǒu luǒ yàn 、 qiào léng 、 yáo yáo 、 zhuó tàng 、 suàn biàn 、 zāi zāng 、 liú xiáng 、 jùn qiào 、 qīn xiàn 、 kǎn kǎn 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-339"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表中有呵呵、卑鄙、晋悼、膝痒、缕缕、稚嫩、抹抹、刑拘、唠叨、刁蛮。",
+   "pinyin": "cí yǔ biǎo zhōng yǒu hē hē 、 bēi bǐ 、 jìn dào 、 xī yǎng 、 lǚ lǚ 、 zhì nèn 、 mǒ mǒ 、 xíng jū 、 láo dāo 、 diāo mán 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-340"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这些词语是丫丫、荧荧、禅僧、皱眉、僻壤、滥伐、簇簇、胳膊、夸夸、飘渺。",
+   "pinyin": "zhè xiē cí yǔ shì yā yā 、 yíng yíng 、 chán sēng 、 zhòu méi 、 pì rǎng 、 làn fá 、 cù cù 、 gē bó 、 kuā kuā 、 piāo miǎo 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-341"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "请跟读词语：劈劈、焚芝、绞链、枢轴、乖乖、屯垦、驯鹿、窄窄、奴隶、猎豹。",
+   "pinyin": "qǐng gēn dú cí yǔ ： pī pī 、 fén zhī 、 jiǎo liàn 、 shū zhóu 、 guāi guāi 、 tún kěn 、 xùn lù 、 zhǎi zhǎi 、 nú lì 、 liè bào 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-342"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课重点词：滨洲、攒魔、澳瑞、颖川、熙攘、弧焊、蚊帐、邪妄、凄婉、嫁犬。",
+   "pinyin": "běn kè zhòng diǎn cí ： bīn zhōu 、 zǎn mó 、 ào ruì 、 yǐng chuān 、 xī rǎng 、 hú hàn 、 wén zhàng 、 xié wàng 、 qī wǎn 、 jià quǎn 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-343"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表列出嫂嫂、勋爵、骏迈、漆匠、矫捷、丙醇、僧袍、渊亭、烘缸、畏怯。",
+   "pinyin": "cí yǔ biǎo liè chū sǎo sǎo 、 xūn jué 、 jùn mài 、 qī jiàng 、 jiǎo jié 、 bǐng chún 、 sēng páo 、 yuān tíng 、 hōng gāng 、 wèi qiè 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-344"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课词语有砍砍、晶莹、澄碧、敷衍、滤芯、颤抖、苍蝇、浸膏、函矢、堤坝。",
+   "pinyin": "běn kè cí yǔ yǒu kǎn kǎn 、 jīng yíng 、 chéng bì 、 fū yǎn 、 lǜ xīn 、 chàn dǒu 、 cāng yíng 、 jìn gāo 、 hán shǐ 、 dī bà 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-345"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表中有狱卒、抛丸、芦笛、粪桶、曹涤、秃秃、钧窑、弥勒、雁滩、稀罕。",
+   "pinyin": "cí yǔ biǎo zhōng yǒu yù zú 、 pāo wán 、 lú dí 、 fèn tǒng 、 cáo dí 、 tū tū 、 jūn yáo 、 mí lēi 、 yàn tān 、 xī hǎn 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-346"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这些词语是耍奸、逗逗、稻秧、甘菊、契丹、塌塌、氏谱、滋蔓、丁磊、霸州。",
+   "pinyin": "zhè xiē cí yǔ shì shuǎ jiān 、 dòu dòu 、 dào yāng 、 gān jú 、 qì dān 、 tā tā 、 shì pǔ 、 zī màn 、 dīng lěi 、 bà zhōu 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-347"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "请跟读词语：杠杠、庙坪、匀溜、寡陋、晃悠、茅棚、沸沸、冈仁、郁滞、鞭痕。",
+   "pinyin": "qǐng gēn dú cí yǔ ： gāng gāng 、 miào píng 、 yún liū 、 guǎ lòu 、 huǎng yōu 、 máo péng 、 fèi fèi 、 gāng rén 、 yù zhì 、 biān hén 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-348"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课重点词：栖霞、徐啸、霜絮、秉烛、鹰爪、辰砂、霉斑、叠翠、芳姿、茂腔。",
+   "pinyin": "běn kè zhòng diǎn cí ： qī xiá 、 xú xiào 、 shuāng xù 、 bǐng zhú 、 yīng zhǎo 、 chén shā 、 méi bān 、 dié cuì 、 fāng zī 、 mào qiāng 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-349"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表列出陶冶、胚胎、郭殿、坛坛、孟宪、锯锯、衔冤、芒廷、绵绵、凹凹。",
+   "pinyin": "cí yǔ biǎo liè chū táo yě 、 pēi tāi 、 guō diàn 、 tán tán 、 mèng xiàn 、 jù jù 、 xián yuān 、 máng tíng 、 mián mián 、 āo āo 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-350"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课词语有朽株、淮夷、津浦、碑铭、岳贞、阎孝、堡礁、娇媚、欧泊、邓拓。",
+   "pinyin": "běn kè cí yǔ yǒu xiǔ zhū 、 huái yí 、 jīn pǔ 、 bēi míng 、 yuè zhēn 、 yán xiào 、 bǎo jiāo 、 jiāo mèi 、 ōu pō 、 dèng tuò 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-351"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表中有杭逸、尼昂、履痕、痴痴、唇吻、浇铸、荷荷、恭逢、纤纤、蜀绣。",
+   "pinyin": "cí yǔ biǎo zhōng yǒu háng yì 、 ní áng 、 lǚ hén 、 chī chī 、 chún wěn 、 jiāo zhù 、 hé hé 、 gōng féng 、 xiān xiān 、 shǔ xiù 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-352"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这些词语是蜂巢、儒雅、莲蓬、肖邦、葱葱、尘雾、乔寨、耕牧、龟纹、潘韵。",
+   "pinyin": "zhè xiē cí yǔ shì fēng cháo 、 rú yǎ 、 lián péng 、 xiào bāng 、 cōng cōng 、 chén wù 、 qiáo zhài 、 gēng mù 、 guī wén 、 pān yùn 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-353"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "请跟读词语：弘毅、勾勾、卓芬、岩浆、钉钉、勃勃、仆人、仲裁、伊朗、伦理。",
+   "pinyin": "qǐng gēn dú cí yǔ ： hóng yì 、 gōu gōu 、 zhuó fēn 、 yán jiāng 、 dīng dīng 、 bó bó 、 pū rén 、 zhòng cái 、 yī lǎng 、 lún lǐ 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-354"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课重点词：辅佐、佩服、侍卫、倔强、冗长、凯旋、凳子、挑剔、花卉、吭声。",
+   "pinyin": "běn kè zhòng diǎn cí ： fǔ zuǒ 、 pèi fú 、 shì wèi 、 jué qiáng 、 rǒng zhǎng 、 kǎi xuán 、 dèng zi 、 tiāo tī 、 huā huì 、 kēng shēng 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-355"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表列出哎呀、哺乳、嗅觉、嗜好、烟囱、坠落、垂直、奥运、保姆、媲美。",
+   "pinyin": "cí yǔ biǎo liè chū āi ya 、 bǔ rǔ 、 xiù jué 、 shì hǎo 、 yān cōng 、 zhuì luò 、 chuí zhí 、 ào yùn 、 bǎo mǔ 、 pì měi 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-356"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "本课词语有孪生、通宵、岔开、崛起、崭新、巅峰、庞大、恐怖、惋惜、惦记。",
+   "pinyin": "běn kè cí yǔ yǒu luán shēng 、 tōng xiāo 、 chà kāi 、 jué qǐ 、 zhǎn xīn 、 diān fēng 、 páng dà 、 kǒng bù 、 wǎn xī 、 diàn jì 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-357"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "词语表中有惩罚、威慑、抨击、拎包、拣选、挎包、捅射、捎带、捶打、掺杂。",
+   "pinyin": "cí yǔ biǎo zhōng yǒu chéng fá 、 wēi shè 、 pēng jī 、 līn bāo 、 jiǎn xuǎn 、 kuà bāo 、 tǒng shè 、 shāo dài 、 chuí dǎ 、 càn zá 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-358"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "这些词语是挨揍、震撼、擅长、旭日、清晰、曝光、柏林、农桑、一桩、楷书。",
+   "pinyin": "zhè xiē cí yǔ shì āi zòu 、 zhèn hàn 、 shàn zhǎng 、 xù rì 、 qīng xī 、 pù guāng 、 bǎi lín 、 nóng sāng 、 yī zhuāng 、 kǎi shū 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-359"
+  },
+  {
+   "level": 7,
+   "round": 1,
+   "text": "请跟读词语：好歹、歼灭、毙命、汪洋、肥沃、沏茶、浏览、浩大、生涯、沉淀。",
+   "pinyin": "qǐng gēn dú cí yǔ ： hǎo dǎi 、 jiān miè 、 bì mìng 、 wāng yáng 、 féi wò 、 qī chá 、 liú lǎn 、 hào dà 、 shēng yá 、 chén diàn 。",
+   "grammar": [
+    "G7-147"
+   ],
+   "id": "L7-360"
+  }
+ ]
+}
