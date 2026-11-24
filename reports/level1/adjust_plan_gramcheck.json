@@ -1,0 +1,12 @@
+{
+  "level": 1,
+  "new_chars": [],
+  "new_chars_batches": [],
+  "boost_chars": {},
+  "new_grammar": [],
+  "boost_grammar": [],
+  "new_vocab": [],
+  "suggested_new_items": 0,
+  "guidance": "出下一轮题时：每题围绕 2-4 个缺口字造句，仍只准用本等级字表；缺口语法点每点至少安排 2 题，尽量与缺口字合并在同一题；低频核心字按 boost_chars 的次数差额安排进新句。",
+  "tag": "gramcheck"
+}
