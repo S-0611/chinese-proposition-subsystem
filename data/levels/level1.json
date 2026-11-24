@@ -10,7 +10,7 @@
   "allow_digits": false,
   "bank_target_items": [
    110,
-   340
+   460
   ]
  },
  "thresholds": {
@@ -18,7 +18,8 @@
   "char_freq_min": 1,
   "core_char_freq_min": 3,
   "grammar_coverage_min": 1.0,
-  "grammar_freq_min": 2
+  "grammar_freq_min": 2,
+  "vocabulary_coverage_min": 1.0
  },
  "chars": {
   "all": [

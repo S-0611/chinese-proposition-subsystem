@@ -1,0 +1,4525 @@
+{
+ "source": "HSK 3.0 vocabulary transcription",
+ "source_url": "https://github.com/shawkynasr/HSK-official-Query-System/blob/main/词汇.csv",
+ "standard": "GF 0025-2021",
+ "level": 1,
+ "level_label": "一级",
+ "count": 500,
+ "entries": [
+  {
+   "no": 18,
+   "word": "爱",
+   "variants": [
+    "爱"
+   ],
+   "pinyin": "ài",
+   "pos": "动"
+  },
+  {
+   "no": 21,
+   "word": "爱好",
+   "variants": [
+    "爱好"
+   ],
+   "pinyin": "àihào",
+   "pos": "动、名"
+  },
+  {
+   "no": 68,
+   "word": "八",
+   "variants": [
+    "八"
+   ],
+   "pinyin": "bā",
+   "pos": "数"
+  },
+  {
+   "no": 83,
+   "word": "爸爸∣爸",
+   "variants": [
+    "爸爸",
+    "爸"
+   ],
+   "pinyin": "bàba∣bà",
+   "pos": "名"
+  },
+  {
+   "no": 89,
+   "word": "吧",
+   "variants": [
+    "吧"
+   ],
+   "pinyin": "ba",
+   "pos": "助"
+  },
+  {
+   "no": 91,
+   "word": "白",
+   "variants": [
+    "白"
+   ],
+   "pinyin": "bái",
+   "pos": "形"
+  },
+  {
+   "no": 98,
+   "word": "白天",
+   "variants": [
+    "白天"
+   ],
+   "pinyin": "báitiān",
+   "pos": "名"
+  },
+  {
+   "no": 99,
+   "word": "百",
+   "variants": [
+    "百"
+   ],
+   "pinyin": "bǎi",
+   "pos": "数"
+  },
+  {
+   "no": 119,
+   "word": "班",
+   "variants": [
+    "班"
+   ],
+   "pinyin": "bān",
+   "pos": "名、量"
+  },
+  {
+   "no": 141,
+   "word": "半",
+   "variants": [
+    "半"
+   ],
+   "pinyin": "bàn",
+   "pos": "数"
+  },
+  {
+   "no": 147,
+   "word": "半年",
+   "variants": [
+    "半年"
+   ],
+   "pinyin": "bàn nián",
+   "pos": ""
+  },
+  {
+   "no": 149,
+   "word": "半天",
+   "variants": [
+    "半天"
+   ],
+   "pinyin": "bàntiān",
+   "pos": ""
+  },
+  {
+   "no": 161,
+   "word": "帮",
+   "variants": [
+    "帮"
+   ],
+   "pinyin": "bāng",
+   "pos": "动"
+  },
+  {
+   "no": 162,
+   "word": "帮忙",
+   "variants": [
+    "帮忙"
+   ],
+   "pinyin": "bāng∥máng",
+   "pos": ""
+  },
+  {
+   "no": 172,
+   "word": "包",
+   "variants": [
+    "包"
+   ],
+   "pinyin": "bāo",
+   "pos": "名、量、动"
+  },
+  {
+   "no": 181,
+   "word": "包子",
+   "variants": [
+    "包子"
+   ],
+   "pinyin": "bāozi",
+   "pos": "名"
+  },
+  {
+   "no": 255,
+   "word": "杯",
+   "variants": [
+    "杯"
+   ],
+   "pinyin": "bēi",
+   "pos": "量"
+  },
+  {
+   "no": 256,
+   "word": "杯子",
+   "variants": [
+    "杯子"
+   ],
+   "pinyin": "bēizi",
+   "pos": "名"
+  },
+  {
+   "no": 268,
+   "word": "北",
+   "variants": [
+    "北"
+   ],
+   "pinyin": "běi",
+   "pos": "名"
+  },
+  {
+   "no": 269,
+   "word": "北边",
+   "variants": [
+    "北边"
+   ],
+   "pinyin": "běibian",
+   "pos": "名"
+  },
+  {
+   "no": 273,
+   "word": "北京",
+   "variants": [
+    "北京"
+   ],
+   "pinyin": "Běijīng",
+   "pos": "名"
+  },
+  {
+   "no": 298,
+   "word": "本",
+   "variants": [
+    "本"
+   ],
+   "pinyin": "běn",
+   "pos": "量"
+  },
+  {
+   "no": 317,
+   "word": "本子",
+   "variants": [
+    "本子"
+   ],
+   "pinyin": "běnzi",
+   "pos": "名"
+  },
+  {
+   "no": 332,
+   "word": "比",
+   "variants": [
+    "比"
+   ],
+   "pinyin": "bǐ",
+   "pos": "介、动"
+  },
+  {
+   "no": 455,
+   "word": "别",
+   "variants": [
+    "别"
+   ],
+   "pinyin": "bié",
+   "pos": "副"
+  },
+  {
+   "no": 457,
+   "word": "别的",
+   "variants": [
+    "别的"
+   ],
+   "pinyin": "biéde",
+   "pos": "代"
+  },
+  {
+   "no": 460,
+   "word": "别人",
+   "variants": [
+    "别人"
+   ],
+   "pinyin": "bié·rén",
+   "pos": "代"
+  },
+  {
+   "no": 487,
+   "word": "病",
+   "variants": [
+    "病"
+   ],
+   "pinyin": "bìng",
+   "pos": "名、动"
+  },
+  {
+   "no": 492,
+   "word": "病人",
+   "variants": [
+    "病人"
+   ],
+   "pinyin": "bìngrén",
+   "pos": "名"
+  },
+  {
+   "no": 524,
+   "word": "不大",
+   "variants": [
+    "不大"
+   ],
+   "pinyin": "bú dà",
+   "pos": ""
+  },
+  {
+   "no": 529,
+   "word": "不对",
+   "variants": [
+    "不对"
+   ],
+   "pinyin": "búduì",
+   "pos": "形"
+  },
+  {
+   "no": 535,
+   "word": "不客气",
+   "variants": [
+    "不客气"
+   ],
+   "pinyin": "bú kèqì",
+   "pos": ""
+  },
+  {
+   "no": 555,
+   "word": "不用",
+   "variants": [
+    "不用"
+   ],
+   "pinyin": "búyòng",
+   "pos": "副"
+  },
+  {
+   "no": 574,
+   "word": "不",
+   "variants": [
+    "不"
+   ],
+   "pinyin": "bù",
+   "pos": "副"
+  },
+  {
+   "no": 696,
+   "word": "菜",
+   "variants": [
+    "菜"
+   ],
+   "pinyin": "cài",
+   "pos": "名"
+  },
+  {
+   "no": 778,
+   "word": "茶",
+   "variants": [
+    "茶"
+   ],
+   "pinyin": "chá",
+   "pos": "名"
+  },
+  {
+   "no": 792,
+   "word": "差",
+   "variants": [
+    "差"
+   ],
+   "pinyin": "chà",
+   "pos": "动、形"
+  },
+  {
+   "no": 837,
+   "word": "常",
+   "variants": [
+    "常"
+   ],
+   "pinyin": "cháng",
+   "pos": "副"
+  },
+  {
+   "no": 838,
+   "word": "常常",
+   "variants": [
+    "常常"
+   ],
+   "pinyin": "chángcháng",
+   "pos": "副"
+  },
+  {
+   "no": 867,
+   "word": "唱",
+   "variants": [
+    "唱"
+   ],
+   "pinyin": "chàng",
+   "pos": "动"
+  },
+  {
+   "no": 868,
+   "word": "唱歌",
+   "variants": [
+    "唱歌"
+   ],
+   "pinyin": "chàng∥gē",
+   "pos": ""
+  },
+  {
+   "no": 898,
+   "word": "车",
+   "variants": [
+    "车"
+   ],
+   "pinyin": "chē",
+   "pos": "名"
+  },
+  {
+   "no": 906,
+   "word": "车票",
+   "variants": [
+    "车票"
+   ],
+   "pinyin": "chēpiào",
+   "pos": "名"
+  },
+  {
+   "no": 907,
+   "word": "车上",
+   "variants": [
+    "车上"
+   ],
+   "pinyin": "chē shang",
+   "pos": ""
+  },
+  {
+   "no": 913,
+   "word": "车站",
+   "variants": [
+    "车站"
+   ],
+   "pinyin": "chēzhàn",
+   "pos": "名"
+  },
+  {
+   "no": 1015,
+   "word": "吃",
+   "variants": [
+    "吃"
+   ],
+   "pinyin": "chī",
+   "pos": "动"
+  },
+  {
+   "no": 1017,
+   "word": "吃饭",
+   "variants": [
+    "吃饭"
+   ],
+   "pinyin": "chī∥fàn",
+   "pos": ""
+  },
+  {
+   "no": 1109,
+   "word": "出",
+   "variants": [
+    "出"
+   ],
+   "pinyin": "chū",
+   "pos": "动"
+  },
+  {
+   "no": 1130,
+   "word": "出来",
+   "variants": [
+    "出来"
+   ],
+   "pinyin": "chū∥·lái",
+   "pos": ""
+  },
+  {
+   "no": 1138,
+   "word": "出去",
+   "variants": [
+    "出去"
+   ],
+   "pinyin": "chū∥·qù",
+   "pos": ""
+  },
+  {
+   "no": 1212,
+   "word": "穿",
+   "variants": [
+    "穿"
+   ],
+   "pinyin": "chuān",
+   "pos": "动"
+  },
+  {
+   "no": 1253,
+   "word": "床",
+   "variants": [
+    "床"
+   ],
+   "pinyin": "chuáng",
+   "pos": "名"
+  },
+  {
+   "no": 1314,
+   "word": "次",
+   "variants": [
+    "次"
+   ],
+   "pinyin": "cì",
+   "pos": "量"
+  },
+  {
+   "no": 1330,
+   "word": "从",
+   "variants": [
+    "从"
+   ],
+   "pinyin": "cóng",
+   "pos": "介"
+  },
+  {
+   "no": 1387,
+   "word": "错",
+   "variants": [
+    "错"
+   ],
+   "pinyin": "cuò",
+   "pos": "形、名"
+  },
+  {
+   "no": 1408,
+   "word": "打",
+   "variants": [
+    "打"
+   ],
+   "pinyin": "dǎ",
+   "pos": "动"
+  },
+  {
+   "no": 1414,
+   "word": "打车",
+   "variants": [
+    "打车"
+   ],
+   "pinyin": "dǎ∥chē",
+   "pos": ""
+  },
+  {
+   "no": 1416,
+   "word": "打电话",
+   "variants": [
+    "打电话"
+   ],
+   "pinyin": "dǎ diànhuà",
+   "pos": ""
+  },
+  {
+   "no": 1427,
+   "word": "打开",
+   "variants": [
+    "打开"
+   ],
+   "pinyin": "dǎ∥kāi",
+   "pos": ""
+  },
+  {
+   "no": 1435,
+   "word": "打球",
+   "variants": [
+    "打球"
+   ],
+   "pinyin": "dǎ qiú",
+   "pos": ""
+  },
+  {
+   "no": 1448,
+   "word": "大",
+   "variants": [
+    "大"
+   ],
+   "pinyin": "dà",
+   "pos": "形"
+  },
+  {
+   "no": 1518,
+   "word": "大学",
+   "variants": [
+    "大学"
+   ],
+   "pinyin": "dàxué",
+   "pos": "名"
+  },
+  {
+   "no": 1519,
+   "word": "大学生",
+   "variants": [
+    "大学生"
+   ],
+   "pinyin": "dàxuéshēng",
+   "pos": "名"
+  },
+  {
+   "no": 1655,
+   "word": "到",
+   "variants": [
+    "到"
+   ],
+   "pinyin": "dào",
+   "pos": "动"
+  },
+  {
+   "no": 1684,
+   "word": "得到",
+   "variants": [
+    "得到"
+   ],
+   "pinyin": "dé∥dào",
+   "pos": ""
+  },
+  {
+   "no": 1699,
+   "word": "地",
+   "variants": [
+    "地"
+   ],
+   "pinyin": "de",
+   "pos": "助"
+  },
+  {
+   "no": 1700,
+   "word": "的",
+   "variants": [
+    "的"
+   ],
+   "pinyin": "de",
+   "pos": "助"
+  },
+  {
+   "no": 1715,
+   "word": "等",
+   "variants": [
+    "等"
+   ],
+   "pinyin": "děng",
+   "pos": "动"
+  },
+  {
+   "no": 1756,
+   "word": "地",
+   "variants": [
+    "地"
+   ],
+   "pinyin": "dì",
+   "pos": "名"
+  },
+  {
+   "no": 1762,
+   "word": "地点",
+   "variants": [
+    "地点"
+   ],
+   "pinyin": "dìdiǎn",
+   "pos": "名"
+  },
+  {
+   "no": 1765,
+   "word": "地方",
+   "variants": [
+    "地方"
+   ],
+   "pinyin": "dìfang",
+   "pos": "名"
+  },
+  {
+   "no": 1771,
+   "word": "地上",
+   "variants": [
+    "地上"
+   ],
+   "pinyin": "dìshang",
+   "pos": ""
+  },
+  {
+   "no": 1775,
+   "word": "地图",
+   "variants": [
+    "地图"
+   ],
+   "pinyin": "dìtú",
+   "pos": "名"
+  },
+  {
+   "no": 1786,
+   "word": "弟弟∣弟",
+   "variants": [
+    "弟弟",
+    "弟"
+   ],
+   "pinyin": "dìdi∣dì",
+   "pos": "名"
+  },
+  {
+   "no": 1793,
+   "word": "第（第二）",
+   "variants": [
+    "第（第二）",
+    "第",
+    "第二"
+   ],
+   "pinyin": "dì (dì-èr)",
+   "pos": "前缀"
+  },
+  {
+   "no": 1802,
+   "word": "点",
+   "variants": [
+    "点"
+   ],
+   "pinyin": "diǎn",
+   "pos": "量、动、名"
+  },
+  {
+   "no": 1812,
+   "word": "电",
+   "variants": [
+    "电"
+   ],
+   "pinyin": "diàn",
+   "pos": "名"
+  },
+  {
+   "no": 1820,
+   "word": "电话",
+   "variants": [
+    "电话"
+   ],
+   "pinyin": "diànhuà",
+   "pos": "名"
+  },
+  {
+   "no": 1823,
+   "word": "电脑",
+   "variants": [
+    "电脑"
+   ],
+   "pinyin": "diànnǎo",
+   "pos": "名"
+  },
+  {
+   "no": 1825,
+   "word": "电视",
+   "variants": [
+    "电视"
+   ],
+   "pinyin": "diànshì",
+   "pos": "名"
+  },
+  {
+   "no": 1826,
+   "word": "电视机",
+   "variants": [
+    "电视机"
+   ],
+   "pinyin": "diànshìjī",
+   "pos": "名"
+  },
+  {
+   "no": 1835,
+   "word": "电影",
+   "variants": [
+    "电影"
+   ],
+   "pinyin": "diànyǐng",
+   "pos": "名"
+  },
+  {
+   "no": 1836,
+   "word": "电影院",
+   "variants": [
+    "电影院"
+   ],
+   "pinyin": "diànyǐngyuàn",
+   "pos": "名"
+  },
+  {
+   "no": 1901,
+   "word": "东",
+   "variants": [
+    "东"
+   ],
+   "pinyin": "dōng",
+   "pos": "名"
+  },
+  {
+   "no": 1904,
+   "word": "东边",
+   "variants": [
+    "东边"
+   ],
+   "pinyin": "dōngbian",
+   "pos": "名"
+  },
+  {
+   "no": 1909,
+   "word": "东西",
+   "variants": [
+    "东西"
+   ],
+   "pinyin": "dōngxi",
+   "pos": "名"
+  },
+  {
+   "no": 1919,
+   "word": "动",
+   "variants": [
+    "动"
+   ],
+   "pinyin": "dòng",
+   "pos": "动"
+  },
+  {
+   "no": 1942,
+   "word": "动作",
+   "variants": [
+    "动作"
+   ],
+   "pinyin": "dòngzuò",
+   "pos": "名"
+  },
+  {
+   "no": 1948,
+   "word": "都",
+   "variants": [
+    "都"
+   ],
+   "pinyin": "dōu",
+   "pos": "副"
+  },
+  {
+   "no": 1976,
+   "word": "读",
+   "variants": [
+    "读"
+   ],
+   "pinyin": "dú",
+   "pos": "动"
+  },
+  {
+   "no": 1977,
+   "word": "读书",
+   "variants": [
+    "读书"
+   ],
+   "pinyin": "dú∥shū",
+   "pos": ""
+  },
+  {
+   "no": 2019,
+   "word": "对",
+   "variants": [
+    "对"
+   ],
+   "pinyin": "duì",
+   "pos": "形"
+  },
+  {
+   "no": 2023,
+   "word": "对不起",
+   "variants": [
+    "对不起"
+   ],
+   "pinyin": "duìbuqǐ",
+   "pos": "动"
+  },
+  {
+   "no": 2053,
+   "word": "多",
+   "variants": [
+    "多"
+   ],
+   "pinyin": "duō",
+   "pos": "形、代"
+  },
+  {
+   "no": 2067,
+   "word": "多少",
+   "variants": [
+    "多少"
+   ],
+   "pinyin": "duōshao",
+   "pos": "代"
+  },
+  {
+   "no": 2097,
+   "word": "饿",
+   "variants": [
+    "饿"
+   ],
+   "pinyin": "è",
+   "pos": "形、动"
+  },
+  {
+   "no": 2108,
+   "word": "儿子",
+   "variants": [
+    "儿子"
+   ],
+   "pinyin": "érzi",
+   "pos": "名"
+  },
+  {
+   "no": 2119,
+   "word": "二",
+   "variants": [
+    "二"
+   ],
+   "pinyin": "èr",
+   "pos": "数"
+  },
+  {
+   "no": 2231,
+   "word": "饭",
+   "variants": [
+    "饭"
+   ],
+   "pinyin": "fàn",
+   "pos": "名"
+  },
+  {
+   "no": 2232,
+   "word": "饭店",
+   "variants": [
+    "饭店"
+   ],
+   "pinyin": "fàndiàn",
+   "pos": "名"
+  },
+  {
+   "no": 2269,
+   "word": "房间",
+   "variants": [
+    "房间"
+   ],
+   "pinyin": "fángjiān",
+   "pos": "名"
+  },
+  {
+   "no": 2271,
+   "word": "房子",
+   "variants": [
+    "房子"
+   ],
+   "pinyin": "fángzi",
+   "pos": "名"
+  },
+  {
+   "no": 2279,
+   "word": "放",
+   "variants": [
+    "放"
+   ],
+   "pinyin": "fàng",
+   "pos": "动"
+  },
+  {
+   "no": 2283,
+   "word": "放假",
+   "variants": [
+    "放假"
+   ],
+   "pinyin": "fàng∥jià",
+   "pos": ""
+  },
+  {
+   "no": 2290,
+   "word": "放学",
+   "variants": [
+    "放学"
+   ],
+   "pinyin": "fàng∥xué",
+   "pos": ""
+  },
+  {
+   "no": 2294,
+   "word": "飞",
+   "variants": [
+    "飞"
+   ],
+   "pinyin": "fēi",
+   "pos": "动"
+  },
+  {
+   "no": 2296,
+   "word": "飞机",
+   "variants": [
+    "飞机"
+   ],
+   "pinyin": "fēijī",
+   "pos": "名"
+  },
+  {
+   "no": 2305,
+   "word": "非常",
+   "variants": [
+    "非常"
+   ],
+   "pinyin": "fēicháng",
+   "pos": "副"
+  },
+  {
+   "no": 2329,
+   "word": "分",
+   "variants": [
+    "分"
+   ],
+   "pinyin": "fēn",
+   "pos": "名、量"
+  },
+  {
+   "no": 2388,
+   "word": "风",
+   "variants": [
+    "风"
+   ],
+   "pinyin": "fēng",
+   "pos": "名"
+  },
+  {
+   "no": 2560,
+   "word": "干",
+   "variants": [
+    "干"
+   ],
+   "pinyin": "gān",
+   "pos": "形"
+  },
+  {
+   "no": 2565,
+   "word": "干净",
+   "variants": [
+    "干净"
+   ],
+   "pinyin": "gānjìng",
+   "pos": "形"
+  },
+  {
+   "no": 2606,
+   "word": "干",
+   "variants": [
+    "干"
+   ],
+   "pinyin": "gàn",
+   "pos": "动"
+  },
+  {
+   "no": 2610,
+   "word": "干什么",
+   "variants": [
+    "干什么"
+   ],
+   "pinyin": "gàn shénme",
+   "pos": ""
+  },
+  {
+   "no": 2627,
+   "word": "高",
+   "variants": [
+    "高"
+   ],
+   "pinyin": "gāo",
+   "pos": "形"
+  },
+  {
+   "no": 2661,
+   "word": "高兴",
+   "variants": [
+    "高兴"
+   ],
+   "pinyin": "gāoxìng",
+   "pos": "形"
+  },
+  {
+   "no": 2679,
+   "word": "告诉",
+   "variants": [
+    "告诉"
+   ],
+   "pinyin": "gàosu",
+   "pos": "动"
+  },
+  {
+   "no": 2683,
+   "word": "哥哥∣哥",
+   "variants": [
+    "哥哥",
+    "哥"
+   ],
+   "pinyin": "gēge∣gē",
+   "pos": "名"
+  },
+  {
+   "no": 2690,
+   "word": "歌",
+   "variants": [
+    "歌"
+   ],
+   "pinyin": "gē",
+   "pos": "名"
+  },
+  {
+   "no": 2714,
+   "word": "个",
+   "variants": [
+    "个"
+   ],
+   "pinyin": "gè",
+   "pos": "量"
+  },
+  {
+   "no": 2731,
+   "word": "给",
+   "variants": [
+    "给"
+   ],
+   "pinyin": "gěi",
+   "pos": "动、介"
+  },
+  {
+   "no": 2739,
+   "word": "跟",
+   "variants": [
+    "跟"
+   ],
+   "pinyin": "gēn",
+   "pos": "介、连、动"
+  },
+  {
+   "no": 2762,
+   "word": "工人",
+   "variants": [
+    "工人"
+   ],
+   "pinyin": "gōngrén",
+   "pos": "名"
+  },
+  {
+   "no": 2770,
+   "word": "工作",
+   "variants": [
+    "工作"
+   ],
+   "pinyin": "gōngzuò",
+   "pos": "动、名"
+  },
+  {
+   "no": 2956,
+   "word": "关",
+   "variants": [
+    "关"
+   ],
+   "pinyin": "guān",
+   "pos": "动"
+  },
+  {
+   "no": 2966,
+   "word": "关上",
+   "variants": [
+    "关上"
+   ],
+   "pinyin": "guānshang",
+   "pos": ""
+  },
+  {
+   "no": 3064,
+   "word": "贵",
+   "variants": [
+    "贵"
+   ],
+   "pinyin": "guì",
+   "pos": "形"
+  },
+  {
+   "no": 3075,
+   "word": "国",
+   "variants": [
+    "国"
+   ],
+   "pinyin": "guó",
+   "pos": "名"
+  },
+  {
+   "no": 3085,
+   "word": "国家",
+   "variants": [
+    "国家"
+   ],
+   "pinyin": "guójiā",
+   "pos": "名"
+  },
+  {
+   "no": 3092,
+   "word": "国外",
+   "variants": [
+    "国外"
+   ],
+   "pinyin": "guó wài",
+   "pos": ""
+  },
+  {
+   "no": 3105,
+   "word": "过",
+   "variants": [
+    "过"
+   ],
+   "pinyin": "guò",
+   "pos": "动"
+  },
+  {
+   "no": 3139,
+   "word": "还",
+   "variants": [
+    "还"
+   ],
+   "pinyin": "hái",
+   "pos": "副"
+  },
+  {
+   "no": 3140,
+   "word": "还是",
+   "variants": [
+    "还是"
+   ],
+   "pinyin": "háishi",
+   "pos": "副、连"
+  },
+  {
+   "no": 3141,
+   "word": "还有",
+   "variants": [
+    "还有"
+   ],
+   "pinyin": "hái yǒu",
+   "pos": ""
+  },
+  {
+   "no": 3142,
+   "word": "孩子",
+   "variants": [
+    "孩子"
+   ],
+   "pinyin": "háizi",
+   "pos": "名"
+  },
+  {
+   "no": 3190,
+   "word": "汉语",
+   "variants": [
+    "汉语"
+   ],
+   "pinyin": "Hànyǔ",
+   "pos": "名"
+  },
+  {
+   "no": 3191,
+   "word": "汉字",
+   "variants": [
+    "汉字"
+   ],
+   "pinyin": "Hànzì",
+   "pos": "名"
+  },
+  {
+   "no": 3216,
+   "word": "好",
+   "variants": [
+    "好"
+   ],
+   "pinyin": "hǎo",
+   "pos": "形"
+  },
+  {
+   "no": 3220,
+   "word": "好吃",
+   "variants": [
+    "好吃"
+   ],
+   "pinyin": "hǎochī",
+   "pos": "形"
+  },
+  {
+   "no": 3229,
+   "word": "好看",
+   "variants": [
+    "好看"
+   ],
+   "pinyin": "hǎokàn",
+   "pos": "形"
+  },
+  {
+   "no": 3235,
+   "word": "好听",
+   "variants": [
+    "好听"
+   ],
+   "pinyin": "hǎotīng",
+   "pos": "形"
+  },
+  {
+   "no": 3236,
+   "word": "好玩儿",
+   "variants": [
+    "好玩儿"
+   ],
+   "pinyin": "hǎowánr",
+   "pos": "形"
+  },
+  {
+   "no": 3246,
+   "word": "号",
+   "variants": [
+    "号"
+   ],
+   "pinyin": "hào",
+   "pos": "名、量"
+  },
+  {
+   "no": 3260,
+   "word": "喝",
+   "variants": [
+    "喝"
+   ],
+   "pinyin": "hē",
+   "pos": "动"
+  },
+  {
+   "no": 3285,
+   "word": "和",
+   "variants": [
+    "和"
+   ],
+   "pinyin": "hé",
+   "pos": "介、连"
+  },
+  {
+   "no": 3327,
+   "word": "很",
+   "variants": [
+    "很"
+   ],
+   "pinyin": "hěn",
+   "pos": "副"
+  },
+  {
+   "no": 3367,
+   "word": "后",
+   "variants": [
+    "后"
+   ],
+   "pinyin": "hòu",
+   "pos": "名"
+  },
+  {
+   "no": 3370,
+   "word": "后边",
+   "variants": [
+    "后边"
+   ],
+   "pinyin": "hòubian",
+   "pos": "名"
+  },
+  {
+   "no": 3383,
+   "word": "后天",
+   "variants": [
+    "后天"
+   ],
+   "pinyin": "hòutiān",
+   "pos": "名"
+  },
+  {
+   "no": 3430,
+   "word": "花",
+   "variants": [
+    "花"
+   ],
+   "pinyin": "huā",
+   "pos": "名"
+  },
+  {
+   "no": 3476,
+   "word": "话",
+   "variants": [
+    "话"
+   ],
+   "pinyin": "huà",
+   "pos": "名"
+  },
+  {
+   "no": 3490,
+   "word": "坏",
+   "variants": [
+    "坏"
+   ],
+   "pinyin": "huài",
+   "pos": "形"
+  },
+  {
+   "no": 3500,
+   "word": "还",
+   "variants": [
+    "还"
+   ],
+   "pinyin": "huán",
+   "pos": "动"
+  },
+  {
+   "no": 3559,
+   "word": "回",
+   "variants": [
+    "回"
+   ],
+   "pinyin": "huí",
+   "pos": "动"
+  },
+  {
+   "no": 3563,
+   "word": "回答",
+   "variants": [
+    "回答"
+   ],
+   "pinyin": "huídá",
+   "pos": "动、名"
+  },
+  {
+   "no": 3564,
+   "word": "回到",
+   "variants": [
+    "回到"
+   ],
+   "pinyin": "huídào",
+   "pos": "动"
+  },
+  {
+   "no": 3569,
+   "word": "回家",
+   "variants": [
+    "回家"
+   ],
+   "pinyin": "huí jiā",
+   "pos": ""
+  },
+  {
+   "no": 3572,
+   "word": "回来",
+   "variants": [
+    "回来"
+   ],
+   "pinyin": "huí∥·lái",
+   "pos": ""
+  },
+  {
+   "no": 3574,
+   "word": "回去",
+   "variants": [
+    "回去"
+   ],
+   "pinyin": "huí∥·qù",
+   "pos": ""
+  },
+  {
+   "no": 3596,
+   "word": "会",
+   "variants": [
+    "会"
+   ],
+   "pinyin": "huì",
+   "pos": "动"
+  },
+  {
+   "no": 3638,
+   "word": "火车",
+   "variants": [
+    "火车"
+   ],
+   "pinyin": "huǒchē",
+   "pos": "名"
+  },
+  {
+   "no": 3679,
+   "word": "机场",
+   "variants": [
+    "机场"
+   ],
+   "pinyin": "jīchǎng",
+   "pos": "名"
+  },
+  {
+   "no": 3687,
+   "word": "机票",
+   "variants": [
+    "机票"
+   ],
+   "pinyin": "jīpiào",
+   "pos": "名"
+  },
+  {
+   "no": 3697,
+   "word": "鸡蛋",
+   "variants": [
+    "鸡蛋"
+   ],
+   "pinyin": "jīdàn",
+   "pos": "名"
+  },
+  {
+   "no": 3774,
+   "word": "几",
+   "variants": [
+    "几"
+   ],
+   "pinyin": "jǐ",
+   "pos": "数、代"
+  },
+  {
+   "no": 3786,
+   "word": "记",
+   "variants": [
+    "记"
+   ],
+   "pinyin": "jì",
+   "pos": "动"
+  },
+  {
+   "no": 3787,
+   "word": "记得",
+   "variants": [
+    "记得"
+   ],
+   "pinyin": "jìde",
+   "pos": "动"
+  },
+  {
+   "no": 3794,
+   "word": "记住",
+   "variants": [
+    "记住"
+   ],
+   "pinyin": "jìzhù",
+   "pos": ""
+  },
+  {
+   "no": 3850,
+   "word": "家",
+   "variants": [
+    "家"
+   ],
+   "pinyin": "jiā",
+   "pos": "名、量"
+  },
+  {
+   "no": 3858,
+   "word": "家里",
+   "variants": [
+    "家里"
+   ],
+   "pinyin": "jiā li",
+   "pos": ""
+  },
+  {
+   "no": 3860,
+   "word": "家人",
+   "variants": [
+    "家人"
+   ],
+   "pinyin": "jiārén",
+   "pos": "名"
+  },
+  {
+   "no": 3915,
+   "word": "间",
+   "variants": [
+    "间"
+   ],
+   "pinyin": "jiān",
+   "pos": "量"
+  },
+  {
+   "no": 3969,
+   "word": "见",
+   "variants": [
+    "见"
+   ],
+   "pinyin": "jiàn",
+   "pos": "动"
+  },
+  {
+   "no": 3973,
+   "word": "见面",
+   "variants": [
+    "见面"
+   ],
+   "pinyin": "jiàn∥miàn",
+   "pos": ""
+  },
+  {
+   "no": 4084,
+   "word": "教",
+   "variants": [
+    "教"
+   ],
+   "pinyin": "jiāo",
+   "pos": "动"
+  },
+  {
+   "no": 4108,
+   "word": "叫",
+   "variants": [
+    "叫"
+   ],
+   "pinyin": "jiào",
+   "pos": "动"
+  },
+  {
+   "no": 4127,
+   "word": "教学楼",
+   "variants": [
+    "教学楼"
+   ],
+   "pinyin": "jiàoxuélóu",
+   "pos": "名"
+  },
+  {
+   "no": 4206,
+   "word": "姐姐∣姐",
+   "variants": [
+    "姐姐",
+    "姐"
+   ],
+   "pinyin": "jiějie∣jiě",
+   "pos": "名"
+  },
+  {
+   "no": 4226,
+   "word": "介绍",
+   "variants": [
+    "介绍"
+   ],
+   "pinyin": "jièshào",
+   "pos": "动"
+  },
+  {
+   "no": 4248,
+   "word": "今年",
+   "variants": [
+    "今年"
+   ],
+   "pinyin": "jīnnián",
+   "pos": "名"
+  },
+  {
+   "no": 4250,
+   "word": "今天",
+   "variants": [
+    "今天"
+   ],
+   "pinyin": "jīntiān",
+   "pos": "名"
+  },
+  {
+   "no": 4288,
+   "word": "进",
+   "variants": [
+    "进"
+   ],
+   "pinyin": "jìn",
+   "pos": "动"
+  },
+  {
+   "no": 4299,
+   "word": "进来",
+   "variants": [
+    "进来"
+   ],
+   "pinyin": "jìn∥·lái",
+   "pos": ""
+  },
+  {
+   "no": 4300,
+   "word": "进去",
+   "variants": [
+    "进去"
+   ],
+   "pinyin": "jìn∥·qù",
+   "pos": ""
+  },
+  {
+   "no": 4424,
+   "word": "九",
+   "variants": [
+    "九"
+   ],
+   "pinyin": "jiǔ",
+   "pos": "数"
+  },
+  {
+   "no": 4444,
+   "word": "就",
+   "variants": [
+    "就"
+   ],
+   "pinyin": "jiù",
+   "pos": "副"
+  },
+  {
+   "no": 4545,
+   "word": "觉得",
+   "variants": [
+    "觉得"
+   ],
+   "pinyin": "juéde",
+   "pos": "动"
+  },
+  {
+   "no": 4576,
+   "word": "开",
+   "variants": [
+    "开"
+   ],
+   "pinyin": "kāi",
+   "pos": "动"
+  },
+  {
+   "no": 4581,
+   "word": "开车",
+   "variants": [
+    "开车"
+   ],
+   "pinyin": "kāi∥chē",
+   "pos": ""
+  },
+  {
+   "no": 4592,
+   "word": "开会",
+   "variants": [
+    "开会"
+   ],
+   "pinyin": "kāi∥huì",
+   "pos": ""
+  },
+  {
+   "no": 4610,
+   "word": "开玩笑",
+   "variants": [
+    "开玩笑"
+   ],
+   "pinyin": "kāi wánxiào",
+   "pos": ""
+  },
+  {
+   "no": 4630,
+   "word": "看",
+   "variants": [
+    "看"
+   ],
+   "pinyin": "kàn",
+   "pos": "动"
+  },
+  {
+   "no": 4631,
+   "word": "看病",
+   "variants": [
+    "看病"
+   ],
+   "pinyin": "kàn∥bìng",
+   "pos": ""
+  },
+  {
+   "no": 4636,
+   "word": "看到",
+   "variants": [
+    "看到"
+   ],
+   "pinyin": "kàndào",
+   "pos": ""
+  },
+  {
+   "no": 4642,
+   "word": "看见",
+   "variants": [
+    "看见"
+   ],
+   "pinyin": "kàn∥jiàn",
+   "pos": ""
+  },
+  {
+   "no": 4662,
+   "word": "考",
+   "variants": [
+    "考"
+   ],
+   "pinyin": "kǎo",
+   "pos": "动"
+  },
+  {
+   "no": 4669,
+   "word": "考试",
+   "variants": [
+    "考试"
+   ],
+   "pinyin": "kǎo∥shì",
+   "pos": ""
+  },
+  {
+   "no": 4718,
+   "word": "渴",
+   "variants": [
+    "渴"
+   ],
+   "pinyin": "kě",
+   "pos": "形"
+  },
+  {
+   "no": 4739,
+   "word": "课",
+   "variants": [
+    "课"
+   ],
+   "pinyin": "kè",
+   "pos": "名"
+  },
+  {
+   "no": 4740,
+   "word": "课本",
+   "variants": [
+    "课本"
+   ],
+   "pinyin": "kèběn",
+   "pos": "名"
+  },
+  {
+   "no": 4744,
+   "word": "课文",
+   "variants": [
+    "课文"
+   ],
+   "pinyin": "kèwén",
+   "pos": "名"
+  },
+  {
+   "no": 4775,
+   "word": "口",
+   "variants": [
+    "口"
+   ],
+   "pinyin": "kǒu",
+   "pos": "量、名"
+  },
+  {
+   "no": 4829,
+   "word": "块",
+   "variants": [
+    "块"
+   ],
+   "pinyin": "kuài",
+   "pos": "名、量"
+  },
+  {
+   "no": 4830,
+   "word": "快",
+   "variants": [
+    "快"
+   ],
+   "pinyin": "kuài",
+   "pos": "形、副"
+  },
+  {
+   "no": 4900,
+   "word": "来",
+   "variants": [
+    "来"
+   ],
+   "pinyin": "lái",
+   "pos": "动"
+  },
+  {
+   "no": 4903,
+   "word": "来到",
+   "variants": [
+    "来到"
+   ],
+   "pinyin": "láidào",
+   "pos": "动"
+  },
+  {
+   "no": 4952,
+   "word": "老",
+   "variants": [
+    "老"
+   ],
+   "pinyin": "lǎo",
+   "pos": "形"
+  },
+  {
+   "no": 4966,
+   "word": "老人",
+   "variants": [
+    "老人"
+   ],
+   "pinyin": "lǎorén",
+   "pos": "名"
+  },
+  {
+   "no": 4968,
+   "word": "老师",
+   "variants": [
+    "老师"
+   ],
+   "pinyin": "lǎoshī",
+   "pos": "名"
+  },
+  {
+   "no": 4985,
+   "word": "了",
+   "variants": [
+    "了"
+   ],
+   "pinyin": "le",
+   "pos": "助"
+  },
+  {
+   "no": 4996,
+   "word": "累",
+   "variants": [
+    "累"
+   ],
+   "pinyin": "lèi",
+   "pos": "形"
+  },
+  {
+   "no": 4998,
+   "word": "冷",
+   "variants": [
+    "冷"
+   ],
+   "pinyin": "lěng",
+   "pos": "形"
+  },
+  {
+   "no": 5030,
+   "word": "里",
+   "variants": [
+    "里"
+   ],
+   "pinyin": "lǐ",
+   "pos": "名"
+  },
+  {
+   "no": 5031,
+   "word": "里边",
+   "variants": [
+    "里边"
+   ],
+   "pinyin": "lǐbian",
+   "pos": "名"
+  },
+  {
+   "no": 5140,
+   "word": "两",
+   "variants": [
+    "两"
+   ],
+   "pinyin": "liǎng",
+   "pos": "数"
+  },
+  {
+   "no": 5205,
+   "word": "零∣〇",
+   "variants": [
+    "零",
+    "〇"
+   ],
+   "pinyin": "líng∣líng",
+   "pos": "数"
+  },
+  {
+   "no": 5269,
+   "word": "六",
+   "variants": [
+    "六"
+   ],
+   "pinyin": "liù",
+   "pos": "数"
+  },
+  {
+   "no": 5280,
+   "word": "楼",
+   "variants": [
+    "楼"
+   ],
+   "pinyin": "lóu",
+   "pos": "名"
+  },
+  {
+   "no": 5283,
+   "word": "楼上",
+   "variants": [
+    "楼上"
+   ],
+   "pinyin": "lóu shàng",
+   "pos": ""
+  },
+  {
+   "no": 5285,
+   "word": "楼下",
+   "variants": [
+    "楼下"
+   ],
+   "pinyin": "lóu xià",
+   "pos": ""
+  },
+  {
+   "no": 5306,
+   "word": "路",
+   "variants": [
+    "路"
+   ],
+   "pinyin": "lù",
+   "pos": "名、量"
+  },
+  {
+   "no": 5312,
+   "word": "路口",
+   "variants": [
+    "路口"
+   ],
+   "pinyin": "lùkǒu",
+   "pos": "名"
+  },
+  {
+   "no": 5316,
+   "word": "路上",
+   "variants": [
+    "路上"
+   ],
+   "pinyin": "lùshang",
+   "pos": "名"
+  },
+  {
+   "no": 5378,
+   "word": "妈妈",
+   "variants": [
+    "妈妈"
+   ],
+   "pinyin": "māma∣mā",
+   "pos": "名"
+  },
+  {
+   "no": 5392,
+   "word": "马路",
+   "variants": [
+    "马路"
+   ],
+   "pinyin": "mǎlù",
+   "pos": "名"
+  },
+  {
+   "no": 5393,
+   "word": "马上",
+   "variants": [
+    "马上"
+   ],
+   "pinyin": "mǎshàng",
+   "pos": "副"
+  },
+  {
+   "no": 5400,
+   "word": "吗",
+   "variants": [
+    "吗"
+   ],
+   "pinyin": "ma",
+   "pos": "助"
+  },
+  {
+   "no": 5406,
+   "word": "买",
+   "variants": [
+    "买"
+   ],
+   "pinyin": "mǎi",
+   "pos": "动"
+  },
+  {
+   "no": 5428,
+   "word": "慢",
+   "variants": [
+    "慢"
+   ],
+   "pinyin": "màn",
+   "pos": "形"
+  },
+  {
+   "no": 5433,
+   "word": "忙",
+   "variants": [
+    "忙"
+   ],
+   "pinyin": "máng",
+   "pos": "形"
+  },
+  {
+   "no": 5441,
+   "word": "毛",
+   "variants": [
+    "毛"
+   ],
+   "pinyin": "máo",
+   "pos": "量"
+  },
+  {
+   "no": 5459,
+   "word": "没",
+   "variants": [
+    "没"
+   ],
+   "pinyin": "méi",
+   "pos": "副、动"
+  },
+  {
+   "no": 5462,
+   "word": "没关系",
+   "variants": [
+    "没关系"
+   ],
+   "pinyin": "méi guānxi",
+   "pos": ""
+  },
+  {
+   "no": 5464,
+   "word": "没什么",
+   "variants": [
+    "没什么"
+   ],
+   "pinyin": "méi shénme",
+   "pos": ""
+  },
+  {
+   "no": 5465,
+   "word": "没事儿",
+   "variants": [
+    "没事儿"
+   ],
+   "pinyin": "méi∥shìr",
+   "pos": ""
+  },
+  {
+   "no": 5471,
+   "word": "没有",
+   "variants": [
+    "没有"
+   ],
+   "pinyin": "méi·yǒu",
+   "pos": "动、副"
+  },
+  {
+   "no": 5506,
+   "word": "妹妹∣妹",
+   "variants": [
+    "妹妹",
+    "妹"
+   ],
+   "pinyin": "mèimei∣mèi",
+   "pos": "名"
+  },
+  {
+   "no": 5509,
+   "word": "门",
+   "variants": [
+    "门"
+   ],
+   "pinyin": "mén",
+   "pos": "名、量"
+  },
+  {
+   "no": 5512,
+   "word": "门口",
+   "variants": [
+    "门口"
+   ],
+   "pinyin": "ménkǒu",
+   "pos": "名"
+  },
+  {
+   "no": 5515,
+   "word": "门票",
+   "variants": [
+    "门票"
+   ],
+   "pinyin": "ménpiào",
+   "pos": "名"
+  },
+  {
+   "no": 5518,
+   "word": "们（朋友们）",
+   "variants": [
+    "们（朋友们）",
+    "们",
+    "朋友们"
+   ],
+   "pinyin": "men （péngyoumen）",
+   "pos": "后缀"
+  },
+  {
+   "no": 5548,
+   "word": "米饭",
+   "variants": [
+    "米饭"
+   ],
+   "pinyin": "mǐfàn",
+   "pos": "名"
+  },
+  {
+   "no": 5576,
+   "word": "面包",
+   "variants": [
+    "面包"
+   ],
+   "pinyin": "miànbāo",
+   "pos": "名"
+  },
+  {
+   "no": 5589,
+   "word": "面条儿",
+   "variants": [
+    "面条儿"
+   ],
+   "pinyin": "miàntiáor",
+   "pos": "名"
+  },
+  {
+   "no": 5638,
+   "word": "名字",
+   "variants": [
+    "名字"
+   ],
+   "pinyin": "míngzi",
+   "pos": "名"
+  },
+  {
+   "no": 5639,
+   "word": "明白",
+   "variants": [
+    "明白"
+   ],
+   "pinyin": "míngbai",
+   "pos": "形、动"
+  },
+  {
+   "no": 5644,
+   "word": "明年",
+   "variants": [
+    "明年"
+   ],
+   "pinyin": "míngnián",
+   "pos": "名"
+  },
+  {
+   "no": 5647,
+   "word": "明天",
+   "variants": [
+    "明天"
+   ],
+   "pinyin": "míngtiān",
+   "pos": "名"
+  },
+  {
+   "no": 5730,
+   "word": "拿",
+   "variants": [
+    "拿"
+   ],
+   "pinyin": "ná",
+   "pos": "动"
+  },
+  {
+   "no": 5735,
+   "word": "哪",
+   "variants": [
+    "哪"
+   ],
+   "pinyin": "nǎ",
+   "pos": "代"
+  },
+  {
+   "no": 5736,
+   "word": "哪里",
+   "variants": [
+    "哪里"
+   ],
+   "pinyin": "nǎ·lǐ",
+   "pos": "代"
+  },
+  {
+   "no": 5738,
+   "word": "哪儿",
+   "variants": [
+    "哪儿"
+   ],
+   "pinyin": "nǎr",
+   "pos": "代"
+  },
+  {
+   "no": 5739,
+   "word": "哪些",
+   "variants": [
+    "哪些"
+   ],
+   "pinyin": "nǎxiē",
+   "pos": "代"
+  },
+  {
+   "no": 5741,
+   "word": "那",
+   "variants": [
+    "那"
+   ],
+   "pinyin": "nà",
+   "pos": "代"
+  },
+  {
+   "no": 5743,
+   "word": "那边",
+   "variants": [
+    "那边"
+   ],
+   "pinyin": "nàbiān",
+   "pos": "代"
+  },
+  {
+   "no": 5745,
+   "word": "那里",
+   "variants": [
+    "那里"
+   ],
+   "pinyin": "nà·lǐ",
+   "pos": "代"
+  },
+  {
+   "no": 5747,
+   "word": "那儿",
+   "variants": [
+    "那儿"
+   ],
+   "pinyin": "nàr",
+   "pos": "代"
+  },
+  {
+   "no": 5749,
+   "word": "那些",
+   "variants": [
+    "那些"
+   ],
+   "pinyin": "nàxiē",
+   "pos": "代"
+  },
+  {
+   "no": 5759,
+   "word": "奶",
+   "variants": [
+    "奶"
+   ],
+   "pinyin": "nǎi",
+   "pos": "名"
+  },
+  {
+   "no": 5762,
+   "word": "奶奶",
+   "variants": [
+    "奶奶"
+   ],
+   "pinyin": "nǎinai",
+   "pos": "名"
+  },
+  {
+   "no": 5768,
+   "word": "男",
+   "variants": [
+    "男"
+   ],
+   "pinyin": "nán",
+   "pos": "形"
+  },
+  {
+   "no": 5769,
+   "word": "男孩儿",
+   "variants": [
+    "男孩儿"
+   ],
+   "pinyin": "nánháir",
+   "pos": "名"
+  },
+  {
+   "no": 5771,
+   "word": "男朋友",
+   "variants": [
+    "男朋友"
+   ],
+   "pinyin": "nánpéngyou",
+   "pos": "名"
+  },
+  {
+   "no": 5772,
+   "word": "男人",
+   "variants": [
+    "男人"
+   ],
+   "pinyin": "nánrén",
+   "pos": "名"
+  },
+  {
+   "no": 5773,
+   "word": "男生",
+   "variants": [
+    "男生"
+   ],
+   "pinyin": "nánshēng",
+   "pos": "名"
+  },
+  {
+   "no": 5777,
+   "word": "南",
+   "variants": [
+    "南"
+   ],
+   "pinyin": "nán",
+   "pos": "名"
+  },
+  {
+   "no": 5779,
+   "word": "南边",
+   "variants": [
+    "南边"
+   ],
+   "pinyin": "nánbian",
+   "pos": "名"
+  },
+  {
+   "no": 5784,
+   "word": "难",
+   "variants": [
+    "难"
+   ],
+   "pinyin": "nán",
+   "pos": "形"
+  },
+  {
+   "no": 5816,
+   "word": "呢",
+   "variants": [
+    "呢"
+   ],
+   "pinyin": "ne",
+   "pos": "助"
+  },
+  {
+   "no": 5834,
+   "word": "能",
+   "variants": [
+    "能"
+   ],
+   "pinyin": "néng",
+   "pos": "动"
+  },
+  {
+   "no": 5851,
+   "word": "你",
+   "variants": [
+    "你"
+   ],
+   "pinyin": "nǐ",
+   "pos": "代"
+  },
+  {
+   "no": 5852,
+   "word": "你们",
+   "variants": [
+    "你们"
+   ],
+   "pinyin": "nǐmen",
+   "pos": "代"
+  },
+  {
+   "no": 5855,
+   "word": "年",
+   "variants": [
+    "年"
+   ],
+   "pinyin": "nián",
+   "pos": "量"
+  },
+  {
+   "no": 5882,
+   "word": "您",
+   "variants": [
+    "您"
+   ],
+   "pinyin": "nín",
+   "pos": "代"
+  },
+  {
+   "no": 5892,
+   "word": "牛奶",
+   "variants": [
+    "牛奶"
+   ],
+   "pinyin": "niúnǎi",
+   "pos": "名"
+  },
+  {
+   "no": 5917,
+   "word": "女",
+   "variants": [
+    "女"
+   ],
+   "pinyin": "nǚ",
+   "pos": "形"
+  },
+  {
+   "no": 5918,
+   "word": "女儿",
+   "variants": [
+    "女儿"
+   ],
+   "pinyin": "nǚ’ér",
+   "pos": "名"
+  },
+  {
+   "no": 5919,
+   "word": "女孩儿",
+   "variants": [
+    "女孩儿"
+   ],
+   "pinyin": "nǚháir",
+   "pos": "名"
+  },
+  {
+   "no": 5920,
+   "word": "女朋友",
+   "variants": [
+    "女朋友"
+   ],
+   "pinyin": "nǚpéngyou",
+   "pos": "名"
+  },
+  {
+   "no": 5921,
+   "word": "女人",
+   "variants": [
+    "女人"
+   ],
+   "pinyin": "nǚrén",
+   "pos": "名"
+  },
+  {
+   "no": 5922,
+   "word": "女生",
+   "variants": [
+    "女生"
+   ],
+   "pinyin": "nǚshēng",
+   "pos": "名"
+  },
+  {
+   "no": 5986,
+   "word": "旁边",
+   "variants": [
+    "旁边"
+   ],
+   "pinyin": "pángbiān",
+   "pos": "名"
+  },
+  {
+   "no": 5994,
+   "word": "跑",
+   "variants": [
+    "跑"
+   ],
+   "pinyin": "pǎo",
+   "pos": "动"
+  },
+  {
+   "no": 6029,
+   "word": "朋友",
+   "variants": [
+    "朋友"
+   ],
+   "pinyin": "péngyou",
+   "pos": "名"
+  },
+  {
+   "no": 6090,
+   "word": "票",
+   "variants": [
+    "票"
+   ],
+   "pinyin": "piào",
+   "pos": "名"
+  },
+  {
+   "no": 6198,
+   "word": "七",
+   "variants": [
+    "七"
+   ],
+   "pinyin": "qī",
+   "pos": "数"
+  },
+  {
+   "no": 6251,
+   "word": "起",
+   "variants": [
+    "起"
+   ],
+   "pinyin": "qǐ",
+   "pos": "动"
+  },
+  {
+   "no": 6256,
+   "word": "起床",
+   "variants": [
+    "起床"
+   ],
+   "pinyin": "qǐ∥chuáng",
+   "pos": ""
+  },
+  {
+   "no": 6262,
+   "word": "起来",
+   "variants": [
+    "起来"
+   ],
+   "pinyin": "qǐ∥·lái",
+   "pos": ""
+  },
+  {
+   "no": 6286,
+   "word": "汽车",
+   "variants": [
+    "汽车"
+   ],
+   "pinyin": "qìchē",
+   "pos": "名"
+  },
+  {
+   "no": 6334,
+   "word": "前",
+   "variants": [
+    "前"
+   ],
+   "pinyin": "qián",
+   "pos": "名"
+  },
+  {
+   "no": 6336,
+   "word": "前边",
+   "variants": [
+    "前边"
+   ],
+   "pinyin": "qiánbian",
+   "pos": "名"
+  },
+  {
+   "no": 6351,
+   "word": "前天",
+   "variants": [
+    "前天"
+   ],
+   "pinyin": "qiántiān",
+   "pos": "名"
+  },
+  {
+   "no": 6362,
+   "word": "钱",
+   "variants": [
+    "钱"
+   ],
+   "pinyin": "qián",
+   "pos": "名"
+  },
+  {
+   "no": 6363,
+   "word": "钱包",
+   "variants": [
+    "钱包"
+   ],
+   "pinyin": "qiánbāo",
+   "pos": "名"
+  },
+  {
+   "no": 6520,
+   "word": "请",
+   "variants": [
+    "请"
+   ],
+   "pinyin": "qǐng",
+   "pos": "动"
+  },
+  {
+   "no": 6521,
+   "word": "请假",
+   "variants": [
+    "请假"
+   ],
+   "pinyin": "qǐng∥jià",
+   "pos": ""
+  },
+  {
+   "no": 6524,
+   "word": "请进",
+   "variants": [
+    "请进"
+   ],
+   "pinyin": "qǐng jìn",
+   "pos": ""
+  },
+  {
+   "no": 6528,
+   "word": "请问",
+   "variants": [
+    "请问"
+   ],
+   "pinyin": "qǐngwèn",
+   "pos": "动"
+  },
+  {
+   "no": 6529,
+   "word": "请坐",
+   "variants": [
+    "请坐"
+   ],
+   "pinyin": "qǐng zuò",
+   "pos": ""
+  },
+  {
+   "no": 6548,
+   "word": "球",
+   "variants": [
+    "球"
+   ],
+   "pinyin": "qiú",
+   "pos": "名"
+  },
+  {
+   "no": 6583,
+   "word": "去",
+   "variants": [
+    "去"
+   ],
+   "pinyin": "qù",
+   "pos": "动"
+  },
+  {
+   "no": 6587,
+   "word": "去年",
+   "variants": [
+    "去年"
+   ],
+   "pinyin": "qùnián",
+   "pos": "名"
+  },
+  {
+   "no": 6671,
+   "word": "热",
+   "variants": [
+    "热"
+   ],
+   "pinyin": "rè",
+   "pos": "形、动"
+  },
+  {
+   "no": 6689,
+   "word": "人",
+   "variants": [
+    "人"
+   ],
+   "pinyin": "rén",
+   "pos": "名"
+  },
+  {
+   "no": 6740,
+   "word": "认识",
+   "variants": [
+    "认识"
+   ],
+   "pinyin": "rènshi",
+   "pos": "动、名"
+  },
+  {
+   "no": 6743,
+   "word": "认真",
+   "variants": [
+    "认真"
+   ],
+   "pinyin": "rènzhēn",
+   "pos": "形"
+  },
+  {
+   "no": 6760,
+   "word": "日",
+   "variants": [
+    "日"
+   ],
+   "pinyin": "rì",
+   "pos": "名"
+  },
+  {
+   "no": 6768,
+   "word": "日期",
+   "variants": [
+    "日期"
+   ],
+   "pinyin": "rìqī",
+   "pos": "名"
+  },
+  {
+   "no": 6796,
+   "word": "肉",
+   "variants": [
+    "肉"
+   ],
+   "pinyin": "ròu",
+   "pos": "名"
+  },
+  {
+   "no": 6842,
+   "word": "三",
+   "variants": [
+    "三"
+   ],
+   "pinyin": "sān",
+   "pos": "数"
+  },
+  {
+   "no": 6889,
+   "word": "山",
+   "variants": [
+    "山"
+   ],
+   "pinyin": "shān",
+   "pos": "名"
+  },
+  {
+   "no": 6929,
+   "word": "商场",
+   "variants": [
+    "商场"
+   ],
+   "pinyin": "shāngchǎng",
+   "pos": "名"
+  },
+  {
+   "no": 6931,
+   "word": "商店",
+   "variants": [
+    "商店"
+   ],
+   "pinyin": "shāngdiàn",
+   "pos": "名"
+  },
+  {
+   "no": 6941,
+   "word": "上",
+   "variants": [
+    "上"
+   ],
+   "pinyin": "shàng",
+   "pos": "名、动"
+  },
+  {
+   "no": 6942,
+   "word": "上班",
+   "variants": [
+    "上班"
+   ],
+   "pinyin": "shàng∥bān",
+   "pos": ""
+  },
+  {
+   "no": 6944,
+   "word": "上边",
+   "variants": [
+    "上边"
+   ],
+   "pinyin": "shàngbian",
+   "pos": "名"
+  },
+  {
+   "no": 6946,
+   "word": "上车",
+   "variants": [
+    "上车"
+   ],
+   "pinyin": "shàng chē",
+   "pos": ""
+  },
+  {
+   "no": 6947,
+   "word": "上次",
+   "variants": [
+    "上次"
+   ],
+   "pinyin": "shàng cì",
+   "pos": ""
+  },
+  {
+   "no": 6955,
+   "word": "上课",
+   "variants": [
+    "上课"
+   ],
+   "pinyin": "shàng∥kè",
+   "pos": ""
+  },
+  {
+   "no": 6973,
+   "word": "上网",
+   "variants": [
+    "上网"
+   ],
+   "pinyin": "shàng∥wǎng",
+   "pos": ""
+  },
+  {
+   "no": 6974,
+   "word": "上午",
+   "variants": [
+    "上午"
+   ],
+   "pinyin": "shàngwǔ",
+   "pos": "名"
+  },
+  {
+   "no": 6977,
+   "word": "上学",
+   "variants": [
+    "上学"
+   ],
+   "pinyin": "shàng∥xué",
+   "pos": ""
+  },
+  {
+   "no": 6998,
+   "word": "少",
+   "variants": [
+    "少"
+   ],
+   "pinyin": "shǎo",
+   "pos": "形、动"
+  },
+  {
+   "no": 7040,
+   "word": "谁",
+   "variants": [
+    "谁"
+   ],
+   "pinyin": "shéi/shuí",
+   "pos": "代"
+  },
+  {
+   "no": 7058,
+   "word": "身上",
+   "variants": [
+    "身上"
+   ],
+   "pinyin": "shēnshang",
+   "pos": "名"
+  },
+  {
+   "no": 7059,
+   "word": "身体",
+   "variants": [
+    "身体"
+   ],
+   "pinyin": "shēntǐ",
+   "pos": "名"
+  },
+  {
+   "no": 7081,
+   "word": "什么",
+   "variants": [
+    "什么"
+   ],
+   "pinyin": "shénme",
+   "pos": "代"
+  },
+  {
+   "no": 7115,
+   "word": "生病",
+   "variants": [
+    "生病"
+   ],
+   "pinyin": "shēng∥bìng",
+   "pos": ""
+  },
+  {
+   "no": 7129,
+   "word": "生气",
+   "variants": [
+    "生气"
+   ],
+   "pinyin": "shēng∥qì",
+   "pos": ""
+  },
+  {
+   "no": 7131,
+   "word": "生日",
+   "variants": [
+    "生日"
+   ],
+   "pinyin": "shēngrì",
+   "pos": "名"
+  },
+  {
+   "no": 7203,
+   "word": "十",
+   "variants": [
+    "十"
+   ],
+   "pinyin": "shí",
+   "pos": "数"
+  },
+  {
+   "no": 7218,
+   "word": "时候",
+   "variants": [
+    "时候"
+   ],
+   "pinyin": "shíhou",
+   "pos": "名"
+  },
+  {
+   "no": 7220,
+   "word": "时间",
+   "variants": [
+    "时间"
+   ],
+   "pinyin": "shíjiān",
+   "pos": "名"
+  },
+  {
+   "no": 7297,
+   "word": "事",
+   "variants": [
+    "事"
+   ],
+   "pinyin": "shì",
+   "pos": "名"
+  },
+  {
+   "no": 7314,
+   "word": "试",
+   "variants": [
+    "试"
+   ],
+   "pinyin": "shì",
+   "pos": "动"
+  },
+  {
+   "no": 7333,
+   "word": "是",
+   "variants": [
+    "是"
+   ],
+   "pinyin": "shì",
+   "pos": "动"
+  },
+  {
+   "no": 7334,
+   "word": "是不是",
+   "variants": [
+    "是不是"
+   ],
+   "pinyin": "shì bu shì",
+   "pos": ""
+  },
+  {
+   "no": 7373,
+   "word": "手",
+   "variants": [
+    "手"
+   ],
+   "pinyin": "shǒu",
+   "pos": "名"
+  },
+  {
+   "no": 7381,
+   "word": "手机",
+   "variants": [
+    "手机"
+   ],
+   "pinyin": "shǒujī",
+   "pos": "名"
+  },
+  {
+   "no": 7436,
+   "word": "书",
+   "variants": [
+    "书"
+   ],
+   "pinyin": "shū",
+   "pos": "名"
+  },
+  {
+   "no": 7437,
+   "word": "书包",
+   "variants": [
+    "书包"
+   ],
+   "pinyin": "shūbāo",
+   "pos": "名"
+  },
+  {
+   "no": 7439,
+   "word": "书店",
+   "variants": [
+    "书店"
+   ],
+   "pinyin": "shūdiàn",
+   "pos": "名"
+  },
+  {
+   "no": 7488,
+   "word": "树",
+   "variants": [
+    "树"
+   ],
+   "pinyin": "shù",
+   "pos": "名"
+  },
+  {
+   "no": 7538,
+   "word": "水",
+   "variants": [
+    "水"
+   ],
+   "pinyin": "shuǐ",
+   "pos": "名"
+  },
+  {
+   "no": 7544,
+   "word": "水果",
+   "variants": [
+    "水果"
+   ],
+   "pinyin": "shuǐguǒ",
+   "pos": "名"
+  },
+  {
+   "no": 7566,
+   "word": "睡",
+   "variants": [
+    "睡"
+   ],
+   "pinyin": "shuì",
+   "pos": "动"
+  },
+  {
+   "no": 7568,
+   "word": "睡觉",
+   "variants": [
+    "睡觉"
+   ],
+   "pinyin": "shuì∥jiào",
+   "pos": ""
+  },
+  {
+   "no": 7587,
+   "word": "说",
+   "variants": [
+    "说"
+   ],
+   "pinyin": "shuō",
+   "pos": "动"
+  },
+  {
+   "no": 7596,
+   "word": "说话",
+   "variants": [
+    "说话"
+   ],
+   "pinyin": "shuō∥huà",
+   "pos": ""
+  },
+  {
+   "no": 7637,
+   "word": "四",
+   "variants": [
+    "四"
+   ],
+   "pinyin": "sì",
+   "pos": "数"
+  },
+  {
+   "no": 7656,
+   "word": "送",
+   "variants": [
+    "送"
+   ],
+   "pinyin": "sòng",
+   "pos": "动"
+  },
+  {
+   "no": 7717,
+   "word": "岁",
+   "variants": [
+    "岁"
+   ],
+   "pinyin": "suì",
+   "pos": "量"
+  },
+  {
+   "no": 7750,
+   "word": "他",
+   "variants": [
+    "他"
+   ],
+   "pinyin": "tā",
+   "pos": "代"
+  },
+  {
+   "no": 7751,
+   "word": "他们",
+   "variants": [
+    "他们"
+   ],
+   "pinyin": "tāmen",
+   "pos": "代"
+  },
+  {
+   "no": 7755,
+   "word": "她",
+   "variants": [
+    "她"
+   ],
+   "pinyin": "tā",
+   "pos": "代"
+  },
+  {
+   "no": 7756,
+   "word": "她们",
+   "variants": [
+    "她们"
+   ],
+   "pinyin": "tāmen",
+   "pos": "代"
+  },
+  {
+   "no": 7772,
+   "word": "太",
+   "variants": [
+    "太"
+   ],
+   "pinyin": "tài",
+   "pos": "副"
+  },
+  {
+   "no": 7929,
+   "word": "天",
+   "variants": [
+    "天"
+   ],
+   "pinyin": "tiān",
+   "pos": "名、量"
+  },
+  {
+   "no": 7939,
+   "word": "天气",
+   "variants": [
+    "天气"
+   ],
+   "pinyin": "tiānqì",
+   "pos": "名"
+  },
+  {
+   "no": 8004,
+   "word": "听",
+   "variants": [
+    "听"
+   ],
+   "pinyin": "tīng",
+   "pos": "动"
+  },
+  {
+   "no": 8006,
+   "word": "听到",
+   "variants": [
+    "听到"
+   ],
+   "pinyin": "tīngdào",
+   "pos": ""
+  },
+  {
+   "no": 8008,
+   "word": "听见",
+   "variants": [
+    "听见"
+   ],
+   "pinyin": "tīng∥jiàn",
+   "pos": ""
+  },
+  {
+   "no": 8013,
+   "word": "听写",
+   "variants": [
+    "听写"
+   ],
+   "pinyin": "tīngxiě",
+   "pos": "动"
+  },
+  {
+   "no": 8070,
+   "word": "同学",
+   "variants": [
+    "同学"
+   ],
+   "pinyin": "tóngxué",
+   "pos": "名"
+  },
+  {
+   "no": 8145,
+   "word": "图书馆",
+   "variants": [
+    "图书馆"
+   ],
+   "pinyin": "túshūguǎn",
+   "pos": "名"
+  },
+  {
+   "no": 8240,
+   "word": "外",
+   "variants": [
+    "外"
+   ],
+   "pinyin": "wài",
+   "pos": "名"
+  },
+  {
+   "no": 8242,
+   "word": "外边",
+   "variants": [
+    "外边"
+   ],
+   "pinyin": "wàibian",
+   "pos": "名"
+  },
+  {
+   "no": 8249,
+   "word": "外国",
+   "variants": [
+    "外国"
+   ],
+   "pinyin": "wàiguó",
+   "pos": "名"
+  },
+  {
+   "no": 8271,
+   "word": "外语",
+   "variants": [
+    "外语"
+   ],
+   "pinyin": "wàiyǔ",
+   "pos": "名"
+  },
+  {
+   "no": 8289,
+   "word": "玩儿",
+   "variants": [
+    "玩儿"
+   ],
+   "pinyin": "wánr",
+   "pos": "动"
+  },
+  {
+   "no": 8298,
+   "word": "晚",
+   "variants": [
+    "晚"
+   ],
+   "pinyin": "wǎn",
+   "pos": "形"
+  },
+  {
+   "no": 8303,
+   "word": "晚饭",
+   "variants": [
+    "晚饭"
+   ],
+   "pinyin": "wǎnfàn",
+   "pos": "名"
+  },
+  {
+   "no": 8308,
+   "word": "晚上",
+   "variants": [
+    "晚上"
+   ],
+   "pinyin": "wǎnshang",
+   "pos": "名"
+  },
+  {
+   "no": 8331,
+   "word": "网上",
+   "variants": [
+    "网上"
+   ],
+   "pinyin": "wǎng shang",
+   "pos": ""
+  },
+  {
+   "no": 8333,
+   "word": "网友",
+   "variants": [
+    "网友"
+   ],
+   "pinyin": "wǎngyǒu",
+   "pos": "名"
+  },
+  {
+   "no": 8346,
+   "word": "忘",
+   "variants": [
+    "忘"
+   ],
+   "pinyin": "wàng",
+   "pos": "动"
+  },
+  {
+   "no": 8349,
+   "word": "忘记",
+   "variants": [
+    "忘记"
+   ],
+   "pinyin": "wàngjì",
+   "pos": "动"
+  },
+  {
+   "no": 8484,
+   "word": "问",
+   "variants": [
+    "问"
+   ],
+   "pinyin": "wèn",
+   "pos": "动"
+  },
+  {
+   "no": 8491,
+   "word": "我",
+   "variants": [
+    "我"
+   ],
+   "pinyin": "wǒ",
+   "pos": "代"
+  },
+  {
+   "no": 8492,
+   "word": "我们",
+   "variants": [
+    "我们"
+   ],
+   "pinyin": "wǒmen",
+   "pos": "代"
+  },
+  {
+   "no": 8558,
+   "word": "五",
+   "variants": [
+    "五"
+   ],
+   "pinyin": "wǔ",
+   "pos": "数"
+  },
+  {
+   "no": 8563,
+   "word": "午饭",
+   "variants": [
+    "午饭"
+   ],
+   "pinyin": "wǔfàn",
+   "pos": "名"
+  },
+  {
+   "no": 8593,
+   "word": "西",
+   "variants": [
+    "西"
+   ],
+   "pinyin": "xī",
+   "pos": "名"
+  },
+  {
+   "no": 8596,
+   "word": "西边",
+   "variants": [
+    "西边"
+   ],
+   "pinyin": "xībian",
+   "pos": "名"
+  },
+  {
+   "no": 8632,
+   "word": "洗",
+   "variants": [
+    "洗"
+   ],
+   "pinyin": "xǐ",
+   "pos": "动"
+  },
+  {
+   "no": 8635,
+   "word": "洗手间",
+   "variants": [
+    "洗手间"
+   ],
+   "pinyin": "xǐshǒujiān",
+   "pos": "名"
+  },
+  {
+   "no": 8642,
+   "word": "喜欢",
+   "variants": [
+    "喜欢"
+   ],
+   "pinyin": "xǐhuan",
+   "pos": "动"
+  },
+  {
+   "no": 8672,
+   "word": "下",
+   "variants": [
+    "下"
+   ],
+   "pinyin": "xià",
+   "pos": "名、动"
+  },
+  {
+   "no": 8674,
+   "word": "下班",
+   "variants": [
+    "下班"
+   ],
+   "pinyin": "xià∥bān",
+   "pos": ""
+  },
+  {
+   "no": 8675,
+   "word": "下边",
+   "variants": [
+    "下边"
+   ],
+   "pinyin": "xiàbian",
+   "pos": "名"
+  },
+  {
+   "no": 8677,
+   "word": "下车",
+   "variants": [
+    "下车"
+   ],
+   "pinyin": "xià chē",
+   "pos": ""
+  },
+  {
+   "no": 8678,
+   "word": "下次",
+   "variants": [
+    "下次"
+   ],
+   "pinyin": "xià cì",
+   "pos": ""
+  },
+  {
+   "no": 8687,
+   "word": "下课",
+   "variants": [
+    "下课"
+   ],
+   "pinyin": "xià∥kè",
+   "pos": ""
+  },
+  {
+   "no": 8701,
+   "word": "下午",
+   "variants": [
+    "下午"
+   ],
+   "pinyin": "xiàwǔ",
+   "pos": "名"
+  },
+  {
+   "no": 8708,
+   "word": "下雨",
+   "variants": [
+    "下雨"
+   ],
+   "pinyin": "xià yǔ",
+   "pos": ""
+  },
+  {
+   "no": 8720,
+   "word": "先",
+   "variants": [
+    "先"
+   ],
+   "pinyin": "xiān",
+   "pos": "副"
+  },
+  {
+   "no": 8726,
+   "word": "先生",
+   "variants": [
+    "先生"
+   ],
+   "pinyin": "xiānsheng",
+   "pos": "名"
+  },
+  {
+   "no": 8767,
+   "word": "现在",
+   "variants": [
+    "现在"
+   ],
+   "pinyin": "xiànzài",
+   "pos": "名"
+  },
+  {
+   "no": 8841,
+   "word": "想",
+   "variants": [
+    "想"
+   ],
+   "pinyin": "xiǎng",
+   "pos": "动"
+  },
+  {
+   "no": 8889,
+   "word": "小",
+   "variants": [
+    "小"
+   ],
+   "pinyin": "xiǎo",
+   "pos": "形"
+  },
+  {
+   "no": 8895,
+   "word": "小孩儿",
+   "variants": [
+    "小孩儿"
+   ],
+   "pinyin": "xiǎoháir",
+   "pos": "名"
+  },
+  {
+   "no": 8897,
+   "word": "小姐",
+   "variants": [
+    "小姐"
+   ],
+   "pinyin": "xiǎojiě",
+   "pos": "名"
+  },
+  {
+   "no": 8902,
+   "word": "小朋友",
+   "variants": [
+    "小朋友"
+   ],
+   "pinyin": "xiǎopéngyǒu",
+   "pos": "名"
+  },
+  {
+   "no": 8909,
+   "word": "小时",
+   "variants": [
+    "小时"
+   ],
+   "pinyin": "xiǎoshí",
+   "pos": "名"
+  },
+  {
+   "no": 8918,
+   "word": "小学",
+   "variants": [
+    "小学"
+   ],
+   "pinyin": "xiǎoxué",
+   "pos": "名"
+  },
+  {
+   "no": 8919,
+   "word": "小学生",
+   "variants": [
+    "小学生"
+   ],
+   "pinyin": "xiǎoxuéshēng",
+   "pos": "名"
+  },
+  {
+   "no": 8929,
+   "word": "笑",
+   "variants": [
+    "笑"
+   ],
+   "pinyin": "xiào",
+   "pos": "动"
+  },
+  {
+   "no": 8959,
+   "word": "写",
+   "variants": [
+    "写"
+   ],
+   "pinyin": "xiě",
+   "pos": "动"
+  },
+  {
+   "no": 8972,
+   "word": "谢谢",
+   "variants": [
+    "谢谢"
+   ],
+   "pinyin": "xièxie",
+   "pos": "动"
+  },
+  {
+   "no": 9011,
+   "word": "新",
+   "variants": [
+    "新"
+   ],
+   "pinyin": "xīn",
+   "pos": "形"
+  },
+  {
+   "no": 9017,
+   "word": "新年",
+   "variants": [
+    "新年"
+   ],
+   "pinyin": "xīnnián",
+   "pos": "名"
+  },
+  {
+   "no": 9051,
+   "word": "星期",
+   "variants": [
+    "星期"
+   ],
+   "pinyin": "xīngqī",
+   "pos": "名"
+  },
+  {
+   "no": 9052,
+   "word": "星期日",
+   "variants": [
+    "星期日"
+   ],
+   "pinyin": "xīngqīrì",
+   "pos": "名"
+  },
+  {
+   "no": 9053,
+   "word": "星期天",
+   "variants": [
+    "星期天"
+   ],
+   "pinyin": "xīngqītiān",
+   "pos": "名"
+  },
+  {
+   "no": 9059,
+   "word": "行",
+   "variants": [
+    "行"
+   ],
+   "pinyin": "xíng",
+   "pos": "动、形"
+  },
+  {
+   "no": 9122,
+   "word": "休息",
+   "variants": [
+    "休息"
+   ],
+   "pinyin": "xiūxi",
+   "pos": "动"
+  },
+  {
+   "no": 9204,
+   "word": "学",
+   "variants": [
+    "学"
+   ],
+   "pinyin": "xué",
+   "pos": "动"
+  },
+  {
+   "no": 9212,
+   "word": "学生",
+   "variants": [
+    "学生"
+   ],
+   "pinyin": "xué·shēng",
+   "pos": "名"
+  },
+  {
+   "no": 9220,
+   "word": "学习",
+   "variants": [
+    "学习"
+   ],
+   "pinyin": "xuéxí",
+   "pos": "动"
+  },
+  {
+   "no": 9221,
+   "word": "学校",
+   "variants": [
+    "学校"
+   ],
+   "pinyin": "xuéxiào",
+   "pos": "名"
+  },
+  {
+   "no": 9225,
+   "word": "学院",
+   "variants": [
+    "学院"
+   ],
+   "pinyin": "xuéyuàn",
+   "pos": "名"
+  },
+  {
+   "no": 9413,
+   "word": "要",
+   "variants": [
+    "要"
+   ],
+   "pinyin": "yào",
+   "pos": "动"
+  },
+  {
+   "no": 9431,
+   "word": "爷爷",
+   "variants": [
+    "爷爷"
+   ],
+   "pinyin": "yéye",
+   "pos": "名"
+  },
+  {
+   "no": 9432,
+   "word": "也",
+   "variants": [
+    "也"
+   ],
+   "pinyin": "yě",
+   "pos": "副"
+  },
+  {
+   "no": 9450,
+   "word": "页",
+   "variants": [
+    "页"
+   ],
+   "pinyin": "yè",
+   "pos": "量"
+  },
+  {
+   "no": 9462,
+   "word": "一",
+   "variants": [
+    "一"
+   ],
+   "pinyin": "yī",
+   "pos": "数"
+  },
+  {
+   "no": 9468,
+   "word": "衣服",
+   "variants": [
+    "衣服"
+   ],
+   "pinyin": "yīfu",
+   "pos": "名"
+  },
+  {
+   "no": 9472,
+   "word": "医生",
+   "variants": [
+    "医生"
+   ],
+   "pinyin": "yīshēng",
+   "pos": "名"
+  },
+  {
+   "no": 9476,
+   "word": "医院",
+   "variants": [
+    "医院"
+   ],
+   "pinyin": "yīyuàn",
+   "pos": "名"
+  },
+  {
+   "no": 9488,
+   "word": "一半",
+   "variants": [
+    "一半"
+   ],
+   "pinyin": "yíbàn",
+   "pos": "数"
+  },
+  {
+   "no": 9508,
+   "word": "一会儿",
+   "variants": [
+    "一会儿"
+   ],
+   "pinyin": "yíhuìr",
+   "pos": ""
+  },
+  {
+   "no": 9512,
+   "word": "一块儿",
+   "variants": [
+    "一块儿"
+   ],
+   "pinyin": "yíkuàir",
+   "pos": "名、副"
+  },
+  {
+   "no": 9525,
+   "word": "一下儿",
+   "variants": [
+    "一下儿"
+   ],
+   "pinyin": "yíxiàr",
+   "pos": ""
+  },
+  {
+   "no": 9529,
+   "word": "一样",
+   "variants": [
+    "一样"
+   ],
+   "pinyin": "yíyàng",
+   "pos": "形"
+  },
+  {
+   "no": 9582,
+   "word": "一边",
+   "variants": [
+    "一边"
+   ],
+   "pinyin": "yìbiān",
+   "pos": "名、副"
+  },
+  {
+   "no": 9587,
+   "word": "一点儿",
+   "variants": [
+    "一点儿"
+   ],
+   "pinyin": "yìdiǎnr",
+   "pos": ""
+  },
+  {
+   "no": 9609,
+   "word": "一起",
+   "variants": [
+    "一起"
+   ],
+   "pinyin": "yìqǐ",
+   "pos": "副、名"
+  },
+  {
+   "no": 9623,
+   "word": "一些",
+   "variants": [
+    "一些"
+   ],
+   "pinyin": "yìxiē",
+   "pos": ""
+  },
+  {
+   "no": 9796,
+   "word": "用",
+   "variants": [
+    "用"
+   ],
+   "pinyin": "yòng",
+   "pos": "动"
+  },
+  {
+   "no": 9867,
+   "word": "有",
+   "variants": [
+    "有"
+   ],
+   "pinyin": "yǒu",
+   "pos": "动"
+  },
+  {
+   "no": 9869,
+   "word": "有的",
+   "variants": [
+    "有的"
+   ],
+   "pinyin": "yǒude",
+   "pos": "代"
+  },
+  {
+   "no": 9884,
+   "word": "有名",
+   "variants": [
+    "有名"
+   ],
+   "pinyin": "yǒu∥míng",
+   "pos": ""
+  },
+  {
+   "no": 9888,
+   "word": "有时候∣有时",
+   "variants": [
+    "有时候",
+    "有时"
+   ],
+   "pinyin": "yǒushíhou∣yǒushí",
+   "pos": "副"
+  },
+  {
+   "no": 9897,
+   "word": "有（一）些",
+   "variants": [
+    "有（一）些",
+    "有些",
+    "一"
+   ],
+   "pinyin": "yǒu(yì)xiē",
+   "pos": "代"
+  },
+  {
+   "no": 9903,
+   "word": "有用",
+   "variants": [
+    "有用"
+   ],
+   "pinyin": "yǒuyòng",
+   "pos": "动"
+  },
+  {
+   "no": 9908,
+   "word": "右",
+   "variants": [
+    "右"
+   ],
+   "pinyin": "yòu",
+   "pos": "名"
+  },
+  {
+   "no": 9909,
+   "word": "右边",
+   "variants": [
+    "右边"
+   ],
+   "pinyin": "yòubian",
+   "pos": "名"
+  },
+  {
+   "no": 9942,
+   "word": "雨",
+   "variants": [
+    "雨"
+   ],
+   "pinyin": "yǔ",
+   "pos": "名"
+  },
+  {
+   "no": 9988,
+   "word": "元",
+   "variants": [
+    "元"
+   ],
+   "pinyin": "yuán",
+   "pos": "量"
+  },
+  {
+   "no": 10028,
+   "word": "远",
+   "variants": [
+    "远"
+   ],
+   "pinyin": "yuǎn",
+   "pos": "形"
+  },
+  {
+   "no": 10053,
+   "word": "月",
+   "variants": [
+    "月"
+   ],
+   "pinyin": "yuè",
+   "pos": "名"
+  },
+  {
+   "no": 10112,
+   "word": "再",
+   "variants": [
+    "再"
+   ],
+   "pinyin": "zài",
+   "pos": "副"
+  },
+  {
+   "no": 10115,
+   "word": "再见",
+   "variants": [
+    "再见"
+   ],
+   "pinyin": "zàijiàn",
+   "pos": "动"
+  },
+  {
+   "no": 10121,
+   "word": "在",
+   "variants": [
+    "在"
+   ],
+   "pinyin": "zài",
+   "pos": "动、介、副"
+  },
+  {
+   "no": 10124,
+   "word": "在家",
+   "variants": [
+    "在家"
+   ],
+   "pinyin": "zàijiā",
+   "pos": "动"
+  },
+  {
+   "no": 10157,
+   "word": "早",
+   "variants": [
+    "早"
+   ],
+   "pinyin": "zǎo",
+   "pos": "形"
+  },
+  {
+   "no": 10160,
+   "word": "早饭",
+   "variants": [
+    "早饭"
+   ],
+   "pinyin": "zǎofàn",
+   "pos": "名"
+  },
+  {
+   "no": 10165,
+   "word": "早上",
+   "variants": [
+    "早上"
+   ],
+   "pinyin": "zǎoshang",
+   "pos": "名"
+  },
+  {
+   "no": 10185,
+   "word": "怎么",
+   "variants": [
+    "怎么"
+   ],
+   "pinyin": "zěnme",
+   "pos": "代"
+  },
+  {
+   "no": 10247,
+   "word": "站",
+   "variants": [
+    "站"
+   ],
+   "pinyin": "zhàn",
+   "pos": "名"
+  },
+  {
+   "no": 10299,
+   "word": "找",
+   "variants": [
+    "找"
+   ],
+   "pinyin": "zhǎo",
+   "pos": "动"
+  },
+  {
+   "no": 10301,
+   "word": "找到",
+   "variants": [
+    "找到"
+   ],
+   "pinyin": "zhǎodào",
+   "pos": ""
+  },
+  {
+   "no": 10330,
+   "word": "这",
+   "variants": [
+    "这"
+   ],
+   "pinyin": "zhè",
+   "pos": "代"
+  },
+  {
+   "no": 10331,
+   "word": "这边",
+   "variants": [
+    "这边"
+   ],
+   "pinyin": "zhèbiān",
+   "pos": "代"
+  },
+  {
+   "no": 10334,
+   "word": "这里",
+   "variants": [
+    "这里"
+   ],
+   "pinyin": "zhè·lǐ",
+   "pos": "代"
+  },
+  {
+   "no": 10336,
+   "word": "这儿",
+   "variants": [
+    "这儿"
+   ],
+   "pinyin": "zhèr",
+   "pos": "代"
+  },
+  {
+   "no": 10338,
+   "word": "这些",
+   "variants": [
+    "这些"
+   ],
+   "pinyin": "zhèxiē",
+   "pos": "代"
+  },
+  {
+   "no": 10341,
+   "word": "着",
+   "variants": [
+    "着"
+   ],
+   "pinyin": "zhe",
+   "pos": "助"
+  },
+  {
+   "no": 10353,
+   "word": "真",
+   "variants": [
+    "真"
+   ],
+   "pinyin": "zhēn",
+   "pos": "副、形"
+  },
+  {
+   "no": 10355,
+   "word": "真的",
+   "variants": [
+    "真的"
+   ],
+   "pinyin": "zhēn de",
+   "pos": ""
+  },
+  {
+   "no": 10416,
+   "word": "正",
+   "variants": [
+    "正"
+   ],
+   "pinyin": "zhèng",
+   "pos": "副"
+  },
+  {
+   "no": 10431,
+   "word": "正在",
+   "variants": [
+    "正在"
+   ],
+   "pinyin": "zhèngzài",
+   "pos": "副"
+  },
+  {
+   "no": 10477,
+   "word": "知道",
+   "variants": [
+    "知道"
+   ],
+   "pinyin": "zhī·dào",
+   "pos": "动"
+  },
+  {
+   "no": 10481,
+   "word": "知识",
+   "variants": [
+    "知识"
+   ],
+   "pinyin": "zhīshi",
+   "pos": "名"
+  },
+  {
+   "no": 10606,
+   "word": "中",
+   "variants": [
+    "中"
+   ],
+   "pinyin": "zhōng",
+   "pos": "名"
+  },
+  {
+   "no": 10611,
+   "word": "中国",
+   "variants": [
+    "中国"
+   ],
+   "pinyin": "Zhōngguó",
+   "pos": "名"
+  },
+  {
+   "no": 10616,
+   "word": "中间",
+   "variants": [
+    "中间"
+   ],
+   "pinyin": "zhōngjiān",
+   "pos": "名"
+  },
+  {
+   "no": 10624,
+   "word": "中文",
+   "variants": [
+    "中文"
+   ],
+   "pinyin": "Zhōngwén",
+   "pos": "名"
+  },
+  {
+   "no": 10625,
+   "word": "中午",
+   "variants": [
+    "中午"
+   ],
+   "pinyin": "zhōngwǔ",
+   "pos": "名"
+  },
+  {
+   "no": 10630,
+   "word": "中学",
+   "variants": [
+    "中学"
+   ],
+   "pinyin": "zhōngxué",
+   "pos": "名"
+  },
+  {
+   "no": 10631,
+   "word": "中学生",
+   "variants": [
+    "中学生"
+   ],
+   "pinyin": "zhōngxuéshēng",
+   "pos": "名"
+  },
+  {
+   "no": 10669,
+   "word": "重",
+   "variants": [
+    "重"
+   ],
+   "pinyin": "zhòng",
+   "pos": "形"
+  },
+  {
+   "no": 10680,
+   "word": "重要",
+   "variants": [
+    "重要"
+   ],
+   "pinyin": "zhòngyào",
+   "pos": "形"
+  },
+  {
+   "no": 10743,
+   "word": "住",
+   "variants": [
+    "住"
+   ],
+   "pinyin": "zhù",
+   "pos": "动"
+  },
+  {
+   "no": 10858,
+   "word": "准备",
+   "variants": [
+    "准备"
+   ],
+   "pinyin": "zhǔnbèi",
+   "pos": "动"
+  },
+  {
+   "no": 10866,
+   "word": "桌子",
+   "variants": [
+    "桌子"
+   ],
+   "pinyin": "zhuōzi",
+   "pos": "名"
+  },
+  {
+   "no": 10945,
+   "word": "字",
+   "variants": [
+    "字"
+   ],
+   "pinyin": "zì",
+   "pos": "名"
+  },
+  {
+   "no": 10952,
+   "word": "子（桌子）",
+   "variants": [
+    "子（桌子）",
+    "子",
+    "桌子"
+   ],
+   "pinyin": "zi (zhuōzi)",
+   "pos": "后缀"
+  },
+  {
+   "no": 10983,
+   "word": "走",
+   "variants": [
+    "走"
+   ],
+   "pinyin": "zǒu",
+   "pos": "动"
+  },
+  {
+   "no": 10991,
+   "word": "走路",
+   "variants": [
+    "走路"
+   ],
+   "pinyin": "zǒu∥lù",
+   "pos": ""
+  },
+  {
+   "no": 11036,
+   "word": "最",
+   "variants": [
+    "最"
+   ],
+   "pinyin": "zuì",
+   "pos": "副"
+  },
+  {
+   "no": 11038,
+   "word": "最好",
+   "variants": [
+    "最好"
+   ],
+   "pinyin": "zuìhǎo",
+   "pos": "副"
+  },
+  {
+   "no": 11039,
+   "word": "最后",
+   "variants": [
+    "最后"
+   ],
+   "pinyin": "zuìhòu",
+   "pos": "名"
+  },
+  {
+   "no": 11055,
+   "word": "昨天",
+   "variants": [
+    "昨天"
+   ],
+   "pinyin": "zuótiān",
+   "pos": "名"
+  },
+  {
+   "no": 11057,
+   "word": "左",
+   "variants": [
+    "左"
+   ],
+   "pinyin": "zuǒ",
+   "pos": "名"
+  },
+  {
+   "no": 11058,
+   "word": "左边",
+   "variants": [
+    "左边"
+   ],
+   "pinyin": "zuǒbian",
+   "pos": "名"
+  },
+  {
+   "no": 11078,
+   "word": "坐",
+   "variants": [
+    "坐"
+   ],
+   "pinyin": "zuò",
+   "pos": "动"
+  },
+  {
+   "no": 11080,
+   "word": "坐下",
+   "variants": [
+    "坐下"
+   ],
+   "pinyin": "zuò xia",
+   "pos": ""
+  },
+  {
+   "no": 11086,
+   "word": "做",
+   "variants": [
+    "做"
+   ],
+   "pinyin": "zuò",
+   "pos": "动"
+  }
+ ]
+}

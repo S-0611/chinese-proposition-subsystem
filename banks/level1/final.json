@@ -3724,6 +3724,1496 @@
     "G1-20",
     "G1-06"
    ]
+  },
+  {
+   "id": "L1-304",
+   "level": 1,
+   "round": 3,
+   "text": "我的爱好是看书。",
+   "pinyin": "wǒ de ài hào shì kàn shū。",
+   "grammar": [
+    "G1-36",
+    "G1-27",
+    "G1-20"
+   ]
+  },
+  {
+   "id": "L1-305",
+   "level": 1,
+   "round": 3,
+   "text": "白天我在家看书。",
+   "pinyin": "bái tiān wǒ zài jiā kàn shū。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-42"
+   ]
+  },
+  {
+   "id": "L1-306",
+   "level": 1,
+   "round": 3,
+   "text": "他忙了半天。",
+   "pinyin": "tā máng le bàn tiān。",
+   "grammar": [
+    "G1-30",
+    "G1-24",
+    "G1-41"
+   ]
+  },
+  {
+   "id": "L1-307",
+   "level": 1,
+   "round": 3,
+   "text": "我学半年汉语，明年去中国。",
+   "pinyin": "wǒ xué bàn nián hàn yǔ， míng nián qù zhōng guó。",
+   "grammar": [
+    "G1-39",
+    "G1-26",
+    "G1-44"
+   ]
+  },
+  {
+   "id": "L1-308",
+   "level": 1,
+   "round": 3,
+   "text": "我去年学汉语。",
+   "pinyin": "wǒ qù nián xué hàn yǔ。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-44"
+   ]
+  },
+  {
+   "id": "L1-309",
+   "level": 1,
+   "round": 3,
+   "text": "请你帮忙。",
+   "pinyin": "qǐng nǐ bāng máng。",
+   "grammar": [
+    "G1-34",
+    "G1-25",
+    "G1-05"
+   ]
+  },
+  {
+   "id": "L1-310",
+   "level": 1,
+   "round": 3,
+   "text": "早上我吃包子和鸡蛋。",
+   "pinyin": "zǎo shàng wǒ chī bāo zi hé jī dàn。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-17",
+    "G1-19"
+   ]
+  },
+  {
+   "id": "L1-311",
+   "level": 1,
+   "round": 3,
+   "text": "我买了一个杯子。",
+   "pinyin": "wǒ mǎi le yī gè bēi zi。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-41"
+   ]
+  },
+  {
+   "id": "L1-312",
+   "level": 1,
+   "round": 3,
+   "text": "他吃面包，我吃面条儿。",
+   "pinyin": "tā chī miàn bāo， wǒ chī miàn tiáo ér。",
+   "grammar": [
+    "G1-39",
+    "G1-26",
+    "G1-05"
+   ]
+  },
+  {
+   "id": "L1-313",
+   "level": 1,
+   "round": 3,
+   "text": "学校北边是商店，南边有山。",
+   "pinyin": "xué xiào běi biān shì shāng diàn， nán biān yǒu shān。",
+   "grammar": [
+    "G1-36",
+    "G1-26",
+    "G1-01"
+   ]
+  },
+  {
+   "id": "L1-314",
+   "level": 1,
+   "round": 3,
+   "text": "西边是医院。",
+   "pinyin": "xī biān shì yī yuàn。",
+   "grammar": [
+    "G1-36",
+    "G1-26",
+    "G1-01"
+   ]
+  },
+  {
+   "id": "L1-315",
+   "level": 1,
+   "round": 3,
+   "text": "我买了两个本子。",
+   "pinyin": "wǒ mǎi le liǎng gè běn zi。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-41"
+   ]
+  },
+  {
+   "id": "L1-316",
+   "level": 1,
+   "round": 3,
+   "text": "别人都来了，你别去。",
+   "pinyin": "bié rén dōu lái le， nǐ bié qù。",
+   "grammar": [
+    "G1-34",
+    "G1-25",
+    "G1-10"
+   ]
+  },
+  {
+   "id": "L1-317",
+   "level": 1,
+   "round": 3,
+   "text": "我不要别的。",
+   "pinyin": "wǒ bù yào bié de。",
+   "grammar": [
+    "G1-29",
+    "G1-27",
+    "G1-03"
+   ]
+  },
+  {
+   "id": "L1-318",
+   "level": 1,
+   "round": 3,
+   "text": "他是病人。",
+   "pinyin": "tā shì bìng rén。",
+   "grammar": [
+    "G1-36",
+    "G1-26",
+    "G1-05"
+   ]
+  },
+  {
+   "id": "L1-319",
+   "level": 1,
+   "round": 3,
+   "text": "这个不大，也不对。",
+   "pinyin": "zhè ge bù dà， yě bù duì。",
+   "grammar": [
+    "G1-39",
+    "G1-24",
+    "G1-13",
+    "G1-06"
+   ]
+  },
+  {
+   "id": "L1-320",
+   "level": 1,
+   "round": 3,
+   "text": "不用去了，我没有钱。",
+   "pinyin": "bù yòng qù le， wǒ méi yǒu qián。",
+   "grammar": [
+    "G1-37",
+    "G1-28",
+    "G1-14"
+   ]
+  },
+  {
+   "id": "L1-321",
+   "level": 1,
+   "round": 3,
+   "text": "没什么事，别生气。",
+   "pinyin": "méi shén me shì， bié shēng qì。",
+   "grammar": [
+    "G1-46",
+    "G1-28",
+    "G1-14",
+    "G1-04",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-322",
+   "level": 1,
+   "round": 3,
+   "text": "没事儿，是不是真的？",
+   "pinyin": "méi shì ér， shì bù shì zhēn de？",
+   "grammar": [
+    "G1-48",
+    "G1-27",
+    "G1-09",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-323",
+   "level": 1,
+   "round": 3,
+   "text": "他常常来我家，有时候也在。",
+   "pinyin": "tā cháng cháng lái wǒ jiā， yǒu shí hòu yě zài。",
+   "grammar": [
+    "G1-37",
+    "G1-26",
+    "G1-11"
+   ]
+  },
+  {
+   "id": "L1-324",
+   "level": 1,
+   "round": 3,
+   "text": "我买了车票和机票。",
+   "pinyin": "wǒ mǎi le chē piào hé jī piào。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-41"
+   ]
+  },
+  {
+   "id": "L1-325",
+   "level": 1,
+   "round": 3,
+   "text": "门票多少钱？",
+   "pinyin": "mén piào duō shǎo qián？",
+   "grammar": [
+    "G1-46",
+    "G1-25",
+    "G1-04",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-326",
+   "level": 1,
+   "round": 3,
+   "text": "钱包在哪儿？",
+   "pinyin": "qián bāo zài nǎ ér？",
+   "grammar": [
+    "G1-46",
+    "G1-25",
+    "G1-16",
+    "G1-04",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-327",
+   "level": 1,
+   "round": 3,
+   "text": "车上人很多。",
+   "pinyin": "chē shàng rén hěn duō。",
+   "grammar": [
+    "G1-30",
+    "G1-25",
+    "G1-09"
+   ]
+  },
+  {
+   "id": "L1-328",
+   "level": 1,
+   "round": 3,
+   "text": "家里没人，他在楼下。",
+   "pinyin": "jiā lǐ méi rén， tā zài lóu xià。",
+   "grammar": [
+    "G1-39",
+    "G1-25",
+    "G1-01"
+   ]
+  },
+  {
+   "id": "L1-329",
+   "level": 1,
+   "round": 3,
+   "text": "身上有钱吗？",
+   "pinyin": "shēn shàng yǒu qián ma？",
+   "grammar": [
+    "G1-45",
+    "G1-26",
+    "G1-22",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-330",
+   "level": 1,
+   "round": 3,
+   "text": "路口有个商店。",
+   "pinyin": "lù kǒu yǒu gè shāng diàn。",
+   "grammar": [
+    "G1-37",
+    "G1-26",
+    "G1-08"
+   ]
+  },
+  {
+   "id": "L1-331",
+   "level": 1,
+   "round": 3,
+   "text": "他从家里出来，我进去。",
+   "pinyin": "tā cóng jiā lǐ chū lái， wǒ jìn qù。",
+   "grammar": [
+    "G1-39",
+    "G1-24",
+    "G1-01"
+   ]
+  },
+  {
+   "id": "L1-332",
+   "level": 1,
+   "round": 3,
+   "text": "他明天回来，你回去吧。",
+   "pinyin": "tā míng tiān huí lái， nǐ huí qù ba。",
+   "grammar": [
+    "G1-39",
+    "G1-26",
+    "G1-22"
+   ]
+  },
+  {
+   "id": "L1-333",
+   "level": 1,
+   "round": 3,
+   "text": "他回到家里，妈妈来到学校。",
+   "pinyin": "tā huí dào jiā lǐ， mā mā lái dào xué xiào。",
+   "grammar": [
+    "G1-39",
+    "G1-26",
+    "G1-01"
+   ]
+  },
+  {
+   "id": "L1-334",
+   "level": 1,
+   "round": 3,
+   "text": "快起床，请坐下。",
+   "pinyin": "kuài qǐ chuáng， qǐng zuò xià。",
+   "grammar": [
+    "G1-39",
+    "G1-26",
+    "G1-07"
+   ]
+  },
+  {
+   "id": "L1-335",
+   "level": 1,
+   "round": 3,
+   "text": "我们走路去，也打车去。",
+   "pinyin": "wǒ men zǒu lù qù， yě dǎ chē qù。",
+   "grammar": [
+    "G1-39",
+    "G1-24",
+    "G1-13"
+   ]
+  },
+  {
+   "id": "L1-336",
+   "level": 1,
+   "round": 3,
+   "text": "请打开书，关上门。",
+   "pinyin": "qǐng dǎ kāi shū， guān shàng mén。",
+   "grammar": [
+    "G1-34",
+    "G1-25",
+    "G1-07"
+   ]
+  },
+  {
+   "id": "L1-337",
+   "level": 1,
+   "round": 3,
+   "text": "他学会开车了。",
+   "pinyin": "tā xué huì kāi chē le。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-338",
+   "level": 1,
+   "round": 3,
+   "text": "下午开会，别开玩笑了。",
+   "pinyin": "xià wǔ kāi huì， bié kāi wán xiào le。",
+   "grammar": [
+    "G1-39",
+    "G1-26",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-339",
+   "level": 1,
+   "round": 3,
+   "text": "我请假了，他上学去了。",
+   "pinyin": "wǒ qǐng jià le， tā shàng xué qù le。",
+   "grammar": [
+    "G1-39",
+    "G1-26",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-340",
+   "level": 1,
+   "round": 3,
+   "text": "妈妈上班，爸爸下班。",
+   "pinyin": "mā mā shàng bān， bà bà xià bān。",
+   "grammar": [
+    "G1-39",
+    "G1-24",
+    "G1-07"
+   ]
+  },
+  {
+   "id": "L1-341",
+   "level": 1,
+   "round": 3,
+   "text": "下课了，放学了，回家吧。",
+   "pinyin": "xià kè le， fàng xué le， huí jiā ba。",
+   "grammar": [
+    "G1-39",
+    "G1-25",
+    "G1-21"
+   ]
+  },
+  {
+   "id": "L1-342",
+   "level": 1,
+   "round": 3,
+   "text": "他在读书。",
+   "pinyin": "tā zài dú shū。",
+   "grammar": [
+    "G1-32",
+    "G1-24",
+    "G1-16"
+   ]
+  },
+  {
+   "id": "L1-343",
+   "level": 1,
+   "round": 3,
+   "text": "他去看病了，我看见他了。",
+   "pinyin": "tā qù kàn bìng le， wǒ kàn jiàn tā le。",
+   "grammar": [
+    "G1-39",
+    "G1-26",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-344",
+   "level": 1,
+   "round": 3,
+   "text": "我听到了，你听见了吗？",
+   "pinyin": "wǒ tīng dào le， nǐ tīng jiàn le ma？",
+   "grammar": [
+    "G1-45",
+    "G1-26",
+    "G1-41",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-345",
+   "level": 1,
+   "round": 3,
+   "text": "请听写这些字。",
+   "pinyin": "qǐng tīng xiě zhè xiē zì。",
+   "grammar": [
+    "G1-34",
+    "G1-26",
+    "G1-06"
+   ]
+  },
+  {
+   "id": "L1-346",
+   "level": 1,
+   "round": 3,
+   "text": "我找到书了。",
+   "pinyin": "wǒ zhǎo dào shū le。",
+   "grammar": [
+    "G1-32",
+    "G1-24",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-347",
+   "level": 1,
+   "round": 3,
+   "text": "我记得他，也忘记他的名字了。",
+   "pinyin": "wǒ jì de tā， yě wàng jì tā de míng zì le。",
+   "grammar": [
+    "G1-39",
+    "G1-27",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-348",
+   "level": 1,
+   "round": 3,
+   "text": "我觉得很好，他学习很认真。",
+   "pinyin": "wǒ jué de hěn hǎo， tā xué xí hěn rèn zhēn。",
+   "grammar": [
+    "G1-39",
+    "G1-26",
+    "G1-09"
+   ]
+  },
+  {
+   "id": "L1-349",
+   "level": 1,
+   "round": 3,
+   "text": "请你回答，你干什么？",
+   "pinyin": "qǐng nǐ huí dá， nǐ gàn shén me？",
+   "grammar": [
+    "G1-46",
+    "G1-25",
+    "G1-05",
+    "G1-04",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-350",
+   "level": 1,
+   "round": 3,
+   "text": "知识很重要。",
+   "pinyin": "zhī shí hěn zhòng yào。",
+   "grammar": [
+    "G1-29",
+    "G1-25",
+    "G1-03"
+   ]
+  },
+  {
+   "id": "L1-351",
+   "level": 1,
+   "round": 3,
+   "text": "我去图书馆，书店在哪儿？",
+   "pinyin": "wǒ qù tú shū guǎn， shū diàn zài nǎ ér？",
+   "grammar": [
+    "G1-46",
+    "G1-24",
+    "G1-16",
+    "G1-04",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-352",
+   "level": 1,
+   "round": 3,
+   "text": "商场很大，我们去饭店吃饭。",
+   "pinyin": "shāng chǎng hěn dà， wǒ men qù fàn diàn chī fàn。",
+   "grammar": [
+    "G1-39",
+    "G1-26",
+    "G1-09"
+   ]
+  },
+  {
+   "id": "L1-353",
+   "level": 1,
+   "round": 3,
+   "text": "电影院在前面，机场很远。",
+   "pinyin": "diàn yǐng yuàn zài qián miàn， jī chǎng hěn yuǎn。",
+   "grammar": [
+    "G1-39",
+    "G1-25",
+    "G1-01"
+   ]
+  },
+  {
+   "id": "L1-354",
+   "level": 1,
+   "round": 3,
+   "text": "他在大学学习，妹妹上中学。",
+   "pinyin": "tā zài dà xué xué xí， mèi mèi shàng zhōng xué。",
+   "grammar": [
+    "G1-39",
+    "G1-24",
+    "G1-42"
+   ]
+  },
+  {
+   "id": "L1-355",
+   "level": 1,
+   "round": 3,
+   "text": "小学生放学了。",
+   "pinyin": "xiǎo xué shēng fàng xué le。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-356",
+   "level": 1,
+   "round": 3,
+   "text": "这个学院很大，教学楼在后面。",
+   "pinyin": "zhè ge xué yuàn hěn dà， jiào xué lóu zài hòu miàn。",
+   "grammar": [
+    "G1-39",
+    "G1-26",
+    "G1-01",
+    "G1-06"
+   ]
+  },
+  {
+   "id": "L1-357",
+   "level": 1,
+   "round": 3,
+   "text": "洗手间在哪儿？",
+   "pinyin": "xǐ shǒu jiān zài nǎ ér？",
+   "grammar": [
+    "G1-46",
+    "G1-25",
+    "G1-16",
+    "G1-04",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-358",
+   "level": 1,
+   "round": 3,
+   "text": "那个男孩儿是我弟弟。",
+   "pinyin": "nà ge nán hái er shì wǒ dì di。",
+   "grammar": [
+    "G1-36",
+    "G1-26",
+    "G1-23",
+    "G1-06"
+   ]
+  },
+  {
+   "id": "L1-359",
+   "level": 1,
+   "round": 3,
+   "text": "女孩儿很爱笑。",
+   "pinyin": "nǚ hái ér hěn ài xiào。",
+   "grammar": [
+    "G1-32",
+    "G1-25",
+    "G1-09"
+   ]
+  },
+  {
+   "id": "L1-360",
+   "level": 1,
+   "round": 3,
+   "text": "男人和女人都在。",
+   "pinyin": "nán rén hé nǚ rén dōu zài。",
+   "grammar": [
+    "G1-32",
+    "G1-25",
+    "G1-10"
+   ]
+  },
+  {
+   "id": "L1-361",
+   "level": 1,
+   "round": 3,
+   "text": "我们班有十个男生，八个女生。",
+   "pinyin": "wǒ men bān yǒu shí gè nán shēng， bā gè nǚ shēng。",
+   "grammar": [
+    "G1-37",
+    "G1-24",
+    "G1-23"
+   ]
+  },
+  {
+   "id": "L1-362",
+   "level": 1,
+   "round": 3,
+   "text": "他是我的男朋友。",
+   "pinyin": "tā shì wǒ de nán péng yǒu。",
+   "grammar": [
+    "G1-36",
+    "G1-27",
+    "G1-20"
+   ]
+  },
+  {
+   "id": "L1-363",
+   "level": 1,
+   "round": 3,
+   "text": "小孩儿在玩，小朋友好！",
+   "pinyin": "xiǎo hái ér zài wán， xiǎo péng yǒu hǎo！",
+   "grammar": [
+    "G1-39",
+    "G1-25",
+    "G1-42"
+   ]
+  },
+  {
+   "id": "L1-364",
+   "level": 1,
+   "round": 3,
+   "text": "老人坐下了，工人很忙。",
+   "pinyin": "lǎo rén zuò xià le， gōng rén hěn máng。",
+   "grammar": [
+    "G1-39",
+    "G1-25",
+    "G1-09"
+   ]
+  },
+  {
+   "id": "L1-365",
+   "level": 1,
+   "round": 3,
+   "text": "家人都在家。",
+   "pinyin": "jiā rén dōu zài jiā。",
+   "grammar": [
+    "G1-32",
+    "G1-25",
+    "G1-10"
+   ]
+  },
+  {
+   "id": "L1-366",
+   "level": 1,
+   "round": 3,
+   "text": "第二本书是我的。",
+   "pinyin": "dì èr běn shū shì wǒ de。",
+   "grammar": [
+    "G1-36",
+    "G1-27",
+    "G1-20"
+   ]
+  },
+  {
+   "id": "L1-367",
+   "level": 1,
+   "round": 3,
+   "text": "我买了一些水果。",
+   "pinyin": "wǒ mǎi le yī xiē shuǐ guǒ。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-41"
+   ]
+  },
+  {
+   "id": "L1-368",
+   "level": 1,
+   "round": 3,
+   "text": "一半人走了，我们一样大。",
+   "pinyin": "yī bàn rén zǒu le， wǒ men yī yàng dà。",
+   "grammar": [
+    "G1-39",
+    "G1-25",
+    "G1-21"
+   ]
+  },
+  {
+   "id": "L1-369",
+   "level": 1,
+   "round": 3,
+   "text": "他一边走一边说。",
+   "pinyin": "tā yī biān zǒu yī biān shuō。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-07"
+   ]
+  },
+  {
+   "id": "L1-370",
+   "level": 1,
+   "round": 3,
+   "text": "我们一块儿去。",
+   "pinyin": "wǒ men yī kuài ér qù。",
+   "grammar": [
+    "G1-29",
+    "G1-24",
+    "G1-10"
+   ]
+  },
+  {
+   "id": "L1-371",
+   "level": 1,
+   "round": 3,
+   "text": "请等一下儿。",
+   "pinyin": "qǐng děng yī xià ér。",
+   "grammar": [
+    "G1-34",
+    "G1-25",
+    "G1-07"
+   ]
+  },
+  {
+   "id": "L1-372",
+   "level": 1,
+   "round": 3,
+   "text": "这个书很有用，他很有名。",
+   "pinyin": "zhè ge shū hěn yǒu yòng， tā hěn yǒu míng。",
+   "grammar": [
+    "G1-37",
+    "G1-26",
+    "G1-09",
+    "G1-06"
+   ]
+  },
+  {
+   "id": "L1-373",
+   "level": 1,
+   "round": 3,
+   "text": "现在什么时间？",
+   "pinyin": "xiàn zài shén me shí jiān？",
+   "grammar": [
+    "G1-46",
+    "G1-28",
+    "G1-16",
+    "G1-04",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-374",
+   "level": 1,
+   "round": 3,
+   "text": "今天日期是几号？",
+   "pinyin": "jīn tiān rì qī shì jǐ hào？",
+   "grammar": [
+    "G1-46",
+    "G1-28",
+    "G1-44",
+    "G1-04",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-375",
+   "level": 1,
+   "round": 3,
+   "text": "星期日我休息。",
+   "pinyin": "xīng qī rì wǒ xiū xī。",
+   "grammar": [
+    "G1-32",
+    "G1-25",
+    "G1-44"
+   ]
+  },
+  {
+   "id": "L1-376",
+   "level": 1,
+   "round": 3,
+   "text": "新年好！",
+   "pinyin": "xīn nián hǎo！",
+   "grammar": [
+    "G1-30",
+    "G1-25",
+    "G1-44"
+   ]
+  },
+  {
+   "id": "L1-377",
+   "level": 1,
+   "round": 3,
+   "text": "下午我在家。",
+   "pinyin": "xià wǔ wǒ zài jiā。",
+   "grammar": [
+    "G1-32",
+    "G1-25",
+    "G1-16"
+   ]
+  },
+  {
+   "id": "L1-378",
+   "level": 1,
+   "round": 3,
+   "text": "上次他没来，下次再来。",
+   "pinyin": "shàng cì tā méi lái， xià cì zài lái。",
+   "grammar": [
+    "G1-39",
+    "G1-25",
+    "G1-12"
+   ]
+  },
+  {
+   "id": "L1-379",
+   "level": 1,
+   "round": 3,
+   "text": "最后他走了。",
+   "pinyin": "zuì hòu tā zǒu le。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-380",
+   "level": 1,
+   "round": 3,
+   "text": "我马上来。",
+   "pinyin": "wǒ mǎ shàng lái。",
+   "grammar": [
+    "G1-29",
+    "G1-24",
+    "G1-11"
+   ]
+  },
+  {
+   "id": "L1-381",
+   "level": 1,
+   "round": 3,
+   "text": "他正在看书。",
+   "pinyin": "tā zhèng zài kàn shū。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-42"
+   ]
+  },
+  {
+   "id": "L1-382",
+   "level": 1,
+   "round": 3,
+   "text": "我的手机在哪儿？",
+   "pinyin": "wǒ de shǒu jī zài nǎ ér？",
+   "grammar": [
+    "G1-46",
+    "G1-27",
+    "G1-16",
+    "G1-04",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-383",
+   "level": 1,
+   "round": 3,
+   "text": "网友来了。",
+   "pinyin": "wǎng yǒu lái le。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-384",
+   "level": 1,
+   "round": 3,
+   "text": "他学外语，我们读课文。",
+   "pinyin": "tā xué wài yǔ， wǒ men dú kè wén。",
+   "grammar": [
+    "G1-39",
+    "G1-24",
+    "G1-05"
+   ]
+  },
+  {
+   "id": "L1-385",
+   "level": 1,
+   "round": 3,
+   "text": "课本在桌上。",
+   "pinyin": "kè běn zài zhuō shàng。",
+   "grammar": [
+    "G1-32",
+    "G1-25",
+    "G1-16"
+   ]
+  },
+  {
+   "id": "L1-386",
+   "level": 1,
+   "round": 3,
+   "text": "我们看电视。",
+   "pinyin": "wǒ men kàn diàn shì。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-05"
+   ]
+  },
+  {
+   "id": "L1-387",
+   "level": 1,
+   "round": 3,
+   "text": "这个动作很好。",
+   "pinyin": "zhè ge dòng zuò hěn hǎo。",
+   "grammar": [
+    "G1-30",
+    "G1-24",
+    "G1-09",
+    "G1-06"
+   ]
+  },
+  {
+   "id": "L1-388",
+   "level": 1,
+   "round": 3,
+   "text": "这是什么地方？地点在哪儿？",
+   "pinyin": "zhè shì shén me dì fāng？ dì diǎn zài nǎ ér？",
+   "grammar": [
+    "G1-46",
+    "G1-24",
+    "G1-16",
+    "G1-06",
+    "G1-04",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-389",
+   "level": 1,
+   "round": 3,
+   "text": "我买了地图。",
+   "pinyin": "wǒ mǎi le dì tú。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-41"
+   ]
+  },
+  {
+   "id": "L1-390",
+   "level": 1,
+   "round": 3,
+   "text": "中间那个人是我。",
+   "pinyin": "zhōng jiān nà ge rén shì wǒ。",
+   "grammar": [
+    "G1-36",
+    "G1-26",
+    "G1-23"
+   ]
+  },
+  {
+   "id": "L1-391",
+   "level": 1,
+   "round": 3,
+   "text": "这儿很好玩儿，我们出去玩儿。",
+   "pinyin": "zhè ér hěn hǎo wán ér， wǒ men chū qù wán ér。",
+   "grammar": [
+    "G1-39",
+    "G1-26",
+    "G1-09",
+    "G1-06"
+   ]
+  },
+  {
+   "id": "L1-392",
+   "level": 1,
+   "round": 3,
+   "text": "你们来了，他们都在家。",
+   "pinyin": "nǐ men lái le， tā men dōu zài jiā。",
+   "grammar": [
+    "G1-39",
+    "G1-24",
+    "G1-10"
+   ]
+  },
+  {
+   "id": "L1-393",
+   "level": 1,
+   "round": 3,
+   "text": "她们是学生，朋友们都来了。",
+   "pinyin": "tā men shì xué shēng， péng yǒu men dōu lái le。",
+   "grammar": [
+    "G1-36",
+    "G1-26",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-394",
+   "level": 1,
+   "round": 3,
+   "text": "这里很好，那儿有人。",
+   "pinyin": "zhè lǐ hěn hǎo， nà ér yǒu rén。",
+   "grammar": [
+    "G1-37",
+    "G1-26",
+    "G1-09",
+    "G1-06"
+   ]
+  },
+  {
+   "id": "L1-395",
+   "level": 1,
+   "round": 3,
+   "text": "那边是商店，这边请。",
+   "pinyin": "nà biān shì shāng diàn， zhè biān qǐng。",
+   "grammar": [
+    "G1-36",
+    "G1-24",
+    "G1-06"
+   ]
+  },
+  {
+   "id": "L1-396",
+   "level": 1,
+   "round": 3,
+   "text": "你去哪里？哪些是你的？",
+   "pinyin": "nǐ qù nǎ lǐ？ nǎ xiē shì nǐ de？",
+   "grammar": [
+    "G1-46",
+    "G1-27",
+    "G1-20",
+    "G1-04",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-397",
+   "level": 1,
+   "round": 3,
+   "text": "你在哪儿？那里有商店吗？",
+   "pinyin": "nǐ zài nǎ ér？ nà lǐ yǒu shāng diàn ma？",
+   "grammar": [
+    "G1-45",
+    "G1-26",
+    "G1-16",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-398",
+   "level": 1,
+   "round": 3,
+   "text": "上边有书，下边有桌子。",
+   "pinyin": "shàng biān yǒu shū， xià biān yǒu zhuō zi。",
+   "grammar": [
+    "G1-37",
+    "G1-26",
+    "G1-01"
+   ]
+  },
+  {
+   "id": "L1-399",
+   "level": 1,
+   "round": 3,
+   "text": "里边有人吗？",
+   "pinyin": "lǐ biān yǒu rén ma？",
+   "grammar": [
+    "G1-45",
+    "G1-26",
+    "G1-01",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-400",
+   "level": 1,
+   "round": 3,
+   "text": "车上很干净，里边也很干净。",
+   "pinyin": "chē shàng hěn gān jìng， lǐ biān yě hěn gān jìng。",
+   "grammar": [
+    "G1-39",
+    "G1-25",
+    "G1-01"
+   ]
+  },
+  {
+   "id": "L1-401",
+   "level": 1,
+   "round": 3,
+   "text": "马路上有很多车。",
+   "pinyin": "mǎ lù shàng yǒu hěn duō chē。",
+   "grammar": [
+    "G1-37",
+    "G1-26",
+    "G1-09"
+   ]
+  },
+  {
+   "id": "L1-402",
+   "level": 1,
+   "round": 3,
+   "text": "她是我的女朋友。",
+   "pinyin": "tā shì wǒ de nǚ péng yǒu。",
+   "grammar": [
+    "G1-36",
+    "G1-27",
+    "G1-20"
+   ]
+  },
+  {
+   "id": "L1-403",
+   "level": 1,
+   "round": 3,
+   "text": "有的学生来了。",
+   "pinyin": "yǒu de xué shēng lái le。",
+   "grammar": [
+    "G1-37",
+    "G1-27",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-404",
+   "level": 1,
+   "round": 3,
+   "text": "星期天我们去玩。",
+   "pinyin": "xīng qī tiān wǒ men qù wán。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-44"
+   ]
+  },
+  {
+   "id": "L1-405",
+   "level": 1,
+   "round": 3,
+   "text": "他是大学生。",
+   "pinyin": "tā shì dà xué shēng。",
+   "grammar": [
+    "G1-36",
+    "G1-26",
+    "G1-05"
+   ]
+  },
+  {
+   "id": "L1-406",
+   "level": 1,
+   "round": 3,
+   "text": "我得到了那本书。",
+   "pinyin": "wǒ de dào le nà běn shū。",
+   "grammar": [
+    "G1-32",
+    "G1-24",
+    "G1-41"
+   ]
+  },
+  {
+   "id": "L1-407",
+   "level": 1,
+   "round": 3,
+   "text": "电视机在桌上。",
+   "pinyin": "diàn shì jī zài zhuō shàng。",
+   "grammar": [
+    "G1-32",
+    "G1-25",
+    "G1-16"
+   ]
+  },
+  {
+   "id": "L1-408",
+   "level": 1,
+   "round": 3,
+   "text": "这个房子很大。",
+   "pinyin": "zhè ge fáng zi hěn dà。",
+   "grammar": [
+    "G1-30",
+    "G1-24",
+    "G1-09",
+    "G1-06"
+   ]
+  },
+  {
+   "id": "L1-409",
+   "level": 1,
+   "round": 3,
+   "text": "我们的国家很大。",
+   "pinyin": "wǒ men de guó jiā hěn dà。",
+   "grammar": [
+    "G1-30",
+    "G1-27",
+    "G1-09"
+   ]
+  },
+  {
+   "id": "L1-410",
+   "level": 1,
+   "round": 3,
+   "text": "他在国外学习。",
+   "pinyin": "tā zài guó wài xué xí。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-42"
+   ]
+  },
+  {
+   "id": "L1-411",
+   "level": 1,
+   "round": 3,
+   "text": "还有一个人没来。",
+   "pinyin": "hái yǒu yī gè rén méi lái。",
+   "grammar": [
+    "G1-37",
+    "G1-26",
+    "G1-13"
+   ]
+  },
+  {
+   "id": "L1-412",
+   "level": 1,
+   "round": 3,
+   "text": "后天我们去。",
+   "pinyin": "hòu tiān wǒ men qù。",
+   "grammar": [
+    "G1-29",
+    "G1-25",
+    "G1-05"
+   ]
+  },
+  {
+   "id": "L1-413",
+   "level": 1,
+   "round": 3,
+   "text": "我们明天见面。",
+   "pinyin": "wǒ men míng tiān jiàn miàn。",
+   "grammar": [
+    "G1-32",
+    "G1-24",
+    "G1-05"
+   ]
+  },
+  {
+   "id": "L1-414",
+   "level": 1,
+   "round": 3,
+   "text": "我看到了。",
+   "pinyin": "wǒ kàn dào le。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-415",
+   "level": 1,
+   "round": 3,
+   "text": "那些是我的。",
+   "pinyin": "nà xiē shì wǒ de。",
+   "grammar": [
+    "G1-36",
+    "G1-27",
+    "G1-20",
+    "G1-06"
+   ]
+  },
+  {
+   "id": "L1-416",
+   "level": 1,
+   "round": 3,
+   "text": "他站起来了。",
+   "pinyin": "tā zhàn qǐ lái le。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-417",
+   "level": 1,
+   "round": 3,
+   "text": "前天他来了。",
+   "pinyin": "qián tiān tā lái le。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-418",
+   "level": 1,
+   "round": 3,
+   "text": "请上车。",
+   "pinyin": "qǐng shàng chē。",
+   "grammar": [
+    "G1-34",
+    "G1-25",
+    "G1-07"
+   ]
+  },
+  {
+   "id": "L1-419",
+   "level": 1,
+   "round": 3,
+   "text": "我上网看书。",
+   "pinyin": "wǒ shàng wǎng kàn shū。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-05"
+   ]
+  },
+  {
+   "id": "L1-420",
+   "level": 1,
+   "round": 3,
+   "text": "他生病了。",
+   "pinyin": "tā shēng bìng le。",
+   "grammar": [
+    "G1-32",
+    "G1-24",
+    "G1-40"
+   ]
+  },
+  {
+   "id": "L1-421",
+   "level": 1,
+   "round": 3,
+   "text": "晚饭吃什么？",
+   "pinyin": "wǎn fàn chī shén me？",
+   "grammar": [
+    "G1-46",
+    "G1-26",
+    "G1-04",
+    "G1-33"
+   ]
+  },
+  {
+   "id": "L1-422",
+   "level": 1,
+   "round": 3,
+   "text": "午饭我吃面包。",
+   "pinyin": "wǔ fàn wǒ chī miàn bāo。",
+   "grammar": [
+    "G1-29",
+    "G1-26",
+    "G1-05"
+   ]
+  },
+  {
+   "id": "L1-423",
+   "level": 1,
+   "round": 3,
+   "text": "老师再见！",
+   "pinyin": "lǎo shī zài jiàn！",
+   "grammar": [
+    "G1-32",
+    "G1-25",
+    "G1-12"
+   ]
+  },
+  {
+   "id": "L1-424",
+   "level": 1,
+   "round": 3,
+   "text": "他是中学生。",
+   "pinyin": "tā shì zhōng xué shēng。",
+   "grammar": [
+    "G1-36",
+    "G1-26",
+    "G1-05"
+   ]
   }
  ]
 }

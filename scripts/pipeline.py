@@ -55,13 +55,35 @@ def cmd_check(args):
 
     c, g = stats["char"], stats["grammar"]
     print(f"第 2 步 统计：字覆盖 {c['covered']}/{c['total']}（{c['coverage']}%），语法覆盖 {g['covered']}/{g['total']}（{g['coverage']}%）")
-    if stats["verdict"] == "pass":
+
+    # 第 3 步：词汇覆盖（仅当该等级有 data/vocabulary/levelN.json 时启用）
+    vocab_ok, vocab_msg = True, None
+    try:
+        import vocab_check as vocab_mod
+        vocab, _ = vocab_mod.load_vocab(args.level)
+    except Exception:
+        vocab = None
+    if vocab:
+        vs = vocab_mod.compute(vocab, items)
+        vth = float((level.get("thresholds") or {}).get("vocabulary_coverage_min", 0.0))
+        (d / f"vocab_{args.tag}.json").write_text(
+            json.dumps(vs, ensure_ascii=False, indent=2), encoding="utf-8")
+        (d / f"vocab_{args.tag}.md").write_text(
+            vocab_mod.render_md(args.level, vocab, vs, args.tag, vth), encoding="utf-8")
+        print(f"第 3 步 词汇：{vs['covered']}/{vs['total']}（{vs['coverage']}%），阈值 {vth * 100}%")
+        if vs["coverage"] < vth * 100:
+            vocab_ok = False
+            vocab_msg = "词汇覆盖未达标，未覆盖词：" + "、".join(vs["uncovered"][:40])
+
+    if stats["verdict"] == "pass" and vocab_ok:
         print(f"结论：达标。报告见 reports/level{args.level}/stats_{args.tag}.md")
         sys.exit(0)
     print("结论：未达标")
     for f in stats["failed_checks"]:
         print("  - " + f)
-    print(f"第 3 步 调整：按 reports/level{args.level}/adjust_plan_{args.tag}.json 补题（建议 {plan['suggested_new_items']} 题），")
+    if not vocab_ok:
+        print("  - " + vocab_msg)
+    print(f"第 4 步 调整：按 reports/level{args.level}/adjust_plan_{args.tag}.json 补题（建议 {plan['suggested_new_items']} 题），")
     print("       合并后作为新一轮题库重跑：python scripts/pipeline.py --merge ... --out ... 然后再 check")
     sys.exit(2)
 
