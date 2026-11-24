@@ -39,7 +39,7 @@ FINALS_LONGEST_FIRST = [
     "iong", "iang", "uang", "ueng", "uan", "uai", "ian", "iao",
     "ang", "eng", "ing", "ong", "ai", "ei", "ao", "ou", "an", "en",
     "er", "ia", "ie", "in", "iu", "ui", "un", "ua", "uo", "üe", "ue",
-    "a", "o", "e", "i", "u", "ü", "v",
+    "a", "o", "e", "i", "u", "ü", "v", "r",
 ]
 
 
