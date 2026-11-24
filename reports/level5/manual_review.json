@@ -1,10 +1,10 @@
 {
   "level": 5,
-  "reviewed_at": "2026-11-23",
+  "reviewed_at": "2026-11-24",
   "reviewer": "AI 助手（规则全量审计 + 抽检，待教学组复核）",
-  "method": "对 760 题按 71 个五级语法点的标记与结构做全量规则审计；对 G5-32 兜底标注抽取 109 题人工核对；共修正 45 处标注/句式问题（改标注或改写），并复核 6 处规则未命中但结构成立的题。",
+  "method": "2026-11-23：760 题按 71 个五级语法点做全量规则审计 + 109 题 G5-32 抽检，修正 45 处。2026-11-24：接入五级词表（1071 条/1067 词头），严格词汇补题 207 句，覆盖 367→1067；应用 pinyin_sandhi 变调/轻声/儿化（466 题变化），并修正 54 处结构性多音字例外。",
   "sample_size": 760,
-  "issues_found": 45,
+  "issues_found": 48,
   "issues": [
     {
       "id": "L5-180",
@@ -680,6 +680,27 @@
       "text_after": "他光荣地驾驶着汽车。",
       "problem": "原句不含所标注结构 G5-37 的典型形式",
       "fix": "改标注为 G5-32"
+    },
+    {
+      "id": "VOCAB-STRICT",
+      "severity": "P1",
+      "status": "resolved",
+      "problem": "五级词表严格覆盖仅 367/1067，单字寄生 29，从未出现 671",
+      "fix": "新增 207 句（3—12 字，仅累计 1500 字），严格覆盖 1067/1067，寄生 0"
+    },
+    {
+      "id": "PINYIN-SANDHI",
+      "severity": "P1",
+      "status": "resolved",
+      "problem": "原拼音为本调，未处理一/不 变调、轻声与儿化",
+      "fix": "pinyin_sandhi --apply 变化 466 题；修正 得/了/着/倒/将/漂亮/消息/答应 等 54 处例外；967/967 音节对齐，数据库 0 差异"
+    },
+    {
+      "id": "G5-32-CONCENTRATION",
+      "severity": "P1",
+      "status": "open",
+      "problem": "词汇补题多用 G5-32 兜底，G5-32 达 594/967（61.4%）",
+      "fix": "不阻塞发布；建议教学组后续细化语法点，或对纯词汇跟读题改用 kind=vocabulary 口径"
     }
   ],
   "confirmed": [
@@ -709,6 +730,38 @@
     }
   ],
   "p0_open": 0,
-  "p1_open": 1,
-  "residual": "G5-32（宾语的语义类型）仍为项目兜底标注，共 419 题；抽检 109 题中约半数并非典型“动词+宾语”句，属于标注宽泛而非字表/形式错误。建议教学组在后续版本中把无宾语描写句另立语法点或改为“不限语法点”口径；本轮不阻塞发布。"
+  "p1_open": 2,
+  "residual": "G5-32（宾语的语义类型）现为 594/967 题，词汇补题占比高；属标注宽泛而非字表/词汇/形式错误，不阻塞发布。词表来源为项目既有 HSK 3.0 转录 CSV，本轮未再逐条对照扫描版 PDF 抽样。",
+  "vocab_review": {
+    "list_path": "data/vocabulary/level5.json",
+    "entries": 1071,
+    "unique_headwords": 1067,
+    "baseline_conventional": 396,
+    "baseline_strict": 367,
+    "baseline_parasitic": 29,
+    "baseline_never": 671,
+    "added_items": 207,
+    "final_strict": 1067,
+    "final_parasitic": 0,
+    "final_conventional": 1067
+  },
+  "pinyin": {
+    "convention": "context reading（一/不 变调、轻声、儿化 r）",
+    "sandhi_changed_items": 466,
+    "post_fix_items": 54,
+    "segment_failures": 0,
+    "db_token_mismatches": 0,
+    "examples": [
+      "了解 liǎo",
+      "冠军 guàn",
+      "大都 dū",
+      "答应 dā ying",
+      "漂亮 piào liang",
+      "得去 děi",
+      "跑得 de",
+      "走着 zhe",
+      "倒是 dào",
+      "将 jiāng"
+    ]
+  }
 }

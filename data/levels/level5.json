@@ -10,7 +10,7 @@
     "allow_digits": false,
     "bank_target_items": [
       480,
-      760
+      1100
     ]
   },
   "thresholds": {
@@ -18,7 +18,8 @@
     "char_freq_min": 1,
     "core_char_freq_min": 2,
     "grammar_coverage_min": 1.0,
-    "grammar_freq_min": 2
+    "grammar_freq_min": 2,
+    "vocab_coverage_min": 1.0
   },
   "chars": {
     "all": [
@@ -1097,5 +1098,13 @@
   ],
   "char_table_mode": "cumulative",
   "grammar_validation": "id_only",
-  "manual_review_required": true
+  "manual_review_required": true,
+  "vocabulary": {
+    "new_count": 1071,
+    "total_count": 4316,
+    "unique_headwords": 1067,
+    "list_path": "data/vocabulary/level5.json",
+    "source": "HSK 3.0 vocabulary transcription",
+    "note": "五级新增 1071 条（去重后 1067 词头），累计 4316；词表由 hsk3_0_vocabulary.csv 五级行规范化生成。"
+  }
 }

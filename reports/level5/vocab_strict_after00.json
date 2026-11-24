@@ -1,0 +1,4920 @@
+{
+  "level": 5,
+  "total": 1067,
+  "strict_covered": 393,
+  "parasitic": 29,
+  "never_appeared": 645,
+  "single_parasitic": [
+    "乘",
+    "剩",
+    "厅",
+    "叉",
+    "广",
+    "库",
+    "忍",
+    "怨",
+    "抬",
+    "挣",
+    "搜",
+    "搞",
+    "敲",
+    "染",
+    "灾",
+    "煤",
+    "版",
+    "琴",
+    "甲",
+    "盒",
+    "礼",
+    "糟",
+    "肠",
+    "赠",
+    "逃",
+    "递",
+    "键",
+    "饼",
+    "鼓"
+  ],
+  "multi_parasitic": [],
+  "targets": [
+    {
+      "word": "严厉",
+      "pinyin": "yánlì",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "严肃",
+      "pinyin": "yánsù",
+      "pos": "形、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "个儿",
+      "pinyin": "gèr",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "中央",
+      "pinyin": "zhōngyāng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "中断",
+      "pinyin": "zhōngduàn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "中毒",
+      "pinyin": "zhòng∥dú",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "中秋节",
+      "pinyin": "Zhōngqiū Jié",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "中药",
+      "pinyin": "zhōngyào",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "丰收",
+      "pinyin": "fēngshōu",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "为主",
+      "pinyin": "wéizhǔ",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "为期",
+      "pinyin": "wéiqī",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "为难",
+      "pinyin": "wéinán",
+      "pos": "形、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "主体",
+      "pinyin": "zhǔtǐ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "主办",
+      "pinyin": "zhǔbàn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "主导",
+      "pinyin": "zhǔdǎo",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "主管",
+      "pinyin": "zhǔguǎn",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "主观",
+      "pinyin": "zhǔguān",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "举动",
+      "pinyin": "jǔdòng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "之下",
+      "pinyin": "zhīxià",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "之中",
+      "pinyin": "zhīzhōng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "之内",
+      "pinyin": "zhīnèi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "之外",
+      "pinyin": "zhīwài",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "乘",
+      "pinyin": "chéng",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "我们乘车到郊外游览。",
+          "乘车"
+        ]
+      ]
+    },
+    {
+      "word": "乘坐",
+      "pinyin": "chéngzuò",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "乘客",
+      "pinyin": "chéngkè",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "乡村",
+      "pinyin": "xiāngcūn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "书柜",
+      "pinyin": "shūguì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "书桌",
+      "pinyin": "shūzhuō",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "书法",
+      "pinyin": "shūfǎ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "买卖",
+      "pinyin": "mǎimai",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "争议",
+      "pinyin": "zhēngyì",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "二维码",
+      "pinyin": "èrwéimǎ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "交代",
+      "pinyin": "jiāodài",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "产业",
+      "pinyin": "chǎnyè",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "人力",
+      "pinyin": "rénlì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "人士",
+      "pinyin": "rénshì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "人物",
+      "pinyin": "rénwù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "人间",
+      "pinyin": "rénjiān",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "今日",
+      "pinyin": "jīnrì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "从中",
+      "pinyin": "cóngzhōng",
+      "pos": "副",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "代价",
+      "pinyin": "dàijià",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "代理",
+      "pinyin": "dàilǐ",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "以往",
+      "pinyin": "yǐwǎng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "休闲",
+      "pinyin": "xiūxián",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "众多",
+      "pinyin": "zhòngduō",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "优惠",
+      "pinyin": "yōuhuì",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "会谈",
+      "pinyin": "huìtán",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "传真",
+      "pinyin": "chuánzhēn",
+      "pos": "名、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "传达",
+      "pinyin": "chuándá",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "传递",
+      "pinyin": "chuándì",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "低于",
+      "pinyin": "dīyú",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "体力",
+      "pinyin": "tǐlì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "体积",
+      "pinyin": "tǐjī",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "使得",
+      "pinyin": "shǐde",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "例外",
+      "pinyin": "lìwài",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "依法",
+      "pinyin": "yīfǎ",
+      "pos": "副",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "便于",
+      "pinyin": "biànyú",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "便利",
+      "pinyin": "biànlì",
+      "pos": "形、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "便条",
+      "pinyin": "biàntiáo",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "保养",
+      "pinyin": "bǎoyǎng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "信念",
+      "pinyin": "xìnniàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "信箱",
+      "pinyin": "xìnxiāng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "修养",
+      "pinyin": "xiūyǎng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "修复",
+      "pinyin": "xiūfù",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "修建",
+      "pinyin": "xiūjiàn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "俱乐部",
+      "pinyin": "jùlèbù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "倡导",
+      "pinyin": "chàngdǎo",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "值班",
+      "pinyin": "zhí∥bān",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "停留",
+      "pinyin": "tíngliú",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "健全",
+      "pinyin": "jiànquán",
+      "pos": "形、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "偶像",
+      "pinyin": "ǒuxiàng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "偶然",
+      "pinyin": "ǒurán",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "儿女",
+      "pinyin": "érnǚ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "元旦",
+      "pinyin": "Yuándàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "充足",
+      "pinyin": "chōngzú",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "先前",
+      "pinyin": "xiānqián",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "先后",
+      "pinyin": "xiānhòu",
+      "pos": "名、副",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "光线",
+      "pinyin": "guāngxiàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "入门",
+      "pinyin": "rù∥mén",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "全世界",
+      "pinyin": "quán shìjiè",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "全都",
+      "pinyin": "quándōu",
+      "pos": "副",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "公告",
+      "pinyin": "gōnggào",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "公式",
+      "pinyin": "gōngshì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "公正",
+      "pinyin": "gōngzhèng",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "公认",
+      "pinyin": "gōngrèn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "共享",
+      "pinyin": "gòngxiǎng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "共计",
+      "pinyin": "gòngjì",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "关怀",
+      "pinyin": "guānhuái",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "典礼",
+      "pinyin": "diǎnlǐ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "内在",
+      "pinyin": "nèizài",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "军人",
+      "pinyin": "jūnrén",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "农产品",
+      "pinyin": "nóngchǎnpǐn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "冲动",
+      "pinyin": "chōngdòng",
+      "pos": "名、形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "冲突",
+      "pinyin": "chōngtū",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "决不",
+      "pinyin": "jué bù",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "减轻",
+      "pinyin": "jiǎnqīng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "出于",
+      "pinyin": "chūyú",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "出差",
+      "pinyin": "chū∥chāi",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "出汗",
+      "pinyin": "chū∥hàn",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "分享",
+      "pinyin": "fēnxiǎng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "分成",
+      "pinyin": "fēnchéng",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "分离",
+      "pinyin": "fēnlí",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "分类",
+      "pinyin": "fēn∥lèi",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "分解",
+      "pinyin": "fēnjiě",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "划分",
+      "pinyin": "huàfēn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "创立",
+      "pinyin": "chuànglì",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "初期",
+      "pinyin": "chūqī",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "利润",
+      "pinyin": "lìrùn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "到来",
+      "pinyin": "dàolái",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "制成",
+      "pinyin": "zhìchéng",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "制约",
+      "pinyin": "zhìyuē",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "前提",
+      "pinyin": "qiántí",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "前景",
+      "pinyin": "qiánjǐng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "剧本",
+      "pinyin": "jùběn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "剩",
+      "pinyin": "shèng",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "只剩下一张票。",
+          "剩下"
+        ]
+      ]
+    },
+    {
+      "word": "剪子",
+      "pinyin": "jiǎnzi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "加以",
+      "pinyin": "jiāyǐ",
+      "pos": "动、连",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "加热",
+      "pinyin": "jiā∥rè",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "加速",
+      "pinyin": "jiāsù",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "动员",
+      "pinyin": "dòngyuán",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "动态",
+      "pinyin": "dòngtài",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "动机",
+      "pinyin": "dòngjī",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "助手",
+      "pinyin": "zhùshǒu",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "助理",
+      "pinyin": "zhùlǐ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "包围",
+      "pinyin": "bāowéi",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "包装",
+      "pinyin": "bāozhuāng",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "化石",
+      "pinyin": "huàshí",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "北极",
+      "pinyin": "běijí",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "十足",
+      "pinyin": "shízú",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "升高",
+      "pinyin": "shēnggāo",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "华语",
+      "pinyin": "Huáyǔ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "协议",
+      "pinyin": "xiéyì",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "协议书",
+      "pinyin": "xiéyìshū",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "单一",
+      "pinyin": "dānyī",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "南北",
+      "pinyin": "nánběi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "南极",
+      "pinyin": "nánjí",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "博士",
+      "pinyin": "bóshì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "博客",
+      "pinyin": "bókè",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "博览会",
+      "pinyin": "bólǎnhuì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "占有",
+      "pinyin": "zhànyǒu",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "占领",
+      "pinyin": "zhànlǐng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "卫星",
+      "pinyin": "wèixīng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "印刷",
+      "pinyin": "yìnshuā",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "厂长",
+      "pinyin": "chǎngzhǎng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "厅",
+      "pinyin": "tīng",
+      "pos": "名",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "客厅的窗户忘了锁。",
+          "客厅"
+        ],
+        [
+          "这家餐厅的牛肉面很好吃，我吃得很饱。",
+          "餐厅"
+        ]
+      ]
+    },
+    {
+      "word": "原先",
+      "pinyin": "yuánxiān",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "原始",
+      "pinyin": "yuánshǐ",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "原有",
+      "pinyin": "yuányǒu",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "原理",
+      "pinyin": "yuánlǐ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "叉",
+      "pinyin": "chā",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "他用叉子吃水果。",
+          "叉子"
+        ]
+      ]
+    },
+    {
+      "word": "双手",
+      "pinyin": "shuāng shǒu",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "发射",
+      "pinyin": "fāshè",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "发布",
+      "pinyin": "fābù",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "发行",
+      "pinyin": "fāxíng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "发觉",
+      "pinyin": "fājué",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "受灾",
+      "pinyin": "shòu∥zāi",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "变动",
+      "pinyin": "biàndòng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "口号",
+      "pinyin": "kǒuhào",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "只不过",
+      "pinyin": "zhǐbúguò",
+      "pos": "副",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "只见",
+      "pinyin": "zhǐ jiàn",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "号召",
+      "pinyin": "hàozhào",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "吃力",
+      "pinyin": "chīlì",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "合并",
+      "pinyin": "hébìng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "合成",
+      "pinyin": "héchéng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "向上",
+      "pinyin": "xiàngshàng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "向前",
+      "pinyin": "xiàng qián",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "向导",
+      "pinyin": "xiàngdǎo",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "启事",
+      "pinyin": "qǐshì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "启动",
+      "pinyin": "qǐdòng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "周期",
+      "pinyin": "zhōuqī",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "命令",
+      "pinyin": "mìnglìng",
+      "pos": "名、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "品种",
+      "pinyin": "pǐnzhǒng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "商标",
+      "pinyin": "shāngbiāo",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "喜剧",
+      "pinyin": "xǐjù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "四周",
+      "pinyin": "sìzhōu",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "回信",
+      "pinyin": "huíxìn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "回头",
+      "pinyin": "huítóu",
+      "pos": "副",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "回报",
+      "pinyin": "huíbào",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "回收",
+      "pinyin": "huíshōu",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "回避",
+      "pinyin": "huíbì",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "回顾",
+      "pinyin": "huígù",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "团长",
+      "pinyin": "tuánzhǎng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "园林",
+      "pinyin": "yuánlín",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "困扰",
+      "pinyin": "kùnrǎo",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "围绕",
+      "pinyin": "wéirào",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "国民",
+      "pinyin": "guómín",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "土豆",
+      "pinyin": "tǔdòu",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "在内",
+      "pinyin": "zàinèi",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "在场",
+      "pinyin": "zàichǎng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "地带",
+      "pinyin": "dìdài",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "地形",
+      "pinyin": "dìxíng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "场面",
+      "pinyin": "chǎngmiàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "坚定",
+      "pinyin": "jiāndìng",
+      "pos": "形、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "城里",
+      "pinyin": "chénglǐ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "基地",
+      "pinyin": "jīdì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "基金",
+      "pinyin": "jījīn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "增产",
+      "pinyin": "zēng∥chǎn",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "增多",
+      "pinyin": "zēngduō",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "增大",
+      "pinyin": "zēngdà",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "增强",
+      "pinyin": "zēngqiáng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "处分",
+      "pinyin": "chǔfèn",
+      "pos": "名、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "处在",
+      "pinyin": "chǔzài",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "处罚",
+      "pinyin": "chǔfá",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "外界",
+      "pinyin": "wàijiè",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "夜间",
+      "pinyin": "yèjiān",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "大事",
+      "pinyin": "dàshì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "大于",
+      "pinyin": "dàyú",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "大伙儿",
+      "pinyin": "dàhuǒr",
+      "pos": "代",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "大厅",
+      "pinyin": "dàtīng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "大奖赛",
+      "pinyin": "dàjiǎngsài",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "大熊猫",
+      "pinyin": "dàxióngmāo",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "大胆",
+      "pinyin": "dàdǎn",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "大脑",
+      "pinyin": "dànǎo",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "大致",
+      "pinyin": "dàzhì",
+      "pos": "形、副",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "天才",
+      "pinyin": "tiāncái",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "天文",
+      "pinyin": "tiānwén",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "天然气",
+      "pinyin": "tiānránqì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "太空",
+      "pinyin": "tàikōng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "失误",
+      "pinyin": "shīwù",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "奖励",
+      "pinyin": "jiǎnglì",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "女性",
+      "pinyin": "nǚxìng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "好运",
+      "pinyin": "hǎoyùn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "如下",
+      "pinyin": "rúxià",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "如同",
+      "pinyin": "rútóng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "委托",
+      "pinyin": "wěituō",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "子弹",
+      "pinyin": "zǐdàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "存款",
+      "pinyin": "cúnkuǎn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "学位",
+      "pinyin": "xuéwèi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "学科",
+      "pinyin": "xuékē",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "学者",
+      "pinyin": "xuézhě",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "客户",
+      "pinyin": "kèhù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "宽度",
+      "pinyin": "kuāndù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "对应",
+      "pinyin": "duìyìng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "对立",
+      "pinyin": "duìlì",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "寻求",
+      "pinyin": "xúnqiú",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "寿司",
+      "pinyin": "shòusī",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "射击",
+      "pinyin": "shèjī",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "小偷儿",
+      "pinyin": "xiǎotōur",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "尝试",
+      "pinyin": "chángshì",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "尽可能",
+      "pinyin": "jìn kěnéng",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "局长",
+      "pinyin": "júzhǎng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "局面",
+      "pinyin": "júmiàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "层次",
+      "pinyin": "céngcì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "展现",
+      "pinyin": "zhǎnxiàn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "展览",
+      "pinyin": "zhǎnlǎn",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "山区",
+      "pinyin": "shānqū",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "岁月",
+      "pinyin": "suìyuè",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "岸上",
+      "pinyin": "àn shang",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "工作日",
+      "pinyin": "gōngzuòrì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "工艺",
+      "pinyin": "gōngyì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "差距",
+      "pinyin": "chājù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "带有",
+      "pinyin": "dàiyǒu",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "幅度",
+      "pinyin": "fúdù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "干扰",
+      "pinyin": "gānrǎo",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "干预",
+      "pinyin": "gānyù",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "平原",
+      "pinyin": "píngyuán",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "平坦",
+      "pinyin": "píngtǎn",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "年前",
+      "pinyin": "niánqián",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "年度",
+      "pinyin": "niándù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "幽默",
+      "pinyin": "yōumò",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "广",
+      "pinyin": "guǎng",
+      "pos": "形",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "这本书内容很广泛。",
+          "广泛"
+        ]
+      ]
+    },
+    {
+      "word": "库",
+      "pinyin": "kù",
+      "pos": "名",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "水库的水很清。",
+          "水库"
+        ]
+      ]
+    },
+    {
+      "word": "延伸",
+      "pinyin": "yánshēn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "建造",
+      "pinyin": "jiànzào",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "开幕",
+      "pinyin": "kāi∥mù",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "开幕式",
+      "pinyin": "kāimùshì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "强度",
+      "pinyin": "qiángdù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "强迫",
+      "pinyin": "qiǎngpò",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "当代",
+      "pinyin": "dāngdài",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "当前",
+      "pinyin": "dāngqián",
+      "pos": "名、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "当场",
+      "pinyin": "dāngchǎng",
+      "pos": "副",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "当年",
+      "pinyin": "dāngnián",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "当选",
+      "pinyin": "dāngxuǎn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "形态",
+      "pinyin": "xíngtài",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "彩票",
+      "pinyin": "cǎipiào",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "得以",
+      "pinyin": "déyǐ",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "微博",
+      "pinyin": "wēibó",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "心态",
+      "pinyin": "xīntài",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "心疼",
+      "pinyin": "xīnténg",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "必需",
+      "pinyin": "bìxū",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "忍",
+      "pinyin": "rěn",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "我忍不住笑了。",
+          "忍不住"
+        ]
+      ]
+    },
+    {
+      "word": "忍受",
+      "pinyin": "rěnshòu",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "快活",
+      "pinyin": "kuàihuo",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "思维",
+      "pinyin": "sīwéi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "性能",
+      "pinyin": "xìngnéng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "怨",
+      "pinyin": "yuàn",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "他脾气好，从不抱怨。",
+          "抱怨"
+        ]
+      ]
+    },
+    {
+      "word": "总体",
+      "pinyin": "zǒngtǐ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "总数",
+      "pinyin": "zǒngshù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "总裁",
+      "pinyin": "zǒngcái",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "恋爱",
+      "pinyin": "liàn’ài",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "悲剧",
+      "pinyin": "bēijù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "情形",
+      "pinyin": "qíngxing",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "情节",
+      "pinyin": "qíngjié",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "意味着",
+      "pinyin": "yìwèizhe",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "意志",
+      "pinyin": "yìzhì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "意识",
+      "pinyin": "yì·shí",
+      "pos": "名、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "感想",
+      "pinyin": "gǎnxiǎng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "慌忙",
+      "pinyin": "huāngmáng",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "慰问",
+      "pinyin": "wèiwèn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "戏剧",
+      "pinyin": "xìjù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "成交",
+      "pinyin": "chéng∥jiāo",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "成效",
+      "pinyin": "chéngxiào",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "成本",
+      "pinyin": "chéngběn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "成语",
+      "pinyin": "chéngyǔ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "所在",
+      "pinyin": "suǒzài",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "扇子",
+      "pinyin": "shànzi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "手段",
+      "pinyin": "shǒuduàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "手法",
+      "pinyin": "shǒufǎ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "打包",
+      "pinyin": "dǎ∥bāo",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "打架",
+      "pinyin": "dǎ∥jià",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "扮演",
+      "pinyin": "bànyǎn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "承办",
+      "pinyin": "chéngbàn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "技能",
+      "pinyin": "jìnéng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "抢救",
+      "pinyin": "qiǎngjiù",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "报答",
+      "pinyin": "bàodá",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "报警",
+      "pinyin": "bào∥jǐng",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "抬",
+      "pinyin": "tái",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "他抬头看了看。",
+          "抬头"
+        ]
+      ]
+    },
+    {
+      "word": "拆除",
+      "pinyin": "chāichú",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "拍摄",
+      "pinyin": "pāishè",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "招生",
+      "pinyin": "zhāo∥shēng",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "拥有",
+      "pinyin": "yōngyǒu",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "指标",
+      "pinyin": "zhǐbiāo",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "指示",
+      "pinyin": "zhǐshì",
+      "pos": "名、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "指责",
+      "pinyin": "zhǐzé",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "按摩",
+      "pinyin": "ànmó",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "挣",
+      "pinyin": "zhèng",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "他靠自己挣钱。",
+          "挣钱"
+        ]
+      ]
+    },
+    {
+      "word": "振动",
+      "pinyin": "zhèndòng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "损害",
+      "pinyin": "sǔnhài",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "掌握",
+      "pinyin": "zhǎngwò",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "排除",
+      "pinyin": "páichú",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "接连",
+      "pinyin": "jiēlián",
+      "pos": "副",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "推行",
+      "pinyin": "tuīxíng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "提示",
+      "pinyin": "tíshì",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "提起",
+      "pinyin": "tíqǐ",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "搜",
+      "pinyin": "sōu",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "他上网搜索资料。",
+          "搜索"
+        ]
+      ]
+    },
+    {
+      "word": "搞",
+      "pinyin": "gǎo",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "他搞好了这次活动。",
+          "搞好"
+        ]
+      ]
+    },
+    {
+      "word": "摄像",
+      "pinyin": "shèxiàng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "摄像机",
+      "pinyin": "shèxiàngjī",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "摄影师",
+      "pinyin": "shèyǐngshī",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "摩托",
+      "pinyin": "mótuō",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "支出",
+      "pinyin": "zhīchū",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "支配",
+      "pinyin": "zhīpèi",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "收购",
+      "pinyin": "shōugòu",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "收集",
+      "pinyin": "shōují",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "放大",
+      "pinyin": "fàngdà",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "救灾",
+      "pinyin": "jiù∥zāi",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "散文",
+      "pinyin": "sǎnwén",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "数目",
+      "pinyin": "shùmù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "敲",
+      "pinyin": "qiāo",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "门铃响了，有人敲门。",
+          "敲门"
+        ]
+      ]
+    },
+    {
+      "word": "文艺",
+      "pinyin": "wényì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "无疑",
+      "pinyin": "wúyí",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "早期",
+      "pinyin": "zǎoqī",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "时事",
+      "pinyin": "shíshì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "时光",
+      "pinyin": "shíguāng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "时机",
+      "pinyin": "shíjī",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "明亮",
+      "pinyin": "míngliàng",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "景象",
+      "pinyin": "jǐngxiàng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "晴朗",
+      "pinyin": "qínglǎng",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "暂停",
+      "pinyin": "zàntíng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "更换",
+      "pinyin": "gēnghuàn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "更新",
+      "pinyin": "gēngxīn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "月球",
+      "pinyin": "yuèqiú",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "有利于",
+      "pinyin": "yǒulì yú",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "有力",
+      "pinyin": "yǒulì",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "有害",
+      "pinyin": "yǒu hài",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "有毒",
+      "pinyin": "yǒu dú",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "服从",
+      "pinyin": "fúcóng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "期望",
+      "pinyin": "qīwàng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "本人",
+      "pinyin": "běnrén",
+      "pos": "代",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "机制",
+      "pinyin": "jīzhì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "机器人",
+      "pinyin": "jī·qìrén",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "杀毒",
+      "pinyin": "shā∥dú",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "来信",
+      "pinyin": "láixìn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "染",
+      "pinyin": "rǎn",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "工厂污染了河水。",
+          "污染"
+        ]
+      ]
+    },
+    {
+      "word": "柜子",
+      "pinyin": "guìzi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "查询",
+      "pinyin": "cháxún",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "桃树",
+      "pinyin": "táoshù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "桃花",
+      "pinyin": "táohuā",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "检验",
+      "pinyin": "jiǎnyàn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "模式",
+      "pinyin": "móshì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "模样",
+      "pinyin": "múyàng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "模糊",
+      "pinyin": "móhu",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "模范",
+      "pinyin": "mófàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "歌曲",
+      "pinyin": "gēqǔ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "正义",
+      "pinyin": "zhèngyì",
+      "pos": "名、形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "正如",
+      "pinyin": "zhèngrú",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "正版",
+      "pinyin": "zhèngbǎn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "正规",
+      "pinyin": "zhèngguī",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "此刻",
+      "pinyin": "cǐkè",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "此后",
+      "pinyin": "cǐhòu",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "此时",
+      "pinyin": "cǐshí",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "比方",
+      "pinyin": "bǐfang",
+      "pos": "名、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "比重",
+      "pinyin": "bǐzhòng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "毛笔",
+      "pinyin": "máobǐ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "气体",
+      "pinyin": "qìtǐ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "气象",
+      "pinyin": "qìxiàng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "水产品",
+      "pinyin": "shuǐchǎnpǐn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "水分",
+      "pinyin": "shuǐfèn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "水灾",
+      "pinyin": "shuǐzāi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "汇款",
+      "pinyin": "huì∥kuǎn",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "池子",
+      "pinyin": "chízi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "污水",
+      "pinyin": "wūshuǐ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "沟通",
+      "pinyin": "gōutōng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "治安",
+      "pinyin": "zhì’ān",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "治理",
+      "pinyin": "zhìlǐ",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "法制",
+      "pinyin": "fǎzhì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "法规",
+      "pinyin": "fǎguī",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "注册",
+      "pinyin": "zhù∥cè",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "注射",
+      "pinyin": "zhùshè",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "注视",
+      "pinyin": "zhùshì",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "注重",
+      "pinyin": "zhùzhòng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "活力",
+      "pinyin": "huólì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "活泼",
+      "pinyin": "huó·pō",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "流动",
+      "pinyin": "liúdòng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "流通",
+      "pinyin": "liútōng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "浪漫",
+      "pinyin": "làngmàn",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "消极",
+      "pinyin": "xiāojí",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "消毒",
+      "pinyin": "xiāo∥dú",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "消费者",
+      "pinyin": "xiāofèizhě",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "消防",
+      "pinyin": "xiāofáng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "消除",
+      "pinyin": "xiāochú",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "涨价",
+      "pinyin": "zhǎng∥jià",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "深处",
+      "pinyin": "shēnchù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "深度",
+      "pinyin": "shēndù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "清晨",
+      "pinyin": "qīngchén",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "清理",
+      "pinyin": "qīnglǐ",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "温和",
+      "pinyin": "wēnhé",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "渴望",
+      "pinyin": "kěwàng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "游泳池",
+      "pinyin": "yóuyǒngchí",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "漏洞",
+      "pinyin": "lòudòng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "漫画",
+      "pinyin": "mànhuà",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "火柴",
+      "pinyin": "huǒchái",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "火灾",
+      "pinyin": "huǒzāi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "火腿",
+      "pinyin": "huǒtuǐ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "灰色",
+      "pinyin": "huīsè",
+      "pos": "名、形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "灾",
+      "pinyin": "zāi",
+      "pos": "名",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "地震造成了灾害。",
+          "灾害"
+        ]
+      ]
+    },
+    {
+      "word": "灾区",
+      "pinyin": "zāiqū",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "灾难",
+      "pinyin": "zāinàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "点燃",
+      "pinyin": "diǎnrán",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "烤肉",
+      "pinyin": "kǎoròu",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "烤鸭",
+      "pinyin": "kǎoyā",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "热量",
+      "pinyin": "rèliàng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "热门",
+      "pinyin": "rèmén",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "煤",
+      "pinyin": "méi",
+      "pos": "名",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "家里用煤气做饭。",
+          "煤气"
+        ]
+      ]
+    },
+    {
+      "word": "版",
+      "pinyin": "bǎn",
+      "pos": "名",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "这本书已经出版。",
+          "出版"
+        ]
+      ]
+    },
+    {
+      "word": "牛仔裤",
+      "pinyin": "niúzǎikù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "物业",
+      "pinyin": "wùyè",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "物价",
+      "pinyin": "wùjià",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "物质",
+      "pinyin": "wùzhì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "特定",
+      "pinyin": "tèdìng",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "特性",
+      "pinyin": "tèxìng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "特有",
+      "pinyin": "tèyǒu",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "猜测",
+      "pinyin": "cāicè",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "率领",
+      "pinyin": "shuàilǐng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "环节",
+      "pinyin": "huánjié",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "现有",
+      "pinyin": "xiànyǒu",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "现状",
+      "pinyin": "xiànzhuàng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "珍贵",
+      "pinyin": "zhēnguì",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "琴",
+      "pinyin": "qín",
+      "pos": "名",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "她会弹钢琴。",
+          "钢琴"
+        ]
+      ]
+    },
+    {
+      "word": "生成",
+      "pinyin": "shēngchéng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "用于",
+      "pinyin": "yòngyú",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "用户",
+      "pinyin": "yònghù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "用来",
+      "pinyin": "yònglái",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "由此",
+      "pinyin": "yóu cǐ",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "甲",
+      "pinyin": "jiǎ",
+      "pos": "名",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "他剪了指甲。",
+          "指甲"
+        ]
+      ]
+    },
+    {
+      "word": "电子版",
+      "pinyin": "diànzǐbǎn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "电池",
+      "pinyin": "diànchí",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "电饭锅",
+      "pinyin": "diànfànguō",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "男性",
+      "pinyin": "nánxìng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "画面",
+      "pinyin": "huàmiàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "疯狂",
+      "pinyin": "fēngkuáng",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "病毒",
+      "pinyin": "bìngdú",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "白酒",
+      "pinyin": "báijiǔ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "皮鞋",
+      "pinyin": "píxié",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "盒",
+      "pinyin": "hé",
+      "pos": "名、量",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "盒子里装着药。",
+          "盒子"
+        ]
+      ]
+    },
+    {
+      "word": "盒饭",
+      "pinyin": "héfàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "直线",
+      "pinyin": "zhíxiàn",
+      "pos": "名、形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "相声",
+      "pinyin": "xiàngsheng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "相应",
+      "pinyin": "xiāngyìng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "相等",
+      "pinyin": "xiāngděng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "看出",
+      "pinyin": "kànchū",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "看待",
+      "pinyin": "kàndài",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "看成",
+      "pinyin": "kànchéng",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "真理",
+      "pinyin": "zhēnlǐ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "真诚",
+      "pinyin": "zhēnchéng",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "眼光",
+      "pinyin": "yǎnguāng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "睡眠",
+      "pinyin": "shuìmián",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "码头",
+      "pinyin": "mǎ·tóu",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "研究所",
+      "pinyin": "yánjiūsuǒ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "硬件",
+      "pinyin": "yìngjiàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "确立",
+      "pinyin": "quèlì",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "示范",
+      "pinyin": "shìfàn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "礼",
+      "pinyin": "lǐ",
+      "pos": "名",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "他很有礼貌。",
+          "礼貌"
+        ]
+      ]
+    },
+    {
+      "word": "礼拜",
+      "pinyin": "lǐbài",
+      "pos": "名、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "社区",
+      "pinyin": "shèqū",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "神奇",
+      "pinyin": "shénqí",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "神情",
+      "pinyin": "shénqíng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "神经",
+      "pinyin": "shénjīng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "福利",
+      "pinyin": "fúlì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "称号",
+      "pinyin": "chēnghào",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "空中",
+      "pinyin": "kōngzhōng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "突破",
+      "pinyin": "tūpò",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "立场",
+      "pinyin": "lìchǎng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "竞赛",
+      "pinyin": "jìngsài",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "竹子",
+      "pinyin": "zhúzi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "等候",
+      "pinyin": "děnghòu",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "等级",
+      "pinyin": "děngjí",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "答复",
+      "pinyin": "dá·fù",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "签名",
+      "pinyin": "qiān∥míng",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "签约",
+      "pinyin": "qiān∥yuē",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "签订",
+      "pinyin": "qiāndìng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "签证",
+      "pinyin": "qiānzhèng",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "糟",
+      "pinyin": "zāo",
+      "pos": "形",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "天气糟糕透了。",
+          "糟糕"
+        ]
+      ]
+    },
+    {
+      "word": "紧紧",
+      "pinyin": "jǐnjǐn",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "繁荣",
+      "pinyin": "fánróng",
+      "pos": "形、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "约束",
+      "pinyin": "yuēshù",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "组织",
+      "pinyin": "zǔzhī",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "终止",
+      "pinyin": "zhōngzhǐ",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "终点",
+      "pinyin": "zhōngdiǎn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "终身",
+      "pinyin": "zhōngshēn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "经费",
+      "pinyin": "jīngfèi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "绝望",
+      "pinyin": "jué∥wàng",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "继承",
+      "pinyin": "jìchéng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "罚款",
+      "pinyin": "fákuǎn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "群众",
+      "pinyin": "qúnzhòng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "群体",
+      "pinyin": "qúntǐ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "羽毛球",
+      "pinyin": "yǔmáoqiú",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "考核",
+      "pinyin": "kǎohé",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "职位",
+      "pinyin": "zhíwèi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "职务",
+      "pinyin": "zhíwù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "职能",
+      "pinyin": "zhínéng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "联想",
+      "pinyin": "liánxiǎng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "联络",
+      "pinyin": "liánluò",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "肠",
+      "pinyin": "cháng",
+      "pos": "名",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "他尝了香肠和葡萄。",
+          "香肠"
+        ],
+        [
+          "多吃蔬菜，少吃香肠。",
+          "香肠"
+        ]
+      ]
+    },
+    {
+      "word": "肯定",
+      "pinyin": "kěndìng",
+      "pos": "动、形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "胆小",
+      "pinyin": "dǎnxiǎo",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "背包",
+      "pinyin": "bēibāo",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "胜负",
+      "pinyin": "shèngfù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "胡同儿",
+      "pinyin": "hútòngr",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "胡子",
+      "pinyin": "húzi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "胶带",
+      "pinyin": "jiāodài",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "能量",
+      "pinyin": "néngliàng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "脑子",
+      "pinyin": "nǎozi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "脚步",
+      "pinyin": "jiǎobù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "脱离",
+      "pinyin": "tuōlí",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "脸盆",
+      "pinyin": "liǎnpén",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "脸色",
+      "pinyin": "liǎnsè",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "自愿",
+      "pinyin": "zìyuàn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "自杀",
+      "pinyin": "zìshā",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "舍得",
+      "pinyin": "shěde",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "艰苦",
+      "pinyin": "jiānkǔ",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "草原",
+      "pinyin": "cǎoyuán",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "落实",
+      "pinyin": "luòshí",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "葡萄酒",
+      "pinyin": "pútaojiǔ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "薄弱",
+      "pinyin": "bóruò",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "行驶",
+      "pinyin": "xíngshǐ",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "补偿",
+      "pinyin": "bǔcháng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "补贴",
+      "pinyin": "bǔtiē",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "被动",
+      "pinyin": "bèidòng",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "裁判",
+      "pinyin": "cáipàn",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "西红柿",
+      "pinyin": "xīhóngshì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "西装",
+      "pinyin": "xīzhuāng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "规划",
+      "pinyin": "guīhuà",
+      "pos": "名、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "视为",
+      "pinyin": "shìwéi",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "视频",
+      "pinyin": "shìpín",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "解放",
+      "pinyin": "jiěfàng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "解除",
+      "pinyin": "jiěchú",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "言语",
+      "pinyin": "yányǔ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "警告",
+      "pinyin": "jǐnggào",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "认定",
+      "pinyin": "rèndìng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "记忆",
+      "pinyin": "jìyì",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "许可",
+      "pinyin": "xǔkě",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "设想",
+      "pinyin": "shèxiǎng",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "证书",
+      "pinyin": "zhèngshū",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "证实",
+      "pinyin": "zhèngshí",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "评估",
+      "pinyin": "pínggū",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "评论",
+      "pinyin": "pínglùn",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "试图",
+      "pinyin": "shìtú",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "诗歌",
+      "pinyin": "shīgē",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "误解",
+      "pinyin": "wùjiě",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "课题",
+      "pinyin": "kètí",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "调动",
+      "pinyin": "diàodòng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "调节",
+      "pinyin": "tiáojié",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "调解",
+      "pinyin": "tiáojiě",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "豆制品",
+      "pinyin": "dòuzhìpǐn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "象征",
+      "pinyin": "xiàngzhēng",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "负责人",
+      "pinyin": "fùzérén",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "贷款",
+      "pinyin": "dàikuǎn",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "贺卡",
+      "pinyin": "hèkǎ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "资产",
+      "pinyin": "zīchǎn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "资助",
+      "pinyin": "zīzhù",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "资本",
+      "pinyin": "zīběn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "赠",
+      "pinyin": "zèng",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "书店赠送了一本书。",
+          "赠送"
+        ]
+      ]
+    },
+    {
+      "word": "起到",
+      "pinyin": "qǐdào",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "起码",
+      "pinyin": "qǐmǎ",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "超越",
+      "pinyin": "chāoyuè",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "跟前",
+      "pinyin": "gēnqián",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "跟随",
+      "pinyin": "gēnsuí",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "车主",
+      "pinyin": "chēzhǔ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "转化",
+      "pinyin": "zhuǎnhuà",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "转向",
+      "pinyin": "zhuǎnxiàng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "转换",
+      "pinyin": "zhuǎnhuàn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "转让",
+      "pinyin": "zhuǎnràng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "软件",
+      "pinyin": "ruǎnjiàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "辅助",
+      "pinyin": "fǔzhù",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "输出",
+      "pinyin": "shūchū",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "辞典",
+      "pinyin": "cídiǎn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "边境",
+      "pinyin": "biānjìng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "达成",
+      "pinyin": "dáchéng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "过度",
+      "pinyin": "guòdù",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "过敏",
+      "pinyin": "guòmǐn",
+      "pos": "动、形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "运行",
+      "pinyin": "yùnxíng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "近来",
+      "pinyin": "jìnlái",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "进化",
+      "pinyin": "jìnhuà",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "违法",
+      "pinyin": "wéi∥fǎ",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "违规",
+      "pinyin": "wéi∥guī",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "连接",
+      "pinyin": "liánjiē",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "迷人",
+      "pinyin": "mírén",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "迷信",
+      "pinyin": "míxìn",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "逃",
+      "pinyin": "táo",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "小偷逃走了。",
+          "逃走"
+        ]
+      ]
+    },
+    {
+      "word": "逃跑",
+      "pinyin": "táopǎo",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "选修",
+      "pinyin": "xuǎnxiū",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "递",
+      "pinyin": "dì",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "他把信递给我，让我转交。",
+          "递给"
+        ]
+      ]
+    },
+    {
+      "word": "通用",
+      "pinyin": "tōngyòng",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "郊区",
+      "pinyin": "jiāoqū",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "部位",
+      "pinyin": "bùwèi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "配备",
+      "pinyin": "pèibèi",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "配套",
+      "pinyin": "pèi∥tào",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "酒鬼",
+      "pinyin": "jiǔguǐ",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "酸甜苦辣",
+      "pinyin": "suān-tián-kǔ-là",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "采购",
+      "pinyin": "cǎigòu",
+      "pos": "动、名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "铃声",
+      "pinyin": "língshēng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "键",
+      "pinyin": "jiàn",
+      "pos": "名",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "关键是按时完成。",
+          "关键"
+        ]
+      ]
+    },
+    {
+      "word": "键盘",
+      "pinyin": "jiànpán",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "长寿",
+      "pinyin": "chángshòu",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "闭幕",
+      "pinyin": "bì∥mù",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "闭幕式",
+      "pinyin": "bìmùshì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "间接",
+      "pinyin": "jiànjiē",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "阅览室",
+      "pinyin": "yuèlǎnshì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "防治",
+      "pinyin": "fángzhì",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "附件",
+      "pinyin": "fùjiàn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "除夕",
+      "pinyin": "chúxī",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "随后",
+      "pinyin": "suíhòu",
+      "pos": "副",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "随意",
+      "pinyin": "suí∥yì",
+      "pos": "",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "隔壁",
+      "pinyin": "gébì",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "难以",
+      "pinyin": "nányǐ",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "难得",
+      "pinyin": "nándé",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "雄伟",
+      "pinyin": "xióngwěi",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "集团",
+      "pinyin": "jítuán",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "震惊",
+      "pinyin": "zhènjīng",
+      "pos": "形、动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "靠近",
+      "pinyin": "kàojìn",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "面貌",
+      "pinyin": "miànmào",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "顾问",
+      "pinyin": "gùwèn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "预备",
+      "pinyin": "yùbèi",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "预期",
+      "pinyin": "yùqī",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "领带",
+      "pinyin": "lǐngdài",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "频道",
+      "pinyin": "píndào",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "题材",
+      "pinyin": "tícái",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "风光",
+      "pinyin": "fēngguāng",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "风度",
+      "pinyin": "fēngdù",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "餐饮",
+      "pinyin": "cānyǐn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "餐馆",
+      "pinyin": "cānguǎn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "饮食",
+      "pinyin": "yǐnshí",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "饼",
+      "pinyin": "bǐng",
+      "pos": "名",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "厨师在厨房烤月饼。",
+          "月饼"
+        ],
+        [
+          "老鼠偷吃了饼干。",
+          "饼干"
+        ]
+      ]
+    },
+    {
+      "word": "驾照",
+      "pinyin": "jiàzhào",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "骗子",
+      "pinyin": "piànzi",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "高于",
+      "pinyin": "gāoyú",
+      "pos": "动",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "高原",
+      "pinyin": "gāoyuán",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "高大",
+      "pinyin": "gāodà",
+      "pos": "形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "高度",
+      "pinyin": "gāodù",
+      "pos": "名、形",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "高温",
+      "pinyin": "gāowēn",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "高跟鞋",
+      "pinyin": "gāogēnxié",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    },
+    {
+      "word": "鼓",
+      "pinyin": "gǔ",
+      "pos": "名、动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "大家鼓掌鼓励他。",
+          "鼓掌"
+        ],
+        [
+          "大家鼓掌鼓励他。",
+          "鼓励"
+        ]
+      ]
+    },
+    {
+      "word": "鼠标",
+      "pinyin": "shǔbiāo",
+      "pos": "名",
+      "status": "never",
+      "hosts": []
+    }
+  ]
+}

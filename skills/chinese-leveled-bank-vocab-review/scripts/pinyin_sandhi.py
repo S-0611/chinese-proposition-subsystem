@@ -22,7 +22,7 @@ from pypinyin.contrib.tone_convert import to_tone
 HAN = re.compile(r"[\u4e00-\u9fff]")
 PUNC = "，。？！、：；"
 # 儿化的前一字（按需扩充）
-ERHUA_PREV = set("点会这玩孩事条哪空头那怎好一会")
+ERHUA_PREV = set("点会这玩孩事条哪空头那怎好一会下个偷伙同")
 
 
 def resolve_repo(arg):

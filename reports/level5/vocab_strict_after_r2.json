@@ -1,0 +1,67 @@
+{
+  "level": 5,
+  "total": 1067,
+  "strict_covered": 1064,
+  "parasitic": 3,
+  "never_appeared": 0,
+  "single_parasitic": [
+    "库",
+    "挣",
+    "灾"
+  ],
+  "multi_parasitic": [],
+  "targets": [
+    {
+      "word": "库",
+      "pinyin": "kù",
+      "pos": "名",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "水库的水很清。",
+          "水库"
+        ],
+        [
+          "年前建造的水库是必需的。",
+          "水库"
+        ]
+      ]
+    },
+    {
+      "word": "挣",
+      "pinyin": "zhèng",
+      "pos": "动",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "他靠自己挣钱。",
+          "挣钱"
+        ],
+        [
+          "他拥有手艺，挣钱报答父母。",
+          "挣钱"
+        ]
+      ]
+    },
+    {
+      "word": "灾",
+      "pinyin": "zāi",
+      "pos": "名",
+      "status": "parasitic",
+      "hosts": [
+        [
+          "地震造成了灾害。",
+          "灾害"
+        ],
+        [
+          "团长提出口号，号召受灾众人。",
+          "受灾"
+        ],
+        [
+          "救灾时打架被指责，墙要拆除。",
+          "救灾"
+        ]
+      ]
+    }
+  ]
+}

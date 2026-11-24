@@ -35,7 +35,7 @@
       "level": 5,
       "round": 1,
       "text": "桌上摆着一朵花。",
-      "pinyin": "zhuō shàng bǎi zhe yī duǒ huā。",
+      "pinyin": "zhuō shàng bǎi zhe yì duǒ huā。",
       "grammar": [
         "G5-02"
       ]
@@ -45,7 +45,7 @@
       "level": 5,
       "round": 1,
       "text": "墙上挂着一幅画。",
-      "pinyin": "qiáng shàng guà zhe yī fú huà。",
+      "pinyin": "qiáng shàng guà zhe yì fú huà。",
       "grammar": [
         "G5-02"
       ]
@@ -75,7 +75,7 @@
       "level": 5,
       "round": 1,
       "text": "这匹马跑得很快。",
-      "pinyin": "zhè pǐ mǎ pǎo dé hěn kuài。",
+      "pinyin": "zhè pǐ mǎ pǎo de hěn kuài。",
       "grammar": [
         "G5-02"
       ]
@@ -215,7 +215,7 @@
       "level": 5,
       "round": 1,
       "text": "他一向说话算数。",
-      "pinyin": "tā yī xiàng shuō huà suàn shù。",
+      "pinyin": "tā yí xiàng shuō huà suàn shù。",
       "grammar": [
         "G5-05"
       ]
@@ -245,7 +245,7 @@
       "level": 5,
       "round": 1,
       "text": "他偷偷看了我一眼。",
-      "pinyin": "tā tōu tōu kàn le wǒ yī yǎn。",
+      "pinyin": "tā tōu tōu kàn le wǒ yì yǎn。",
       "grammar": [
         "G5-07"
       ]
@@ -285,7 +285,7 @@
       "level": 5,
       "round": 1,
       "text": "我差点儿忘了带票。",
-      "pinyin": "wǒ chà diǎn ér wàng le dài piào。",
+      "pinyin": "wǒ chà diǎn r wàng le dài piào。",
       "grammar": [
         "G5-08"
       ]
@@ -415,7 +415,7 @@
       "level": 5,
       "round": 1,
       "text": "凭他的能力，一定能做好。",
-      "pinyin": "píng tā de néng lì，yī dìng néng zuò hǎo。",
+      "pinyin": "píng tā de néng lì，yí dìng néng zuò hǎo。",
       "grammar": [
         "G5-12"
       ]
@@ -485,7 +485,7 @@
       "level": 5,
       "round": 1,
       "text": "完了，我忘带钱包了。",
-      "pinyin": "wán le， wǒ wàng dài qián bāo le。",
+      "pinyin": "wán le，wǒ wàng dài qián bāo le。",
       "grammar": [
         "G5-15"
       ]
@@ -495,7 +495,7 @@
       "level": 5,
       "round": 1,
       "text": "一旦开始，就不要停。",
-      "pinyin": "yī dàn kāi shǐ，jiù bù yào tíng。",
+      "pinyin": "yí dàn kāi shǐ，jiù bú yào tíng。",
       "grammar": [
         "G5-15"
       ]
@@ -505,7 +505,7 @@
       "level": 5,
       "round": 1,
       "text": "你去也好，不去也好，我都不管。",
-      "pinyin": "nǐ qù yě hǎo，bù qù yě hǎo，wǒ dōu bù guǎn。",
+      "pinyin": "nǐ qù yě hǎo，bú qù yě hǎo，wǒ dōu bù guǎn。",
       "grammar": [
         "G5-16"
       ]
@@ -535,7 +535,7 @@
       "level": 5,
       "round": 1,
       "text": "我想来想去，还是不去。",
-      "pinyin": "wǒ xiǎng lái xiǎng qù，hái shì bù qù。",
+      "pinyin": "wǒ xiǎng lái xiǎng qù，hái shì bú qù。",
       "grammar": [
         "G5-17"
       ]
@@ -605,7 +605,7 @@
       "level": 5,
       "round": 1,
       "text": "这个村子有山有水。",
-      "pinyin": "zhè gè cūn zi yǒu shān yǒu shuǐ。",
+      "pinyin": "zhè ge cūn zi yǒu shān yǒu shuǐ。",
       "grammar": [
         "G5-21"
       ]
@@ -625,7 +625,7 @@
       "level": 5,
       "round": 1,
       "text": "外面冷得不得了。",
-      "pinyin": "wài miàn lěng dé bù dé le。",
+      "pinyin": "wài miàn lěng de bù dé liǎo。",
       "grammar": [
         "G5-22"
       ]
@@ -645,7 +645,7 @@
       "level": 5,
       "round": 1,
       "text": "您这么帮我，我可不敢当。",
-      "pinyin": "nín zhè me bāng wǒ， wǒ kě bù gǎn dāng。",
+      "pinyin": "nín zhè me bāng wǒ，wǒ kě bù gǎn dāng。",
       "grammar": [
         "G5-23"
       ]
@@ -775,7 +775,7 @@
       "level": 5,
       "round": 1,
       "text": "拿这件事来说，他做得对。",
-      "pinyin": "ná zhè jiàn shì lái shuō，tā zuò dé duì。",
+      "pinyin": "ná zhè jiàn shì lái shuō，tā zuò de duì。",
       "grammar": [
         "G5-29"
       ]
@@ -835,7 +835,7 @@
       "level": 5,
       "round": 1,
       "text": "他写了一篇文章。",
-      "pinyin": "tā xiě le yī piān wén zhāng。",
+      "pinyin": "tā xiě le yì piān wén zhāng。",
       "grammar": [
         "G5-32"
       ]
@@ -885,7 +885,7 @@
       "level": 5,
       "round": 1,
       "text": "这双鞋还穿得。",
-      "pinyin": "zhè shuāng xié hái chuān dé。",
+      "pinyin": "zhè shuāng xié hái chuān de。",
       "grammar": [
         "G5-35"
       ]
@@ -905,7 +905,7 @@
       "level": 5,
       "round": 1,
       "text": "他饿得慌。",
-      "pinyin": "tā è dé huāng。",
+      "pinyin": "tā è de huāng。",
       "grammar": [
         "G5-36"
       ]
@@ -925,7 +925,7 @@
       "level": 5,
       "round": 1,
       "text": "他跑得满头大汗。",
-      "pinyin": "tā pǎo dé mǎn tóu dà hàn。",
+      "pinyin": "tā pǎo de mǎn tóu dà hán。",
       "grammar": [
         "G5-37"
       ]
@@ -935,7 +935,7 @@
       "level": 5,
       "round": 1,
       "text": "她笑得合不上嘴。",
-      "pinyin": "tā xiào dé hé bù shàng zuǐ。",
+      "pinyin": "tā xiào de hé bú shàng zuǐ。",
       "grammar": [
         "G5-37"
       ]
@@ -1035,7 +1035,7 @@
       "level": 5,
       "round": 1,
       "text": "这件事令她吃不下饭。",
-      "pinyin": "zhè jiàn shì lìng tā chī bù xià fàn。",
+      "pinyin": "zhè jiàn shì lìng tā chī bú xià fàn。",
       "grammar": [
         "G5-42"
       ]
@@ -1065,7 +1065,7 @@
       "level": 5,
       "round": 1,
       "text": "或是哥哥做的，或是弟弟做的。",
-      "pinyin": "huò shì gē gē zuò de，huò shì dì dì zuò de。",
+      "pinyin": "huò shì gē gē zuò de，huò shì dì di zuò de。",
       "grammar": [
         "G5-44"
       ]
@@ -1105,7 +1105,7 @@
       "level": 5,
       "round": 1,
       "text": "一旦开始，就要坚持。",
-      "pinyin": "yī dàn kāi shǐ，jiù yào jiān chí。",
+      "pinyin": "yí dàn kāi shǐ，jiù yào jiān chí。",
       "grammar": [
         "G5-46"
       ]
@@ -1115,7 +1115,7 @@
       "level": 5,
       "round": 1,
       "text": "一旦下雪，路就难走。",
-      "pinyin": "yī dàn xià xuě，lù jiù nán zǒu。",
+      "pinyin": "yí dàn xià xuě，lù jiù nán zǒu。",
       "grammar": [
         "G5-46"
       ]
@@ -1195,7 +1195,7 @@
       "level": 5,
       "round": 1,
       "text": "考试太难，因而很多人没过。",
-      "pinyin": "kǎo shì tài nán，yīn ér hěn duō rén méi guò。",
+      "pinyin": "kǎo shì tài nán，yīn ér hěn duō rén mò guò。",
       "grammar": [
         "G5-50"
       ]
@@ -1375,7 +1375,7 @@
       "level": 5,
       "round": 2,
       "text": "他气得哭也不是，笑也不是。",
-      "pinyin": "tā qì dé kū yě bù shì，xiào yě bù shì。",
+      "pinyin": "tā qì de kū yě bú shì，xiào yě bú shì。",
       "grammar": [
         "G5-60"
       ]
@@ -1385,7 +1385,7 @@
       "level": 5,
       "round": 2,
       "text": "走也不是，留也不是。",
-      "pinyin": "zǒu yě bù shì，liú yě bù shì。",
+      "pinyin": "zǒu yě bú shì，liú yě bú shì。",
       "grammar": [
         "G5-60"
       ]
@@ -1475,7 +1475,7 @@
       "level": 5,
       "round": 2,
       "text": "不管怎样说，你这么做不对。",
-      "pinyin": "bù guǎn zěn yàng shuō，nǐ zhè me zuò bù duì。",
+      "pinyin": "bù guǎn zěn yàng shuō，nǐ zhè me zuò bú duì。",
       "grammar": [
         "G5-65"
       ]
@@ -1505,7 +1505,7 @@
       "level": 5,
       "round": 2,
       "text": "瞧他得意的。",
-      "pinyin": "qiáo tā dé yì de。",
+      "pinyin": "qiáo tā de yì de。",
       "grammar": [
         "G5-66"
       ]
@@ -1525,7 +1525,7 @@
       "level": 5,
       "round": 2,
       "text": "真有他的，什么都不怕。",
-      "pinyin": "zhēn yǒu tā de，shén me dōu bù pà。",
+      "pinyin": "zhēn yǒu tā de，shén me dōu bú pà。",
       "grammar": [
         "G5-67"
       ]
@@ -1575,7 +1575,7 @@
       "level": 5,
       "round": 2,
       "text": "这个孩子他很聪明。",
-      "pinyin": "zhè gè hái zi tā hěn cōng míng。",
+      "pinyin": "zhè ge hái zi tā hěn cōng míng。",
       "grammar": [
         "G5-70"
       ]
@@ -1605,7 +1605,7 @@
       "level": 5,
       "round": 2,
       "text": "语言也在变化，只是不易发现。",
-      "pinyin": "yǔ yán yě zài biàn huà，zhǐ shì bù yì fā xiàn。",
+      "pinyin": "yǔ yán yě zài biàn huà，zhǐ shì bú yì fā xiàn。",
       "grammar": [
         "G5-71"
       ]
@@ -1635,7 +1635,7 @@
       "level": 5,
       "round": 2,
       "text": "岸边停着一条船。",
-      "pinyin": "àn biān tíng zhe yī tiáo chuán。",
+      "pinyin": "àn biān tíng zhe yì tiáo chuán。",
       "grammar": [
         "G5-32"
       ]
@@ -1715,7 +1715,7 @@
       "level": 5,
       "round": 2,
       "text": "他瘦了，也不爱饮料。",
-      "pinyin": "tā shòu le，yě bù ài yǐn liào。",
+      "pinyin": "tā shòu le，yě bú ài yǐn liào。",
       "grammar": [
         "G5-32"
       ]
@@ -1725,7 +1725,7 @@
       "level": 5,
       "round": 2,
       "text": "他鼻子流血，肩也疼。",
-      "pinyin": "tā bí zi liú xuè，jiān yě téng。",
+      "pinyin": "tā bí zi liú xiě，jiān yě téng。",
       "grammar": [
         "G5-32"
       ]
@@ -1745,7 +1745,7 @@
       "level": 5,
       "round": 2,
       "text": "他发烧了一夜，去门诊。",
-      "pinyin": "tā fā shāo le yī yè， qù mén zhěn。",
+      "pinyin": "tā fā shāo le yí yè，qù mén zhěn。",
       "grammar": [
         "G5-41"
       ]
@@ -1765,7 +1765,7 @@
       "level": 5,
       "round": 2,
       "text": "这种树寿命很长。",
-      "pinyin": "zhè zhòng shù shòu mìng hěn cháng。",
+      "pinyin": "zhè zhòng shù shòu mìng hěn zhǎng。",
       "grammar": [
         "G5-32"
       ]
@@ -1775,7 +1775,7 @@
       "level": 5,
       "round": 2,
       "text": "卧室的墙壁上挂着一幅画。",
-      "pinyin": "wò shì de qiáng bì shàng guà zhe yī fú huà。",
+      "pinyin": "wò shì de qiáng bì shàng guà zhe yì fú huà。",
       "grammar": [
         "G5-32"
       ]
@@ -1895,7 +1895,7 @@
       "level": 5,
       "round": 2,
       "text": "他听得呆住了，很悲伤。",
-      "pinyin": "tā tīng dé dāi zhù le， hěn bēi shāng。",
+      "pinyin": "tā tīng de dāi zhù le，hěn bēi shāng。",
       "grammar": [
         "G5-37"
       ]
@@ -1925,7 +1925,7 @@
       "level": 5,
       "round": 2,
       "text": "他脾气好，从不抱怨。",
-      "pinyin": "tā pí qì hǎo，cóng bù bào yuàn。",
+      "pinyin": "tā pí qì hǎo，cóng bú bào yuàn。",
       "grammar": [
         "G5-32"
       ]
@@ -1985,7 +1985,7 @@
       "level": 5,
       "round": 2,
       "text": "他厉害得很，但很虚心。",
-      "pinyin": "tā lì hài dé hěn，dàn hěn xū xīn。",
+      "pinyin": "tā lì hài de hěn，dàn hěn xū xīn。",
       "grammar": [
         "G5-36"
       ]
@@ -2025,7 +2025,7 @@
       "level": 5,
       "round": 2,
       "text": "水池冻了一层冰。",
-      "pinyin": "shuǐ chí dòng le yī céng bīng。",
+      "pinyin": "shuǐ chí dòng le yì céng bīng。",
       "grammar": [
         "G5-32"
       ]
@@ -2035,7 +2035,7 @@
       "level": 5,
       "round": 2,
       "text": "山洞里有一条毒蛇。",
-      "pinyin": "shān dòng lǐ yǒu yī tiáo dú shé。",
+      "pinyin": "shān dòng lǐ yǒu yì tiáo dú shé。",
       "grammar": [
         "G5-38"
       ]
@@ -2045,7 +2045,7 @@
       "level": 5,
       "round": 2,
       "text": "门口堆着一堆柴。",
-      "pinyin": "mén kǒu duī zhe yī duī chái。",
+      "pinyin": "mén kǒu duī zhe yì duī chái。",
       "grammar": [
         "G5-32"
       ]
@@ -2065,7 +2065,7 @@
       "level": 5,
       "round": 2,
       "text": "水沟很滑，他摔得很重。",
-      "pinyin": "shuǐ gōu hěn huá， tā shuāi dé hěn zhòng。",
+      "pinyin": "shuǐ gōu hěn huá，tā shuāi de hěn zhòng。",
       "grammar": [
         "G5-37"
       ]
@@ -2075,7 +2075,7 @@
       "level": 5,
       "round": 2,
       "text": "桌上落了一层灰。",
-      "pinyin": "zhuō shàng luò le yī céng huī。",
+      "pinyin": "zhuō shàng là le yì céng huī。",
       "grammar": [
         "G5-32"
       ]
@@ -2095,7 +2095,7 @@
       "level": 5,
       "round": 2,
       "text": "喷泉的水洒了一地。",
-      "pinyin": "pēn quán de shuǐ sǎ le yī dì。",
+      "pinyin": "pēn quán de shuǐ sǎ le yí dì。",
       "grammar": [
         "G5-32"
       ]
@@ -2125,7 +2125,7 @@
       "level": 5,
       "round": 2,
       "text": "兔子跑得很快。",
-      "pinyin": "tù zi pǎo dé hěn kuài。",
+      "pinyin": "tù zi pǎo de hěn kuài。",
       "grammar": [
         "G5-36"
       ]
@@ -2135,7 +2135,7 @@
       "level": 5,
       "round": 2,
       "text": "羽毛很轻，风一吹就走。",
-      "pinyin": "yǔ máo hěn qīng，fēng yī chuī jiù zǒu。",
+      "pinyin": "yǔ máo hěn qīng，fēng yì chuī jiù zǒu。",
       "grammar": [
         "G5-32"
       ]
@@ -2145,7 +2145,7 @@
       "level": 5,
       "round": 2,
       "text": "夕阳西下，天边一片紫。",
-      "pinyin": "xī yáng xī xià，tiān biān yī piàn zǐ。",
+      "pinyin": "xī yáng xī xià，tiān biān yí piàn zǐ。",
       "grammar": [
         "G5-32"
       ]
@@ -2225,7 +2225,7 @@
       "level": 5,
       "round": 2,
       "text": "他贷了一笔款。",
-      "pinyin": "tā dài le yī bǐ kuǎn。",
+      "pinyin": "tā dài le yì bǐ kuǎn。",
       "grammar": [
         "G5-32"
       ]
@@ -2355,7 +2355,7 @@
       "level": 5,
       "round": 2,
       "text": "这次竞争激烈得很。",
-      "pinyin": "zhè cì jìng zhēng jī liè dé hěn。",
+      "pinyin": "zhè cì jìng zhēng jī liè de hěn。",
       "grammar": [
         "G5-36"
       ]
@@ -2595,7 +2595,7 @@
       "level": 5,
       "round": 3,
       "text": "我忍不住笑了。",
-      "pinyin": "wǒ rěn bù zhù xiào le。",
+      "pinyin": "wǒ rěn bú zhù xiào le。",
       "grammar": [
         "G5-35"
       ]
@@ -2615,7 +2615,7 @@
       "level": 5,
       "round": 3,
       "text": "他跑得很快，获得了冠军。",
-      "pinyin": "tā pǎo dé hěn kuài， huò dé le guàn jūn。",
+      "pinyin": "tā pǎo de hěn kuài，huò dé le guàn jūn。",
       "grammar": [
         "G5-37"
       ]
@@ -2695,7 +2695,7 @@
       "level": 5,
       "round": 3,
       "text": "只剩下一张票。",
-      "pinyin": "zhǐ shèng xià yī zhāng piào。",
+      "pinyin": "zhǐ shèng xià yì zhāng piào。",
       "grammar": [
         "G5-32"
       ]
@@ -2715,7 +2715,7 @@
       "level": 5,
       "round": 3,
       "text": "房间装饰得很美。",
-      "pinyin": "fáng jiān zhuāng shì dé hěn měi。",
+      "pinyin": "fáng jiān zhuāng shì de hěn měi。",
       "grammar": [
         "G5-37"
       ]
@@ -2915,7 +2915,7 @@
       "level": 5,
       "round": 3,
       "text": "他献出了一份力量。",
-      "pinyin": "tā xiàn chū le yī fèn lì liàng。",
+      "pinyin": "tā xiàn chū le yí fèn lì liàng。",
       "grammar": [
         "G5-32"
       ]
@@ -2925,7 +2925,7 @@
       "level": 5,
       "round": 3,
       "text": "他说得很详细。",
-      "pinyin": "tā shuō dé hěn xiáng xì。",
+      "pinyin": "tā shuō de hěn xiáng xì。",
       "grammar": [
         "G5-37"
       ]
@@ -2945,7 +2945,7 @@
       "level": 5,
       "round": 3,
       "text": "走累了，歇一会儿。",
-      "pinyin": "zǒu lèi le，xiē yī huì er。",
+      "pinyin": "zǒu lèi le，xiē yí huì r。",
       "grammar": [
         "G5-41"
       ]
@@ -2965,7 +2965,7 @@
       "level": 5,
       "round": 3,
       "text": "画了一条斜线。",
-      "pinyin": "huà le yī tiáo xié xiàn。",
+      "pinyin": "huà le yì tiáo xié xiàn。",
       "grammar": [
         "G5-32"
       ]
@@ -3095,7 +3095,7 @@
       "level": 5,
       "round": 3,
       "text": "这块石头很硬。",
-      "pinyin": "zhè kuài shí tóu hěn yìng。",
+      "pinyin": "zhè kuài shí tou hěn yìng。",
       "grammar": [
         "G5-32"
       ]
@@ -3135,7 +3135,7 @@
       "level": 5,
       "round": 3,
       "text": "他检查得很仔细。",
-      "pinyin": "tā jiǎn chá dé hěn zǐ xì。",
+      "pinyin": "tā jiǎn chá de hěn zǐ xì。",
       "grammar": [
         "G5-37"
       ]
@@ -3165,7 +3165,7 @@
       "level": 5,
       "round": 3,
       "text": "书店赠送了一本书。",
-      "pinyin": "shū diàn zèng sòng le yī běn shū。",
+      "pinyin": "shū diàn zèng sòng le yì běn shū。",
       "grammar": [
         "G5-32"
       ]
@@ -3315,7 +3315,7 @@
       "level": 5,
       "round": 3,
       "text": "他的球打得真棒。",
-      "pinyin": "tā de qiú dǎ dé zhēn bàng。",
+      "pinyin": "tā de qiú dǎ de zhēn bàng。",
       "grammar": [
         "G5-36"
       ]
@@ -3385,7 +3385,7 @@
       "level": 5,
       "round": 3,
       "text": "钱包丢了，他很难受。",
-      "pinyin": "qián bāo diū le， tā hěn nán shòu。",
+      "pinyin": "qián bāo diū le，tā hěn nán shòu。",
       "grammar": [
         "G5-40"
       ]
@@ -3545,7 +3545,7 @@
       "level": 5,
       "round": 3,
       "text": "他老了，记不住事。",
-      "pinyin": "tā lǎo le， jì bù zhù shì。",
+      "pinyin": "tā lǎo le，jì bú zhù shì。",
       "grammar": [
         "G5-35"
       ]
@@ -3615,7 +3615,7 @@
       "level": 5,
       "round": 3,
       "text": "他劳动了一整天。",
-      "pinyin": "tā láo dòng le yī zhěng tiān。",
+      "pinyin": "tā láo dòng le yì zhěng tiān。",
       "grammar": [
         "G5-32"
       ]
@@ -3665,7 +3665,7 @@
       "level": 5,
       "round": 3,
       "text": "这是一个漫长的过程。",
-      "pinyin": "zhè shì yī gè màn cháng de guò chéng。",
+      "pinyin": "zhè shì yí gè màn cháng de guò chéng。",
       "grammar": [
         "G5-32"
       ]
@@ -3695,7 +3695,7 @@
       "level": 5,
       "round": 3,
       "text": "请等我一秒。",
-      "pinyin": "qǐng děng wǒ yī miǎo。",
+      "pinyin": "qǐng děng wǒ yì miǎo。",
       "grammar": [
         "G5-32"
       ]
@@ -3715,7 +3715,7 @@
       "level": 5,
       "round": 3,
       "text": "把灯关小一点。",
-      "pinyin": "bǎ dēng guān xiǎo yī diǎn。",
+      "pinyin": "bǎ dēng guān xiǎo yì diǎn。",
       "grammar": [
         "G5-39"
       ]
@@ -3725,7 +3725,7 @@
       "level": 5,
       "round": 3,
       "text": "这个杯子很耐用。",
-      "pinyin": "zhè gè bēi zi hěn nài yòng。",
+      "pinyin": "zhè ge bēi zi hěn nài yòng。",
       "grammar": [
         "G5-32"
       ]
@@ -3815,7 +3815,7 @@
       "level": 5,
       "round": 3,
       "text": "孩子泼了一身水。",
-      "pinyin": "hái zi pō le yī shēn shuǐ。",
+      "pinyin": "hái zi pō le yì shēn shuǐ。",
       "grammar": [
         "G5-32"
       ]
@@ -3835,7 +3835,7 @@
       "level": 5,
       "round": 3,
       "text": "她戴着一顶帽子。",
-      "pinyin": "tā dài zhe yī dǐng mào zi。",
+      "pinyin": "tā dài zhe yì dǐng mào zi。",
       "grammar": [
         "G5-32"
       ]
@@ -3845,7 +3845,7 @@
       "level": 5,
       "round": 2,
       "text": "我家有六口人：爸爸、妈妈、姐姐、妹妹和我。",
-      "pinyin": "wǒ jiā yǒu liù kǒu rén： bà bà、 mā mā、 jiě jiě、 mèi mèi hé wǒ。",
+      "pinyin": "wǒ jiā yǒu liù kǒu rén：bà bà、mā mā、jiě jiě、mèi mèi hé wǒ。",
       "grammar": [
         "G5-38"
       ]
@@ -3855,7 +3855,7 @@
       "level": 5,
       "round": 2,
       "text": "现在八点半，还有二十分钟就上课。",
-      "pinyin": "xiàn zài bā diǎn bàn， hái yǒu èr shí fēn zhōng jiù shàng kè。",
+      "pinyin": "xiàn zài bā diǎn bàn，hái yǒu èr shí fēn zhōng jiù shàng kè。",
       "grammar": [
         "G5-38"
       ]
@@ -3865,7 +3865,7 @@
       "level": 5,
       "round": 2,
       "text": "爷爷每天教我唱歌，我学得很快。",
-      "pinyin": "yé yé měi tiān jiào wǒ chàng gē， wǒ xué dé hěn kuài。",
+      "pinyin": "yé yé měi tiān jiào wǒ chàng gē，wǒ xué de hěn kuài。",
       "grammar": [
         "G5-42"
       ]
@@ -3875,7 +3875,7 @@
       "level": 5,
       "round": 2,
       "text": "请问，东边有商店吗？我想买点东西。",
-      "pinyin": "qǐng wèn， dōng biān yǒu shāng diàn ma？ wǒ xiǎng mǎi diǎn dōng xī。",
+      "pinyin": "qǐng wèn，dōng biān yǒu shāng diàn ma？wǒ xiǎng mǎi diǎn dōng xī。",
       "grammar": [
         "G5-38"
       ]
@@ -3885,7 +3885,7 @@
       "level": 5,
       "round": 2,
       "text": "那座楼里有茶馆，也有饭店。",
-      "pinyin": "nà zuò lóu lǐ yǒu chá guǎn， yě yǒu fàn diàn。",
+      "pinyin": "nà zuò lóu lǐ yǒu chá guǎn，yě yǒu fàn diàn。",
       "grammar": [
         "G5-38"
       ]
@@ -3895,7 +3895,7 @@
       "level": 5,
       "round": 2,
       "text": "谁认识这位先生？请你介绍一下。",
-      "pinyin": "shuí rèn shí zhè wèi xiān shēng？ qǐng nǐ jiè shào yī xià。",
+      "pinyin": "shuí rèn shí zhè wèi xiān shēng？qǐng nǐ jiè shào yí xià。",
       "grammar": [
         "G5-32"
       ]
@@ -3905,7 +3905,7 @@
       "level": 5,
       "round": 2,
       "text": "男的在左边，女的在右边。",
-      "pinyin": "nán de zài zuǒ biān， nǚ de zài yòu biān。",
+      "pinyin": "nán de zài zuǒ biān，nǚ de zài yòu biān。",
       "grammar": [
         "G5-33"
       ]
@@ -3925,7 +3925,7 @@
       "level": 5,
       "round": 2,
       "text": "晚上我想洗个澡，早点休息。",
-      "pinyin": "wǎn shàng wǒ xiǎng xǐ gè zǎo， zǎo diǎn xiū xī。",
+      "pinyin": "wǎn shàng wǒ xiǎng xǐ gè zǎo，zǎo diǎn xiū xī。",
       "grammar": [
         "G5-41"
       ]
@@ -3935,7 +3935,7 @@
       "level": 5,
       "round": 2,
       "text": "他渴了，想喝一杯茶。",
-      "pinyin": "tā kě le， xiǎng hē yī bēi chá。",
+      "pinyin": "tā kě le，xiǎng hē yì bēi chá。",
       "grammar": [
         "G5-32"
       ]
@@ -3945,7 +3945,7 @@
       "level": 5,
       "round": 2,
       "text": "这双鞋二百元，有点贵。",
-      "pinyin": "zhè shuāng xié èr bǎi yuán， yǒu diǎn guì。",
+      "pinyin": "zhè shuāng xié èr bǎi yuán，yǒu diǎn guì。",
       "grammar": [
         "G5-71"
       ]
@@ -3955,7 +3955,7 @@
       "level": 5,
       "round": 2,
       "text": "房间很干净，门上的号码是二零一。",
-      "pinyin": "fáng jiān hěn gān jìng， mén shàng de hào mǎ shì èr líng yī。",
+      "pinyin": "fáng jiān hěn gān jìng，mén shàng de hào mǎ shì èr líng yī。",
       "grammar": [
         "G5-32"
       ]
@@ -3975,7 +3975,7 @@
       "level": 5,
       "round": 2,
       "text": "我准备好了，明天就出发。",
-      "pinyin": "wǒ zhǔn bèi hǎo le， míng tiān jiù chū fā。",
+      "pinyin": "wǒ zhǔn bèi hǎo le，míng tiān jiù chū fā。",
       "grammar": [
         "G5-08"
       ]
@@ -4005,7 +4005,7 @@
       "level": 5,
       "round": 2,
       "text": "今天是十月一日，我们放假。",
-      "pinyin": "jīn tiān shì shí yuè yī rì， wǒ men fàng jià。",
+      "pinyin": "jīn tiān shì shí yuè yí rì，wǒ men fàng jià。",
       "grammar": [
         "G5-71"
       ]
@@ -4035,7 +4035,7 @@
       "level": 5,
       "round": 2,
       "text": "我家离学校很远，要坐公共汽车。",
-      "pinyin": "wǒ jiā lí xué xiào hěn yuǎn， yào zuò gōng gòng qì chē。",
+      "pinyin": "wǒ jiā lí xué xiào hěn yuǎn，yào zuò gōng gòng qì chē。",
       "grammar": [
         "G5-41"
       ]
@@ -4045,7 +4045,7 @@
       "level": 5,
       "round": 2,
       "text": "汉字很难写，我要多练习。",
-      "pinyin": "hàn zì hěn nán xiě， wǒ yào duō liàn xí。",
+      "pinyin": "hàn zì hěn nán xiě，wǒ yào duō liàn xí。",
       "grammar": [
         "G5-32"
       ]
@@ -4055,7 +4055,7 @@
       "level": 5,
       "round": 2,
       "text": "他今年九岁，上小学三年级。",
-      "pinyin": "tā jīn nián jiǔ suì， shàng xiǎo xué sān nián jí。",
+      "pinyin": "tā jīn nián jiǔ suì，shàng xiǎo xué sān nián jí。",
       "grammar": [
         "G5-32"
       ]
@@ -4075,7 +4075,7 @@
       "level": 5,
       "round": 2,
       "text": "他每天七点起床，八点吃早饭。",
-      "pinyin": "tā měi tiān qī diǎn qǐ chuáng， bā diǎn chī zǎo fàn。",
+      "pinyin": "tā měi tiān qī diǎn qǐ chuáng，bā diǎn chī zǎo fàn。",
       "grammar": [
         "G5-41"
       ]
@@ -4085,7 +4085,7 @@
       "level": 5,
       "round": 2,
       "text": "这套衣服不贵，颜色也很好看。",
-      "pinyin": "zhè tào yī fú bù guì， yán sè yě hěn hǎo kàn。",
+      "pinyin": "zhè tào yī fú bú guì，yán sè yě hěn hǎo kàn。",
       "grammar": [
         "G5-32"
       ]
@@ -4095,7 +4095,7 @@
       "level": 5,
       "round": 2,
       "text": "春天来了，湖边的树绿了，风景很美。",
-      "pinyin": "chūn tiān lái le， hú biān de shù lǜ le， fēng jǐng hěn měi。",
+      "pinyin": "chūn tiān lái le，hú biān de shù lǜ le，fēng jǐng hěn měi。",
       "grammar": [
         "G5-32"
       ]
@@ -4105,7 +4105,7 @@
       "level": 5,
       "round": 2,
       "text": "夏天很热，我们常去湖里游泳，凉快极了。",
-      "pinyin": "xià tiān hěn rè， wǒ men cháng qù hú lǐ yóu yǒng， liáng kuài jí le。",
+      "pinyin": "xià tiān hěn rè，wǒ men cháng qù hú lǐ yóu yǒng，liáng kuài jí le。",
       "grammar": [
         "G5-32"
       ]
@@ -4115,7 +4115,7 @@
       "level": 5,
       "round": 2,
       "text": "秋天到了，果园的苹果熟了，摘了满满一篮。",
-      "pinyin": "qiū tiān dào le， guǒ yuán de píng guǒ shú le， zhāi le mǎn mǎn yī lán。",
+      "pinyin": "qiū tiān dào le，guǒ yuán de píng guǒ shú le，zhāi le mǎn mǎn yì lán。",
       "grammar": [
         "G5-32"
       ]
@@ -4125,7 +4125,7 @@
       "level": 5,
       "round": 2,
       "text": "冬天很冷，外面下着大雪，路上一个人也没有。",
-      "pinyin": "dōng tiān hěn lěng， wài miàn xià zhe dà xuě， lù shàng yī gè rén yě méi yǒu。",
+      "pinyin": "dōng tiān hěn lěng，wài miàn xià zhe dà xuě，lù shàng yí gè rén yě méi yǒu。",
       "grammar": [
         "G5-38"
       ]
@@ -4135,7 +4135,7 @@
       "level": 5,
       "round": 2,
       "text": "他每天早上六点起床，晚上十点睡觉。",
-      "pinyin": "tā měi tiān zǎo shàng liù diǎn qǐ chuáng， wǎn shàng shí diǎn shuì jiào。",
+      "pinyin": "tā měi tiān zǎo shàng liù diǎn qǐ chuáng，wǎn shàng shí diǎn shuì jiào。",
       "grammar": [
         "G5-33"
       ]
@@ -4145,7 +4145,7 @@
       "level": 5,
       "round": 2,
       "text": "这家餐厅的牛肉面很好吃，我吃得很饱。",
-      "pinyin": "zhè jiā cān tīng de niú ròu miàn hěn hǎo chī， wǒ chī dé hěn bǎo。",
+      "pinyin": "zhè jiā cān tīng de niú ròu miàn hěn hǎo chī，wǒ chī de hěn bǎo。",
       "grammar": [
         "G5-37"
       ]
@@ -4155,7 +4155,7 @@
       "level": 5,
       "round": 2,
       "text": "他喜欢喝啤酒，我喜欢喝咖啡，各有各的味道。",
-      "pinyin": "tā xǐ huān hē pí jiǔ， wǒ xǐ huān hē kā fēi， gè yǒu gè de wèi dào。",
+      "pinyin": "tā xǐ huān hē pí jiǔ，wǒ xǐ huān hē kā fēi，gè yǒu gè de wèi dào。",
       "grammar": [
         "G5-32"
       ]
@@ -4165,7 +4165,7 @@
       "level": 5,
       "round": 2,
       "text": "碗里的汤太咸了，我不喜欢，你喝吧。",
-      "pinyin": "wǎn lǐ de tāng tài xián le， wǒ bù xǐ huān， nǐ hē ba。",
+      "pinyin": "wǎn lǐ de tāng tài xián le，wǒ bù xǐ huān，nǐ hē ba。",
       "grammar": [
         "G5-32"
       ]
@@ -4175,7 +4175,7 @@
       "level": 5,
       "round": 2,
       "text": "他坐在椅子上，手里拿着一本词典。",
-      "pinyin": "tā zuò zài yǐ zi shàng， shǒu lǐ ná zhe yī běn cí diǎn。",
+      "pinyin": "tā zuò zài yǐ zi shàng，shǒu lǐ ná zhe yì běn cí diǎn。",
       "grammar": [
         "G5-41"
       ]
@@ -4185,7 +4185,7 @@
       "level": 5,
       "round": 2,
       "text": "桌子上放着筷子和空碗，没人收拾。",
-      "pinyin": "zhuō zi shàng fàng zhe kuài zi hé kōng wǎn， méi rén shōu shí。",
+      "pinyin": "zhuō zi shàng fàng zhe kuài zi hé kōng wǎn，méi rén shōu shí。",
       "grammar": [
         "G5-32"
       ]
@@ -4195,7 +4195,7 @@
       "level": 5,
       "round": 2,
       "text": "他穿了一件蓝色的衬衫，看起来很精神。",
-      "pinyin": "tā chuān le yī jiàn lán sè de chèn shān， kàn qǐ lái hěn jīng shén。",
+      "pinyin": "tā chuān le yí jiàn lán sè de chèn shān，kàn qǐ lái hěn jīng shén。",
       "grammar": [
         "G5-32"
       ]
@@ -4205,7 +4205,7 @@
       "level": 5,
       "round": 2,
       "text": "这条裙子太短了，我想换一条长一点的。",
-      "pinyin": "zhè tiáo qún zi tài duǎn le， wǒ xiǎng huàn yī tiáo zhǎng yī diǎn de。",
+      "pinyin": "zhè tiáo qún zi tài duǎn le，wǒ xiǎng huàn yì tiáo zhǎng yì diǎn de。",
       "grammar": [
         "G5-32"
       ]
@@ -4215,7 +4215,7 @@
       "level": 5,
       "round": 2,
       "text": "会上大家讨论了很久，最后同意了。",
-      "pinyin": "huì shàng dà jiā tǎo lùn le hěn jiǔ， zuì hòu tóng yì le。",
+      "pinyin": "huì shàng dà jiā tǎo lùn le hěn jiǔ，zuì hòu tóng yì le。",
       "grammar": [
         "G5-71"
       ]
@@ -4225,7 +4225,7 @@
       "level": 5,
       "round": 2,
       "text": "他讲的故事很有意思，大家都笑了。",
-      "pinyin": "tā jiǎng de gù shì hěn yǒu yì si， dà jiā dōu xiào le。",
+      "pinyin": "tā jiǎng de gù shì hěn yǒu yì si，dà jiā dōu xiào le。",
       "grammar": [
         "G5-32"
       ]
@@ -4235,7 +4235,7 @@
       "level": 5,
       "round": 2,
       "text": "他们的关系很好，经常互相帮助。",
-      "pinyin": "tā men de guān xì hěn hǎo， jīng cháng hù xiāng bāng zhù。",
+      "pinyin": "tā men de guān xì hěn hǎo，jīng cháng hù xiāng bāng zhù。",
       "grammar": [
         "G5-33"
       ]
@@ -4245,7 +4245,7 @@
       "level": 5,
       "round": 2,
       "text": "这个周末，我们队要去公园比赛。",
-      "pinyin": "zhè ge zhōu mò， wǒ men duì yào qù gōng yuán bǐ sài。",
+      "pinyin": "zhè ge zhōu mò，wǒ men duì yào qù gōng yuán bǐ sài。",
       "grammar": [
         "G5-32"
       ]
@@ -4255,7 +4255,7 @@
       "level": 5,
       "round": 2,
       "text": "他姓王，是我们班的班长。",
-      "pinyin": "tā xìng wáng， shì wǒ men bān de bān zhǎng。",
+      "pinyin": "tā xìng wáng，shì wǒ men bān de bān zhǎng。",
       "grammar": [
         "G5-32"
       ]
@@ -4265,7 +4265,7 @@
       "level": 5,
       "round": 2,
       "text": "你选哪一个？我觉得这个更好。",
-      "pinyin": "nǐ xuǎn nǎ yī gè？ wǒ jué de zhè ge gèng hǎo。",
+      "pinyin": "nǐ xuǎn nǎ yí gè？wǒ jué de zhè ge gèng hǎo。",
       "grammar": [
         "G5-32"
       ]
@@ -4285,7 +4285,7 @@
       "level": 5,
       "round": 2,
       "text": "房间里很安静，只听见钟表的声音。",
-      "pinyin": "fáng jiān lǐ hěn ān jìng， zhǐ tīng jiàn zhōng biǎo de shēng yīn。",
+      "pinyin": "fáng jiān lǐ hěn ān jìng，zhǐ tīng jiàn zhōng biǎo de shēng yīn。",
       "grammar": [
         "G5-32"
       ]
@@ -4295,7 +4295,7 @@
       "level": 5,
       "round": 2,
       "text": "他每天骑车上学，只要十分钟。",
-      "pinyin": "tā měi tiān qí chē shàng xué， zhǐ yào shí fēn zhōng。",
+      "pinyin": "tā měi tiān qí chē shàng xué，zhǐ yào shí fēn zhōng。",
       "grammar": [
         "G5-41"
       ]
@@ -4305,7 +4305,7 @@
       "level": 5,
       "round": 2,
       "text": "请把窗户关好，别让风吹进来。",
-      "pinyin": "qǐng bǎ chuāng hù guān hǎo， bié ràng fēng chuī jìn lái。",
+      "pinyin": "qǐng bǎ chuāng hù guān hǎo，bié ràng fēng chuī jìn lái。",
       "grammar": [
         "G5-39"
       ]
@@ -4315,7 +4315,7 @@
       "level": 5,
       "round": 2,
       "text": "他喜欢吃甜食，尤其是蛋糕。",
-      "pinyin": "tā xǐ huān chī tián shí， yóu qí shì dàn gāo。",
+      "pinyin": "tā xǐ huān chī tián shí，yóu qí shì dàn gāo。",
       "grammar": [
         "G5-03"
       ]
@@ -4325,7 +4325,7 @@
       "level": 5,
       "round": 2,
       "text": "这里的风景很美，值得去看看。",
-      "pinyin": "zhè lǐ de fēng jǐng hěn měi， zhí de qù kàn kàn。",
+      "pinyin": "zhè lǐ de fēng jǐng hěn měi，zhí de qù kàn kàn。",
       "grammar": [
         "G5-32"
       ]
@@ -4335,7 +4335,7 @@
       "level": 5,
       "round": 2,
       "text": "他年纪大了，走路有点慢。",
-      "pinyin": "tā nián jì dà le， zǒu lù yǒu diǎn màn。",
+      "pinyin": "tā nián jì dà le，zǒu lù yǒu diǎn màn。",
       "grammar": [
         "G5-32"
       ]
@@ -4345,7 +4345,7 @@
       "level": 5,
       "round": 2,
       "text": "这个问题太难，我答不出来。",
-      "pinyin": "zhè ge wèn tí tài nán， wǒ dá bù chū lái。",
+      "pinyin": "zhè ge wèn tí tài nán，wǒ dá bù chū lái。",
       "grammar": [
         "G5-35"
       ]
@@ -4355,7 +4355,7 @@
       "level": 5,
       "round": 2,
       "text": "他往南走，我往北走，我们在这儿分手。",
-      "pinyin": "tā wǎng nán zǒu， wǒ wǎng běi zǒu， wǒ men zài zhè ér fēn shǒu。",
+      "pinyin": "tā wǎng nán zǒu，wǒ wǎng běi zǒu，wǒ men zài zhè r fēn shǒu。",
       "grammar": [
         "G5-32"
       ]
@@ -4365,7 +4365,7 @@
       "level": 5,
       "round": 2,
       "text": "他背着一个大包，手里拉着箱子。",
-      "pinyin": "tā bèi zhe yī gè dà bāo， shǒu lǐ lā zhe xiāng zi。",
+      "pinyin": "tā bèi zhe yí gè dà bāo，shǒu lǐ lā zhe xiāng zi。",
       "grammar": [
         "G5-41"
       ]
@@ -4375,7 +4375,7 @@
       "level": 5,
       "round": 2,
       "text": "这些旧书很便宜，一本只要五块钱。",
-      "pinyin": "zhè xiē jiù shū hěn pián yi， yī běn zhǐ yào wǔ kuài qián。",
+      "pinyin": "zhè xiē jiù shū hěn pián yi，yì běn zhǐ yào wǔ kuài qián。",
       "grammar": [
         "G5-32"
       ]
@@ -4385,7 +4385,7 @@
       "level": 5,
       "round": 2,
       "text": "他推开门，看见屋里坐满了人。",
-      "pinyin": "tā tuī kāi mén， kàn jiàn wū lǐ zuò mǎn le rén。",
+      "pinyin": "tā tuī kāi mén，kàn jiàn wū lǐ zuò mǎn le rén。",
       "grammar": [
         "G5-41"
       ]
@@ -4395,7 +4395,7 @@
       "level": 5,
       "round": 2,
       "text": "他一般七点回家，今天却回来得很晚。",
-      "pinyin": "tā yī bān qī diǎn huí jiā， jīn tiān què huí lái de hěn wǎn。",
+      "pinyin": "tā yì bān qī diǎn huí jiā，jīn tiān què huí lái de hěn wǎn。",
       "grammar": [
         "G5-37"
       ]
@@ -4405,7 +4405,7 @@
       "level": 5,
       "round": 2,
       "text": "早晨的空气很好，他每天在湖边跑步。",
-      "pinyin": "zǎo chén de kōng qì hěn hǎo， tā měi tiān zài hú biān pǎo bù。",
+      "pinyin": "zǎo chén de kōng qì hěn hǎo，tā měi tiān zài hú biān pǎo bù。",
       "grammar": [
         "G5-33"
       ]
@@ -4415,7 +4415,7 @@
       "level": 5,
       "round": 2,
       "text": "他眼睛近视，坐在前排也看不清黑板。",
-      "pinyin": "tā yǎn jīng jìn shì， zuò zài qián pái yě kàn bù qīng hēi bǎn。",
+      "pinyin": "tā yǎn jīng jìn shì，zuò zài qián pái yě kàn bù qīng hēi bǎn。",
       "grammar": [
         "G5-32"
       ]
@@ -4435,7 +4435,7 @@
       "level": 5,
       "round": 2,
       "text": "他利用周末整理书架，把书摆得整整齐齐。",
-      "pinyin": "tā lì yòng zhōu mò zhěng lǐ shū jià， bǎ shū bǎi dé zhěng zhěng qí qí。",
+      "pinyin": "tā lì yòng zhōu mò zhěng lǐ shū jià，bǎ shū bǎi de zhěng zhěng qí qí。",
       "grammar": [
         "G5-39"
       ]
@@ -4445,7 +4445,7 @@
       "level": 5,
       "round": 2,
       "text": "鸟在树上唱歌，声音很好听。",
-      "pinyin": "niǎo zài shù shàng chàng gē， shēng yīn hěn hǎo tīng。",
+      "pinyin": "niǎo zài shù shàng chàng gē，shēng yīn hěn hǎo tīng。",
       "grammar": [
         "G5-32"
       ]
@@ -4455,7 +4455,7 @@
       "level": 5,
       "round": 2,
       "text": "他碰倒了杯子，水洒了一桌子。",
-      "pinyin": "tā pèng dào le bēi zi， shuǐ sǎ le yī zhuō zi。",
+      "pinyin": "tā pèng dào le bēi zi，shuǐ sǎ le yì zhuō zi。",
       "grammar": [
         "G5-32"
       ]
@@ -4465,7 +4465,7 @@
       "level": 5,
       "round": 2,
       "text": "他普通话讲得很好，水平也很高。",
-      "pinyin": "tā pǔ tōng huà jiǎng dé hěn hǎo， shuǐ píng yě hěn gāo。",
+      "pinyin": "tā pǔ tōng huà jiǎng de hěn hǎo，shuǐ píng yě hěn gāo。",
       "grammar": [
         "G5-37"
       ]
@@ -4475,7 +4475,7 @@
       "level": 5,
       "round": 2,
       "text": "这个村子有一千多人，非常热闹。",
-      "pinyin": "zhè ge cūn zi yǒu yī qiān duō rén， fēi cháng rè nào。",
+      "pinyin": "zhè ge cūn zi yǒu yì qiān duō rén，fēi cháng rè nào。",
       "grammar": [
         "G5-38"
       ]
@@ -4485,7 +4485,7 @@
       "level": 5,
       "round": 2,
       "text": "今天晴天，我们出去走走吧。",
-      "pinyin": "jīn tiān qíng tiān， wǒ men chū qù zǒu zǒu ba。",
+      "pinyin": "jīn tiān qíng tiān，wǒ men chū qù zǒu zǒu ba。",
       "grammar": [
         "G5-32"
       ]
@@ -4505,7 +4505,7 @@
       "level": 5,
       "round": 2,
       "text": "请进入教室，坐在自己的位子上。",
-      "pinyin": "qǐng jìn rù jiào shì， zuò zài zì jǐ de wèi zi shàng。",
+      "pinyin": "qǐng jìn rù jiào shì，zuò zài zì jǐ de wèi zi shàng。",
       "grammar": [
         "G5-41"
       ]
@@ -4515,7 +4515,7 @@
       "level": 5,
       "round": 2,
       "text": "省点钱，别乱花。",
-      "pinyin": "shěng diǎn qián， bié luàn huā。",
+      "pinyin": "shěng diǎn qián，bié luàn huā。",
       "grammar": [
         "G5-32"
       ]
@@ -4525,7 +4525,7 @@
       "level": 5,
       "round": 2,
       "text": "市场里的人很多，卖鱼卖菜的也不少。",
-      "pinyin": "shì chǎng lǐ de rén hěn duō， mài yú mài cài de yě bù shǎo。",
+      "pinyin": "shì chǎng lǐ de rén hěn duō，mài yú mài cài de yě bù shǎo。",
       "grammar": [
         "G5-71"
       ]
@@ -4565,7 +4565,7 @@
       "level": 5,
       "round": 2,
       "text": "公司新来了一位经理，态度很好。",
-      "pinyin": "gōng sī xīn lái le yī wèi jīng lǐ， tài dù hěn hǎo。",
+      "pinyin": "gōng sī xīn lái le yí wèi jīng lǐ，tài dù hěn hǎo。",
       "grammar": [
         "G5-32"
       ]
@@ -4575,7 +4575,7 @@
       "level": 5,
       "round": 2,
       "text": "他虽然很累，但还是坚持下来了。",
-      "pinyin": "tā suī rán hěn lèi， dàn hái shì jiān chí xià lái le。",
+      "pinyin": "tā suī rán hěn lèi，dàn hái shì jiān chí xià lái le。",
       "grammar": [
         "G5-45"
       ]
@@ -4595,7 +4595,7 @@
       "level": 5,
       "round": 2,
       "text": "奶奶的腿不太好，走路很慢。",
-      "pinyin": "nǎi nǎi de tuǐ bù tài hǎo， zǒu lù hěn màn。",
+      "pinyin": "nǎi nǎi de tuǐ bú tài hǎo，zǒu lù hěn màn。",
       "grammar": [
         "G5-32"
       ]
@@ -4615,7 +4615,7 @@
       "level": 5,
       "round": 2,
       "text": "他喂了一只小猫，还养了一只狗。",
-      "pinyin": "tā wèi le yī zhī xiǎo māo， hái yǎng le yī zhī gǒu。",
+      "pinyin": "tā wèi le yì zhī xiǎo māo，hái yǎng le yì zhī gǒu。",
       "grammar": [
         "G5-41"
       ]
@@ -4625,7 +4625,7 @@
       "level": 5,
       "round": 2,
       "text": "气温下降，注意保暖。",
-      "pinyin": "qì wēn xià jiàng， zhù yì bǎo nuǎn。",
+      "pinyin": "qì wēn xià jiàng，zhù yì bǎo nuǎn。",
       "grammar": [
         "G5-32"
       ]
@@ -4655,7 +4655,7 @@
       "level": 5,
       "round": 2,
       "text": "他许了一个愿望。",
-      "pinyin": "tā xǔ le yī gè yuàn wàng。",
+      "pinyin": "tā xǔ le yí gè yuàn wàng。",
       "grammar": [
         "G5-32"
       ]
@@ -4675,7 +4675,7 @@
       "level": 5,
       "round": 2,
       "text": "这个县有一亿人口。",
-      "pinyin": "zhè ge xiàn yǒu yī yì rén kǒu。",
+      "pinyin": "zhè ge xiàn yǒu yí yì rén kǒu。",
       "grammar": [
         "G5-38"
       ]
@@ -4685,7 +4685,7 @@
       "level": 5,
       "round": 2,
       "text": "他迎着风往前走。",
-      "pinyin": "tā yíng zháo fēng wǎng qián zǒu。",
+      "pinyin": "tā yíng zhe fēng wǎng qián zǒu。",
       "grammar": [
         "G5-41"
       ]
@@ -4695,7 +4695,7 @@
       "level": 5,
       "round": 2,
       "text": "他身体很健康，每天早晨都跑步。",
-      "pinyin": "tā shēn tǐ hěn jiàn kāng， měi tiān zǎo chén dōu pǎo bù。",
+      "pinyin": "tā shēn tǐ hěn jiàn kāng，měi tiān zǎo chén dōu pǎo bù。",
       "grammar": [
         "G5-33"
       ]
@@ -4705,7 +4705,7 @@
       "level": 5,
       "round": 2,
       "text": "他刚走，你早来一会儿就能见到他。",
-      "pinyin": "tā gāng zǒu， nǐ zǎo lái yī huì er jiù néng jiàn dào tā。",
+      "pinyin": "tā gāng zǒu，nǐ zǎo lái yí huì r jiù néng jiàn dào tā。",
       "grammar": [
         "G5-08"
       ]
@@ -4715,7 +4715,7 @@
       "level": 5,
       "round": 2,
       "text": "他顾着说话，忘了看路。",
-      "pinyin": "tā gù zhe shuō huà， wàng le kàn lù。",
+      "pinyin": "tā gù zhe shuō huà，wàng le kàn lù。",
       "grammar": [
         "G5-32"
       ]
@@ -4725,7 +4725,7 @@
       "level": 5,
       "round": 2,
       "text": "他习惯了早起，每天六点就醒。",
-      "pinyin": "tā xí guàn le zǎo qǐ， měi tiān liù diǎn jiù xǐng。",
+      "pinyin": "tā xí guàn le zǎo qǐ，měi tiān liù diǎn jiù xǐng。",
       "grammar": [
         "G5-32"
       ]
@@ -4735,7 +4735,7 @@
       "level": 5,
       "round": 2,
       "text": "海水很蓝，海边停着几条船。",
-      "pinyin": "hǎi shuǐ hěn lán， hǎi biān tíng zhe jǐ tiáo chuán。",
+      "pinyin": "hǎi shuǐ hěn lán，hǎi biān tíng zhe jǐ tiáo chuán。",
       "grammar": [
         "G5-32"
       ]
@@ -4745,7 +4745,7 @@
       "level": 5,
       "round": 2,
       "text": "他大喊一声，大家都回过头来。",
-      "pinyin": "tā dà hǎn yī shēng， dà jiā dōu huí guò tóu lái。",
+      "pinyin": "tā dà hǎn yì shēng，dà jiā dōu huí guò tóu lái。",
       "grammar": [
         "G5-32"
       ]
@@ -4755,7 +4755,7 @@
       "level": 5,
       "round": 2,
       "text": "天忽然黑了，接着下起大雨。",
-      "pinyin": "tiān hū rán hēi le， jiē zhe xià qǐ dà yǔ。",
+      "pinyin": "tiān hū rán hēi le，jiē zhe xià qǐ dà yǔ。",
       "grammar": [
         "G5-32"
       ]
@@ -4765,7 +4765,7 @@
       "level": 5,
       "round": 2,
       "text": "他护着孩子，自己站在雨里。",
-      "pinyin": "tā hù zhe hái zi， zì jǐ zhàn zài yǔ lǐ。",
+      "pinyin": "tā hù zhe hái zi，zì jǐ zhàn zài yǔ lǐ。",
       "grammar": [
         "G5-41"
       ]
@@ -4775,7 +4775,7 @@
       "level": 5,
       "round": 2,
       "text": "树叶黄了，天气也凉了。",
-      "pinyin": "shù yè huáng le， tiān qì yě liáng le。",
+      "pinyin": "shù yè huáng le，tiān qì yě liáng le。",
       "grammar": [
         "G5-32"
       ]
@@ -4785,7 +4785,7 @@
       "level": 5,
       "round": 2,
       "text": "他的英语很好，常和外国人交流。",
-      "pinyin": "tā de yīng yǔ hěn hǎo， cháng hé wài guó rén jiāo liú。",
+      "pinyin": "tā de yīng yǔ hěn hǎo，cháng hé wài guó rén jiāo liú。",
       "grammar": [
         "G5-32"
       ]
@@ -4795,7 +4795,7 @@
       "level": 5,
       "round": 2,
       "text": "墙角放着一个书架，上面摆满了书。",
-      "pinyin": "qiáng jiǎo fàng zhe yī gè shū jià， shàng miàn bǎi mǎn le shū。",
+      "pinyin": "qiáng jiǎo fàng zhe yí gè shū jià，shàng miàn bǎi mǎn le shū。",
       "grammar": [
         "G5-32"
       ]
@@ -4805,7 +4805,7 @@
       "level": 5,
       "round": 2,
       "text": "北京很大，他每天忙着上班，很少出去逛。",
-      "pinyin": "běi jīng hěn dà， tā měi tiān máng zhe shàng bān， hěn shǎo chū qù guàng。",
+      "pinyin": "běi jīng hěn dà，tā měi tiān máng zhe shàng bān，hěn shǎo chū qù guàng。",
       "grammar": [
         "G5-32"
       ]
@@ -4815,7 +4815,7 @@
       "level": 5,
       "round": 2,
       "text": "啊，原来是你！你最近在忙什么呢？",
-      "pinyin": "a， yuán lái shì nǐ！ nǐ zuì jìn zài máng shén me ne？",
+      "pinyin": "a，yuán lái shì nǐ！nǐ zuì jìn zài máng shén me ne？",
       "grammar": [
         "G5-32"
       ]
@@ -4825,7 +4825,7 @@
       "level": 5,
       "round": 2,
       "text": "他必须按时完成作业，否则不能出去玩。",
-      "pinyin": "tā bì xū àn shí wán chéng zuò yè， fǒu zé bù néng chū qù wán。",
+      "pinyin": "tā bì xū àn shí wán chéng zuò yè，fǒu zé bù néng chū qù wán。",
       "grammar": [
         "G5-32"
       ]
@@ -4835,7 +4835,7 @@
       "level": 5,
       "round": 2,
       "text": "这个称呼太长，换一个简单点的吧。",
-      "pinyin": "zhè ge chēng hū tài zhǎng， huàn yī gè jiǎn dān diǎn de ba。",
+      "pinyin": "zhè ge chēng hū tài zhǎng，huàn yí gè jiǎn dān diǎn de ba。",
       "grammar": [
         "G5-32"
       ]
@@ -4845,7 +4845,7 @@
       "level": 5,
       "round": 2,
       "text": "冬天温度很低，他穿上厚衣服才出门。",
-      "pinyin": "dōng tiān wēn dù hěn dī， tā chuān shàng hòu yī fú cái chū mén。",
+      "pinyin": "dōng tiān wēn dù hěn dī，tā chuān shàng hòu yī fú cái chū mén。",
       "grammar": [
         "G5-32"
       ]
@@ -4855,7 +4855,7 @@
       "level": 5,
       "round": 2,
       "text": "他把书掉在地上，弯腰拾了起来。",
-      "pinyin": "tā bǎ shū diào zài dì shàng， wān yāo shí le qǐ lái。",
+      "pinyin": "tā bǎ shū diào zài dì shàng，wān yāo shí le qǐ lái。",
       "grammar": [
         "G5-41"
       ]
@@ -4865,7 +4865,7 @@
       "level": 5,
       "round": 2,
       "text": "这段路很长，我们走得很慢。",
-      "pinyin": "zhè duàn lù hěn zhǎng， wǒ men zǒu dé hěn màn。",
+      "pinyin": "zhè duàn lù hěn zhǎng，wǒ men zǒu de hěn màn。",
       "grammar": [
         "G5-37"
       ]
@@ -4875,7 +4875,7 @@
       "level": 5,
       "round": 2,
       "text": "他国际交流经验丰富，英语说得很好。",
-      "pinyin": "tā guó jì jiāo liú jīng yàn fēng fù， yīng yǔ shuō dé hěn hǎo。",
+      "pinyin": "tā guó jì jiāo liú jīng yàn fēng fù，yīng yǔ shuō de hěn hǎo。",
       "grammar": [
         "G5-37"
       ]
@@ -4885,7 +4885,7 @@
       "level": 5,
       "round": 2,
       "text": "他脚受伤了，走路很慢，只好请了假。",
-      "pinyin": "tā jiǎo shòu shāng le， zǒu lù hěn màn， zhǐ hǎo qǐng le jiǎ。",
+      "pinyin": "tā jiǎo shòu shāng le，zǒu lù hěn màn，zhǐ hǎo qǐng le jiǎ。",
       "grammar": [
         "G5-41"
       ]
@@ -4895,7 +4895,7 @@
       "level": 5,
       "round": 2,
       "text": "他们结伴去旅行，路上有说有笑。",
-      "pinyin": "tā men jié bàn qù lǚ xíng， lù shàng yǒu shuō yǒu xiào。",
+      "pinyin": "tā men jié bàn qù lǚ xíng，lù shàng yǒu shuō yǒu xiào。",
       "grammar": [
         "G5-41"
       ]
@@ -4905,7 +4905,7 @@
       "level": 5,
       "round": 2,
       "text": "这斤苹果三块钱，又甜又脆。",
-      "pinyin": "zhè jīn píng guǒ sān kuài qián， yòu tián yòu cuì。",
+      "pinyin": "zhè jīn píng guǒ sān kuài qián，yòu tián yòu cuì。",
       "grammar": [
         "G5-32"
       ]
@@ -4915,7 +4915,7 @@
       "level": 5,
       "round": 2,
       "text": "他举手回答问题，老师点了点头。",
-      "pinyin": "tā jǔ shǒu huí dá wèn tí， lǎo shī diǎn le diǎn tóu。",
+      "pinyin": "tā jǔ shǒu huí dá wèn tí，lǎo shī diǎn le diǎn tóu。",
       "grammar": [
         "G5-41"
       ]
@@ -4925,7 +4925,7 @@
       "level": 5,
       "round": 2,
       "text": "这个科目太难，他克服困难，考了两次才过。",
-      "pinyin": "zhè ge kē mù tài nán， tā kè fú kùn nán， kǎo le liǎng cì cái guò。",
+      "pinyin": "zhè ge kē mù tài nán，tā kè fú kùn nán，kǎo le liǎng cì cái guò。",
       "grammar": [
         "G5-32"
       ]
@@ -4935,7 +4935,7 @@
       "level": 5,
       "round": 2,
       "text": "老师举了两个例子，示意我们记下来。",
-      "pinyin": "lǎo shī jǔ le liǎng gè lì zi， shì yì wǒ men jì xià lái。",
+      "pinyin": "lǎo shī jǔ le liǎng gè lì zi，shì yì wǒ men jì xià lái。",
       "grammar": [
         "G5-42"
       ]
@@ -4945,7 +4945,7 @@
       "level": 5,
       "round": 2,
       "text": "他脸红了，低着头，一句话也不说。",
-      "pinyin": "tā liǎn hóng le， dī zhe tóu， yī jù huà yě bù shuō。",
+      "pinyin": "tā liǎn hóng le，dī zhe tóu，yí jù huà yě bù shuō。",
       "grammar": [
         "G5-41"
       ]
@@ -4955,7 +4955,7 @@
       "level": 5,
       "round": 2,
       "text": "他的目光停在窗外，不知道在想什么。",
-      "pinyin": "tā de mù guāng tíng zài chuāng wài， bù zhī dào zài xiǎng shén me。",
+      "pinyin": "tā de mù guāng tíng zài chuāng wài，bù zhī dào zài xiǎng shén me。",
       "grammar": [
         "G5-32"
       ]
@@ -4965,7 +4965,7 @@
       "level": 5,
       "round": 2,
       "text": "他弄坏了我的笔，答应赔我一支。",
-      "pinyin": "tā nòng huài le wǒ de bǐ， dā yìng péi wǒ yī zhī。",
+      "pinyin": "tā nòng huài le wǒ de bǐ，dā ying péi wǒ yì zhī。",
       "grammar": [
         "G5-32"
       ]
@@ -4975,7 +4975,7 @@
       "level": 5,
       "round": 2,
       "text": "他爬上山顶，看见了日出。",
-      "pinyin": "tā pá shàng shān dǐng， kàn jiàn le rì chū。",
+      "pinyin": "tā pá shàng shān dǐng，kàn jiàn le rì chū。",
       "grammar": [
         "G5-41"
       ]
@@ -4985,7 +4985,7 @@
       "level": 5,
       "round": 2,
       "text": "而且他很努力，成绩一直很好。",
-      "pinyin": "ér qiě tā hěn nǔ lì， chéng jì yī zhí hěn hǎo。",
+      "pinyin": "ér qiě tā hěn nǔ lì，chéng jì yì zhí hěn hǎo。",
       "grammar": [
         "G5-32"
       ]
@@ -4995,7 +4995,7 @@
       "level": 5,
       "round": 2,
       "text": "青草很绿，花开得很美。",
-      "pinyin": "qīng cǎo hěn lǜ， huā kāi dé hěn měi。",
+      "pinyin": "qīng cǎo hěn lǜ，huā kāi de hěn měi。",
       "grammar": [
         "G5-37"
       ]
@@ -5005,7 +5005,7 @@
       "level": 5,
       "round": 2,
       "text": "课堂里很安静，大家都在看书。",
-      "pinyin": "kè táng lǐ hěn ān jìng， dà jiā dōu zài kàn shū。",
+      "pinyin": "kè táng lǐ hěn ān jìng，dà jiā dōu zài kàn shū。",
       "grammar": [
         "G5-32"
       ]
@@ -5015,7 +5015,7 @@
       "level": 5,
       "round": 2,
       "text": "他铁了心要减肥，每天只吃蔬菜。",
-      "pinyin": "tā tiě le xīn yào jiǎn féi， měi tiān zhǐ chī shū cài。",
+      "pinyin": "tā tiě le xīn yào jiǎn féi，měi tiān zhǐ chī shū cài。",
       "grammar": [
         "G5-32"
       ]
@@ -5025,7 +5025,7 @@
       "level": 5,
       "round": 2,
       "text": "他挺直了腰，望着窗外阴沉的天气。",
-      "pinyin": "tā tǐng zhí le yāo， wàng zhe chuāng wài yīn chén de tiān qì。",
+      "pinyin": "tā tǐng zhí le yāo，wàng zhe chuāng wài yīn chén de tiān qì。",
       "grammar": [
         "G5-41"
       ]
@@ -5035,7 +5035,7 @@
       "level": 5,
       "round": 2,
       "text": "他印了一份材料，发给大家。",
-      "pinyin": "tā yìn le yī fèn cái liào， fā gěi dà jiā。",
+      "pinyin": "tā yìn le yí fèn cái liào，fā gěi dà jiā。",
       "grammar": [
         "G5-32"
       ]
@@ -5045,7 +5045,7 @@
       "level": 5,
       "round": 2,
       "text": "他育有两个孩子，一个上小学，一个上中学。",
-      "pinyin": "tā yù yǒu liǎng gè hái zi， yī gè shàng xiǎo xué， yī gè shàng zhōng xué。",
+      "pinyin": "tā yù yǒu liǎng gè hái zi，yí gè shàng xiǎo xué，yí gè shàng zhōng xué。",
       "grammar": [
         "G5-38"
       ]
@@ -5065,7 +5065,7 @@
       "level": 5,
       "round": 2,
       "text": "他运气真好，赶上了末班车。",
-      "pinyin": "tā yùn qì zhēn hǎo， gǎn shàng le mò bān chē。",
+      "pinyin": "tā yùn qì zhēn hǎo，gǎn shàng le mò bān chē。",
       "grammar": [
         "G5-32"
       ]
@@ -5075,7 +5075,7 @@
       "level": 5,
       "round": 2,
       "text": "咱们一起去吧。",
-      "pinyin": "zán men yī qǐ qù ba。",
+      "pinyin": "zán men yì qǐ qù ba。",
       "grammar": [
         "G5-32"
       ]
@@ -5085,7 +5085,7 @@
       "level": 5,
       "round": 2,
       "text": "他的衣服很脏，却占了一个好位子。",
-      "pinyin": "tā de yī fú hěn zāng， què zhàn le yī gè hǎo wèi zi。",
+      "pinyin": "tā de yī fú hěn zāng，què zhàn le yí gè hǎo wèi zi。",
       "grammar": [
         "G5-32"
       ]
@@ -5105,7 +5105,7 @@
       "level": 5,
       "round": 2,
       "text": "院子里有一棵大树，夏天很凉快。",
-      "pinyin": "yuàn zi lǐ yǒu yī kē dà shù， xià tiān hěn liáng kuài。",
+      "pinyin": "yuàn zi lǐ yǒu yì kē dà shù，xià tiān hěn liáng kuài。",
       "grammar": [
         "G5-38"
       ]
@@ -5115,7 +5115,7 @@
       "level": 5,
       "round": 2,
       "text": "他永远记得那一天，大家都很感动。",
-      "pinyin": "tā yǒng yuǎn jì de nà yī tiān， dà jiā dōu hěn gǎn dòng。",
+      "pinyin": "tā yǒng yuǎn jì de nà yì tiān，dà jiā dōu hěn gǎn dòng。",
       "grammar": [
         "G5-32"
       ]
@@ -5135,7 +5135,7 @@
       "level": 5,
       "round": 2,
       "text": "云很多，可能要下雨，出门记得带伞。",
-      "pinyin": "yún hěn duō， kě néng yào xià yǔ， chū mén jì de dài sǎn。",
+      "pinyin": "yún hěn duō，kě néng yào xià yǔ，chū mén jì de dài sǎn。",
       "grammar": [
         "G5-32"
       ]
@@ -5145,7 +5145,7 @@
       "level": 5,
       "round": 2,
       "text": "参加者很多，大家都很积极。",
-      "pinyin": "cān jiā zhě hěn duō， dà jiā dōu hěn jī jí。",
+      "pinyin": "cān jiā zhě hěn duō，dà jiā dōu hěn jī jí。",
       "grammar": [
         "G5-32"
       ]
@@ -5155,7 +5155,7 @@
       "level": 5,
       "round": 2,
       "text": "他搬进新家，把书按类别摆好。",
-      "pinyin": "tā bān jìn xīn jiā， bǎ shū àn lèi bié bǎi hǎo。",
+      "pinyin": "tā bān jìn xīn jiā，bǎ shū àn lèi bié bǎi hǎo。",
       "grammar": [
         "G5-39"
       ]
@@ -5175,7 +5175,7 @@
       "level": 5,
       "round": 2,
       "text": "他标出重点，并补充了几句。",
-      "pinyin": "tā biāo chū zhòng diǎn， bìng bǔ chōng le jǐ jù。",
+      "pinyin": "tā biāo chū zhòng diǎn，bìng bǔ chōng le jǐ jù。",
       "grammar": [
         "G5-41"
       ]
@@ -5185,7 +5185,7 @@
       "level": 5,
       "round": 2,
       "text": "他播完新闻，又采了一段访问。",
-      "pinyin": "tā bō wán xīn wén， yòu cǎi le yī duàn fǎng wèn。",
+      "pinyin": "tā bō wán xīn wén，yòu cǎi le yí duàn fǎng wèn。",
       "grammar": [
         "G5-41"
       ]
@@ -5195,7 +5195,7 @@
       "level": 5,
       "round": 2,
       "text": "他布置好房间，打开窗户通风。",
-      "pinyin": "tā bù zhì hǎo fáng jiān， dǎ kāi chuāng hù tōng fēng。",
+      "pinyin": "tā bù zhì hǎo fáng jiān，dǎ kāi chuāng hù tōng fēng。",
       "grammar": [
         "G5-41"
       ]
@@ -5205,7 +5205,7 @@
       "level": 5,
       "round": 2,
       "text": "他彩排了一次，效果很好。",
-      "pinyin": "tā cǎi pái le yī cì， xiào guǒ hěn hǎo。",
+      "pinyin": "tā cǎi pái le yí cì，xiào guǒ hěn hǎo。",
       "grammar": [
         "G5-32"
       ]
@@ -5215,7 +5215,7 @@
       "level": 5,
       "round": 2,
       "text": "他曾经来过这座城市，印象很深。",
-      "pinyin": "tā céng jīng lái guò zhè zuò chéng shì， yìn xiàng hěn shēn。",
+      "pinyin": "tā céng jīng lái guò zhè zuò chéng shì，yìn xiàng hěn shēn。",
       "grammar": [
         "G5-32"
       ]
@@ -5225,7 +5225,7 @@
       "level": 5,
       "round": 2,
       "text": "他产生了疑问，朝我看了看。",
-      "pinyin": "tā chǎn shēng le yí wèn， cháo wǒ kàn le kàn。",
+      "pinyin": "tā chǎn shēng le yí wèn，cháo wǒ kàn le kàn。",
       "grammar": [
         "G5-41"
       ]
@@ -5235,7 +5235,7 @@
       "level": 5,
       "round": 2,
       "text": "外面很吵，他关上门，继续看书。",
-      "pinyin": "wài miàn hěn chǎo， tā guān shàng mén， jì xù kàn shū。",
+      "pinyin": "wài miàn hěn chǎo，tā guān shàng mén，jì xù kàn shū。",
       "grammar": [
         "G5-41"
       ]
@@ -5245,7 +5245,7 @@
       "level": 5,
       "round": 2,
       "text": "他充满了信心，基础也很好。",
-      "pinyin": "tā chōng mǎn le xìn xīn， jī chǔ yě hěn hǎo。",
+      "pinyin": "tā chōng mǎn le xìn xīn，jī chǔ yě hěn hǎo。",
       "grammar": [
         "G5-32"
       ]
@@ -5255,7 +5255,7 @@
       "level": 5,
       "round": 2,
       "text": "他传给我一张照片，照片上是他的家乡。",
-      "pinyin": "tā chuán gěi wǒ yī zhāng zhào piān， zhào piān shàng shì tā de jiā xiāng。",
+      "pinyin": "tā chuán gěi wǒ yì zhāng zhào piān，zhào piān shàng shì tā de jiā xiāng。",
       "grammar": [
         "G5-32"
       ]
@@ -5265,7 +5265,7 @@
       "level": 5,
       "round": 2,
       "text": "他创造了新的方法，大家都很高兴。",
-      "pinyin": "tā chuàng zào le xīn de fāng fǎ， dà jiā dōu hěn gāo xìng。",
+      "pinyin": "tā chuàng zào le xīn de fāng fǎ，dà jiā dōu hěn gāo xìng。",
       "grammar": [
         "G5-32"
       ]
@@ -5275,7 +5275,7 @@
       "level": 5,
       "round": 2,
       "text": "他存了很多钱，打算买房子。",
-      "pinyin": "tā cún le hěn duō qián， dǎ suàn mǎi fáng zi。",
+      "pinyin": "tā cún le hěn duō qián，dǎ suàn mǎi fáng zi。",
       "grammar": [
         "G5-32"
       ]
@@ -5285,7 +5285,7 @@
       "level": 5,
       "round": 2,
       "text": "他达到了目的，代表我们发了言。",
-      "pinyin": "tā dá dào le mù dì， dài biǎo wǒ men fā le yán。",
+      "pinyin": "tā dá dào le mù dì，dài biǎo wǒ men fā le yán。",
       "grammar": [
         "G5-41"
       ]
@@ -5295,7 +5295,7 @@
       "level": 5,
       "round": 2,
       "text": "他待了一会儿，低头看了看表。",
-      "pinyin": "tā dài le yī huì er， dī tóu kàn le kàn biǎo。",
+      "pinyin": "tā dài le yí huì r，dī tóu kàn le kàn biǎo。",
       "grammar": [
         "G5-41"
       ]
@@ -5305,7 +5305,7 @@
       "level": 5,
       "round": 2,
       "text": "他调了调音量，订了一份报纸。",
-      "pinyin": "tā diào le tiáo yīn liàng， dìng le yī fèn bào zhǐ。",
+      "pinyin": "tā diào le tiáo yīn liàng，dìng le yí fèn bào zhǐ。",
       "grammar": [
         "G5-41"
       ]
@@ -5315,7 +5315,7 @@
       "level": 5,
       "round": 2,
       "text": "他顿了一下，翻开范本看了看。",
-      "pinyin": "tā dùn le yī xià， fān kāi fàn běn kàn le kàn。",
+      "pinyin": "tā dùn le yí xià，fān kāi fàn běn kàn le kàn。",
       "grammar": [
         "G5-41"
       ]
@@ -5335,7 +5335,7 @@
       "level": 5,
       "round": 2,
       "text": "功夫不负有心人，他很幸福。",
-      "pinyin": "gōng fu bù fù yǒu xīn rén， tā hěn xìng fú。",
+      "pinyin": "gōng fu bú fù yǒu xīn rén，tā hěn xìng fú。",
       "grammar": [
         "G5-32"
       ]
@@ -5345,7 +5345,7 @@
       "level": 5,
       "round": 2,
       "text": "他付了钱，赶上了火车。",
-      "pinyin": "tā fù le qián， gǎn shàng le huǒ chē。",
+      "pinyin": "tā fù le qián，gǎn shàng le huǒ chē。",
       "grammar": [
         "G5-41"
       ]
@@ -5355,7 +5355,7 @@
       "level": 5,
       "round": 2,
       "text": "他格外高兴，各人都来祝贺。",
-      "pinyin": "tā gé wài gāo xìng， gè rén dōu lái zhù hè。",
+      "pinyin": "tā gé wài gāo xìng，gè rén dōu lái zhù hè。",
       "grammar": [
         "G5-32"
       ]
@@ -5365,7 +5365,7 @@
       "level": 5,
       "round": 2,
       "text": "姑姑性格古怪，常常哈哈大笑。",
-      "pinyin": "gū gū xìng gé gǔ guài， cháng cháng hā hā dà xiào。",
+      "pinyin": "gū gū xìng gé gǔ guài，cháng cháng hā hā dà xiào。",
       "grammar": [
         "G5-32"
       ]
@@ -5375,7 +5375,7 @@
       "level": 5,
       "round": 2,
       "text": "何时出发？他们结婚了。",
-      "pinyin": "hé shí chū fā？ tā men jié hūn le。",
+      "pinyin": "hé shí chū fā？tā men jié hūn le。",
       "grammar": [
         "G5-32"
       ]
@@ -5385,7 +5385,7 @@
       "level": 5,
       "round": 2,
       "text": "他积累了经验，基础更好了。",
-      "pinyin": "tā jī lěi le jīng yàn， jī chǔ gèng hǎo le。",
+      "pinyin": "tā jī lěi le jīng yàn，jī chǔ gèng hǎo le。",
       "grammar": [
         "G5-32"
       ]
@@ -5395,7 +5395,7 @@
       "level": 5,
       "round": 2,
       "text": "他极其认真，集合了大家。",
-      "pinyin": "tā jí qí rèn zhēn， jí hé le dà jiā。",
+      "pinyin": "tā jí qí rèn zhēn，jí hé le dà jiā。",
       "grammar": [
         "G5-41"
       ]
@@ -5405,7 +5405,7 @@
       "level": 5,
       "round": 2,
       "text": "警察调查了这个案子，找到了证据。",
-      "pinyin": "jǐng chá diào chá le zhè ge àn zi， zhǎo dào le zhèng jù。",
+      "pinyin": "jǐng chá diào chá le zhè ge àn zi，zhǎo dào le zhèng jù。",
       "grammar": [
         "G5-32"
       ]
@@ -5415,7 +5415,7 @@
       "level": 5,
       "round": 2,
       "text": "他闭着眼睛，躺在床上休息。",
-      "pinyin": "tā bì zhuó yǎn jīng， tǎng zài chuáng shàng xiū xī。",
+      "pinyin": "tā bì zhuó yǎn jīng，tǎng zài chuáng shàng xiū xī。",
       "grammar": [
         "G5-41"
       ]
@@ -5425,7 +5425,7 @@
       "level": 5,
       "round": 2,
       "text": "他们为这个问题辩论了很久，吵了起来。",
-      "pinyin": "tā men wèi zhè ge wèn tí biàn lùn le hěn jiǔ， chǎo le qǐ lái。",
+      "pinyin": "tā men wèi zhè ge wèn tí biàn lùn le hěn jiǔ，chǎo le qǐ lái。",
       "grammar": [
         "G5-34"
       ]
@@ -5455,7 +5455,7 @@
       "level": 5,
       "round": 2,
       "text": "潮水涨了，衣服有点湿。",
-      "pinyin": "cháo shuǐ zhǎng le， yī fú yǒu diǎn shī。",
+      "pinyin": "cháo shuǐ zhǎng le，yī fú yǒu diǎn shī。",
       "grammar": [
         "G5-32"
       ]
@@ -5465,7 +5465,7 @@
       "level": 5,
       "round": 2,
       "text": "他彻底改变了想法，决定重新开始。",
-      "pinyin": "tā chè dǐ gǎi biàn le xiǎng fǎ， jué dìng chóng xīn kāi shǐ。",
+      "pinyin": "tā chè dǐ gǎi biàn le xiǎng fǎ，jué dìng chóng xīn kāi shǐ。",
       "grammar": [
         "G5-41"
       ]
@@ -5475,7 +5475,7 @@
       "level": 5,
       "round": 2,
       "text": "做人要诚实守信，不能骗人。",
-      "pinyin": "zuò rén yào chéng shí shǒu xìn， bù néng piàn rén。",
+      "pinyin": "zuò rén yào chéng shí shǒu xìn，bù néng piàn rén。",
       "grammar": [
         "G5-32"
       ]
@@ -5485,7 +5485,7 @@
       "level": 5,
       "round": 2,
       "text": "他冲进房间，撞倒了椅子。",
-      "pinyin": "tā chōng jìn fáng jiān， zhuàng dào le yǐ zi。",
+      "pinyin": "tā chōng jìn fáng jiān，zhuàng dào le yǐ zi。",
       "grammar": [
         "G5-41"
       ]
@@ -5495,7 +5495,7 @@
       "level": 5,
       "round": 2,
       "text": "他抽了一张签，运气很好。",
-      "pinyin": "tā chōu le yī zhāng qiān， yùn qì hěn hǎo。",
+      "pinyin": "tā chōu le yì zhāng qiān，yùn qì hěn hǎo。",
       "grammar": [
         "G5-32"
       ]
@@ -5505,7 +5505,7 @@
       "level": 5,
       "round": 2,
       "text": "这瓶水很纯净，可以放心喝。",
-      "pinyin": "zhè píng shuǐ hěn chún jìng， kě yǐ fàng xīn hē。",
+      "pinyin": "zhè píng shuǐ hěn chún jìng，kě yǐ fàng xīn hē。",
       "grammar": [
         "G5-32"
       ]
@@ -5515,7 +5515,7 @@
       "level": 5,
       "round": 2,
       "text": "他的话刺激了我，我决定努力。",
-      "pinyin": "tā de huà cì jī le wǒ， wǒ jué dìng nǔ lì。",
+      "pinyin": "tā de huà cì jī le wǒ，wǒ jué dìng nǔ lì。",
       "grammar": [
         "G5-32"
       ]
@@ -5535,7 +5535,7 @@
       "level": 5,
       "round": 2,
       "text": "他采取了新的措施，防止事故。",
-      "pinyin": "tā cǎi qǔ le xīn de cuò shī， fáng zhǐ shì gù。",
+      "pinyin": "tā cǎi qǔ le xīn de cuò shī，fáng zhǐ shì gù。",
       "grammar": [
         "G5-41"
       ]
@@ -5555,7 +5555,7 @@
       "level": 5,
       "round": 2,
       "text": "这个菜味道太淡，加点盐吧。",
-      "pinyin": "zhè ge cài wèi dào tài dàn， jiā diǎn yán ba。",
+      "pinyin": "zhè ge cài wèi dào tài dàn，jiā diǎn yán ba。",
       "grammar": [
         "G5-32"
       ]
@@ -5565,7 +5565,7 @@
       "level": 5,
       "round": 2,
       "text": "他登上了山顶，看见了日出。",
-      "pinyin": "tā dēng shàng le shān dǐng， kàn jiàn le rì chū。",
+      "pinyin": "tā dēng shàng le shān dǐng，kàn jiàn le rì chū。",
       "grammar": [
         "G5-41"
       ]
@@ -5585,7 +5585,7 @@
       "level": 5,
       "round": 2,
       "text": "他把信递给我，让我转交。",
-      "pinyin": "tā bǎ xìn dì gěi wǒ， ràng wǒ zhuǎn jiāo。",
+      "pinyin": "tā bǎ xìn dì gěi wǒ，ràng wǒ zhuǎn jiāo。",
       "grammar": [
         "G5-39"
       ]
@@ -5595,7 +5595,7 @@
       "level": 5,
       "round": 2,
       "text": "他们斗争了很久，终于胜利了。",
-      "pinyin": "tā men dòu zhēng le hěn jiǔ， zhōng yú shèng lì le。",
+      "pinyin": "tā men dòu zhēng le hěn jiǔ，zhōng yú shèng lì le。",
       "grammar": [
         "G5-71"
       ]
@@ -5615,7 +5615,7 @@
       "level": 5,
       "round": 2,
       "text": "他独自住在山里，很少与人来往。",
-      "pinyin": "tā dú zì zhù zài shān lǐ， hěn shǎo yǔ rén lái wǎng。",
+      "pinyin": "tā dú zì zhù zài shān lǐ，hěn shǎo yǔ rén lái wǎng。",
       "grammar": [
         "G5-32"
       ]
@@ -5625,7 +5625,7 @@
       "level": 5,
       "round": 2,
       "text": "路上堵车了，我们迟到了一会儿。",
-      "pinyin": "lù shàng dǔ chē le， wǒ men chí dào le yī huì er。",
+      "pinyin": "lù shàng dǔ chē le，wǒ men chí dào le yí huì r。",
       "grammar": [
         "G5-32"
       ]
@@ -5635,7 +5635,7 @@
       "level": 5,
       "round": 2,
       "text": "他肚子疼，去了医院。",
-      "pinyin": "tā dǔ zi téng， qù le yī yuàn。",
+      "pinyin": "tā dǔ zi téng，qù le yī yuàn。",
       "grammar": [
         "G5-41"
       ]
@@ -5645,7 +5645,7 @@
       "level": 5,
       "round": 2,
       "text": "他做了很多坏事，大家都不喜欢他。",
-      "pinyin": "tā zuò le hěn duō huài shì， dà jiā dōu bù xǐ huān tā。",
+      "pinyin": "tā zuò le hěn duō huài shì，dà jiā dōu bù xǐ huān tā。",
       "grammar": [
         "G5-32"
       ]
@@ -5655,7 +5655,7 @@
       "level": 5,
       "round": 2,
       "text": "他耳朵不太好，听不清你说话。",
-      "pinyin": "tā ěr duǒ bù tài hǎo， tīng bù qīng nǐ shuō huà。",
+      "pinyin": "tā ěr duǒ bú tài hǎo，tīng bù qīng nǐ shuō huà。",
       "grammar": [
         "G5-35"
       ]
@@ -5665,7 +5665,7 @@
       "level": 5,
       "round": 2,
       "text": "他翻开了第一页，认真地读起来。",
-      "pinyin": "tā fān kāi le dì yī yè， rèn zhēn dì dú qǐ lái。",
+      "pinyin": "tā fān kāi le dì yī yè，rèn zhēn dì dú qǐ lái。",
       "grammar": [
         "G5-34"
       ]
@@ -5675,7 +5675,7 @@
       "level": 5,
       "round": 2,
       "text": "这块地很肥，适合种菜。",
-      "pinyin": "zhè kuài dì hěn féi， shì hé zhòng cài。",
+      "pinyin": "zhè kuài dì hěn féi，shì hé zhòng cài。",
       "grammar": [
         "G5-32"
       ]
@@ -5685,7 +5685,7 @@
       "level": 5,
       "round": 2,
       "text": "大家纷纷举手，抢着回答。",
-      "pinyin": "dà jiā fēn fēn jǔ shǒu， qiǎng zhe huí dá。",
+      "pinyin": "dà jiā fēn fēn jǔ shǒu，qiǎng zhe huí dá。",
       "grammar": [
         "G5-41"
       ]
@@ -5695,7 +5695,7 @@
       "level": 5,
       "round": 2,
       "text": "这些符号很难懂，他看了半天。",
-      "pinyin": "zhè xiē fú hào hěn nán dǒng， tā kàn le bàn tiān。",
+      "pinyin": "zhè xiē fú hào hěn nán dǒng，tā kàn le bàn tiān。",
       "grammar": [
         "G5-32"
       ]
@@ -5705,7 +5705,7 @@
       "level": 5,
       "round": 2,
       "text": "院子的角落里有一棵大树。",
-      "pinyin": "yuàn zi de jiǎo luò lǐ yǒu yī kē dà shù。",
+      "pinyin": "yuàn zi de jiǎo luò lǐ yǒu yì kē dà shù。",
       "grammar": [
         "G5-38"
       ]
@@ -5715,7 +5715,7 @@
       "level": 5,
       "round": 2,
       "text": "他初中毕业，后来学了技术。",
-      "pinyin": "tā chū zhōng bì yè， hòu lái xué le jì shù。",
+      "pinyin": "tā chū zhōng bì yè，hòu lái xué le jì shù。",
       "grammar": [
         "G5-32"
       ]
@@ -5735,7 +5735,7 @@
       "level": 5,
       "round": 2,
       "text": "经济发展很快，技术也在进步。",
-      "pinyin": "jīng jì fā zhǎn hěn kuài， jì shù yě zài jìn bù。",
+      "pinyin": "jīng jì fā zhǎn hěn kuài，jì shù yě zài jìn bù。",
       "grammar": [
         "G5-32"
       ]
@@ -5745,7 +5745,7 @@
       "level": 5,
       "round": 2,
       "text": "他比较了两种方法，发现差别不大。",
-      "pinyin": "tā bǐ jiào le liǎng zhǒng fāng fǎ， fā xiàn chā bié bù dà。",
+      "pinyin": "tā bǐ jiào le liǎng zhǒng fāng fǎ，fā xiàn chā bié bú dà。",
       "grammar": [
         "G5-43"
       ]
@@ -5755,7 +5755,7 @@
       "level": 5,
       "round": 2,
       "text": "这里是边界，不能过去。",
-      "pinyin": "zhè lǐ shì biān jiè， bù néng guò qù。",
+      "pinyin": "zhè lǐ shì biān jiè，bù néng guò qù。",
       "grammar": [
         "G5-32"
       ]
@@ -5765,7 +5765,7 @@
       "level": 5,
       "round": 2,
       "text": "他仅用了五分钟，时间很紧。",
-      "pinyin": "tā jǐn yòng le wǔ fēn zhōng， shí jiān hěn jǐn。",
+      "pinyin": "tā jǐn yòng le wǔ fēn zhōng，shí jiān hěn jǐn。",
       "grammar": [
         "G5-32"
       ]
@@ -5775,7 +5775,7 @@
       "level": 5,
       "round": 2,
       "text": "他救了一个孩子，大家都很感动。",
-      "pinyin": "tā jiù le yī gè hái zi， dà jiā dōu hěn gǎn dòng。",
+      "pinyin": "tā jiù le yí gè hái zi，dà jiā dōu hěn gǎn dòng。",
       "grammar": [
         "G5-32"
       ]
@@ -5785,7 +5785,7 @@
       "level": 5,
       "round": 2,
       "text": "他具有这个能力，工具也很齐全。",
-      "pinyin": "tā jù yǒu zhè ge néng lì， gōng jù yě hěn qí quán。",
+      "pinyin": "tā jù yǒu zhè ge néng lì，gōng jù yě hěn qí quán。",
       "grammar": [
         "G5-32"
       ]
@@ -5795,7 +5795,7 @@
       "level": 5,
       "round": 2,
       "text": "他喜欢看剧，裤子却破了。",
-      "pinyin": "tā xǐ huān kàn jù， kù zi què pò le。",
+      "pinyin": "tā xǐ huān kàn jù，kù zi què pò le。",
       "grammar": [
         "G5-32"
       ]
@@ -5805,7 +5805,7 @@
       "level": 5,
       "round": 2,
       "text": "情况怎么样？他很困，想睡觉。",
-      "pinyin": "qíng kuàng zěn me yàng？ tā hěn kùn， xiǎng shuì jiào。",
+      "pinyin": "qíng kuàng zěn me yàng？tā hěn kùn，xiǎng shuì jiào。",
       "grammar": [
         "G5-32"
       ]
@@ -5815,7 +5815,7 @@
       "level": 5,
       "round": 2,
       "text": "浪很大，他不敢下水。",
-      "pinyin": "làng hěn dà， tā bù gǎn xià shuǐ。",
+      "pinyin": "làng hěn dà，tā bù gǎn xià shuǐ。",
       "grammar": [
         "G5-32"
       ]
@@ -5825,7 +5825,7 @@
       "level": 5,
       "round": 2,
       "text": "他姓李，经历了很多事。",
-      "pinyin": "tā xìng lǐ， jīng lì le hěn duō shì。",
+      "pinyin": "tā xìng lǐ，jīng lì le hěn duō shì。",
       "grammar": [
         "G5-32"
       ]
@@ -5835,7 +5835,7 @@
       "level": 5,
       "round": 2,
       "text": "他立刻站了起来，长得很美丽。",
-      "pinyin": "tā lì kè zhàn le qǐ lái， zhǎng dé hěn měi lì。",
+      "pinyin": "tā lì kè zhàn le qǐ lái，zhǎng de hěn měi lì。",
       "grammar": [
         "G5-37"
       ]
@@ -5845,7 +5845,7 @@
       "level": 5,
       "round": 2,
       "text": "他联系了我，领导这个团队。",
-      "pinyin": "tā lián xì le wǒ， lǐng dǎo zhè ge tuán duì。",
+      "pinyin": "tā lián xì le wǒ，lǐng dǎo zhè ge tuán duì。",
       "grammar": [
         "G5-41"
       ]
@@ -5855,7 +5855,7 @@
       "level": 5,
       "round": 2,
       "text": "他另有打算，记录了这件事。",
-      "pinyin": "tā lìng yǒu dǎ suàn， jì lù le zhè jiàn shì。",
+      "pinyin": "tā lìng yǒu dǎ suàn，jì lù le zhè jiàn shì。",
       "grammar": [
         "G5-32"
       ]
@@ -5865,7 +5865,7 @@
       "level": 5,
       "round": 2,
       "text": "他冒雨前行，衣服都湿透了。",
-      "pinyin": "tā mào yǔ qián xíng， yī fú dōu shī tòu le。",
+      "pinyin": "tā mào yǔ qián xíng，yī fú dōu shī tòu le。",
       "grammar": [
         "G5-41"
       ]
@@ -5875,7 +5875,7 @@
       "level": 5,
       "round": 2,
       "text": "他是媒人，人民都很信任他。",
-      "pinyin": "tā shì méi rén， rén mín dōu hěn xìn rèn tā。",
+      "pinyin": "tā shì méi rén，rén mín dōu hěn xìn rèn tā。",
       "grammar": [
         "G5-32"
       ]
@@ -5885,7 +5885,7 @@
       "level": 5,
       "round": 2,
       "text": "某人不舒服，木头很重。",
-      "pinyin": "mǒu rén bù shū fú， mù tou hěn zhòng。",
+      "pinyin": "mǒu rén bù shū fú，mù tou hěn zhòng。",
       "grammar": [
         "G5-32"
       ]
@@ -5895,7 +5895,7 @@
       "level": 5,
       "round": 2,
       "text": "他很想念家人，娘也很想他。",
-      "pinyin": "tā hěn xiǎng niàn jiā rén， niáng yě hěn xiǎng tā。",
+      "pinyin": "tā hěn xiǎng niàn jiā rén，niáng yě hěn xiǎng tā。",
       "grammar": [
         "G5-32"
       ]
@@ -5905,7 +5905,7 @@
       "level": 5,
       "round": 2,
       "text": "他拍了一张照片，牌子很大。",
-      "pinyin": "tā pāi le yī zhāng zhào piān， pái zi hěn dà。",
+      "pinyin": "tā pāi le yì zhāng zhào piān，pái zi hěn dà。",
       "grammar": [
         "G5-32"
       ]
@@ -5915,7 +5915,7 @@
       "level": 5,
       "round": 2,
       "text": "他派人去了，那人有点胖。",
-      "pinyin": "tā pài rén qù le， nà rén yǒu diǎn pàng。",
+      "pinyin": "tā pài rén qù le，nà rén yǒu diǎn pàng。",
       "grammar": [
         "G5-42"
       ]
@@ -5925,7 +5925,7 @@
       "level": 5,
       "round": 2,
       "text": "他配了眼镜，还批评了我。",
-      "pinyin": "tā pèi le yǎn jìng， hái pī píng le wǒ。",
+      "pinyin": "tā pèi le yǎn jìng，hái pī píng le wǒ。",
       "grammar": [
         "G5-41"
       ]
@@ -5935,7 +5935,7 @@
       "level": 5,
       "round": 2,
       "text": "他打破了纪录，事情很奇怪。",
-      "pinyin": "tā dǎ pò le jì lù， shì qíng hěn qí guài。",
+      "pinyin": "tā dǎ pò le jì lù，shì qíng hěn qí guài。",
       "grammar": [
         "G5-32"
       ]
@@ -5945,7 +5945,7 @@
       "level": 5,
       "round": 2,
       "text": "他的器量很大，人很坚强。",
-      "pinyin": "tā de qì liàng hěn dà， rén hěn jiān qiáng。",
+      "pinyin": "tā de qì liàng hěn dà，rén hěn jiān qiáng。",
       "grammar": [
         "G5-32"
       ]
@@ -5955,7 +5955,7 @@
       "level": 5,
       "round": 2,
       "text": "这座桥很长，事情很巧。",
-      "pinyin": "zhè zuò qiáo hěn zhǎng， shì qíng hěn qiǎo。",
+      "pinyin": "zhè zuò qiáo hěn zhǎng，shì qíng hěn qiǎo。",
       "grammar": [
         "G5-32"
       ]
@@ -5965,7 +5965,7 @@
       "level": 5,
       "round": 2,
       "text": "他切了一块蛋糕，庆祝生日。",
-      "pinyin": "tā qiè le yī kuài dàn gāo， qìng zhù shēng rì。",
+      "pinyin": "tā qiè le yí kuài dàn gāo，qìng zhù shēng rì。",
       "grammar": [
         "G5-41"
       ]
@@ -5975,7 +5975,7 @@
       "level": 5,
       "round": 2,
       "text": "这群人很友好，常常一起散步。",
-      "pinyin": "zhè qún rén hěn yǒu hǎo， cháng cháng yī qǐ sàn bù。",
+      "pinyin": "zhè qún rén hěn yǒu hǎo，cháng cháng yì qǐ sàn bù。",
       "grammar": [
         "G5-32"
       ]
@@ -5985,7 +5985,7 @@
       "level": 5,
       "round": 2,
       "text": "他很善良，社会也很温暖。",
-      "pinyin": "tā hěn shàn liáng， shè huì yě hěn wēn nuǎn。",
+      "pinyin": "tā hěn shàn liáng，shè huì yě hěn wēn nuǎn。",
       "grammar": [
         "G5-32"
       ]
@@ -5995,7 +5995,7 @@
       "level": 5,
       "round": 2,
       "text": "他胜利了，世界很大。",
-      "pinyin": "tā shèng lì le， shì jiè hěn dà。",
+      "pinyin": "tā shèng lì le，shì jiè hěn dà。",
       "grammar": [
         "G5-32"
       ]
@@ -6005,7 +6005,7 @@
       "level": 5,
       "round": 2,
       "text": "这种方式很好，他似乎在笑。",
-      "pinyin": "zhè zhǒng fāng shì hěn hǎo， tā sì hū zài xiào。",
+      "pinyin": "zhè zhǒng fāng shì hěn hǎo，tā sì hū zài xiào。",
       "grammar": [
         "G5-32"
       ]
@@ -6015,7 +6015,7 @@
       "level": 5,
       "round": 2,
       "text": "他的势力很大，比赛却输了。",
-      "pinyin": "tā de shì lì hěn dà， bǐ sài què shū le。",
+      "pinyin": "tā de shì lì hěn dà，bǐ sài què shū le。",
       "grammar": [
         "G5-32"
       ]
@@ -6025,7 +6025,7 @@
       "level": 5,
       "round": 2,
       "text": "他属马，技术也很好。",
-      "pinyin": "tā shǔ mǎ， jì shù yě hěn hǎo。",
+      "pinyin": "tā shǔ mǎ，jì shù yě hěn hǎo。",
       "grammar": [
         "G5-32"
       ]
@@ -6035,7 +6035,7 @@
       "level": 5,
       "round": 2,
       "text": "一束花放在台上。",
-      "pinyin": "yī shù huā fàng zài tái shàng。",
+      "pinyin": "yí shù huā fàng zài tái shàng。",
       "grammar": [
         "G5-32"
       ]
@@ -6045,7 +6045,7 @@
       "level": 5,
       "round": 2,
       "text": "他们谈了谈，汤很热。",
-      "pinyin": "tā men tán le tán， tāng hěn rè。",
+      "pinyin": "tā men tán le tán，tāng hěn rè。",
       "grammar": [
         "G5-41"
       ]
@@ -6055,7 +6055,7 @@
       "level": 5,
       "round": 2,
       "text": "他很痛苦，突然下雨了。",
-      "pinyin": "tā hěn tòng kǔ， tū rán xià yǔ le。",
+      "pinyin": "tā hěn tòng kǔ，tū rán xià yǔ le。",
       "grammar": [
         "G5-32"
       ]
@@ -6065,7 +6065,7 @@
       "level": 5,
       "round": 2,
       "text": "土地很肥，团体活动很多。",
-      "pinyin": "tǔ dì hěn féi， tuán tǐ huó dòng hěn duō。",
+      "pinyin": "tǔ dì hěn féi，tuán tǐ huó dòng hěn duō。",
       "grammar": [
         "G5-32"
       ]
@@ -6075,7 +6075,7 @@
       "level": 5,
       "round": 2,
       "text": "他退了一步，这里很危险。",
-      "pinyin": "tā tuì le yī bù， zhè lǐ hěn wēi xiǎn。",
+      "pinyin": "tā tuì le yí bù，zhè lǐ hěn wēi xiǎn。",
       "grammar": [
         "G5-41"
       ]
@@ -6085,7 +6085,7 @@
       "level": 5,
       "round": 2,
       "text": "周围很安静，他很伟大。",
-      "pinyin": "zhōu wéi hěn ān jìng， tā hěn wěi dà。",
+      "pinyin": "zhōu wéi hěn ān jìng，tā hěn wěi dà。",
       "grammar": [
         "G5-32"
       ]
@@ -6095,7 +6095,7 @@
       "level": 5,
       "round": 2,
       "text": "他保卫了家园，握着我的手。",
-      "pinyin": "tā bǎo wèi le jiā yuán， wò zhe wǒ de shǒu。",
+      "pinyin": "tā bǎo wèi le jiā yuán，wò zhe wǒ de shǒu。",
       "grammar": [
         "G5-41"
       ]
@@ -6105,7 +6105,7 @@
       "level": 5,
       "round": 2,
       "text": "他学习武术，误会了我。",
-      "pinyin": "tā xué xí wǔ shù， wù huì le wǒ。",
+      "pinyin": "tā xué xí wǔ shù，wù huì le wǒ。",
       "grammar": [
         "G5-32"
       ]
@@ -6115,7 +6115,7 @@
       "level": 5,
       "round": 2,
       "text": "他希望成功，正在演戏。",
-      "pinyin": "tā xī wàng chéng gōng， zhèng zài yǎn xì。",
+      "pinyin": "tā xī wàng chéng gōng，zhèng zài yǎn xì。",
       "grammar": [
         "G5-32"
       ]
@@ -6125,7 +6125,7 @@
       "level": 5,
       "round": 2,
       "text": "他显得很高兴，这里很险。",
-      "pinyin": "tā xiǎn de hěn gāo xìng， zhè lǐ hěn xiǎn。",
+      "pinyin": "tā xiǎn de hěn gāo xìng，zhè lǐ hěn xiǎn。",
       "grammar": [
         "G5-37"
       ]
@@ -6135,7 +6135,7 @@
       "level": 5,
       "round": 2,
       "text": "大象很大，他形成了习惯。",
-      "pinyin": "dà xiàng hěn dà， tā xíng chéng le xí guàn。",
+      "pinyin": "dà xiàng hěn dà，tā xíng chéng le xí guàn。",
       "grammar": [
         "G5-32"
       ]
@@ -6145,7 +6145,7 @@
       "level": 5,
       "round": 2,
       "text": "他很幸运，性格很好。",
-      "pinyin": "tā hěn xìng yùn， xìng gé hěn hǎo。",
+      "pinyin": "tā hěn xìng yùn，xìng gé hěn hǎo。",
       "grammar": [
         "G5-32"
       ]
@@ -6165,7 +6165,7 @@
       "level": 5,
       "round": 2,
       "text": "他训练很刻苦，压力很大。",
-      "pinyin": "tā xùn liàn hěn kè kǔ， yā lì hěn dà。",
+      "pinyin": "tā xùn liàn hěn kè kǔ，yā lì hěn dà。",
       "grammar": [
         "G5-32"
       ]
@@ -6175,7 +6175,7 @@
       "level": 5,
       "round": 2,
       "text": "他表演得很好，羊在吃草。",
-      "pinyin": "tā biǎo yǎn dé hěn hǎo， yáng zài chī cǎo。",
+      "pinyin": "tā biǎo yǎn de hěn hǎo，yáng zài chī cǎo。",
       "grammar": [
         "G5-37"
       ]
@@ -6185,7 +6185,7 @@
       "level": 5,
       "round": 2,
       "text": "他很讲义气，也喜欢艺术。",
-      "pinyin": "tā hěn jiǎng yì qì， yě xǐ huān yì shù。",
+      "pinyin": "tā hěn jiǎng yì qì，yě xǐ huān yì shù。",
       "grammar": [
         "G5-32"
       ]
@@ -6195,7 +6195,7 @@
       "level": 5,
       "round": 2,
       "text": "他经营一家店，赢了比赛。",
-      "pinyin": "tā jīng yíng yī jiā diàn， yíng le bǐ sài。",
+      "pinyin": "tā jīng yíng yì jiā diàn，yíng le bǐ sài。",
       "grammar": [
         "G5-41"
       ]
@@ -6205,7 +6205,7 @@
       "level": 5,
       "round": 2,
       "text": "他成绩很优秀，邮了一封信。",
-      "pinyin": "tā chéng jì hěn yōu xiù， yóu le yī fēng xìn。",
+      "pinyin": "tā chéng jì hěn yōu xiù，yóu le yì fēng xìn。",
       "grammar": [
         "G5-32"
       ]
@@ -6225,7 +6225,7 @@
       "level": 5,
       "round": 2,
       "text": "他证明了这一点，支持我。",
-      "pinyin": "tā zhèng míng le zhè yī diǎn，zhī chí wǒ。",
+      "pinyin": "tā zhèng míng le zhè yì diǎn，zhī chí wǒ。",
       "grammar": [
         "G5-32"
       ]
@@ -6235,7 +6235,7 @@
       "level": 5,
       "round": 2,
       "text": "他喝了一杯果汁，至今没来。",
-      "pinyin": "tā hē le yī bēi guǒ zhī， zhì jīn méi lái。",
+      "pinyin": "tā hē le yì bēi guǒ zhī，zhì jīn méi lái。",
       "grammar": [
         "G5-32"
       ]
@@ -6245,7 +6245,7 @@
       "level": 5,
       "round": 2,
       "text": "他的志向很远大，终于来了。",
-      "pinyin": "tā de zhì xiàng hěn yuǎn dà， zhōng yú lái le。",
+      "pinyin": "tā de zhì xiàng hěn yuǎn dà，zhōng yú lái le。",
       "grammar": [
         "G5-32"
       ]
@@ -6255,7 +6255,7 @@
       "level": 5,
       "round": 2,
       "text": "观众很多，他养猪。",
-      "pinyin": "guān zhòng hěn duō， tā yǎng zhū。",
+      "pinyin": "guān zhòng hěn duō，tā yǎng zhū。",
       "grammar": [
         "G5-32"
       ]
@@ -6265,7 +6265,7 @@
       "level": 5,
       "round": 2,
       "text": "他抓住了机会，专门研究这个。",
-      "pinyin": "tā zhuā zhù le jī huì， zhuān mén yán jiū zhè ge。",
+      "pinyin": "tā zhuā zhù le jī huì，zhuān mén yán jiū zhè ge。",
       "grammar": [
         "G5-41"
       ]
@@ -6275,7 +6275,7 @@
       "level": 5,
       "round": 2,
       "text": "他转身走了，状态很好。",
-      "pinyin": "tā zhuǎn shēn zǒu le， zhuàng tài hěn hǎo。",
+      "pinyin": "tā zhuǎn shēn zǒu le，zhuàng tài hěn hǎo。",
       "grammar": [
         "G5-41"
       ]
@@ -6285,7 +6285,7 @@
       "level": 5,
       "round": 2,
       "text": "他追求梦想，足够努力。",
-      "pinyin": "tā zhuī qiú mèng xiǎng， zú gòu nǔ lì。",
+      "pinyin": "tā zhuī qiú mèng xiǎng，zú gòu nǔ lì。",
       "grammar": [
         "G5-32"
       ]
@@ -6305,7 +6305,7 @@
       "level": 5,
       "round": 2,
       "text": "他个子矮，身体有点胖，穿了一件薄衣服。",
-      "pinyin": "tā gè zi ǎi， shēn tǐ yǒu diǎn pàng， chuān le yī jiàn báo yī fú。",
+      "pinyin": "tā gè zi ǎi，shēn tǐ yǒu diǎn pàng，chuān le yí jiàn báo yī fú。",
       "grammar": [
         "G5-32"
       ]
@@ -6315,7 +6315,7 @@
       "level": 5,
       "round": 2,
       "text": "天黑了，屋里很暗，他打开了灯。",
-      "pinyin": "tiān hēi le， wū lǐ hěn àn， tā dǎ kāi le dēng。",
+      "pinyin": "tiān hēi le，wū lǐ hěn àn，tā dǎ kāi le dēng。",
       "grammar": [
         "G5-32"
       ]
@@ -6345,7 +6345,7 @@
       "level": 5,
       "round": 2,
       "text": "他很笨，但很努力。",
-      "pinyin": "tā hěn bèn， dàn hěn nǔ lì。",
+      "pinyin": "tā hěn bèn，dàn hěn nǔ lì。",
       "grammar": [
         "G5-32"
       ]
@@ -6365,7 +6365,7 @@
       "level": 5,
       "round": 2,
       "text": "他电脑操作得很熟练。",
-      "pinyin": "tā diàn nǎo cāo zuò dé hěn shú liàn。",
+      "pinyin": "tā diàn nǎo cāo zuò de hěn shú liàn。",
       "grammar": [
         "G5-37"
       ]
@@ -6415,7 +6415,7 @@
       "level": 5,
       "round": 2,
       "text": "他有一个幸福的家庭。",
-      "pinyin": "tā yǒu yī gè xìng fú de jiā tíng。",
+      "pinyin": "tā yǒu yí gè xìng fú de jiā tíng。",
       "grammar": [
         "G5-38"
       ]
@@ -6445,7 +6445,7 @@
       "level": 5,
       "round": 2,
       "text": "公司设了新部门，还购买了设备。",
-      "pinyin": "gōng sī shè le xīn bù mén， hái gòu mǎi le shè bèi。",
+      "pinyin": "gōng sī shè le xīn bù mén，hái gòu mǎi le shè bèi。",
       "grammar": [
         "G5-32"
       ]
@@ -6485,7 +6485,7 @@
       "level": 5,
       "round": 2,
       "text": "他把照片附在信里，一起寄走了。",
-      "pinyin": "tā bǎ zhào piān fù zài xìn lǐ， yī qǐ jì zǒu le。",
+      "pinyin": "tā bǎ zhào piān fù zài xìn lǐ，yì qǐ jì zǒu le。",
       "grammar": [
         "G5-39"
       ]
@@ -6495,7 +6495,7 @@
       "level": 5,
       "round": 2,
       "text": "他盖好被子，把灯关上。",
-      "pinyin": "tā gài hǎo bèi zi， bǎ dēng guān shàng。",
+      "pinyin": "tā gài hǎo bèi zi，bǎ dēng guān shàng。",
       "grammar": [
         "G5-41"
       ]
@@ -6515,7 +6515,7 @@
       "level": 5,
       "round": 2,
       "text": "公司提供免费午餐，还供应水果。",
-      "pinyin": "gōng sī tí gōng miǎn fèi wǔ cān， hái gōng yìng shuǐ guǒ。",
+      "pinyin": "gōng sī tí gōng miǎn fèi wǔ cān，hái gōng yìng shuǐ guǒ。",
       "grammar": [
         "G5-41"
       ]
@@ -6525,7 +6525,7 @@
       "level": 5,
       "round": 2,
       "text": "他构成了一种新理论，影响很大。",
-      "pinyin": "tā gòu chéng le yī zhǒng xīn lǐ lùn， yǐng xiǎng hěn dà。",
+      "pinyin": "tā gòu chéng le yì zhǒng xīn lǐ lùn，yǐng xiǎng hěn dà。",
       "grammar": [
         "G5-32"
       ]
@@ -6535,7 +6535,7 @@
       "level": 5,
       "round": 2,
       "text": "他骨折了，住进了医院。",
-      "pinyin": "tā gǔ zhé le， zhù jìn le yī yuàn。",
+      "pinyin": "tā gǔ zhé le，zhù jìn le yī yuàn。",
       "grammar": [
         "G5-32"
       ]
@@ -6555,7 +6555,7 @@
       "level": 5,
       "round": 2,
       "text": "西瓜很甜，瓜子也很香。",
-      "pinyin": "xī guā hěn tián， guā zi yě hěn xiāng。",
+      "pinyin": "xī guā hěn tián，guā zi yě hěn xiāng。",
       "grammar": [
         "G5-32"
       ]
@@ -6575,7 +6575,7 @@
       "level": 5,
       "round": 2,
       "text": "他把衣服裹紧，快步走了出去。",
-      "pinyin": "tā bǎ yī fú guǒ jǐn， kuài bù zǒu le chū qù。",
+      "pinyin": "tā bǎ yī fú guǒ jǐn，kuài bù zǒu le chū qù。",
       "grammar": [
         "G5-41"
       ]
@@ -6595,7 +6595,7 @@
       "level": 5,
       "round": 2,
       "text": "天气寒冷，江面结了冰。",
-      "pinyin": "tiān qì hán lěng， jiāng miàn jié le bīng。",
+      "pinyin": "tiān qì hán lěng，jiāng miàn jié le bīng。",
       "grammar": [
         "G5-32"
       ]
@@ -6605,7 +6605,7 @@
       "level": 5,
       "round": 2,
       "text": "船在海上航行，远处有矿山。",
-      "pinyin": "chuán zài hǎi shàng háng xíng， yuǎn chù yǒu kuàng shān。",
+      "pinyin": "chuán zài hǎi shàng háng xíng，yuǎn chù yǒu kuàng shān。",
       "grammar": [
         "G5-38"
       ]
@@ -6615,7 +6615,7 @@
       "level": 5,
       "round": 2,
       "text": "他毫不犹豫，干脆答应了。",
-      "pinyin": "tā háo bù yóu yù， gān cuì dā yìng le。",
+      "pinyin": "tā háo bù yóu yù，gān cuì dā ying le。",
       "grammar": [
         "G5-08"
       ]
@@ -6625,7 +6625,7 @@
       "level": 5,
       "round": 2,
       "text": "他怀念家乡，常想起小时候。",
-      "pinyin": "tā huái niàn jiā xiāng， cháng xiǎng qǐ xiǎo shí hòu。",
+      "pinyin": "tā huái niàn jiā xiāng，cháng xiǎng qǐ xiǎo shí hòu。",
       "grammar": [
         "G5-32"
       ]
@@ -6635,7 +6635,7 @@
       "level": 5,
       "round": 2,
       "text": "他的病缓和了，精神好多了。",
-      "pinyin": "tā de bìng huǎn hé le， jīng shén hǎo duō le。",
+      "pinyin": "tā de bìng huǎn hé le，jīng shén hǎo duō le。",
       "grammar": [
         "G5-32"
       ]
@@ -6645,7 +6645,7 @@
       "level": 5,
       "round": 2,
       "text": "他挥了挥手，转身走了。",
-      "pinyin": "tā huī le huī shǒu， zhuǎn shēn zǒu le。",
+      "pinyin": "tā huī le huī shǒu，zhuǎn shēn zǒu le。",
       "grammar": [
         "G5-41"
       ]
@@ -6655,7 +6655,7 @@
       "level": 5,
       "round": 2,
       "text": "他汇了一笔钱给家里。",
-      "pinyin": "tā huì le yī bǐ qián gěi jiā lǐ。",
+      "pinyin": "tā huì le yì bǐ qián gěi jiā lǐ。",
       "grammar": [
         "G5-32"
       ]
@@ -6665,7 +6665,7 @@
       "level": 5,
       "round": 2,
       "text": "他们合伙开了一家店，生意很好。",
-      "pinyin": "tā men hé huǒ kāi le yī jiā diàn， shēng yì hěn hǎo。",
+      "pinyin": "tā men hé huǒ kāi le yì jiā diàn，shēng yì hěn hǎo。",
       "grammar": [
         "G5-32"
       ]
@@ -6685,7 +6685,7 @@
       "level": 5,
       "round": 2,
       "text": "他既然来了，就留下吧。",
-      "pinyin": "tā jì rán lái le， jiù liú xià ba。",
+      "pinyin": "tā jì rán lái le，jiù liú xià ba。",
       "grammar": [
         "G5-46"
       ]
@@ -6695,7 +6695,7 @@
       "level": 5,
       "round": 2,
       "text": "台阶很滑，走慢一点。",
-      "pinyin": "tái jiē hěn huá， zǒu màn yī diǎn。",
+      "pinyin": "tái jiē hěn huá，zǒu màn yì diǎn。",
       "grammar": [
         "G5-32"
       ]
@@ -6705,7 +6705,7 @@
       "level": 5,
       "round": 2,
       "text": "他戴了一条围巾，觉得很暖和。",
-      "pinyin": "tā dài le yī tiáo wéi jīn， jué de hěn nuǎn huo。",
+      "pinyin": "tā dài le yì tiáo wéi jīn，jué de hěn nuǎn huo。",
       "grammar": [
         "G5-32"
       ]
@@ -6765,7 +6765,7 @@
       "level": 5,
       "round": 2,
       "text": "大家聚在一起聊天。",
-      "pinyin": "dà jiā jù zài yī qǐ liáo tiān。",
+      "pinyin": "dà jiā jù zài yì qǐ liáo tiān。",
       "grammar": [
         "G5-32"
       ]
@@ -6825,7 +6825,7 @@
       "level": 5,
       "round": 2,
       "text": "他辣得直喝水。",
-      "pinyin": "tā là dé zhí hē shuǐ。",
+      "pinyin": "tā là de zhí hē shuǐ。",
       "grammar": [
         "G5-37"
       ]
@@ -6845,7 +6845,7 @@
       "level": 5,
       "round": 2,
       "text": "雷声很大，孩子流下了眼泪。",
-      "pinyin": "léi shēng hěn dà， hái zi liú xià le yǎn lèi。",
+      "pinyin": "léi shēng hěn dà，hái zi liú xià le yǎn lèi。",
       "grammar": [
         "G5-32"
       ]
@@ -6895,7 +6895,7 @@
       "level": 5,
       "round": 2,
       "text": "车轮转得很快。",
-      "pinyin": "chē lún zhuǎn dé hěn kuài。",
+      "pinyin": "chē lún zhuǎn de hěn kuài。",
       "grammar": [
         "G5-37"
       ]
@@ -6915,7 +6915,7 @@
       "level": 5,
       "round": 2,
       "text": "这是秘密，别告诉别人。",
-      "pinyin": "zhè shì mì mì， bié gào sù bié rén。",
+      "pinyin": "zhè shì mì mì，bié gào sù bié rén。",
       "grammar": [
         "G5-32"
       ]
@@ -6925,7 +6925,7 @@
       "level": 5,
       "round": 2,
       "text": "他描写得很生动。",
-      "pinyin": "tā miáo xiě dé hěn shēng dòng。",
+      "pinyin": "tā miáo xiě de hěn shēng dòng。",
       "grammar": [
         "G5-37"
       ]
@@ -6955,7 +6955,7 @@
       "level": 5,
       "round": 2,
       "text": "这里很宁静，茶也很浓。",
-      "pinyin": "zhè lǐ hěn níng jìng， chá yě hěn nóng。",
+      "pinyin": "zhè lǐ hěn níng jìng，chá yě hěn nóng。",
       "grammar": [
         "G5-32"
       ]
@@ -7045,7 +7045,7 @@
       "level": 5,
       "round": 2,
       "text": "柴火燃烧得很亮。",
-      "pinyin": "chái huǒ rán shāo dé hěn liàng。",
+      "pinyin": "chái huǒ rán shāo de hěn liàng。",
       "grammar": [
         "G5-37"
       ]
@@ -7055,7 +7055,7 @@
       "level": 5,
       "round": 2,
       "text": "他身体弱，扫地很累。",
-      "pinyin": "tā shēn tǐ ruò， sǎo dì hěn lèi。",
+      "pinyin": "tā shēn tǐ ruò，sǎo dì hěn lèi。",
       "grammar": [
         "G5-32"
       ]
@@ -7065,7 +7065,7 @@
       "level": 5,
       "round": 2,
       "text": "森林里太阳晒不进来。",
-      "pinyin": "sēn lín lǐ tài yáng shài bù jìn lái。",
+      "pinyin": "sēn lín lǐ tài yáng shài bú jìn lái。",
       "grammar": [
         "G5-35"
       ]
@@ -7075,7 +7075,7 @@
       "level": 5,
       "round": 2,
       "text": "他闪了一下。",
-      "pinyin": "tā shǎn le yī xià。",
+      "pinyin": "tā shǎn le yí xià。",
       "grammar": [
         "G5-32"
       ]
@@ -7115,7 +7115,7 @@
       "level": 5,
       "round": 2,
       "text": "老师解释后，又授课。",
-      "pinyin": "lǎo shī jiě shì hòu， yòu shòu kè。",
+      "pinyin": "lǎo shī jiě shì hòu，yòu shòu kè。",
       "grammar": [
         "G5-41"
       ]
@@ -7155,7 +7155,7 @@
       "level": 5,
       "round": 2,
       "text": "他长得很帅，头发松软。",
-      "pinyin": "tā zhǎng dé hěn shuài， tóu fà sōng ruǎn。",
+      "pinyin": "tā zhǎng de hěn shuài，tóu fà sōng ruǎn。",
       "grammar": [
         "G5-37"
       ]
@@ -7175,7 +7175,7 @@
       "level": 5,
       "round": 2,
       "text": "他用塑料做了一个模型。",
-      "pinyin": "tā yòng sù liào zuò le yī gè mó xíng。",
+      "pinyin": "tā yòng sù liào zuò le yí gè mó xíng。",
       "grammar": [
         "G5-32"
       ]
@@ -7215,7 +7215,7 @@
       "level": 5,
       "round": 2,
       "text": "他挑了一个统一的样式。",
-      "pinyin": "tā tiāo le yī gè tǒng yī de yàng shì。",
+      "pinyin": "tā tiāo le yí gè tǒng yī de yàng shì。",
       "grammar": [
         "G5-32"
       ]
@@ -7225,7 +7225,7 @@
       "level": 5,
       "round": 2,
       "text": "他投了一票，走上了归途。",
-      "pinyin": "tā tóu le yī piào， zǒu shàng le guī tú。",
+      "pinyin": "tā tóu le yí piào，zǒu shàng le guī tú。",
       "grammar": [
         "G5-41"
       ]
@@ -7275,7 +7275,7 @@
       "level": 5,
       "round": 2,
       "text": "他所谓的成功，他从未在意。",
-      "pinyin": "tā suǒ wèi de chéng gōng， tā cóng wèi zài yì。",
+      "pinyin": "tā suǒ wèi de chéng gōng，tā cóng wèi zài yì。",
       "grammar": [
         "G5-32"
       ]
@@ -7285,7 +7285,7 @@
       "level": 5,
       "round": 2,
       "text": "他坐在席上，吸引了注意。",
-      "pinyin": "tā zuò zài xí shàng， xī yǐn le zhù yì。",
+      "pinyin": "tā zuò zài xí shàng，xī yǐn le zhù yì。",
       "grammar": [
         "G5-32"
       ]
@@ -7345,7 +7345,7 @@
       "level": 5,
       "round": 2,
       "text": "他得了亚军，庆祝会延期了。",
-      "pinyin": "tā dé le yà jūn， qìng zhù huì yán qī le。",
+      "pinyin": "tā dé le yà jūn，qìng zhù huì yán qī le。",
       "grammar": [
         "G5-32"
       ]
@@ -7355,7 +7355,7 @@
       "level": 5,
       "round": 2,
       "text": "老师要求很严，他扬起了头。",
-      "pinyin": "lǎo shī yāo qiú hěn yán， tā yáng qǐ le tóu。",
+      "pinyin": "lǎo shī yāo qiú hěn yán，tā yáng qǐ le tóu。",
       "grammar": [
         "G5-32"
       ]
@@ -7375,7 +7375,7 @@
       "level": 5,
       "round": 2,
       "text": "他移民后，遗留了一些问题。",
-      "pinyin": "tā yí mín hòu， yí liú le yī xiē wèn tí。",
+      "pinyin": "tā yí mín hòu，yí liú le yì xiē wèn tí。",
       "grammar": [
         "G5-32"
       ]
@@ -7405,7 +7405,7 @@
       "level": 5,
       "round": 2,
       "text": "他幼年离家，余下一些钱。",
-      "pinyin": "tā yòu nián lí jiā， yú xià yī xiē qián。",
+      "pinyin": "tā yòu nián lí jiā，yú xià yì xiē qián。",
       "grammar": [
         "G5-32"
       ]
@@ -7425,7 +7425,7 @@
       "level": 5,
       "round": 2,
       "text": "月亮很圆，水源很远。",
-      "pinyin": "yuè liàng hěn yuán， shuǐ yuán hěn yuǎn。",
+      "pinyin": "yuè liàng hěn yuán，shuǐ yuán hěn yuǎn。",
       "grammar": [
         "G5-32"
       ]
@@ -7445,7 +7445,7 @@
       "level": 5,
       "round": 2,
       "text": "他载了一车货。",
-      "pinyin": "tā zài le yī chē huò。",
+      "pinyin": "tā zài le yì chē huò。",
       "grammar": [
         "G5-32"
       ]
@@ -7455,7 +7455,7 @@
       "level": 5,
       "round": 2,
       "text": "他赞美了她，选择了这条路。",
-      "pinyin": "tā zàn měi le tā， xuǎn zé le zhè tiáo lù。",
+      "pinyin": "tā zàn měi le tā，xuǎn zé le zhè tiáo lù。",
       "grammar": [
         "G5-41"
       ]
@@ -7465,7 +7465,7 @@
       "level": 5,
       "round": 2,
       "text": "他身高一丈，招了招手。",
-      "pinyin": "tā shēn gāo yī zhàng， zhāo le zhāo shǒu。",
+      "pinyin": "tā shēn gāo yí zhàng，zhāo le zhāo shǒu。",
       "grammar": [
         "G5-41"
       ]
@@ -7475,7 +7475,7 @@
       "level": 5,
       "round": 2,
       "text": "他召开会议，折了纸鸟。",
-      "pinyin": "tā zhào kāi huì yì， zhé le zhǐ niǎo。",
+      "pinyin": "tā zhào kāi huì yì，zhé le zhǐ niǎo。",
       "grammar": [
         "G5-41"
       ]
@@ -7485,7 +7485,7 @@
       "level": 5,
       "round": 2,
       "text": "战士守阵地，征求了意见。",
-      "pinyin": "zhàn shì shǒu zhèn dì， zhēng qiú le yì jiàn。",
+      "pinyin": "zhàn shì shǒu zhèn dì，zhēng qiú le yì jiàn。",
       "grammar": [
         "G5-41"
       ]
@@ -7495,7 +7495,7 @@
       "level": 5,
       "round": 2,
       "text": "他植树，地址在这里。",
-      "pinyin": "tā zhí shù， dì zhǐ zài zhè lǐ。",
+      "pinyin": "tā zhí shù，dì zhǐ zài zhè lǐ。",
       "grammar": [
         "G5-32"
       ]
@@ -7505,7 +7505,7 @@
       "level": 5,
       "round": 2,
       "text": "质量好，治病也有经验。",
-      "pinyin": "zhì liàng hǎo， zhì bìng yě yǒu jīng yàn。",
+      "pinyin": "zhì liàng hǎo，zhì bìng yě yǒu jīng yàn。",
       "grammar": [
         "G5-38"
       ]
@@ -7515,7 +7515,7 @@
       "level": 5,
       "round": 2,
       "text": "他导致了这个结果，智能很高。",
-      "pinyin": "tā dǎo zhì le zhè ge jié guǒ， zhì néng hěn gāo。",
+      "pinyin": "tā dǎo zhì le zhè ge jié guǒ，zhì néng hěn gāo。",
       "grammar": [
         "G5-32"
       ]
@@ -7555,7 +7555,7 @@
       "level": 5,
       "round": 2,
       "text": "他碍于面子，饭糊了。",
-      "pinyin": "tā ài yú miàn zi， fàn hú le。",
+      "pinyin": "tā ài yú miàn zi，fàn hú le。",
       "grammar": [
         "G5-32"
       ]
@@ -7565,7 +7565,7 @@
       "level": 5,
       "round": 2,
       "text": "胶水用完了，他咳了一声。",
-      "pinyin": "jiāo shuǐ yòng wán le， tā ké le yī shēng。",
+      "pinyin": "jiāo shuǐ yòng wán le，tā ké le yì shēng。",
       "grammar": [
         "G5-32"
       ]
@@ -7575,7 +7575,7 @@
       "level": 5,
       "round": 2,
       "text": "他狂跑，夜幕降临。",
-      "pinyin": "tā kuáng pǎo， yè mù jiàng lín。",
+      "pinyin": "tā kuáng pǎo，yè mù jiàng lín。",
       "grammar": [
         "G5-32"
       ]
@@ -7595,10 +7595,2080 @@
       "level": 5,
       "round": 2,
       "text": "珍珠很漂亮。",
-      "pinyin": "zhēn zhū hěn piào liàng。",
+      "pinyin": "zhēn zhū hěn piào liang。",
       "grammar": [
         "G5-32"
       ]
+    },
+    {
+      "text": "今年业务不良，专利不足。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jīn nián yè wù bù liáng，zhuān lì bù zú。",
+      "id": "L5-761",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "菜价一下子上涨，不止一倍。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "cài jià yí xià zi shàng zhǎng，bù zhǐ yí bèi。",
+      "id": "L5-762",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他不曾想到一辈子的不幸。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā bù céng xiǎng dào yí bèi zi de bú xìng。",
+      "id": "L5-763",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他一口气不停地走了一路。",
+      "grammar": [
+        "G5-41"
+      ],
+      "pinyin": "tā yì kǒu qì bù tíng dì zǒu le yí lù。",
+      "id": "L5-764",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "这一带两岸风景一流。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhè yí dài liǎng àn fēng jǐng yì liú。",
+      "id": "L5-765",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "上级五十岁上下，不顾身体。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "shàng jí wǔ shí suì shàng xià，bú gù shēn tǐ。",
+      "id": "L5-766",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "妈妈不许我一下儿听完专辑。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "mā mā bù xǔ wǒ yí xià r tīng wán zhuān jí。",
+      "id": "L5-767",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "不能不耐心，不耐烦对人不利。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "bù néng bú nài xīn，bú nài fán duì rén bú lì。",
+      "id": "L5-768",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他严厉又严肃，举动让我为难。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā yán lì yòu yán sù，jǔ dòng ràng wǒ wéi nán。",
+      "id": "L5-769",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "中央主办会谈，各方人士都到。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhōng yāng zhǔ bàn huì tán，gè fāng rén shì dōu dào。",
+      "id": "L5-770",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "主管交代我把传真传达过去。",
+      "grammar": [
+        "G5-39"
+      ],
+      "pinyin": "zhǔ guǎn jiāo dài wǒ bǎ chuán zhēn chuán dá guò qù。",
+      "id": "L5-771",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "产业由他主导，人力是主体。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "chǎn yè yóu tā zhǔ dǎo，rén lì shì zhǔ tǐ。",
+      "id": "L5-772",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他喝中药中毒，治疗中断。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā hē zhōng yào zhòng dú，zhì liáo zhōng duàn。",
+      "id": "L5-773",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "中秋节，阳光之下的乡村丰收。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhōng qiū jié，yáng guāng zhī xià de xiāng cūn fēng shōu。",
+      "id": "L5-774",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "为期三天的活动以休闲为主。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "wéi qī sān tiān de huó dòng yǐ xiū xián wéi zhǔ。",
+      "id": "L5-775",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "乘客乘坐大巴，他乘地铁。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "chéng kè chéng zuò dà bā，tā chéng dì tiě。",
+      "id": "L5-776",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "今日的人间很热闹，人物众多。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jīn rì de rén jiān hěn rè nào，rén wù zhòng duō。",
+      "id": "L5-777",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "书柜和书桌上有书法作品。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "shū guì hé shū zhuō shàng yǒu shū fǎ zuò pǐn。",
+      "id": "L5-778",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "扫二维码有优惠，买卖没争议。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "sǎo èr wéi mǎ yǒu yōu huì，mǎi mài méi zhēng yì。",
+      "id": "L5-779",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "以往的代理从中付出了代价。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "yǐ wǎng de dài lǐ cóng zhōng fù chū le dài jià。",
+      "id": "L5-780",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "人群之中，他个儿高，看法主观。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "rén qún zhī zhōng，tā gè r gāo，kàn fǎ zhǔ guān。",
+      "id": "L5-781",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他三天之内传递到教室之外。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā sān tiān zhī nèi zhuàn dì dào jiào shì zhī wài。",
+      "id": "L5-782",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "这个公式算体积，便于入门。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhè ge gōng shì suàn tǐ jī，biàn yú rù mén。",
+      "id": "L5-783",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "内在修养出于坚定信念。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "nèi zài xiū yǎng chū yú jiān dìng xìn niàn。",
+      "id": "L5-784",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "领导倡导关怀值班军人。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "lǐng dǎo chàng dǎo guān huái zhí bān jūn rén。",
+      "id": "L5-785",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "公认共享车便利，共计三辆。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "gōng rèn gòng xiǎng chē biàn lì，gòng jì sān liàng。",
+      "id": "L5-786",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "先前他偶然停留，先后两次。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "xiān qián tā ǒu rán tíng liú，xiān hòu liǎng cì。",
+      "id": "L5-787",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "元旦典礼上，儿女全都回来。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "yuán dàn diǎn lǐ shàng，ér nǚ quán dōu huí lái。",
+      "id": "L5-788",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "俱乐部修建完，还要修复保养。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jù lè bù xiū jiàn wán，hái yào xiū fù bǎo yǎng。",
+      "id": "L5-789",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "光线充足，气温不低于昨天。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "guāng xiàn chōng zú，qì wēn bù dī yú zuó tiān。",
+      "id": "L5-790",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "出差出汗多，体力差。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "chū chāi chū hàn duō，tǐ lì chà。",
+      "id": "L5-791",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "沟通使得冲突减轻。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "gōu tōng shǐ de chōng tū jiǎn qīng。",
+      "id": "L5-792",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "法院依法公告，很公正。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "fǎ yuàn yī fǎ gōng gào，hěn gōng zhèng。",
+      "id": "L5-793",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "信箱里的便条是例外。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "xìn xiāng lǐ de biàn tiáo shì lì wài。",
+      "id": "L5-794",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "偶像的故事，全世界分享。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "ǒu xiàng de gù shì，quán shì jiè fēn xiǎng。",
+      "id": "L5-795",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "农产品市场健全，他决不冲动。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "nóng chǎn pǐn shì chǎng jiàn quán，tā jué bù chōng dòng。",
+      "id": "L5-796",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "从北极到南极，南北都很冷。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "cóng běi jí dào nán jí，nán běi dōu hěn lěng。",
+      "id": "L5-797",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "原先的化石很原始。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "yuán xiān de huà shí hěn yuán shǐ。",
+      "id": "L5-798",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "博士按原理加以分解。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "bó shì àn yuán lǐ jiā yǐ fēn jiě。",
+      "id": "L5-799",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "厂长助理印刷剧本和协议书。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "chǎng zhǎng zhù lǐ yìn shuā jù běn hé xié yì shū。",
+      "id": "L5-800",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "厅里只剩叉和剪子，还有包装。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "tīng lǐ zhǐ shèng chā hé jiǎn zi，hái yǒu bāo zhuāng。",
+      "id": "L5-801",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "利润分成后他占有两份。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "lì rùn fēn chéng hòu tā zhàn yǒu liǎng fèn。",
+      "id": "L5-802",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "动员助手写华语博客。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "dòng yuán zhù shǒu xiě huá yǔ bó kè。",
+      "id": "L5-803",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "军队到来，包围并占领了城。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jūn duì dào lái，bāo wéi bìng zhàn lǐng le chéng。",
+      "id": "L5-804",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "分类划分的动机不单一。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "fēn lèi huà fēn de dòng jī bù dān yī。",
+      "id": "L5-805",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "卫星与飞船分离后升高。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "wèi xīng yǔ fēi chuán fēn lí hòu shēng gāo。",
+      "id": "L5-806",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "原有协议的前提没变。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "yuán yǒu xié yì de qián tí méi biàn。",
+      "id": "L5-807",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "加热能加速制成过程。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jiā rè néng jiā sù zhì chéng guò chéng。",
+      "id": "L5-808",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "创立初期前景受制约。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "chuàng lì chū qī qián jǐng shòu zhì yuē。",
+      "id": "L5-809",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "博览会上动态十足。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "bó lǎn huì shàng dòng tài shí zú。",
+      "id": "L5-810",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "只见他双手向上举，显得吃力。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhǐ jiàn tā shuāng shǒu xiàng shàng jǔ，xiǎn de chī lì。",
+      "id": "L5-811",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "中心下命令，启动发射周期。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhōng xīn xià mìng lìng，qǐ dòng fā shè zhōu qī。",
+      "id": "L5-812",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "公司发布商标，又发行新品种。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "gōng sī fā bù shāng biāo，yòu fā xíng xīn pǐn zhǒng。",
+      "id": "L5-813",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "团长提出口号，号召受灾众人。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tuán zhǎng tí chū kǒu hào，hào zhào shòu zāi zhòng rén。",
+      "id": "L5-814",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "基金增多，农业增产能力增强。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jī jīn zēng duō，nóng yè zēng chǎn néng lì zēng qiáng。",
+      "id": "L5-815",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "两队合并，地形合成一片地带。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "liǎng duì hé bìng，dì xíng hé chéng yí piàn dì dài。",
+      "id": "L5-816",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他回避回信，也不回头谈回报。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā huí bì huí xìn，yě bù huí tóu tán huí bào。",
+      "id": "L5-817",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "回顾喜剧场面，四周笑声不断。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "huí gù xǐ jù chǎng miàn，sì zhōu xiào shēng bú duàn。",
+      "id": "L5-818",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他发觉变动不小，心里很困扰。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā fā jué biàn dòng bù xiǎo，xīn lǐ hěn kùn rǎo。",
+      "id": "L5-819",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他只不过围绕这点，坚定地说。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā zhǐ bú guò wéi rào zhè diǎn，jiān dìng dì shuō。",
+      "id": "L5-820",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "向导向前走，看见寻人启事。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "xiàng dǎo xiàng qián zǒu，kàn jiàn xún rén qǐ shì。",
+      "id": "L5-821",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "城里基地回收旧瓶子。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "chéng lǐ jī dì huí shōu jiù píng zi。",
+      "id": "L5-822",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "园林里的土豆，个头增大了。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "yuán lín lǐ de tǔ dòu，gè tóu zēng dà le。",
+      "id": "L5-823",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "国民在场，老人也在内。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "guó mín zài chǎng，lǎo rén yě zài nèi。",
+      "id": "L5-824",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "工作日，客户委托我办大事。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "gōng zuò rì，kè hù wěi tuō wǒ bàn dà shì。",
+      "id": "L5-825",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "局长大胆处罚小偷儿。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jú zhǎng dà dǎn chǔ fá xiǎo tōu r。",
+      "id": "L5-826",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "失误没有奖励，处分如下。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "shī wù méi yǒu jiǎng lì，chǔ fèn rú xià。",
+      "id": "L5-827",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "天才的大脑如同机器。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tiān cái de dà nǎo rú tóng jī qì。",
+      "id": "L5-828",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "天文等学科的学者有学位。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "tiān wén děng xué kē de xué zhě yǒu xué wèi。",
+      "id": "L5-829",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "外界少见夜间的大熊猫。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "wài jiè shǎo jiàn yè jiān de dà xióng māo。",
+      "id": "L5-830",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "展览在大厅展现工艺。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhǎn lǎn zài dà tīng zhǎn xiàn gōng yì。",
+      "id": "L5-831",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "射击大奖赛上女性用子弹。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "shè jī dà jiǎng sài shàng nǚ xìng yòng zǐ dàn。",
+      "id": "L5-832",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "宽度与层次对应，并不对立。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "kuān dù yǔ céng cì duì yìng，bìng bú duì lì。",
+      "id": "L5-833",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "存款大致大于十万。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "cún kuǎn dà zhì dà yú shí wàn。",
+      "id": "L5-834",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "尽可能尝试寻求新的局面。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jǐn kě néng cháng shì xún qiú xīn de jú miàn。",
+      "id": "L5-835",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "岁月改变了山区和岸上。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "suì yuè gǎi biàn le shān qū hé àn shàng。",
+      "id": "L5-836",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "大伙儿用天然气做寿司。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "dà huǒ r yòng tiān rán qì zuò shòu sī。",
+      "id": "L5-837",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "处在太空需要好运。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "chù zài tài kōng xū yào hǎo yùn。",
+      "id": "L5-838",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "年度总体情形好，当前也如此。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "nián dù zǒng tǐ qíng xíng hǎo，dāng qián yě rú cǐ。",
+      "id": "L5-839",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "总数差距不大，幅度也小。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zǒng shù chā jù bú dà，fú dù yě xiǎo。",
+      "id": "L5-840",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "平原很广，大道平坦延伸。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "píng yuán hěn guǎng，dà dào píng tǎn yán shēn。",
+      "id": "L5-841",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "别干扰也别干预，他得以安心。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "bié gān rǎo yě bié gān yù，tā dé yǐ ān xīn。",
+      "id": "L5-842",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "开幕式上，总裁当场当选。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "kāi mù shì shàng，zǒng cái dāng chǎng dāng xuǎn。",
+      "id": "L5-843",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "年前建造的水库是必需的。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "nián qián jiàn zào de shuǐ kù shì bì xū de。",
+      "id": "L5-844",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "开幕当天，微博上全是感想。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "kāi mù dàng tiān，wēi bó shàng quán shì gǎn xiǎng。",
+      "id": "L5-845",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "当代桥形态好，强度大，性能稳。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "dāng dài qiáo xíng tài hǎo，qiáng dù dà，xìng néng wěn。",
+      "id": "L5-846",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "这个戏剧带有幽默色彩。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "zhè ge xì jù dài yǒu yōu mò sè cǎi。",
+      "id": "L5-847",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "悲剧情节简单，意味着结束。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "bēi jù qíng jié jiǎn dān，yì wèi zhe jié shù。",
+      "id": "L5-848",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "恋爱让他心态好，快活又心疼。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "liàn ài ràng tā xīn tài hǎo，kuài huó yòu xīn téng。",
+      "id": "L5-849",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "忍下怨，他靠意志忍受辛苦。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "rěn xià yuàn，tā kào yì zhì rěn shòu xīn kǔ。",
+      "id": "L5-850",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "当年他慌忙买彩票，没人强迫。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "dāng nián tā huāng máng mǎi cǎi piào，méi rén qiǎng pò。",
+      "id": "L5-851",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "慰问时，他思维与意识都清楚。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "wèi wèn shí，tā sī wéi yǔ yì shí dōu qīng chǔ。",
+      "id": "L5-852",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "成交成本与支出，数目都记下。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "chéng jiāo chéng běn yǔ zhī chū，shù mù dōu jì xià。",
+      "id": "L5-853",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "推行新指标后，收购成效明显。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tuī xíng xīn zhǐ biāo hòu，shōu gòu chéng xiào míng xiǎn。",
+      "id": "L5-854",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "接连振动后，机器由他支配。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jiē lián zhèn dòng hòu，jī qì yóu tā zhī pèi。",
+      "id": "L5-855",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "摄影师用摄像机拍摄了全场。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "shè yǐng shī yòng shè xiàng jī pāi shè le quán chǎng。",
+      "id": "L5-856",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他提示我把摄像画面放大。",
+      "grammar": [
+        "G5-39"
+      ],
+      "pinyin": "tā tí shì wǒ bǎ shè xiàng huà miàn fàng dà。",
+      "id": "L5-857",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他掌握技能，手法和手段都好。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā zhǎng wò jì néng，shǒu fǎ hé shǒu duàn dōu hǎo。",
+      "id": "L5-858",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他抬手敲了敲，让人来按摩。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā tái shǒu qiāo le qiāo，ràng rén lái àn mó。",
+      "id": "L5-859",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "报警后他参加抢救，排除损害。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "bào jǐng hòu tā cān jiā qiǎng jiù，pái chú sǔn hài。",
+      "id": "L5-860",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "救灾时打架被指责，墙要拆除。",
+      "grammar": [
+        "G5-40"
+      ],
+      "pinyin": "jiù zāi shí dǎ jià bèi zhǐ zé，qiáng yào chāi chú。",
+      "id": "L5-861",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "文艺散文里常有成语。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "wén yì sǎn wén lǐ cháng yǒu chéng yǔ。",
+      "id": "L5-862",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他扮演老师，负责承办招生。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā bàn yǎn lǎo shī，fù zé chéng bàn zhāo shēng。",
+      "id": "L5-863",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他拥有手艺，挣钱报答父母。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "tā yōng yǒu shǒu yì，zhèng qián bào dá fù mǔ。",
+      "id": "L5-864",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他提起扇子，指示它的所在。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā tí qǐ shàn zi，zhǐ shì tā de suǒ zài。",
+      "id": "L5-865",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "搞到摩托，搜来旧货收集打包。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "gǎo dào mó tuō，sōu lái jiù huò shōu jí dǎ bāo。",
+      "id": "L5-866",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "此时天气晴朗，月球明亮。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "cǐ shí tiān qì qíng lǎng，yuè qiú míng liàng。",
+      "id": "L5-867",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "早期时光的景象无疑很美。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zǎo qī shí guāng de jǐng xiàng wú yí hěn měi。",
+      "id": "L5-868",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "本人此刻期望抓住时机。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "běn rén cǐ kè qī wàng zhuā zhù shí jī。",
+      "id": "L5-869",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他查询时事，及时更新。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā chá xún shí shì，jí shí gēng xīn。",
+      "id": "L5-870",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "机器人服从机制，暂停工作。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jī qì rén fú cóng jī zhì，zàn tíng gōng zuò。",
+      "id": "L5-871",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "有毒有害气体影响健康。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "yǒu dú yǒu hài qì tǐ yǐng xiǎng jiàn kāng。",
+      "id": "L5-872",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "检验水产品的水分与比重。",
+      "grammar": [
+        "G5-43"
+      ],
+      "pinyin": "jiǎn yàn shuǐ chǎn pǐn de shuǐ fèn yǔ bǐ zhòng。",
+      "id": "L5-873",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "正规模式有利于提高效率。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "zhèng guī mó shì yǒu lì yú tí gāo xiào lǜ。",
+      "id": "L5-874",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他的模样正如照片，有些模糊。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "tā de mú yàng zhèng rú zhào piān，yǒu xiē mó hú。",
+      "id": "L5-875",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "比方说，桃花染红桃树，很美。",
+      "grammar": [
+        "G5-43"
+      ],
+      "pinyin": "bǐ fāng shuō，táo huā rǎn hóng táo shù，hěn měi。",
+      "id": "L5-876",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "模范唱起正义的歌曲，很有力。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "mó fàn chàng qǐ zhèng yì de gē qǔ，hěn yǒu lì。",
+      "id": "L5-877",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "来信说柜子里有汇款和毛笔。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "lái xìn shuō guì zi lǐ yǒu huì kuǎn hé máo bǐ。",
+      "id": "L5-878",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "请更换正版杀毒软件。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "qǐng gēng huàn zhèng bǎn shā dú ruǎn jiàn。",
+      "id": "L5-879",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "此后气象预报说水灾要来。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "cǐ hòu qì xiàng yù bào shuō shuǐ zāi yào lái。",
+      "id": "L5-880",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "清晨清理池子里的污水。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "qīng chén qīng lǐ chí zi lǐ de wū shuǐ。",
+      "id": "L5-881",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "游泳池的水要流通和消毒。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "yóu yǒng chí de shuǐ yào liú tōng hé xiāo dú。",
+      "id": "L5-882",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "河水深处有物质流动。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "hé shuǐ shēn chù yǒu wù zhì liú dòng。",
+      "id": "L5-883",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "治安要靠法规和法制来治理。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhì ān yào kào fǎ guī hé fǎ zhì lái zhì lǐ。",
+      "id": "L5-884",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "注册物业需要特定条件。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhù cè wù yè xū yào tè dìng tiáo jiàn。",
+      "id": "L5-885",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "火柴点燃了煤，引起火灾。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "huǒ chái diǎn rán le méi，yǐn qǐ huǒ zāi。",
+      "id": "L5-886",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "消防漏洞要尽快消除。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "xiāo fáng lòu dòng yào jǐn kuài xiāo chú。",
+      "id": "L5-887",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "灾难中，灾区的人渴望帮助。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zāi nàn zhōng，zāi qū de rén kě wàng bāng zhù。",
+      "id": "L5-888",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "护士注重注射的深度。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "hù shì zhù zhòng zhù shè de shēn dù。",
+      "id": "L5-889",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "消费者关心物价和涨价。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "xiāo fèi zhě guān xīn wù jià hé zhǎng jià。",
+      "id": "L5-890",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "烤鸭、烤肉和火腿热量高。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "kǎo yā、kǎo ròu hé huǒ tuǐ rè liàng gāo。",
+      "id": "L5-891",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "灰色牛仔裤热门又浪漫。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "huī sè niú zǎi kù rè mén yòu làng màn。",
+      "id": "L5-892",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "孩子注视着活泼的漫画版。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "hái zi zhù shì zhe huó pō de màn huà bǎn。",
+      "id": "L5-893",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "沟通要温和，别消极，要有活力。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "gōu tōng yào wēn hé，bié xiāo jí，yào yǒu huó lì。",
+      "id": "L5-894",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "现有资料珍贵，能看出特性。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "xiàn yǒu zī liào zhēn guì，néng kàn chū tè xìng。",
+      "id": "L5-895",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "由此猜测它特有的生成方式。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "yóu cǐ cāi cè tā tè yǒu de shēng chéng fāng shì。",
+      "id": "L5-896",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他率领我们确立示范环节。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā shuài lǐng wǒ men què lì shì fàn huán jié。",
+      "id": "L5-897",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "真诚地看待现状和真理。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhēn chéng dì kàn dài xiàn zhuàng hé zhēn lǐ。",
+      "id": "L5-898",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "听相声时神情和眼光都变了。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tīng xiàng shēng shí shén qíng hé yǎn guāng dōu biàn le。",
+      "id": "L5-899",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "这些硬件用于用户登录。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhè xiē yìng jiàn yòng yú yòng hù dēng lù。",
+      "id": "L5-900",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "甲穿皮鞋喝白酒，盒放在桌上。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jiǎ chuān pí xié hē bái jiǔ，hé fàng zài zhuō shàng。",
+      "id": "L5-901",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "电饭锅旁有盒饭和电池。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "diàn fàn guō páng yǒu hé fàn hé diàn chí。",
+      "id": "L5-902",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "电子版里直线相等，数据相应。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "diàn zi bǎn lǐ zhí xiàn xiāng děng，shù jù xiāng yìng。",
+      "id": "L5-903",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "画面里男性疯狂，他看成电影。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "huà miàn lǐ nán xìng fēng kuáng，tā kàn chéng diàn yǐng。",
+      "id": "L5-904",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "病毒会影响睡眠和神经。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "bìng dú huì yǐng xiǎng shuì mián hé shén jīng。",
+      "id": "L5-905",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "研究所旁是码头，福利也好。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "yán jiū suǒ páng shì mǎ tóu，fú lì yě hǎo。",
+      "id": "L5-906",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "礼拜天社区送礼，这事很神奇。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "lǐ bài tiān shè qū sòng lǐ，zhè shì hěn shén qí。",
+      "id": "L5-907",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "这把琴用来弹唱，得过称号。",
+      "grammar": [
+        "G5-39"
+      ],
+      "pinyin": "zhè bǎ qín yòng lái dàn chàng，dé guò chēng hào。",
+      "id": "L5-908",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "这个群体由群众自愿组织。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhè ge qún tǐ yóu qún zhòng zì yuàn zǔ zhī。",
+      "id": "L5-909",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "职位，职务和职能都要考核。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhí wèi，zhí wù hé zhí néng dōu yào kǎo hé。",
+      "id": "L5-910",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "签证要签名，签约要签订合同。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "qiān zhèng yào qiān míng，qiān yuē yào qiān dìng hé tóng。",
+      "id": "L5-911",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "等候答复很久，等级没定，真糟。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "děng hòu dá fù hěn jiǔ，děng jí méi dìng，zhēn zāo。",
+      "id": "L5-912",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "联络终止，经费受约束。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "lián luò zhōng zhǐ，jīng fèi shòu yuē shù。",
+      "id": "L5-913",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "羽毛球在空中飞，他紧紧看着。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "yǔ máo qiú zài kōng zhōng fēi，tā jǐn jǐn kàn zhe。",
+      "id": "L5-914",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他胆小，背着背包走进胡同儿。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā dǎn xiǎo，bèi zhe bēi bāo zǒu jìn hú tòng r。",
+      "id": "L5-915",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "胶带和脸盆，让他联想到旧事。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jiāo dài hé liǎn pén，ràng tā lián xiǎng dào jiù shì。",
+      "id": "L5-916",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他脸色差，胡子长，肠也不舒服。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā liǎn sè chà，hú zi zhǎng，cháng yě bù shū fú。",
+      "id": "L5-917",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他脱离了绝望，不再想自杀。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā tuō lí le jué wàng，bú zài xiǎng zì shā。",
+      "id": "L5-918",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "竞赛到终点，胜负肯定已定。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jìng sài dào zhōng diǎn，shèng fù kěn dìng yǐ dìng。",
+      "id": "L5-919",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "竹子由他继承，罚款他舍得交。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhú zi yóu tā jì chéng，fá kuǎn tā shě de jiāo。",
+      "id": "L5-920",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "繁荣靠突破，他立场终身不变。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "fán róng kào tū pò，tā lì chǎng zhōng shēn bú biàn。",
+      "id": "L5-921",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他脑子好，脚步快，能量足。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā nǎo zi hǎo，jiǎo bù kuài，néng liàng zú。",
+      "id": "L5-922",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "负责人落实规划并评估结果。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "fù zé rén luò shí guī huà bìng píng gū jié guǒ。",
+      "id": "L5-923",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "调动热情能起到调节作用。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "diào dòng rè qíng néng qǐ dào tiáo jié zuò yòng。",
+      "id": "L5-924",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "言语不当造成误解，需要调解。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "yán yǔ bú dàng zào chéng wù jiě，xū yào tiáo jiě。",
+      "id": "L5-925",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "许可解除后，他起码得到解放。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "xǔ kě jiě chú hòu，tā qǐ mǎ dé dào jiě fàng。",
+      "id": "L5-926",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "裁判认定他超越，给了警告。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "cái pàn rèn dìng tā chāo yuè，gěi le jǐng gào。",
+      "id": "L5-927",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "别把薄弱视为艰苦的课题。",
+      "grammar": [
+        "G5-39"
+      ],
+      "pinyin": "bié bǎ bó ruò shì wèi jiān kǔ de kè tí。",
+      "id": "L5-928",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "视频评论证实了他的证书。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "shì pín píng lùn zhèng shí le tā de zhèng shū。",
+      "id": "L5-929",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "草原上的诗歌象征自由。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "cǎo yuán shàng de shī gē xiàng zhēng zì yóu。",
+      "id": "L5-930",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他试图把记忆转化成设想。",
+      "grammar": [
+        "G5-39"
+      ],
+      "pinyin": "tā shì tú bǎ jì yì zhuǎn huà chéng shè xiǎng。",
+      "id": "L5-931",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "葡萄酒、西红柿和豆制品都好。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "pú táo jiǔ、xī hóng shì hé dòu zhì pǐn dōu hǎo。",
+      "id": "L5-932",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "贷款让他的资产变成资本。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "dài kuǎn ràng tā de zī chǎn biàn chéng zī běn。",
+      "id": "L5-933",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "公司资助、补贴并补偿损失。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "gōng sī zī zhù、bǔ tiē bìng bǔ cháng sǔn shī。",
+      "id": "L5-934",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "我跟随车主，车在跟前行驶。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "wǒ gēn suí chē zhǔ，chē zài gēn qián xíng shǐ。",
+      "id": "L5-935",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他赠我西装和贺卡，我很被动。",
+      "grammar": [
+        "G5-40"
+      ],
+      "pinyin": "tā zèng wǒ xī zhuāng hé hè kǎ，wǒ hěn bèi dòng。",
+      "id": "L5-936",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "通用的软件能转换，不能转让。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tōng yòng de ruǎn jiàn néng zhuǎn huàn，bù néng zhuǎn ràng。",
+      "id": "L5-937",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "电脑连接键盘，输出运行结果。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "diàn nǎo lián jiē jiàn pán，shū chū yùn xíng jié guǒ。",
+      "id": "L5-938",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "请按这个键，随后铃声会响。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "qǐng àn zhè ge jiàn，suí hòu líng shēng huì xiǎng。",
+      "id": "L5-939",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他逃到边境，违法后逃跑。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā táo dào biān jìng，wéi fǎ hòu táo pǎo。",
+      "id": "L5-940",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "集团违规，活动提前闭幕。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jí tuán wéi guī，huó dòng tí qián bì mù。",
+      "id": "L5-941",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "阅览室配备辞典，供选修课用。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "yuè lǎn shì pèi bèi cí diǎn，gōng xuǎn xiū kè yòng。",
+      "id": "L5-942",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "过敏部位别过度用药。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "guò mǐn bù wèi bié guò dù yòng yào。",
+      "id": "L5-943",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "近来附件里有防治办法。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "jìn lái fù jiàn lǐ yǒu fáng zhì bàn fǎ。",
+      "id": "L5-944",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他迷信长寿，进化让他震惊。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā mí xìn cháng shòu，jìn huà ràng tā zhèn jīng。",
+      "id": "L5-945",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "除夕的闭幕式雄伟迷人。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "chú xī de bì mù shì xióng wěi mí rén。",
+      "id": "L5-946",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "隔壁酒鬼爱吃酸甜苦辣。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "gé bì jiǔ guǐ ài chī suān tián kǔ là。",
+      "id": "L5-947",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他随意转向，难以达成目标。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā suí yì zhuǎn xiàng，nán yǐ dá chéng mù biāo。",
+      "id": "L5-948",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "郊区工厂采购配套设备。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "jiāo qū gōng chǎng cǎi gòu pèi tào shè bèi。",
+      "id": "L5-949",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他间接递来辅助材料，很难得。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā jiàn jiē dì lái fǔ zhù cái liào，hěn nán dé。",
+      "id": "L5-950",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "高原高温，风光很美。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "gāo yuán gāo wēn，fēng guāng hěn měi。",
+      "id": "L5-951",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "餐馆的餐饮好，饼也香。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "cān guǎn de cān yǐn hǎo，bǐng yě xiāng。",
+      "id": "L5-952",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他饮食清淡，面貌和风度都好。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā yǐn shí qīng dàn，miàn mào hé fēng dù dōu hǎo。",
+      "id": "L5-953",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "戴领带穿高跟鞋，有风度。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "dài lǐng dài chuān gāo gēn xié，yǒu fēng dù。",
+      "id": "L5-954",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他高大，戴领带，面貌普通。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā gāo dà，dài lǐng dài，miàn mào pǔ tōng。",
+      "id": "L5-955",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "楼的高度高于预期。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "lóu de gāo dù gāo yú yù qī。",
+      "id": "L5-956",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "骗子靠近我，卖假驾照。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "piàn zi kào jìn wǒ，mài jiǎ jià zhào。",
+      "id": "L5-957",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "顾问预备了会议题材。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "gù wèn yù bèi le huì yì tí cái。",
+      "id": "L5-958",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "鼠标点开频道，有人敲鼓。",
+      "grammar": [
+        "G5-38"
+      ],
+      "pinyin": "shǔ biāo diǎn kāi pín dào，yǒu rén qiāo gǔ。",
+      "id": "L5-959",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "这个频道的题材是风光。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "zhè ge pín dào de tí cái shì fēng guāng。",
+      "id": "L5-960",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "高温天吃饼，饮食要清淡。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "gāo wēn tiān chī bǐng，yǐn shí yào qīng dàn。",
+      "id": "L5-961",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他高大，高度高于一米。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "tā gāo dà，gāo dù gāo yú yì mǐ。",
+      "id": "L5-962",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "顾问靠近我，预备好材料。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "gù wèn kào jìn wǒ，yù bèi hǎo cái liào。",
+      "id": "L5-963",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "高原上的餐馆餐饮不错。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "gāo yuán shàng de cān guǎn cān yǐn bú cuò。",
+      "id": "L5-964",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "库里的货很多。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "kù lǐ de huò hěn duō。",
+      "id": "L5-965",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "他挣得不多。",
+      "grammar": [
+        "G5-37"
+      ],
+      "pinyin": "tā zhēng de bù duō。",
+      "id": "L5-966",
+      "level": 5,
+      "round": 4
+    },
+    {
+      "text": "我们要防灾。",
+      "grammar": [
+        "G5-32"
+      ],
+      "pinyin": "wǒ men yào fáng zāi。",
+      "id": "L5-967",
+      "level": 5,
+      "round": 4
     }
   ]
 }
