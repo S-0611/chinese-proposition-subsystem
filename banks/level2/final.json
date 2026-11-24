@@ -6119,6 +6119,296 @@
    "grammar": [
     "G2-41"
    ]
+  },
+  {
+   "id": "L2-613",
+   "level": 2,
+   "round": 4,
+   "text": "他举起了手。",
+   "pinyin": "tā jǔ qǐ le shǒu。",
+   "grammar": [
+    "G2-50"
+   ]
+  },
+  {
+   "id": "L2-614",
+   "level": 2,
+   "round": 4,
+   "text": "这些钱我们分吧。",
+   "pinyin": "zhè xiē qián wǒ men fēn ba。",
+   "grammar": [
+    "G2-34"
+   ]
+  },
+  {
+   "id": "L2-615",
+   "level": 2,
+   "round": 4,
+   "text": "这件事我来办。",
+   "pinyin": "zhè jiàn shì wǒ lái bàn。",
+   "grammar": [
+    "G2-54"
+   ]
+  },
+  {
+   "id": "L2-616",
+   "level": 2,
+   "round": 4,
+   "text": "他去银行取钱。",
+   "pinyin": "tā qù yín xíng qǔ qián。",
+   "grammar": [
+    "G2-57"
+   ]
+  },
+  {
+   "id": "L2-617",
+   "level": 2,
+   "round": 4,
+   "text": "一周有七天。",
+   "pinyin": "yī zhōu yǒu qī tiān。",
+   "grammar": [
+    "G2-55"
+   ]
+  },
+  {
+   "id": "L2-618",
+   "level": 2,
+   "round": 4,
+   "text": "咱走吧。",
+   "pinyin": "zán zǒu ba。",
+   "grammar": [
+    "G2-06"
+   ]
+  },
+  {
+   "id": "L2-619",
+   "level": 2,
+   "round": 4,
+   "text": "电话响了两声。",
+   "pinyin": "diàn huà xiǎng le liǎng shēng。",
+   "grammar": [
+    "G2-52"
+   ]
+  },
+  {
+   "id": "L2-620",
+   "level": 2,
+   "round": 4,
+   "text": "夜越来越长了。",
+   "pinyin": "yè yuè lái yuè zhǎng le。",
+   "grammar": [
+    "G2-44"
+   ]
+  },
+  {
+   "id": "L2-621",
+   "level": 2,
+   "round": 4,
+   "text": "它是一只猫。",
+   "pinyin": "tā shì yī zhǐ māo。",
+   "grammar": [
+    "G2-06"
+   ]
+  },
+  {
+   "id": "L2-622",
+   "level": 2,
+   "round": 4,
+   "text": "这条路比那条平。",
+   "pinyin": "zhè tiáo lù bǐ nà tiáo píng。",
+   "grammar": [
+    "G2-58"
+   ]
+  },
+  {
+   "id": "L2-623",
+   "level": 2,
+   "round": 4,
+   "text": "他成了老师。",
+   "pinyin": "tā chéng le lǎo shī。",
+   "grammar": [
+    "G2-49"
+   ]
+  },
+  {
+   "id": "L2-624",
+   "level": 2,
+   "round": 4,
+   "text": "他提着一个包。",
+   "pinyin": "tā tí zhe yī gè bāo。",
+   "grammar": [
+    "G2-70"
+   ]
+  },
+  {
+   "id": "L2-625",
+   "level": 2,
+   "round": 4,
+   "text": "请收下这本书。",
+   "pinyin": "qǐng shōu xià zhè běn shū。",
+   "grammar": [
+    "G2-50"
+   ]
+  },
+  {
+   "id": "L2-626",
+   "level": 2,
+   "round": 4,
+   "text": "杯子满了。",
+   "pinyin": "bēi zi mǎn le。",
+   "grammar": [
+    "G2-49"
+   ]
+  },
+  {
+   "id": "L2-627",
+   "level": 2,
+   "round": 4,
+   "text": "瓶里有水。",
+   "pinyin": "píng lǐ yǒu shuǐ。",
+   "grammar": [
+    "G2-56"
+   ]
+  },
+  {
+   "id": "L2-628",
+   "level": 2,
+   "round": 4,
+   "text": "他一眼就看见了。",
+   "pinyin": "tā yī yǎn jiù kàn jiàn le。",
+   "grammar": [
+    "G2-11"
+   ]
+  },
+  {
+   "id": "L2-629",
+   "level": 2,
+   "round": 4,
+   "text": "他碰了一下杯子。",
+   "pinyin": "tā pèng le yī xià bēi zi。",
+   "grammar": [
+    "G2-11"
+   ]
+  },
+  {
+   "id": "L2-630",
+   "level": 2,
+   "round": 4,
+   "text": "他的级别比我高。",
+   "pinyin": "tā de jí bié bǐ wǒ gāo。",
+   "grammar": [
+    "G2-58"
+   ]
+  },
+  {
+   "id": "L2-631",
+   "level": 2,
+   "round": 4,
+   "text": "树都绿了。",
+   "pinyin": "shù dōu lǜ le。",
+   "grammar": [
+    "G2-20"
+   ]
+  },
+  {
+   "id": "L2-632",
+   "level": 2,
+   "round": 4,
+   "text": "今天有四节课。",
+   "pinyin": "jīn tiān yǒu sì jié kè。",
+   "grammar": [
+    "G2-55"
+   ]
+  },
+  {
+   "id": "L2-633",
+   "level": 2,
+   "round": 4,
+   "text": "草比花绿。",
+   "pinyin": "cǎo bǐ huā lǜ。",
+   "grammar": [
+    "G2-58"
+   ]
+  },
+  {
+   "id": "L2-634",
+   "level": 2,
+   "round": 4,
+   "text": "他越过那条河。",
+   "pinyin": "tā yuè guò nà tiáo hé。",
+   "grammar": [
+    "G2-50"
+   ]
+  },
+  {
+   "id": "L2-635",
+   "level": 2,
+   "round": 4,
+   "text": "这个包比那个轻。",
+   "pinyin": "zhè gè bāo bǐ nà gè qīng。",
+   "grammar": [
+    "G2-58"
+   ]
+  },
+  {
+   "id": "L2-636",
+   "level": 2,
+   "round": 4,
+   "text": "这条路通到海边。",
+   "pinyin": "zhè tiáo lù tōng dào hǎi biān。",
+   "grammar": [
+    "G2-49"
+   ]
+  },
+  {
+   "id": "L2-637",
+   "level": 2,
+   "round": 4,
+   "text": "他骑马去草原。",
+   "pinyin": "tā qí mǎ qù cǎo yuán。",
+   "grammar": [
+    "G2-57"
+   ]
+  },
+  {
+   "id": "L2-638",
+   "level": 2,
+   "round": 4,
+   "text": "体育课比英文课难。",
+   "pinyin": "tǐ yù kè bǐ yīng wén kè nán。",
+   "grammar": [
+    "G2-58"
+   ]
+  },
+  {
+   "id": "L2-639",
+   "level": 2,
+   "round": 4,
+   "text": "他坐地铁去上班。",
+   "pinyin": "tā zuò dì tiě qù shàng bān。",
+   "grammar": [
+    "G2-57"
+   ]
+  },
+  {
+   "id": "L2-640",
+   "level": 2,
+   "round": 4,
+   "text": "全家人平安就好。",
+   "pinyin": "quán jiā rén píng ān jiù hǎo。",
+   "grammar": [
+    "G2-67"
+   ]
+  },
+  {
+   "id": "L2-641",
+   "level": 2,
+   "round": 4,
+   "text": "这部分比那部分好。",
+   "pinyin": "zhè bù fēn bǐ nà bù fēn hǎo。",
+   "grammar": [
+    "G2-58"
+   ]
   }
  ]
 }
