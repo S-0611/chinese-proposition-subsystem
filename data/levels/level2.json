@@ -12,7 +12,7 @@
   "allow_digits": false,
   "bank_target_items": [
    160,
-   400
+   620
   ]
  },
  "thresholds": {
@@ -20,7 +20,8 @@
   "char_freq_min": 1,
   "core_char_freq_min": 2,
   "grammar_coverage_min": 1.0,
-  "grammar_freq_min": 2
+  "grammar_freq_min": 2,
+  "vocab_coverage_min": 1.0
  },
  "chars": {
   "all": [
@@ -1160,5 +1161,13 @@
   }
  ],
  "manual_review_required": false,
- "thresholds_note": "二级题库缺 4 个新增字（怒、入、虫、腕），字覆盖 296/300=98.7% 仍高于 90% 阈值；暂关闭逐字必现门禁，待补题后恢复为 1。"
+ "thresholds_note": "二级累计 600 字、词汇 764 个唯一词形、语法 81 点；题库 612 题，字覆盖 600/600、词汇覆盖 764/764、语法 81/81 均达 100%。",
+ "vocabulary": {
+  "new_count": 764,
+  "total_count": 772,
+  "unique_headwords": 764,
+  "list_path": "data/vocabulary/level2.json",
+  "source": "HSK 3.0 vocabulary transcription",
+  "note": "二级 772 词；词形按「去括号补充、∣取首形、去∥」规范化"
+ }
 }
