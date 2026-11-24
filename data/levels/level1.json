@@ -19,7 +19,7 @@
   "core_char_freq_min": 3,
   "grammar_coverage_min": 1.0,
   "grammar_freq_min": 2,
-  "vocabulary_coverage_min": 1.0
+  "vocab_coverage_min": 1.0
  },
  "chars": {
   "all": [
@@ -1000,5 +1000,13 @@
    "pattern": "(是不是|有没有|好不好|行不行|去不去|贵不贵|冷不冷)"
   }
  ],
- "grammar_validation": "id_only"
+ "grammar_validation": "id_only",
+ "vocabulary": {
+  "new_count": 497,
+  "total_count": 500,
+  "unique_headwords": 497,
+  "list_path": "data/vocabulary/level1.json",
+  "source": "HSK 3.0 vocabulary transcription",
+  "note": "一级 500 词；词形按「去括号补充、∣取首形、去∥」规范化"
+ }
 }
