@@ -1,107 +1,98 @@
 {
   "level": 5,
-  "generated_at": "2026-11-23",
+  "generated_at": "2026-11-24",
   "source_pdf": "国际中文教育中文水平等级标准.pdf",
   "source_pdf_sha256": "e451fdf0899d9267bbd122db66e7e75bdd2851ad1e6732e47b6e960290d73a63",
   "source_pdf_pages": 260,
   "checks": [
     {
-      "name": "字表新增数",
+      "name": "字表新增/累计",
       "status": "pass",
-      "detail": "五级新增 300 字，与标准口径一致"
+      "detail": "新增 300，累计 1500；各级无重复、零重叠"
     },
     {
-      "name": "字表累计数",
+      "name": "语法点",
       "status": "pass",
-      "detail": "一级至五级累计 1500 字，与标准口径一致"
+      "detail": "五级新增 71 点，累计 357 点"
     },
     {
-      "name": "字表去重",
+      "name": "词表",
       "status": "pass",
-      "detail": "各级 300 字无重复；累计 1500 字无重复"
-    },
-    {
-      "name": "跨级重叠",
-      "status": "pass",
-      "detail": "各级新增表两两交集为 0"
-    },
-    {
-      "name": "语法点数",
-      "status": "pass",
-      "detail": "五级新增 71 点，编号【五01】—【五71】连续；累计 357 点"
+      "detail": "1071 条 / 1067 词头；来源 HSK 3.0 转录 CSV 五级行"
     },
     {
       "name": "正式题库",
       "status": "pass",
-      "detail": "五级题库 760 题，L5-001—L5-760 连续无缺号"
+      "detail": "967 题，L5-001—L5-967 连续无缺号"
     },
     {
       "name": "规则校验",
       "status": "pass",
-      "detail": "合格 760，不合格 0，合格但有提示 0，重复 id/文本均为 0"
+      "detail": "合格 967，不合格 0，提示 0，重复 0"
     },
     {
       "name": "累计字覆盖",
       "status": "pass",
-      "detail": "1500/1500（100.0%），核心字低频 0"
+      "detail": "1500/1500（100%）"
+    },
+    {
+      "name": "词汇严格覆盖",
+      "status": "pass",
+      "detail": "1067/1067（100%），寄生 0，从未出现 0"
     },
     {
       "name": "语法覆盖",
       "status": "pass",
-      "detail": "71/71（100.0%），无低于 2 次的语法点"
+      "detail": "71/71（100%），每点 ≥2 次"
     },
     {
-      "name": "越界字",
+      "name": "拼音变调",
       "status": "pass",
-      "detail": "全部题目只使用累计 1500 字，越界字 0"
-    },
-    {
-      "name": "拼音",
-      "status": "pass",
-      "detail": "760/760 题拼音音节数与汉字数一致；复核修正 36 处多音字/轻声"
+      "detail": "466 题变调；54 处例外修正；967/967 音节对齐，DB 0 差异"
     },
     {
       "name": "人工复核",
       "status": "pass",
-      "detail": "全量规则审计 + 109 题抽检；修正 45 处；P0 = 0，P1 遗留 1 项（G5-32 兜底标注）"
+      "detail": "48 项记录；P0 = 0；P1 2 项（G5-32 宽泛、词表未再抽样）"
     },
     {
       "name": "发布与抽题",
       "status": "pass",
-      "detail": "API validate 760/0、stats pass、publish 760 published；random n=3 与 recommend n=3 均返回 level=5/published/tokens/grammar，推荐含 w=max(0,C-rec_count)、C、candidate_size、recent_window_min、weights_used"
+      "detail": "publish 967 published；API validate/stats 通过；random/recommend 通过"
     },
     {
       "name": "语义标注细化",
       "status": "warn",
-      "detail": "G5-32（宾语的语义类型）仍有 419 题兜底标注，抽检约半数非典型宾语句；不阻塞发布，建议教学组后续细化"
+      "detail": "G5-32 兜底 594/967（61.4%），建议教学组后续细化"
     }
   ],
   "summary": {
-    "pass": 13,
+    "pass": 11,
     "warn": 1,
     "fail": 0
   },
   "bank": {
-    "items": 760,
+    "items": 967,
     "char_covered": 1500,
-    "char_total": 1500,
+    "vocab_covered": 1067,
+    "vocab_total": 1067,
     "grammar_covered": 71,
-    "grammar_total": 71,
-    "published": 760
+    "published": 967
   },
   "manual_review": {
-    "issues_found": 45,
+    "issues_found": 48,
     "p0_open": 0,
-    "p1_open": 1
+    "p1_open": 2
   },
   "follow_ups": [
-    "G5-32 兜底标注 419 题，建议教学组后续细化语法点或改为“不限语法点”口径",
-    "二级至四级题库未按修正字表重跑：各新增 2 个未覆盖字（旁、腿），各有 1 题使用怒/腕，需补题与改写"
+    "G5-32 兜底 594 题，建议细化语法点或改用 kind=vocabulary",
+    "词表未再对照扫描版 PDF 抽样",
+    "二至四级题库未按修正字表重跑"
   ],
   "files": {
     "manual_review.json": {
-      "bytes": 20953,
-      "sha256": "a9f7e68612346d5b01f7853c0e43d9598fa3ea5d325128d6bf3c045cb63ea0dd"
+      "bytes": 22749,
+      "sha256": "50dace3e610212a5ae740f386f2d435db3a096f47ac77a1fb85ae87847405fd5"
     },
     "五级官方字表.json": {
       "bytes": 43477,
@@ -110,6 +101,10 @@
     "五级官方字表.txt": {
       "bytes": 18249,
       "sha256": "f84a034da4660bf95be00a9ff45dc221903067f6586206a012104c9590fa3be0"
+    },
+    "五级词表.json": {
+      "bytes": 169341,
+      "sha256": "c686b06b85d6c222f5ecbf07e5963a9b752bf6b0c1e7ef61c97cc5c7f570eec3"
     },
     "五级语法总结.md": {
       "bytes": 11113,
@@ -120,28 +115,36 @@
       "sha256": "9ff8d3b97084577439d57f34407681ad646a842e59e481fb9d9d80a9e7c5cdb3"
     },
     "五级题库.json": {
-      "bytes": 182863,
-      "sha256": "eada5fc5e509abd3a2aeaaffdafd86bfec8fd1bdc2dd2b73ddde2c4b94358cfa"
+      "bytes": 235660,
+      "sha256": "50055450c6df8d2c3954e195136c76b89b3122837fd325439835ecda0dc39d13"
     },
-    "整理校验.json": {
-      "bytes": 3818,
-      "sha256": "60d93d79e85e82274e99834f52aafad44866215f92be61ad0d9652599bf1ad98"
+    "人工复核执行记录_2026-11-24.md": {
+      "bytes": 3434,
+      "sha256": "b551af7b8f08ad08e87bce5b1b313d904e7b28d6da10456be0d7ea57b8ff19b8"
+    },
+    "人工复核清单_2026-11-24.md": {
+      "bytes": 1544,
+      "sha256": "e3268a2af44fa09f58e635e324d781493869fb96753251ac60afedf4c4a89a89"
     },
     "校验报告.md": {
       "bytes": 188,
-      "sha256": "9f26ee6f1a16424a84c6b5b24d19233f30833ee24fdb1a8643d90b7b1cd280e0"
+      "sha256": "054aedc6f0224672a8ef35974972bd711d48b04296cbceb4394d9dff5c80ace4"
     },
     "统计报告.json": {
-      "bytes": 6021,
-      "sha256": "c1e46774f60e6dfeee286d2be7e327be19da13a25622b6557d65e7c39adcfe6b"
+      "bytes": 6133,
+      "sha256": "17412f913d02a6baefc8d06d27926d264fbdbfb3026353e3852885348cf94e96"
     },
     "统计报告.md": {
-      "bytes": 3913,
-      "sha256": "720432a7867c35d8b8564ad5bc595b353aff6a1e02b664da5f04143139ec5f29"
+      "bytes": 3969,
+      "sha256": "750e94b3c40bd2b68a04557af79f3191ce452b16f4abdc4bef9a432843e42bf5"
+    },
+    "词汇严格口径核查_2026-11-24.md": {
+      "bytes": 2269,
+      "sha256": "2d8a14d1f6c0e6238ef96a64591c7988a2433691576e8def86072a8a162cd49a"
     },
     "说明.md": {
-      "bytes": 5407,
-      "sha256": "9a23661210d03af60dfadc9300de16e475524f8ec1c64106fa617d68e2980105"
+      "bytes": 4164,
+      "sha256": "a7030d76de3849d9f2e70a4f7805d3a943975490a721f0b5d80b01a99ff3d900"
     }
   }
 }
