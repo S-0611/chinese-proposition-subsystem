@@ -780,5 +780,69 @@
     ],
     "bank_items": 1308,
     "note": "同时修掉两条含表外字（怒、腕）的旧题；bank_target_items 上调为 [620,1400]"
+  },
+  "review_A_E": {
+    "date": "2026-11-24",
+    "skill": "skills/chinese-leveled-bank-vocab-review",
+    "A_grammar": {
+      "pattern_mismatch_before": 271,
+      "pattern_mismatch_after": 0,
+      "descriptive_patterns_set_to_dot": {
+        "G4-40": "存现",
+        "G4-41": "兼语",
+        "G4-63": "反问",
+        "G4-64": "否定"
+      },
+      "items_rewritten_or_reannotated": 51,
+      "reannotated": {
+        "L4-668": "G4-09",
+        "L4-963": "G4-09",
+        "L4-575": "G4-43"
+      }
+    },
+    "B_concentration": {
+      "top": {
+        "G4-59": 246,
+        "G4-36": 158,
+        "G4-40": 132,
+        "G4-35": 83,
+        "G4-38": 82
+      },
+      "verdict": "每条均真含该结构；G4-59 中 3 条（L4-117/1252/1272）为无标记紧缩句，仍成立；记录不改"
+    },
+    "C_wordlist": {
+      "source": "data/vocabulary/hsk3_0_vocabulary.csv（级别=四级）",
+      "entries": 1000,
+      "unique_headwords": 995,
+      "pdf_sample": {
+        "head": "第 9–92 号",
+        "middle": "第 429–512 号",
+        "tail": "第 849–932 号"
+      },
+      "matched": "252 / 252"
+    },
+    "D_pinyin": {
+      "convention": "citation tone（一 yī / 不 bù / 个 gè）+ 词义性多音字按语境",
+      "erhua": "er（不用 r，按负责人决定）",
+      "alignment_errors": 0
+    },
+    "E_size": {
+      "items": 1328,
+      "bank_target_items": [
+        620,
+        1400
+      ],
+      "redundant_removable": 546,
+      "decision": "仅记录，不删除（承担语法操练与汉字复现）"
+    },
+    "gates": {
+      "validate": "1328/1328 合格，0 警告，0 重复",
+      "strict_vocab": "995/995",
+      "conventional_vocab": "995/995",
+      "chars": "1200/1200",
+      "grammar": "76/76",
+      "pinyin": "1328/1328",
+      "pattern": "0"
+    }
   }
 }
