@@ -78,5 +78,13 @@
     "strict_covered": 966,
     "conventional_covered": 966,
     "added_sentences": 436
-  }
+  },
+  "checklist": "reports/level3/人工复核清单_20261124.md",
+  "checklist_items": [
+    "A 语法标注抽检 26 条",
+    "B G3-45 句式集中 131 条",
+    "C 词表口径（973/966）",
+    "D 拼音注音惯例",
+    "E 题量规模 985"
+  ]
 }
