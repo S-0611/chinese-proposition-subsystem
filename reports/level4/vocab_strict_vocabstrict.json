@@ -1,0 +1,15 @@
+{
+  "level": 4,
+  "bank": "F:\\github\\chinese-proposition-subsystem\\banks\\level4\\final.json",
+  "tag": "vocabstrict",
+  "words_total": 995,
+  "strict_covered": 995,
+  "strict_coverage": 100.0,
+  "parasitic_count": 0,
+  "absent_count": 0,
+  "parasitic_single": [],
+  "parasitic_multi": [],
+  "parasitic_detail": {},
+  "absent": [],
+  "uncovered": []
+}

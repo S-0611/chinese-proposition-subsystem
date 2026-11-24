@@ -5244,8 +5244,8 @@
    "id": "L4-525",
    "level": 4,
    "round": 4,
-   "text": "他发怒了，脸也红了。",
-   "pinyin": "tā fā nù le，liǎn yě hóng le。",
+   "text": "他生气了，脸也红了。",
+   "pinyin": "tā shēng qì le，liǎn yě hóng le。",
    "grammar": [
     "G4-59"
    ]
@@ -5444,8 +5444,8 @@
    "id": "L4-545",
    "level": 4,
    "round": 4,
-   "text": "他手腕受伤影响写字。",
-   "pinyin": "tā shǒu wàn shòu shāng yǐng xiǎng xiě zì。",
+   "text": "他手指受伤影响写字。",
+   "pinyin": "tā shǒu zhǐ shòu shāng yǐng xiǎng xiě zì。",
    "grammar": [
     "G4-34"
    ]
@@ -6918,6 +6918,6166 @@
    "pinyin": "tā bǎ tuǐ kào zài páng biān de dà shù shang。",
    "grammar": [
     "G4-38"
+   ]
+  },
+  {
+   "id": "L4-693",
+   "level": 4,
+   "round": 6,
+   "text": "他个子矮小，力气却很大。",
+   "pinyin": "tā gè zi ǎi xiǎo，lì qì què hěn dà。",
+   "grammar": [
+    "G4-09"
+   ]
+  },
+  {
+   "id": "L4-694",
+   "level": 4,
+   "round": 6,
+   "text": "百货大楼里有许多商店。",
+   "pinyin": "bǎi huò dà lóu lǐ yǒu xǔ duō shāng diàn。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-695",
+   "level": 4,
+   "round": 6,
+   "text": "这是块宝，要收好。",
+   "pinyin": "zhè shì kuài bǎo，yào shōu hǎo。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-696",
+   "level": 4,
+   "round": 6,
+   "text": "照片的背景是一片森林。",
+   "pinyin": "zhào piàn de bèi jǐng shì yī piàn sēn lín。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-697",
+   "level": 4,
+   "round": 6,
+   "text": "他脸上的表情很平静。",
+   "pinyin": "tā liǎn shàng de biǎo qíng hěn píng jìng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-698",
+   "level": 4,
+   "round": 6,
+   "text": "快点走，不然要迟到。",
+   "pinyin": "kuài diǎn zǒu，bù rán yào chí dào。",
+   "grammar": [
+    "G4-50"
+   ]
+  },
+  {
+   "id": "L4-699",
+   "level": 4,
+   "round": 6,
+   "text": "请你参考这本词典。",
+   "pinyin": "qǐng nǐ cān kǎo zhè běn cí diǎn。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-700",
+   "level": 4,
+   "round": 6,
+   "text": "茶叶放在桌上。",
+   "pinyin": "chá yè fàng zài zhuō shàng。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-701",
+   "level": 4,
+   "round": 6,
+   "text": "他沉默了很久，才开口。",
+   "pinyin": "tā chén mò le hěn jiǔ，cái kāi kǒu。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-702",
+   "level": 4,
+   "round": 6,
+   "text": "他承受的压力很大。",
+   "pinyin": "tā chéng shòu de yā lì hěn dà。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-703",
+   "level": 4,
+   "round": 6,
+   "text": "树叶上有几只虫子。",
+   "pinyin": "shù yè shàng yǒu jǐ zhǐ chóng zi。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-704",
+   "level": 4,
+   "round": 6,
+   "text": "他穿上毛衣就出门了。",
+   "pinyin": "tā chuān shàng máo yī jiù chū mén le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-705",
+   "level": 4,
+   "round": 6,
+   "text": "这些词汇要背下来。",
+   "pinyin": "zhè xiē cí huì yào bèi xià lái。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-706",
+   "level": 4,
+   "round": 6,
+   "text": "商场有促销，人特别多。",
+   "pinyin": "shāng chǎng yǒu cù xiāo，rén tè bié duō。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-707",
+   "level": 4,
+   "round": 6,
+   "text": "他很大方，常请客吃饭。",
+   "pinyin": "tā hěn dà fāng，cháng qǐng kè chī fàn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-708",
+   "level": 4,
+   "round": 6,
+   "text": "那位热心的大妈帮了我。",
+   "pinyin": "nà wèi rè xīn de dà mā bāng le wǒ。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-709",
+   "level": 4,
+   "round": 6,
+   "text": "他担任班长，干得很好。",
+   "pinyin": "tā dān rèn bān zhǎng，gàn dé hěn hǎo。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-710",
+   "level": 4,
+   "round": 6,
+   "text": "这里不能倒车，请往前开。",
+   "pinyin": "zhè lǐ bù néng dào chē，qǐng wǎng qián kāi。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-711",
+   "level": 4,
+   "round": 6,
+   "text": "箱子底下有一封信。",
+   "pinyin": "xiāng zi dǐ xià yǒu yī fēng xìn。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-712",
+   "level": 4,
+   "round": 6,
+   "text": "老师点名时他不在。",
+   "pinyin": "lǎo shī diǎn míng shí tā bù zài。",
+   "grammar": [
+    "G4-33"
+   ]
+  },
+  {
+   "id": "L4-713",
+   "level": 4,
+   "round": 6,
+   "text": "他的信心动摇了。",
+   "pinyin": "tā de xìn xīn dòng yáo le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-714",
+   "level": 4,
+   "round": 6,
+   "text": "他很会对付这种难事。",
+   "pinyin": "tā hěn huì duì fù zhè zhǒng nán shì。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-715",
+   "level": 4,
+   "round": 6,
+   "text": "我的耳机坏了，得换。",
+   "pinyin": "wǒ de ěr jī huài le，dé huàn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-716",
+   "level": 4,
+   "round": 6,
+   "text": "这件事交给法院处理。",
+   "pinyin": "zhè jiàn shì jiāo gěi fǎ yuàn chù lǐ。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-717",
+   "level": 4,
+   "round": 6,
+   "text": "分手以后，他搬走了。",
+   "pinyin": "fēn shǒu yǐ hòu，tā bān zǒu le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-718",
+   "level": 4,
+   "round": 6,
+   "text": "标点符号写错会失分。",
+   "pinyin": "biāo diǎn fú hào xiě cuò huì shī fēn。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-719",
+   "level": 4,
+   "round": 6,
+   "text": "请你概括这段文章的意思。",
+   "pinyin": "qǐng nǐ gài kuò zhè duàn wén zhāng de yì sī。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-720",
+   "level": 4,
+   "round": 6,
+   "text": "两个房间用墙隔开。",
+   "pinyin": "liǎng gè fáng jiān yòng qiáng gé kāi。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-721",
+   "level": 4,
+   "round": 6,
+   "text": "这三个部分构成了整体。",
+   "pinyin": "zhè sān gè bù fēn gòu chéng le zhěng tǐ。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-722",
+   "level": 4,
+   "round": 6,
+   "text": "官方还没有公布结果。",
+   "pinyin": "guān fāng hái méi yǒu gōng bù jié guǒ。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-723",
+   "level": 4,
+   "round": 6,
+   "text": "这家的海鲜格外新鲜。",
+   "pinyin": "zhè jiā de hǎi xiān gé wài xīn xiān。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-724",
+   "level": 4,
+   "round": 6,
+   "text": "航空公司的服务格外好。",
+   "pinyin": "háng kōng gōng sī de fú wù gé wài hǎo。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-725",
+   "level": 4,
+   "round": 6,
+   "text": "他走在前头，我在后头。",
+   "pinyin": "tā zǒu zài qián tóu，wǒ zài hòu tóu。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-726",
+   "level": 4,
+   "round": 6,
+   "text": "他的头痛缓解了。",
+   "pinyin": "tā de tóu tòng huǎn jiě le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-727",
+   "level": 4,
+   "round": 6,
+   "text": "我们一伙人去爬山，玩得很好。",
+   "pinyin": "wǒ men yī huǒ rén qù pá shān，wán dé hěn hǎo。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-728",
+   "level": 4,
+   "round": 6,
+   "text": "这是一次很好的机遇。",
+   "pinyin": "zhè shì yī cì hěn hǎo de jī yù。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-729",
+   "level": 4,
+   "round": 6,
+   "text": "第三季度的收入增加了。",
+   "pinyin": "dì sān jì dù de shōu rù zēng jiā le。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-730",
+   "level": 4,
+   "round": 6,
+   "text": "这个月的奖金减了一半。",
+   "pinyin": "zhè gè yuè de jiǎng jīn jiǎn le yī bàn。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-731",
+   "level": 4,
+   "round": 6,
+   "text": "礼物已经交换过了。",
+   "pinyin": "lǐ wù yǐ jīng jiāo huàn guò le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-732",
+   "level": 4,
+   "round": 6,
+   "text": "姐姐来了，我们姐妹很高兴。",
+   "pinyin": "jiě jiě lái le，wǒ men jiě mèi hěn gāo xīng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-733",
+   "level": 4,
+   "round": 6,
+   "text": "他精力足是好事。",
+   "pinyin": "tā jīng lì zú shì hǎo shì。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-734",
+   "level": 4,
+   "round": 6,
+   "text": "这种花开花很晚。",
+   "pinyin": "zhè zhǒng huā kāi huā hěn wǎn。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-735",
+   "level": 4,
+   "round": 6,
+   "text": "口袋里有几块糖。",
+   "pinyin": "kǒu dài lǐ yǒu jǐ kuài táng。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-736",
+   "level": 4,
+   "round": 6,
+   "text": "括号里填名字。",
+   "pinyin": "kuò hào lǐ tián míng zì。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-737",
+   "level": 4,
+   "round": 6,
+   "text": "她听到这个消息，流下了泪。",
+   "pinyin": "tā tīng dào zhè gè xiāo xī，liú xià le lèi。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-738",
+   "level": 4,
+   "round": 6,
+   "text": "银行的利息格外低。",
+   "pinyin": "yín xíng de lì xī gé wài dī。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-739",
+   "level": 4,
+   "round": 6,
+   "text": "他被列为优秀学生。",
+   "pinyin": "tā bèi liè wèi yōu xiù xué shēng。",
+   "grammar": [
+    "G4-39"
+   ]
+  },
+  {
+   "id": "L4-740",
+   "level": 4,
+   "round": 6,
+   "text": "好消息来了，他被录取了。",
+   "pinyin": "hǎo xiāo xī lái le，tā bèi lù qǔ le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-741",
+   "level": 4,
+   "round": 6,
+   "text": "这件毛衣是妈妈买的。",
+   "pinyin": "zhè jiàn máo yī shì mā mā mǎi de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-742",
+   "level": 4,
+   "round": 6,
+   "text": "他做了一个奇怪的梦。",
+   "pinyin": "tā zuò le yī gè qí guài de mèng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-743",
+   "level": 4,
+   "round": 6,
+   "text": "公司面临的困难很大。",
+   "pinyin": "gōng sī miàn lín de kùn nán hěn dà。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-744",
+   "level": 4,
+   "round": 6,
+   "text": "那位男士在等人。",
+   "pinyin": "nà wèi nán shì zài děng rén。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-745",
+   "level": 4,
+   "round": 6,
+   "text": "他很能干，办事很快。",
+   "pinyin": "tā hěn néng gàn，bàn shì hěn kuài。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-746",
+   "level": 4,
+   "round": 6,
+   "text": "车上下来一个胖子。",
+   "pinyin": "chē shàng xià lái yī gè pàng zi。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-747",
+   "level": 4,
+   "round": 6,
+   "text": "这个房间有二十平方米。",
+   "pinyin": "zhè gè fáng jiān yǒu èr shí píng fāng mǐ。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-748",
+   "level": 4,
+   "round": 6,
+   "text": "放假期间，他读了很多书。",
+   "pinyin": "fàng jiǎ qī jiān，tā dú le hěn duō shū。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-749",
+   "level": 4,
+   "round": 6,
+   "text": "汽车没汽油了，开不动。",
+   "pinyin": "qì chē méi qì yóu le，kāi bù dòng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-750",
+   "level": 4,
+   "round": 6,
+   "text": "他们的关系格外亲密。",
+   "pinyin": "tā men de guān xì gé wài qīn mì。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-751",
+   "level": 4,
+   "round": 6,
+   "text": "穷人也有自己的快乐。",
+   "pinyin": "qióng rén yě yǒu zì jǐ de kuài lè。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-752",
+   "level": 4,
+   "round": 6,
+   "text": "他每天写日记，从不间断。",
+   "pinyin": "tā měi tiān xiě rì jì，cóng bù jiān duàn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-753",
+   "level": 4,
+   "round": 6,
+   "text": "吸烟会伤害身体。",
+   "pinyin": "xī yān huì shāng hài shēn tǐ。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-754",
+   "level": 4,
+   "round": 6,
+   "text": "他身材很高。",
+   "pinyin": "tā shēn cái hěn gāo。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-755",
+   "level": 4,
+   "round": 6,
+   "text": "这次失败让他很难过。",
+   "pinyin": "zhè cì shī bài ràng tā hěn nán guò。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-756",
+   "level": 4,
+   "round": 6,
+   "text": "他使劲推门，门开了。",
+   "pinyin": "tā shǐ jìn tuī mén，mén kāi le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-757",
+   "level": 4,
+   "round": 6,
+   "text": "今年的收获让大家高兴。",
+   "pinyin": "jīn nián de shōu huò ràng dà jiā gāo xīng。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-758",
+   "level": 4,
+   "round": 6,
+   "text": "这里太吵，我受不了。",
+   "pinyin": "zhè lǐ tài chǎo，wǒ shòu bù le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-759",
+   "level": 4,
+   "round": 6,
+   "text": "数码相机的价格不低。",
+   "pinyin": "shù mǎ xiāng jī de jià gé bù dī。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-760",
+   "level": 4,
+   "round": 6,
+   "text": "我说服他改变了主意。",
+   "pinyin": "wǒ shuō fú tā gǎi biàn le zhǔ yì。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-761",
+   "level": 4,
+   "round": 6,
+   "text": "爷爷的孙女来了。",
+   "pinyin": "yé yé de sūn nǚ lái le。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-762",
+   "level": 4,
+   "round": 6,
+   "text": "这两个国家的特征不同。",
+   "pinyin": "zhè liǎng gè guó jiā de tè zhēng bù tóng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-763",
+   "level": 4,
+   "round": 6,
+   "text": "孩子太小，想法很天真。",
+   "pinyin": "hái zi tài xiǎo，xiǎng fǎ hěn tiān zhēn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-764",
+   "level": 4,
+   "round": 6,
+   "text": "这本童话书很有意思。",
+   "pinyin": "zhè běn tóng huà shū hěn yǒu yì sī。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-765",
+   "level": 4,
+   "round": 6,
+   "text": "这水格外透明。",
+   "pinyin": "zhè shuǐ gé wài tòu míng。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-766",
+   "level": 4,
+   "round": 6,
+   "text": "这位年轻的外交官很有经验。",
+   "pinyin": "zhè wèi nián qīng de wài jiāo guān hěn yǒu jīng yàn。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-767",
+   "level": 4,
+   "round": 6,
+   "text": "电视需要维修。",
+   "pinyin": "diàn shì xū yào wéi xiū。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-768",
+   "level": 4,
+   "round": 6,
+   "text": "他打来电话，问候了我。",
+   "pinyin": "tā dǎ lái diàn huà，wèn hòu le wǒ。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-769",
+   "level": 4,
+   "round": 6,
+   "text": "知识的力量是无限的。",
+   "pinyin": "zhī shí de lì liàng shì wú xiàn de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-770",
+   "level": 4,
+   "round": 6,
+   "text": "这是他最喜爱的一本书。",
+   "pinyin": "zhè shì tā zuì xǐ ài de yī běn shū。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-771",
+   "level": 4,
+   "round": 6,
+   "text": "物价下降了，大家很高兴。",
+   "pinyin": "wù jià xià jiàng le，dà jiā hěn gāo xīng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-772",
+   "level": 4,
+   "round": 6,
+   "text": "这个规定限制了通行。",
+   "pinyin": "zhè gè guī dìng xiàn zhì le tōng xíng。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-773",
+   "level": 4,
+   "round": 6,
+   "text": "消化不好很难受。",
+   "pinyin": "xiāo huà bù hǎo hěn nán shòu。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-774",
+   "level": 4,
+   "round": 6,
+   "text": "新娘穿了一身红衣服。",
+   "pinyin": "xīn niáng chuān le yī shēn hóng yī fú。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-775",
+   "level": 4,
+   "round": 6,
+   "text": "新型号的手机很贵。",
+   "pinyin": "xīn xíng hào de shǒu jī hěn guì。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-776",
+   "level": 4,
+   "round": 6,
+   "text": "这门课有八十学时。",
+   "pinyin": "zhè mén kè yǒu bā shí xué shí。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-777",
+   "level": 4,
+   "round": 6,
+   "text": "这种传统延续了几百年。",
+   "pinyin": "zhè zhǒng chuán tǒng yán xù le jǐ bǎi nián。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-778",
+   "level": 4,
+   "round": 6,
+   "text": "阳台上摆着两把椅子。",
+   "pinyin": "yáng tái shàng bǎi zhe liǎng bǎ yǐ zi。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-779",
+   "level": 4,
+   "round": 6,
+   "text": "他学的是医学。",
+   "pinyin": "tā xué de shì yī xué。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-780",
+   "level": 4,
+   "round": 6,
+   "text": "这是他留下的遗产。",
+   "pinyin": "zhè shì tā liú xià de yí chǎn。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-781",
+   "level": 4,
+   "round": 6,
+   "text": "是老师引导我们思考的。",
+   "pinyin": "shì lǎo shī yǐn dǎo wǒ men sī kǎo de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-782",
+   "level": 4,
+   "round": 6,
+   "text": "这个工具用途很多，很实用。",
+   "pinyin": "zhè gè gōng jù yòng tú hěn duō，hěn shí yòng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-783",
+   "level": 4,
+   "round": 6,
+   "text": "孩子上了幼儿园，学会唱歌了。",
+   "pinyin": "hái zi shàng le yòu ér yuán，xué huì chàng gē le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-784",
+   "level": 4,
+   "round": 6,
+   "text": "我在路上遇见了他，聊了很久。",
+   "pinyin": "wǒ zài lù shàng yù jiàn le tā，liáo le hěn jiǔ。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-785",
+   "level": 4,
+   "round": 6,
+   "text": "运动会推迟到下周了。",
+   "pinyin": "yùn dòng huì tuī chí dào xià zhōu le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-786",
+   "level": 4,
+   "round": 6,
+   "text": "大家都赞赏他的这份勇气。",
+   "pinyin": "dà jiā dōu zàn shǎng tā de zhè fèn yǒng qì。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-787",
+   "level": 4,
+   "round": 6,
+   "text": "战争带来的痛苦很大。",
+   "pinyin": "zhàn zhēng dài lái de tòng kǔ hěn dà。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-788",
+   "level": 4,
+   "round": 6,
+   "text": "那座高山被他征服了。",
+   "pinyin": "nà zuò gāo shān bèi tā zhēng fú le。",
+   "grammar": [
+    "G4-39"
+   ]
+  },
+  {
+   "id": "L4-789",
+   "level": 4,
+   "round": 6,
+   "text": "这些植物需要阳光。",
+   "pinyin": "zhè xiē zhí wù xū yào yáng guāng。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-790",
+   "level": 4,
+   "round": 6,
+   "text": "他中奖了，很高兴。",
+   "pinyin": "tā zhōng jiǎng le，hěn gāo xīng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-791",
+   "level": 4,
+   "round": 6,
+   "text": "生日到了，我送上祝福。",
+   "pinyin": "shēng rì dào le，wǒ sòng shàng zhù fú。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-792",
+   "level": 4,
+   "round": 6,
+   "text": "他转身走了，没再说一句话。",
+   "pinyin": "tā zhuǎn shēn zǒu le，méi zài shuō yī jù huà。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-793",
+   "level": 4,
+   "round": 6,
+   "text": "他准时到了，大家很满意。",
+   "pinyin": "tā zhǔn shí dào le，dà jiā hěn mǎn yì。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-794",
+   "level": 4,
+   "round": 6,
+   "text": "总理的到来让大家很激动。",
+   "pinyin": "zǒng lǐ de dào lái ràng dà jiā hěn jī dòng。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-795",
+   "level": 4,
+   "round": 6,
+   "text": "遇事要冷静，别着急。",
+   "pinyin": "yù shì yào lěng jìng，bié zhe jí。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-796",
+   "level": 4,
+   "round": 6,
+   "text": "他很爱国，常唱国歌。",
+   "pinyin": "tā hěn ài guó，cháng chàng guó gē。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-797",
+   "level": 4,
+   "round": 6,
+   "text": "风停了，树叶还在摆动。",
+   "pinyin": "fēng tíng le，shù yè hái zài bǎi dòng。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-798",
+   "level": 4,
+   "round": 6,
+   "text": "床上睡着一个宝宝。",
+   "pinyin": "chuáng shàng shuì zhe yī gè bǎo bǎo。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-799",
+   "level": 4,
+   "round": 6,
+   "text": "他本科毕业，找了工作。",
+   "pinyin": "tā běn kē bì yè，zhǎo le gōng zuò。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-800",
+   "level": 4,
+   "round": 6,
+   "text": "冰箱里放着水果。",
+   "pinyin": "bīng xiāng lǐ fàng zhe shuǐ guǒ。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-801",
+   "level": 4,
+   "round": 6,
+   "text": "他把房间布置得很美。",
+   "pinyin": "tā bǎ fáng jiān bù zhì dé hěn měi。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-802",
+   "level": 4,
+   "round": 6,
+   "text": "老师让我们参与讨论。",
+   "pinyin": "lǎo shī ràng wǒ men cān yǔ tǎo lùn。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-803",
+   "level": 4,
+   "round": 6,
+   "text": "懂点常识，少走弯路。",
+   "pinyin": "dǒng diǎn cháng shí，shǎo zǒu wān lù。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-804",
+   "level": 4,
+   "round": 6,
+   "text": "夜深了，他的脚步很沉重。",
+   "pinyin": "yè shēn le，tā de jiǎo bù hěn chén zhòng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-805",
+   "level": 4,
+   "round": 6,
+   "text": "请把程序再检查一遍。",
+   "pinyin": "qǐng bǎ chéng xù zài jiǎn chá yī biàn。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-806",
+   "level": 4,
+   "round": 6,
+   "text": "抽奖即将开始。",
+   "pinyin": "chōu jiǎng jí jiāng kāi shǐ。",
+   "grammar": [
+    "G4-07"
+   ]
+  },
+  {
+   "id": "L4-807",
+   "level": 4,
+   "round": 6,
+   "text": "这是一个古老的传统。",
+   "pinyin": "zhè shì yī gè gǔ lǎo de chuán tǒng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-808",
+   "level": 4,
+   "round": 6,
+   "text": "此事很重要，别大意。",
+   "pinyin": "cǐ shì hěn zhòng yào，bié dà yì。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-809",
+   "level": 4,
+   "round": 6,
+   "text": "昨晚打雷，雨很大。",
+   "pinyin": "zuó wǎn dǎ léi，yǔ hěn dà。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-810",
+   "level": 4,
+   "round": 6,
+   "text": "大哥来了，我很高兴。",
+   "pinyin": "dà gē lái le，wǒ hěn gāo xīng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-811",
+   "level": 4,
+   "round": 6,
+   "text": "这是一家大型超市。",
+   "pinyin": "zhè shì yī jiā dà xíng chāo shì。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-812",
+   "level": 4,
+   "round": 6,
+   "text": "他想法单纯，过得很开心。",
+   "pinyin": "tā xiǎng fǎ dān chún，guò dé hěn kāi xīn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-813",
+   "level": 4,
+   "round": 6,
+   "text": "他考了第一，很得意。",
+   "pinyin": "tā kǎo le dì yī，hěn dé yì。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-814",
+   "level": 4,
+   "round": 6,
+   "text": "前面有个安静的地方。",
+   "pinyin": "qián miàn yǒu gè ān jìng de dì fāng。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-815",
+   "level": 4,
+   "round": 6,
+   "text": "电灯竟然不亮了。",
+   "pinyin": "diàn dēng jìng rán bù liàng le。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-816",
+   "level": 4,
+   "round": 6,
+   "text": "他既独立，又很懂事。",
+   "pinyin": "tā jì dú lì，yòu hěn dǒng shì。",
+   "grammar": [
+    "G4-44"
+   ]
+  },
+  {
+   "id": "L4-817",
+   "level": 4,
+   "round": 6,
+   "text": "他多次帮我，我很感谢。",
+   "pinyin": "tā duō cì bāng wǒ，wǒ hěn gǎn xiè。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-818",
+   "level": 4,
+   "round": 6,
+   "text": "他买了一部二手车。",
+   "pinyin": "tā mǎi le yī bù èr shǒu chē。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-819",
+   "level": 4,
+   "round": 6,
+   "text": "他走反了方向，只好回头。",
+   "pinyin": "tā zǒu fǎn le fāng xiàng，zhǐ hǎo huí tóu。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-820",
+   "level": 4,
+   "round": 6,
+   "text": "学生分为两组，每组十人。",
+   "pinyin": "xué shēng fēn wèi liǎng zǔ，měi zǔ shí rén。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-821",
+   "level": 4,
+   "round": 6,
+   "text": "他付出很多，却不求回报。",
+   "pinyin": "tā fù chū hěn duō，què bù qiú huí bào。",
+   "grammar": [
+    "G4-09"
+   ]
+  },
+  {
+   "id": "L4-822",
+   "level": 4,
+   "round": 6,
+   "text": "他很感兴趣，就报了名。",
+   "pinyin": "tā hěn gǎn xīng qù，jiù bào le míng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-823",
+   "level": 4,
+   "round": 6,
+   "text": "个别同学还没交作业。",
+   "pinyin": "gè bié tóng xué hái méi jiāo zuò yè。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-824",
+   "level": 4,
+   "round": 6,
+   "text": "这台机器构造简单，很好用。",
+   "pinyin": "zhè tái jī qì gòu zào jiǎn dān，hěn hǎo yòng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-825",
+   "level": 4,
+   "round": 6,
+   "text": "欢迎光临，请坐下喝茶。",
+   "pinyin": "huān yíng guāng lín，qǐng zuò xià hē chá。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-826",
+   "level": 4,
+   "round": 6,
+   "text": "她含着泪，却笑了。",
+   "pinyin": "tā hán zhe lèi，què xiào le。",
+   "grammar": [
+    "G4-09"
+   ]
+  },
+  {
+   "id": "L4-827",
+   "level": 4,
+   "round": 6,
+   "text": "杯里有三百毫升水。",
+   "pinyin": "bēi lǐ yǒu sān bǎi háo shēng shuǐ。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-828",
+   "level": 4,
+   "round": 6,
+   "text": "他跑完步，呼吸很急。",
+   "pinyin": "tā pǎo wán bù，hū xī hěn jí。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-829",
+   "level": 4,
+   "round": 6,
+   "text": "他把黄瓜洗干净了。",
+   "pinyin": "tā bǎ huáng guā xǐ gàn jìng le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-830",
+   "level": 4,
+   "round": 6,
+   "text": "他或许会来，我们再等等。",
+   "pinyin": "tā huò xǔ huì lái，wǒ men zài děng děng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-831",
+   "level": 4,
+   "round": 6,
+   "text": "经验靠积累，不能急。",
+   "pinyin": "jīng yàn kào jī lèi，bù néng jí。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-832",
+   "level": 4,
+   "round": 6,
+   "text": "他今晚加班，于是没回家吃饭。",
+   "pinyin": "tā jīn wǎn jiā bān，yú shì méi huí jiā chī fàn。",
+   "grammar": [
+    "G4-46"
+   ]
+  },
+  {
+   "id": "L4-833",
+   "level": 4,
+   "round": 6,
+   "text": "她想减肥，每天跑步。",
+   "pinyin": "tā xiǎng jiǎn féi，měi tiān pǎo bù。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-834",
+   "level": 4,
+   "round": 6,
+   "text": "他把奖学金给了妹妹。",
+   "pinyin": "tā bǎ jiǎng xué jīn gěi le mèi mèi。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-835",
+   "level": 4,
+   "round": 6,
+   "text": "他善于交际，朋友很多。",
+   "pinyin": "tā shàn yú jiāo jì，péng yǒu hěn duō。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-836",
+   "level": 4,
+   "round": 6,
+   "text": "这两件事紧密相关，别分开看。",
+   "pinyin": "zhè liǎng jiàn shì jǐn mì xiāng guān，bié fēn kāi kàn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-837",
+   "level": 4,
+   "round": 6,
+   "text": "他站在镜头前，有点紧张。",
+   "pinyin": "tā zhàn zài jìng tóu qián，yǒu diǎn jǐn zhāng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-838",
+   "level": 4,
+   "round": 6,
+   "text": "杯子里有开水。",
+   "pinyin": "bēi zi lǐ yǒu kāi shuǐ。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-839",
+   "level": 4,
+   "round": 6,
+   "text": "练好口语很重要。",
+   "pinyin": "liàn hǎo kǒu yǔ hěn zhòng yào。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-840",
+   "level": 4,
+   "round": 6,
+   "text": "这消息来源不明，别信。",
+   "pinyin": "zhè xiāo xī lái yuán bù míng，bié xìn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-841",
+   "level": 4,
+   "round": 6,
+   "text": "她听了这话，流下泪水。",
+   "pinyin": "tā tīng le zhè huà，liú xià lèi shuǐ。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-842",
+   "level": 4,
+   "round": 6,
+   "text": "保护环境符合大家的利益。",
+   "pinyin": "bǎo hù huán jìng fú hé dà jiā de lì yì。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-843",
+   "level": 4,
+   "round": 6,
+   "text": "他爱吃零食，饭吃得少。",
+   "pinyin": "tā ài chī líng shí，fàn chī dé shǎo。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-844",
+   "level": 4,
+   "round": 6,
+   "text": "他请了律师帮忙。",
+   "pinyin": "tā qǐng le lǜ shī bāng máng。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-845",
+   "level": 4,
+   "round": 6,
+   "text": "这件事是他做的，没错。",
+   "pinyin": "zhè jiàn shì shì tā zuò de，méi cuò。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-846",
+   "level": 4,
+   "round": 6,
+   "text": "我梦见妈妈，醒来就哭了。",
+   "pinyin": "wǒ mèng jiàn mā mā，xǐng lái jiù kū le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-847",
+   "level": 4,
+   "round": 6,
+   "text": "他面试通过了，很高兴。",
+   "pinyin": "tā miàn shì tōng guò le，hěn gāo xīng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-848",
+   "level": 4,
+   "round": 6,
+   "text": "第一次上台，难免紧张。",
+   "pinyin": "dì yī cì shàng tái，nán miǎn jǐn zhāng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-849",
+   "level": 4,
+   "round": 6,
+   "text": "山村宁静，空气很好。",
+   "pinyin": "shān cūn níng jìng，kōng qì hěn hǎo。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-850",
+   "level": 4,
+   "round": 6,
+   "text": "公司派他去参加培训。",
+   "pinyin": "gōng sī pài tā qù cān jiā péi xùn。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-851",
+   "level": 4,
+   "round": 6,
+   "text": "湖面平静，没有一点风。",
+   "pinyin": "hú miàn píng jìng，méi yǒu yī diǎn fēng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-852",
+   "level": 4,
+   "round": 6,
+   "text": "期末快到了，大家都在复习。",
+   "pinyin": "qī mò kuài dào le，dà jiā dōu zài fù xí。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-853",
+   "level": 4,
+   "round": 6,
+   "text": "心脏是人体重要的器官。",
+   "pinyin": "xīn zàng shì rén tǐ zhòng yào de qì guān。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-854",
+   "level": 4,
+   "round": 6,
+   "text": "青春只有一次，别浪费。",
+   "pinyin": "qīng chūn zhǐ yǒu yī cì，bié làng fèi。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-855",
+   "level": 4,
+   "round": 6,
+   "text": "秋季到了，而天气还很热。",
+   "pinyin": "qiū jì dào le，ér tiān qì hái hěn rè。",
+   "grammar": [
+    "G4-20"
+   ]
+  },
+  {
+   "id": "L4-856",
+   "level": 4,
+   "round": 6,
+   "text": "墙上挂着一本日历。",
+   "pinyin": "qiáng shàng guà zhe yī běn rì lì。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-857",
+   "level": 4,
+   "round": 6,
+   "text": "这是一次重要的商务活动。",
+   "pinyin": "zhè shì yī cì zhòng yào de shāng wù huó dòng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-858",
+   "level": 4,
+   "round": 6,
+   "text": "请把身份证明拿出来。",
+   "pinyin": "qǐng bǎ shēn fèn zhèng míng ná chū lái。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-859",
+   "level": 4,
+   "round": 6,
+   "text": "他失业了，于是开始找工作。",
+   "pinyin": "tā shī yè le，yú shì kāi shǐ zhǎo gōng zuò。",
+   "grammar": [
+    "G4-46"
+   ]
+  },
+  {
+   "id": "L4-860",
+   "level": 4,
+   "round": 6,
+   "text": "他住在市区，上班路很远。",
+   "pinyin": "tā zhù zài shì qū，shàng bān lù hěn yuǎn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-861",
+   "level": 4,
+   "round": 6,
+   "text": "收益不错，他打算再投资。",
+   "pinyin": "shōu yì bù cuò，tā dǎ suàn zài tóu zī。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-862",
+   "level": 4,
+   "round": 6,
+   "text": "售货员很热情，帮我挑衣服。",
+   "pinyin": "shòu huò yuán hěn rè qíng，bāng wǒ tiāo yī fú。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-863",
+   "level": 4,
+   "round": 6,
+   "text": "他把墙刷白了。",
+   "pinyin": "tā bǎ qiáng shuā bái le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-864",
+   "level": 4,
+   "round": 6,
+   "text": "他松了手，箱子掉了。",
+   "pinyin": "tā sōng le shǒu，xiāng zi diào le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-865",
+   "level": 4,
+   "round": 6,
+   "text": "经理把会议时间缩短了。",
+   "pinyin": "jīng lǐ bǎ huì yì shí jiān suō duǎn le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-866",
+   "level": 4,
+   "round": 6,
+   "text": "公司提供午餐，大家很满意。",
+   "pinyin": "gōng sī tí gōng wǔ cān，dà jiā hěn mǎn yì。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-867",
+   "level": 4,
+   "round": 6,
+   "text": "请把表填好。",
+   "pinyin": "qǐng bǎ biǎo tián hǎo。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-868",
+   "level": 4,
+   "round": 6,
+   "text": "意见统一了，事情就好办。",
+   "pinyin": "yì jiàn tǒng yī le，shì qíng jiù hǎo bàn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-869",
+   "level": 4,
+   "round": 6,
+   "text": "这个图案是手画的。",
+   "pinyin": "zhè gè tú àn shì shǒu huà de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-870",
+   "level": 4,
+   "round": 6,
+   "text": "他把网址发给我了。",
+   "pinyin": "tā bǎ wǎng zhǐ fā gěi wǒ le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-871",
+   "level": 4,
+   "round": 6,
+   "text": "小狗摇着尾巴，跑得很快。",
+   "pinyin": "xiǎo gǒu yáo zhe wěi bā，pǎo dé hěn kuài。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-872",
+   "level": 4,
+   "round": 6,
+   "text": "他无话可说，转身走了。",
+   "pinyin": "tā wú huà kě shuō，zhuǎn shēn zǒu le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-873",
+   "level": 4,
+   "round": 6,
+   "text": "天上挂着五颜六色的气球。",
+   "pinyin": "tiān shàng guà zhe wǔ yán liù sè de qì qiú。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-874",
+   "level": 4,
+   "round": 6,
+   "text": "公司推出了一系列新产品。",
+   "pinyin": "gōng sī tuī chū le yī xì liè xīn chǎn pǐn。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-875",
+   "level": 4,
+   "round": 6,
+   "text": "我下载了这首歌，很好听。",
+   "pinyin": "wǒ xià zài le zhè shǒu gē，hěn hǎo tīng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-876",
+   "level": 4,
+   "round": 6,
+   "text": "同事相处得很好，像一家人。",
+   "pinyin": "tóng shì xiāng chù dé hěn hǎo，xiàng yī jiā rén。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-877",
+   "level": 4,
+   "round": 6,
+   "text": "他做销售，而我只管技术。",
+   "pinyin": "tā zuò xiāo shòu，ér wǒ zhǐ guǎn jì shù。",
+   "grammar": [
+    "G4-20"
+   ]
+  },
+  {
+   "id": "L4-878",
+   "level": 4,
+   "round": 6,
+   "text": "这是一种新型汽车。",
+   "pinyin": "zhè shì yī zhǒng xīn xíng qì chē。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-879",
+   "level": 4,
+   "round": 6,
+   "text": "天亮了，他醒了。",
+   "pinyin": "tiān liàng le，tā xǐng le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-880",
+   "level": 4,
+   "round": 6,
+   "text": "他参加学术会议，收获很大。",
+   "pinyin": "tā cān jiā xué shù huì yì，shōu huò hěn dà。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-881",
+   "level": 4,
+   "round": 6,
+   "text": "他管孩子很严，从不放松。",
+   "pinyin": "tā guǎn hái zi hěn yán，cóng bù fàng sōng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-882",
+   "level": 4,
+   "round": 6,
+   "text": "他养成早起的习惯，身体很好。",
+   "pinyin": "tā yǎng chéng zǎo qǐ de xí guàn，shēn tǐ hěn hǎo。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-883",
+   "level": 4,
+   "round": 6,
+   "text": "他依靠自己，从不求人。",
+   "pinyin": "tā yī kào zì jǐ，cóng bù qiú rén。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-884",
+   "level": 4,
+   "round": 6,
+   "text": "他的病是遗传的。",
+   "pinyin": "tā de bìng shì yí chuán de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-885",
+   "level": 4,
+   "round": 6,
+   "text": "公司引进新技术，效益很好。",
+   "pinyin": "gōng sī yǐn jìn xīn jì shù，xiào yì hěn hǎo。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-886",
+   "level": 4,
+   "round": 6,
+   "text": "苹果品种优良，卖得很好。",
+   "pinyin": "píng guǒ pǐn zhǒng yōu liáng，mài dé hěn hǎo。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-887",
+   "level": 4,
+   "round": 6,
+   "text": "他语法学得好，口语也不错。",
+   "pinyin": "tā yǔ fǎ xué dé hǎo，kǒu yǔ yě bù cuò。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-888",
+   "level": 4,
+   "round": 6,
+   "text": "我遇到难题，找他帮忙。",
+   "pinyin": "wǒ yù dào nán tí，zhǎo tā bāng máng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-889",
+   "level": 4,
+   "round": 6,
+   "text": "运动员很累，还在坚持跑。",
+   "pinyin": "yùn dòng yuán hěn lèi，hái zài jiān chí pǎo。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-890",
+   "level": 4,
+   "round": 6,
+   "text": "公司赞助比赛，大家很高兴。",
+   "pinyin": "gōng sī zàn zhù bǐ sài，dà jiā hěn gāo xīng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-891",
+   "level": 4,
+   "round": 6,
+   "text": "她丈夫是医生，工作很忙。",
+   "pinyin": "tā zhàng fū shì yī shēng，gōng zuò hěn máng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-892",
+   "level": 4,
+   "round": 6,
+   "text": "他关心政治，常看新闻。",
+   "pinyin": "tā guān xīn zhèng zhì，cháng kàn xīn wén。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-893",
+   "level": 4,
+   "round": 6,
+   "text": "他指挥大家唱歌。",
+   "pinyin": "tā zhǐ huī dà jiā chàng gē。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-894",
+   "level": 4,
+   "round": 6,
+   "text": "山上种植了很多果树。",
+   "pinyin": "shān shàng zhǒng zhí le hěn duō guǒ shù。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-895",
+   "level": 4,
+   "round": 6,
+   "text": "这是一位著名的作家。",
+   "pinyin": "zhè shì yī wèi zhù míng de zuò jiā。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-896",
+   "level": 4,
+   "round": 6,
+   "text": "到了路口，请向左转弯。",
+   "pinyin": "dào le lù kǒu，qǐng xiàng zuǒ zhuǎn wān。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-897",
+   "level": 4,
+   "round": 6,
+   "text": "他查了很多资料，写完了文章。",
+   "pinyin": "tā chá le hěn duō zī liào，xiě wán le wén zhāng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-898",
+   "level": 4,
+   "round": 6,
+   "text": "总统来了，大家都很激动。",
+   "pinyin": "zǒng tǒng lái le，dà jiā dōu hěn jī dòng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-899",
+   "level": 4,
+   "round": 6,
+   "text": "环境需要大家爱护。",
+   "pinyin": "huán jìng xū yào dà jiā ài hù。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-900",
+   "level": 4,
+   "round": 6,
+   "text": "他摆脱困境，重新开始。",
+   "pinyin": "tā bǎi tuō kùn jìng，zhòng xīn kāi shǐ。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-901",
+   "level": 4,
+   "round": 6,
+   "text": "经验极其宝贵。",
+   "pinyin": "jīng yàn jí qí bǎo guì。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-902",
+   "level": 4,
+   "round": 6,
+   "text": "比分接近让观众兴奋。",
+   "pinyin": "bǐ fēn jiē jìn ràng guān zhòng xīng fèn。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-903",
+   "level": 4,
+   "round": 6,
+   "text": "山上有冰雪。",
+   "pinyin": "shān shàng yǒu bīng xuě。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-904",
+   "level": 4,
+   "round": 6,
+   "text": "步行上班，既省钱又健康。",
+   "pinyin": "bù xíng shàng bān，jì shěng qián yòu jiàn kāng。",
+   "grammar": [
+    "G4-44"
+   ]
+  },
+  {
+   "id": "L4-905",
+   "level": 4,
+   "round": 6,
+   "text": "操场上有很多学生。",
+   "pinyin": "cāo chǎng shàng yǒu hěn duō xué shēng。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-906",
+   "level": 4,
+   "round": 6,
+   "text": "这张新唱片很好听。",
+   "pinyin": "zhè zhāng xīn chàng piàn hěn hǎo tīng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-907",
+   "level": 4,
+   "round": 6,
+   "text": "他被老师称赞了。",
+   "pinyin": "tā bèi lǎo shī chēng zàn le。",
+   "grammar": [
+    "G4-39"
+   ]
+  },
+  {
+   "id": "L4-908",
+   "level": 4,
+   "round": 6,
+   "text": "这把尺用坏了。",
+   "pinyin": "zhè bǎ chǐ yòng huài le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-909",
+   "level": 4,
+   "round": 6,
+   "text": "左边有个出口。",
+   "pinyin": "zuǒ biān yǒu gè chū kǒu。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-910",
+   "level": 4,
+   "round": 6,
+   "text": "窗台上放着一本书。",
+   "pinyin": "chuāng tái shàng fàng zhe yī běn shū。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-911",
+   "level": 4,
+   "round": 6,
+   "text": "这场球赛格外刺激。",
+   "pinyin": "zhè chǎng qiú sài gé wài cì jī。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-912",
+   "level": 4,
+   "round": 6,
+   "text": "商店把旧货打折卖了。",
+   "pinyin": "shāng diàn bǎ jiù huò dǎ zhé mài le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-913",
+   "level": 4,
+   "round": 6,
+   "text": "公司大规模招人，场面很热闹。",
+   "pinyin": "gōng sī dà guī mó zhāo rén，chǎng miàn hěn rè nào。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-914",
+   "level": 4,
+   "round": 6,
+   "text": "那位白发大爷很热情。",
+   "pinyin": "nà wèi bái fā dà yé hěn rè qíng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-915",
+   "level": 4,
+   "round": 6,
+   "text": "生活单调让人难受。",
+   "pinyin": "shēng huó dān diào ràng rén nán shòu。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-916",
+   "level": 4,
+   "round": 6,
+   "text": "灯光把屋里照亮了。",
+   "pinyin": "dēng guāng bǎ wū lǐ zhào liàng le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-917",
+   "level": 4,
+   "round": 6,
+   "text": "地面湿了，走路小心。",
+   "pinyin": "dì miàn shī le，zǒu lù xiǎo xīn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-918",
+   "level": 4,
+   "round": 6,
+   "text": "电动车没电了，他只好走路。",
+   "pinyin": "diàn dòng chē méi diàn le，tā zhǐ hǎo zǒu lù。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-919",
+   "level": 4,
+   "round": 6,
+   "text": "这座楼的风格极其独特。",
+   "pinyin": "zhè zuò lóu de fēng gé jí qí dú tè。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-920",
+   "level": 4,
+   "round": 6,
+   "text": "多年以来，他一直住在这里。",
+   "pinyin": "duō nián yǐ lái，tā yī zhí zhù zài zhè lǐ。",
+   "grammar": [
+    "G4-30"
+   ]
+  },
+  {
+   "id": "L4-921",
+   "level": 4,
+   "round": 6,
+   "text": "他把本领发挥得极好。",
+   "pinyin": "tā bǎ běn lǐng fā huī dé jí hǎo。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-922",
+   "level": 4,
+   "round": 6,
+   "text": "雨停了，反而更冷了。",
+   "pinyin": "yǔ tíng le，fǎn ér gèng lěng le。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-923",
+   "level": 4,
+   "round": 6,
+   "text": "风格独特是他的优点。",
+   "pinyin": "fēng gé dú tè shì tā de yōu diǎn。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-924",
+   "level": 4,
+   "round": 6,
+   "text": "负担过重会影响健康。",
+   "pinyin": "fù dān guò zhòng huì yǐng xiǎng jiàn kāng。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-925",
+   "level": 4,
+   "round": 6,
+   "text": "高潮部分处理得很好。",
+   "pinyin": "gāo cháo bù fēn chù lǐ dé hěn hǎo。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-926",
+   "level": 4,
+   "round": 6,
+   "text": "这家个体商店很受欢迎。",
+   "pinyin": "zhè jiā gè tǐ shāng diàn hěn shòu huān yíng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-927",
+   "level": 4,
+   "round": 6,
+   "text": "这台电脑是网上购买的。",
+   "pinyin": "zhè tái diàn nǎo shì wǎng shàng gòu mǎi de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-928",
+   "level": 4,
+   "round": 6,
+   "text": "这张光盘里有电影。",
+   "pinyin": "zhè zhāng guāng pán lǐ yǒu diàn yǐng。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-929",
+   "level": 4,
+   "round": 6,
+   "text": "含量高是它的优点。",
+   "pinyin": "hán liàng gāo shì tā de yōu diǎn。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-930",
+   "level": 4,
+   "round": 6,
+   "text": "他是我多年的好友。",
+   "pinyin": "tā shì wǒ duō nián de hǎo yǒu。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-931",
+   "level": 4,
+   "round": 6,
+   "text": "安全问题不能忽视。",
+   "pinyin": "ān quán wèn tí bù néng hū shì。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-932",
+   "level": 4,
+   "round": 6,
+   "text": "黄金保值，大家都爱买。",
+   "pinyin": "huáng jīn bǎo zhí，dà jiā dōu ài mǎi。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-933",
+   "level": 4,
+   "round": 6,
+   "text": "他获了奖，非常高兴。",
+   "pinyin": "tā huò le jiǎng，fēi cháng gāo xīng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-934",
+   "level": 4,
+   "round": 6,
+   "text": "他这次考试竟然及格了。",
+   "pinyin": "tā zhè cì kǎo shì jìng rán jí gé le。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-935",
+   "level": 4,
+   "round": 6,
+   "text": "老师让他加入球队。",
+   "pinyin": "lǎo shī ràng tā jiā rù qiú duì。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-936",
+   "level": 4,
+   "round": 6,
+   "text": "这份简历写得很清楚。",
+   "pinyin": "zhè fèn jiǎn lì xiě dé hěn qīng chǔ。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-937",
+   "level": 4,
+   "round": 6,
+   "text": "公司把价格降低了不少。",
+   "pinyin": "gōng sī bǎ jià gé jiàng dī le bù shǎo。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-938",
+   "level": 4,
+   "round": 6,
+   "text": "他接受了教训，做事更稳。",
+   "pinyin": "tā jiē shòu le jiào xùn，zuò shì gèng wěn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-939",
+   "level": 4,
+   "round": 6,
+   "text": "妈妈让我尽力帮忙。",
+   "pinyin": "mā mā ràng wǒ jǐn lì bāng máng。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-940",
+   "level": 4,
+   "round": 6,
+   "text": "街角有一家酒吧。",
+   "pinyin": "jiē jiǎo yǒu yī jiā jiǔ ba。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-941",
+   "level": 4,
+   "round": 6,
+   "text": "连他也看不起这种做法。",
+   "pinyin": "lián tā yě kàn bù qǐ zhè zhǒng zuò fǎ。",
+   "grammar": [
+    "G4-66"
+   ]
+  },
+  {
+   "id": "L4-942",
+   "level": 4,
+   "round": 6,
+   "text": "她当会计很合适。",
+   "pinyin": "tā dāng huì jì hěn hé shì。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-943",
+   "level": 4,
+   "round": 6,
+   "text": "她老公出差了，她一个人在家。",
+   "pinyin": "tā lǎo gōng chū chà le，tā yī gè rén zài jiā。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-944",
+   "level": 4,
+   "round": 6,
+   "text": "类型不同，处理方法也不同。",
+   "pinyin": "lèi xíng bù tóng，chù lǐ fāng fǎ yě bù tóng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-945",
+   "level": 4,
+   "round": 6,
+   "text": "路两边种满了树。",
+   "pinyin": "lù liǎng biān zhǒng mǎn le shù。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-946",
+   "level": 4,
+   "round": 6,
+   "text": "村里流传着这个故事。",
+   "pinyin": "cūn lǐ liú chuán zhe zhè gè gù shì。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-947",
+   "level": 4,
+   "round": 6,
+   "text": "轮船渐渐离开了码头。",
+   "pinyin": "lún chuán jiàn jiàn lí kāi le mǎ tóu。",
+   "grammar": [
+    "G4-07"
+   ]
+  },
+  {
+   "id": "L4-948",
+   "level": 4,
+   "round": 6,
+   "text": "我没法儿不去。",
+   "pinyin": "wǒ méi fǎ ér bù qù。",
+   "grammar": [
+    "G4-64"
+   ]
+  },
+  {
+   "id": "L4-949",
+   "level": 4,
+   "round": 6,
+   "text": "秘书把文件送来了。",
+   "pinyin": "mì shū bǎ wén jiàn sòng lái le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-950",
+   "level": 4,
+   "round": 6,
+   "text": "他穿着一身名牌儿衣服。",
+   "pinyin": "tā chuān zhe yī shēn míng pái ér yī fú。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-951",
+   "level": 4,
+   "round": 6,
+   "text": "他脑袋有点疼，想休息。",
+   "pinyin": "tā nǎo dài yǒu diǎn téng，xiǎng xiū xī。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-952",
+   "level": 4,
+   "round": 6,
+   "text": "那位年轻女士在等人。",
+   "pinyin": "nà wèi nián qīng nǚ shì zài děng rén。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-953",
+   "level": 4,
+   "round": 6,
+   "text": "公司派他参加培训班。",
+   "pinyin": "gōng sī pài tā cān jiā péi xùn bān。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-954",
+   "level": 4,
+   "round": 6,
+   "text": "飞机飞得极其平稳。",
+   "pinyin": "fēi jī fēi dé jí qí píng wěn。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-955",
+   "level": 4,
+   "round": 6,
+   "text": "报名期限即将结束。",
+   "pinyin": "bào míng qī xiàn jí jiāng jié shù。",
+   "grammar": [
+    "G4-07"
+   ]
+  },
+  {
+   "id": "L4-956",
+   "level": 4,
+   "round": 6,
+   "text": "前头有个路口。",
+   "pinyin": "qián tóu yǒu gè lù kǒu。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-957",
+   "level": 4,
+   "round": 6,
+   "text": "考完试，他格外轻松。",
+   "pinyin": "kǎo wán shì，tā gé wài qīng sōng。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-958",
+   "level": 4,
+   "round": 6,
+   "text": "请你确认一下日期。",
+   "pinyin": "qǐng nǐ què rèn yī xià rì qī。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-959",
+   "level": 4,
+   "round": 6,
+   "text": "如今的变化让人惊喜。",
+   "pinyin": "rú jīn de biàn huà ràng rén jīng xǐ。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-960",
+   "level": 4,
+   "round": 6,
+   "text": "他是上个月去的北京。",
+   "pinyin": "tā shì shàng gè yuè qù de běi jīng。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-961",
+   "level": 4,
+   "round": 6,
+   "text": "身高一米八是他的优势。",
+   "pinyin": "shēn gāo yī mǐ bā shì tā de yōu shì。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-962",
+   "level": 4,
+   "round": 6,
+   "text": "这位老诗人很有名。",
+   "pinyin": "zhè wèi lǎo shī rén hěn yǒu míng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-963",
+   "level": 4,
+   "round": 6,
+   "text": "他事先知道，却没说。",
+   "pinyin": "tā shì xiān zhī dào，què méi shuō。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-964",
+   "level": 4,
+   "round": 6,
+   "text": "这件毛衣是手工做的。",
+   "pinyin": "zhè jiàn máo yī shì shǒu gōng zuò de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-965",
+   "level": 4,
+   "round": 6,
+   "text": "这个屋子格外舒适。",
+   "pinyin": "zhè gè wū zi gé wài shū shì。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-966",
+   "level": 4,
+   "round": 6,
+   "text": "刷子放在窗台上。",
+   "pinyin": "shuā zi fàng zài chuāng tái shàng。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-967",
+   "level": 4,
+   "round": 6,
+   "text": "山上种了很多松树。",
+   "pinyin": "shān shàng zhǒng le hěn duō sōng shù。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-968",
+   "level": 4,
+   "round": 6,
+   "text": "台阶上坐着一位老人。",
+   "pinyin": "tái jiē shàng zuò zhe yī wèi lǎo rén。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-969",
+   "level": 4,
+   "round": 6,
+   "text": "她按时做体操，身体很好。",
+   "pinyin": "tā àn shí zuò tǐ cāo，shēn tǐ hěn hǎo。",
+   "grammar": [
+    "G4-07"
+   ]
+  },
+  {
+   "id": "L4-970",
+   "level": 4,
+   "round": 6,
+   "text": "他把礼物挑选好了。",
+   "pinyin": "tā bǎ lǐ wù tiāo xuǎn hǎo le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-971",
+   "level": 4,
+   "round": 6,
+   "text": "他今天玩得极痛快。",
+   "pinyin": "tā jīn tiān wán dé jí tòng kuài。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-972",
+   "level": 4,
+   "round": 6,
+   "text": "途中下起了大雨。",
+   "pinyin": "tú zhōng xià qǐ le dà yǔ。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-973",
+   "level": 4,
+   "round": 6,
+   "text": "她微笑着，向我点了点头。",
+   "pinyin": "tā wēi xiào zhe，xiàng wǒ diǎn le diǎn tóu。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-974",
+   "level": 4,
+   "round": 6,
+   "text": "未来会更好，我们要努力。",
+   "pinyin": "wèi lái huì gèng hǎo，wǒ men yào nǔ lì。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-975",
+   "level": 4,
+   "round": 6,
+   "text": "这个问题无法回答。",
+   "pinyin": "zhè gè wèn tí wú fǎ huí dá。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-976",
+   "level": 4,
+   "round": 6,
+   "text": "误会解开了，大家笑了。",
+   "pinyin": "wù huì jiě kāi le，dà jiā xiào le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-977",
+   "level": 4,
+   "round": 6,
+   "text": "这个系统必须更新。",
+   "pinyin": "zhè gè xì tǒng bì xū gèng xīn。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-978",
+   "level": 4,
+   "round": 6,
+   "text": "夏季雨水多，出门要带伞。",
+   "pinyin": "xià jì yǔ shuǐ duō，chū mén yào dài sǎn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-979",
+   "level": 4,
+   "round": 6,
+   "text": "他们俩意见相反，常吵架。",
+   "pinyin": "tā men liǎ yì jiàn xiāng fǎn，cháng chǎo jià。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-980",
+   "level": 4,
+   "round": 6,
+   "text": "这条街上有很多小吃。",
+   "pinyin": "zhè tiáo jiē shàng yǒu hěn duō xiǎo chī。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-981",
+   "level": 4,
+   "round": 6,
+   "text": "他听到消息格外兴奋。",
+   "pinyin": "tā tīng dào xiāo xī gé wài xīng fèn。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-982",
+   "level": 4,
+   "round": 6,
+   "text": "性质不同，用法也不同。",
+   "pinyin": "xìng zhì bù tóng，yòng fǎ yě bù tóng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-983",
+   "level": 4,
+   "round": 6,
+   "text": "他的学问是自学来的。",
+   "pinyin": "tā de xué wèn shì zì xué lái de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-984",
+   "level": 4,
+   "round": 6,
+   "text": "他的病情极其严重。",
+   "pinyin": "tā de bìng qíng jí qí yán zhòng。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-985",
+   "level": 4,
+   "round": 6,
+   "text": "这种新药物效果很好。",
+   "pinyin": "zhè zhǒng xīn yào wù xiào guǒ hěn hǎo。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-986",
+   "level": 4,
+   "round": 6,
+   "text": "所有的车一律禁行。",
+   "pinyin": "suǒ yǒu de chē yī lǜ jìn xíng。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-987",
+   "level": 4,
+   "round": 6,
+   "text": "他是在三天以内完成的。",
+   "pinyin": "tā shì zài sān tiān yǐ nèi wán chéng de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-988",
+   "level": 4,
+   "round": 6,
+   "text": "他应了一声就出去了。",
+   "pinyin": "tā yīng le yī shēng jiù chū qù le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-989",
+   "level": 4,
+   "round": 6,
+   "text": "这里的风景格外优美。",
+   "pinyin": "zhè lǐ de fēng jǐng gé wài yōu měi。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-990",
+   "level": 4,
+   "round": 6,
+   "text": "语音标准是基本功。",
+   "pinyin": "yǔ yīn biāo zhǔn shì jī běn gōng。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-991",
+   "level": 4,
+   "round": 6,
+   "text": "这种新原料很便宜。",
+   "pinyin": "zhè zhǒng xīn yuán liào hěn biàn yí。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-992",
+   "level": 4,
+   "round": 6,
+   "text": "他把这个方法运用得很好。",
+   "pinyin": "tā bǎ zhè gè fāng fǎ yùn yòng dé hěn hǎo。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-993",
+   "level": 4,
+   "round": 6,
+   "text": "造型独特是它的特点。",
+   "pinyin": "zào xíng dú tè shì tā de tè diǎn。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-994",
+   "level": 4,
+   "round": 6,
+   "text": "他跟我打了招呼，就走了。",
+   "pinyin": "tā gēn wǒ dǎ le zhāo hū，jiù zǒu le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-995",
+   "level": 4,
+   "round": 6,
+   "text": "他是下课之后才来的。",
+   "pinyin": "tā shì xià kè zhī hòu cái lái de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-996",
+   "level": 4,
+   "round": 6,
+   "text": "公司把计划制订好了。",
+   "pinyin": "gōng sī bǎ jì huà zhì dìng hǎo le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-997",
+   "level": 4,
+   "round": 6,
+   "text": "箱子重量大，搬起来费劲。",
+   "pinyin": "xiāng zi zhòng liàng dà，bān qǐ lái fèi jìn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-998",
+   "level": 4,
+   "round": 6,
+   "text": "老师让我们抓紧复习。",
+   "pinyin": "lǎo shī ràng wǒ men zhuā jǐn fù xí。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-999",
+   "level": 4,
+   "round": 6,
+   "text": "伤员被转移到了医院。",
+   "pinyin": "shāng yuán bèi zhuǎn yí dào le yī yuàn。",
+   "grammar": [
+    "G4-39"
+   ]
+  },
+  {
+   "id": "L4-1000",
+   "level": 4,
+   "round": 6,
+   "text": "资源有限，我们要节约。",
+   "pinyin": "zī yuán yǒu xiàn，wǒ men yào jié yuē。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1001",
+   "level": 4,
+   "round": 6,
+   "text": "最初的计划被取消了。",
+   "pinyin": "zuì chū de jì huà bèi qǔ xiāo le。",
+   "grammar": [
+    "G4-39"
+   ]
+  },
+  {
+   "id": "L4-1002",
+   "level": 4,
+   "round": 6,
+   "text": "他把老人安置好了。",
+   "pinyin": "tā bǎ lǎo rén ān zhì hǎo le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1003",
+   "level": 4,
+   "round": 6,
+   "text": "他办事很快。",
+   "pinyin": "tā bàn shì hěn kuài。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1004",
+   "level": 4,
+   "round": 6,
+   "text": "那块小小的宝石很亮。",
+   "pinyin": "nà kuài xiǎo xiǎo de bǎo shí hěn liàng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1005",
+   "level": 4,
+   "round": 6,
+   "text": "这批优秀的毕业生很能干。",
+   "pinyin": "zhè pī yōu xiù de bì yè shēng hěn néng gàn。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1006",
+   "level": 4,
+   "round": 6,
+   "text": "村口站着两个兵。",
+   "pinyin": "cūn kǒu zhàn zhe liǎng gè bīng。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1007",
+   "level": 4,
+   "round": 6,
+   "text": "这些财产是他留下的。",
+   "pinyin": "zhè xiē cái chǎn shì tā liú xià de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1008",
+   "level": 4,
+   "round": 6,
+   "text": "这台机器操作很简单。",
+   "pinyin": "zhè tái jī qì cāo zuò hěn jiǎn dān。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1009",
+   "level": 4,
+   "round": 6,
+   "text": "请你抄写这段课文。",
+   "pinyin": "qǐng nǐ chāo xiě zhè duàn kè wén。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1010",
+   "level": 4,
+   "round": 6,
+   "text": "那些年轻的成人都很忙。",
+   "pinyin": "nà xiē nián qīng de chéng rén dōu hěn máng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1011",
+   "level": 4,
+   "round": 6,
+   "text": "桌子上放着一把尺子。",
+   "pinyin": "zhuō zi shàng fàng zhe yī bǎ chǐ zi。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1012",
+   "level": 4,
+   "round": 6,
+   "text": "他这次表现得极出色。",
+   "pinyin": "tā zhè cì biǎo xiàn dé jí chū sè。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1013",
+   "level": 4,
+   "round": 6,
+   "text": "窗子开着，屋里很凉。",
+   "pinyin": "chuāng zi kāi zhe，wū lǐ hěn liáng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1014",
+   "level": 4,
+   "round": 6,
+   "text": "他从此变了，话也多了。",
+   "pinyin": "tā cóng cǐ biàn le，huà yě duō le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1015",
+   "level": 4,
+   "round": 6,
+   "text": "孩子怕打针，一直哭。",
+   "pinyin": "hái zi pà dǎ zhēn，yī zhí kū。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1016",
+   "level": 4,
+   "round": 6,
+   "text": "这次大会是昨天开的。",
+   "pinyin": "zhè cì dà huì shì zuó tiān kāi de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1017",
+   "level": 4,
+   "round": 6,
+   "text": "这是本给大众看的书。",
+   "pinyin": "zhè shì běn gěi dà zhòng kàn de shū。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1018",
+   "level": 4,
+   "round": 6,
+   "text": "老师单独找他谈话。",
+   "pinyin": "lǎo shī dān dú zhǎo tā tán huà。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1019",
+   "level": 4,
+   "round": 6,
+   "text": "请大家登记姓名。",
+   "pinyin": "qǐng dà jiā dēng jì xìng míng。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1020",
+   "level": 4,
+   "round": 6,
+   "text": "他是一位地位很高的老人。",
+   "pinyin": "tā shì yī wèi dì wèi hěn gāo de lǎo rén。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1021",
+   "level": 4,
+   "round": 6,
+   "text": "电源似乎断了。",
+   "pinyin": "diàn yuán shì hū duàn le。",
+   "grammar": [
+    "G4-11"
+   ]
+  },
+  {
+   "id": "L4-1022",
+   "level": 4,
+   "round": 6,
+   "text": "路上堵车，我迟到了。",
+   "pinyin": "lù shàng dǔ chē，wǒ chí dào le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1023",
+   "level": 4,
+   "round": 6,
+   "text": "产品样式多样，质量也好。",
+   "pinyin": "chǎn pǐn yàng shì duō yàng，zhì liàng yě hǎo。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1024",
+   "level": 4,
+   "round": 6,
+   "text": "他把发票收好了。",
+   "pinyin": "tā bǎ fā piào shōu hǎo le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1025",
+   "level": 4,
+   "round": 6,
+   "text": "这个方针定得很好。",
+   "pinyin": "zhè gè fāng zhēn dìng dé hěn hǎo。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1026",
+   "level": 4,
+   "round": 6,
+   "text": "这条路已经封闭了。",
+   "pinyin": "zhè tiáo lù yǐ jīng fēng bì le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1027",
+   "level": 4,
+   "round": 6,
+   "text": "他把文件复制了两份。",
+   "pinyin": "tā bǎ wén jiàn fù zhì le liǎng fèn。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1028",
+   "level": 4,
+   "round": 6,
+   "text": "这台电脑是他高价买的。",
+   "pinyin": "zhè tái diàn nǎo shì tā gāo jià mǎi de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1029",
+   "level": 4,
+   "round": 6,
+   "text": "各个班都来了，人很多。",
+   "pinyin": "gè gè bān dōu lái le，rén hěn duō。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1030",
+   "level": 4,
+   "round": 6,
+   "text": "他的座位是固定的。",
+   "pinyin": "tā de zuò wèi shì gù dìng de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1031",
+   "level": 4,
+   "round": 6,
+   "text": "树上结满了果实。",
+   "pinyin": "shù shàng jié mǎn le guǒ shí。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1032",
+   "level": 4,
+   "round": 6,
+   "text": "这是一种含有糖的食物。",
+   "pinyin": "zhè shì yī zhǒng hán yǒu táng de shí wù。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1033",
+   "level": 4,
+   "round": 6,
+   "text": "双方看法一致，合同很快定了。",
+   "pinyin": "shuāng fāng kàn fǎ yī zhì，hé tóng hěn kuài dìng le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1034",
+   "level": 4,
+   "round": 6,
+   "text": "村里新搬来一户人家。",
+   "pinyin": "cūn lǐ xīn bān lái yī hù rén jiā。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1035",
+   "level": 4,
+   "round": 6,
+   "text": "他竟然没回复我。",
+   "pinyin": "tā jìng rán méi huí fù wǒ。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1036",
+   "level": 4,
+   "round": 6,
+   "text": "他获奖了，全家都很高兴。",
+   "pinyin": "tā huò jiǎng le，quán jiā dōu hěn gāo xīng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1037",
+   "level": 4,
+   "round": 6,
+   "text": "请大家在楼下集合。",
+   "pinyin": "qǐng dà jiā zài lóu xià jí hé。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1038",
+   "level": 4,
+   "round": 6,
+   "text": "前面有个加油站。",
+   "pinyin": "qián miàn yǒu gè jiā yóu zhàn。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1039",
+   "level": 4,
+   "round": 6,
+   "text": "他天天健身，身体很好。",
+   "pinyin": "tā tiān tiān jiàn shēn，shēn tǐ hěn hǎo。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1040",
+   "level": 4,
+   "round": 6,
+   "text": "这批衣服已经降价了。",
+   "pinyin": "zhè pī yī fú yǐ jīng jiàng jià le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1041",
+   "level": 4,
+   "round": 6,
+   "text": "街道两边种着树。",
+   "pinyin": "jiē dào liǎng biān zhǒng zhe shù。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1042",
+   "level": 4,
+   "round": 6,
+   "text": "这些水果是进口的。",
+   "pinyin": "zhè xiē shuǐ guǒ shì jìn kǒu de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1043",
+   "level": 4,
+   "round": 6,
+   "text": "这些条件他都具备。",
+   "pinyin": "zhè xiē tiáo jiàn tā dōu jù bèi。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1044",
+   "level": 4,
+   "round": 6,
+   "text": "他让我去看望老师。",
+   "pinyin": "tā ràng wǒ qù kàn wàng lǎo shī。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1045",
+   "level": 4,
+   "round": 6,
+   "text": "门口放着两个快递。",
+   "pinyin": "mén kǒu fàng zhe liǎng gè kuài dì。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1046",
+   "level": 4,
+   "round": 6,
+   "text": "他老家有座大山。",
+   "pinyin": "tā lǎo jiā yǒu zuò dà shān。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1047",
+   "level": 4,
+   "round": 6,
+   "text": "他把爷爷送到南方疗养。",
+   "pinyin": "tā bǎ yé yé sòng dào nán fāng liáo yǎng。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1048",
+   "level": 4,
+   "round": 6,
+   "text": "楼梯上站满了人。",
+   "pinyin": "lóu tī shàng zhàn mǎn le rén。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1049",
+   "level": 4,
+   "round": 6,
+   "text": "他把轮椅推到窗边。",
+   "pinyin": "tā bǎ lún yǐ tuī dào chuāng biān。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1050",
+   "level": 4,
+   "round": 6,
+   "text": "没想到他竟然来了。",
+   "pinyin": "méi xiǎng dào tā jìng rán lái le。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1051",
+   "level": 4,
+   "round": 6,
+   "text": "字写得太密，看不清。",
+   "pinyin": "zì xiě dé tài mì，kàn bù qīng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1052",
+   "level": 4,
+   "round": 6,
+   "text": "他把名片放在桌上。",
+   "pinyin": "tā bǎ míng piàn fàng zài zhuō shàng。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1053",
+   "level": 4,
+   "round": 6,
+   "text": "闹钟响了，他还没起。",
+   "pinyin": "nào zhōng xiǎng le，tā hái méi qǐ。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1054",
+   "level": 4,
+   "round": 6,
+   "text": "既然暖气没来，就多穿点。",
+   "pinyin": "jì rán nuǎn qì méi lái，jiù duō chuān diǎn。",
+   "grammar": [
+    "G4-55"
+   ]
+  },
+  {
+   "id": "L4-1055",
+   "level": 4,
+   "round": 6,
+   "text": "这些花是他培育的。",
+   "pinyin": "zhè xiē huā shì tā péi yù de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1056",
+   "level": 4,
+   "round": 6,
+   "text": "这是一个迫切的问题。",
+   "pinyin": "zhè shì yī gè pò qiè de wèn tí。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1057",
+   "level": 4,
+   "round": 6,
+   "text": "这次期中考试很难。",
+   "pinyin": "zhè cì qī zhōng kǎo shì hěn nán。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1058",
+   "level": 4,
+   "round": 6,
+   "text": "他是个很有前途的青年。",
+   "pinyin": "tā shì gè hěn yǒu qián tú de qīng nián。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1059",
+   "level": 4,
+   "round": 6,
+   "text": "这种人不能轻易相信。",
+   "pinyin": "zhè zhǒng rén bù néng qīng yì xiāng xìn。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1060",
+   "level": 4,
+   "round": 6,
+   "text": "汽车没燃料了，走不动。",
+   "pinyin": "qì chē méi rán liào le，zǒu bù dòng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1061",
+   "level": 4,
+   "round": 6,
+   "text": "请把地扫干净。",
+   "pinyin": "qǐng bǎ dì sǎo gàn jìng。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1062",
+   "level": 4,
+   "round": 6,
+   "text": "工人按时上门修理。",
+   "pinyin": "gōng rén àn shí shàng mén xiū lǐ。",
+   "grammar": [
+    "G4-07"
+   ]
+  },
+  {
+   "id": "L4-1063",
+   "level": 4,
+   "round": 6,
+   "text": "他基础深厚，学得很快。",
+   "pinyin": "tā jī chǔ shēn hòu，xué dé hěn kuài。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1064",
+   "level": 4,
+   "round": 6,
+   "text": "这个计划还没实施。",
+   "pinyin": "zhè gè jì huà hái méi shí shī。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1065",
+   "level": 4,
+   "round": 6,
+   "text": "试卷发下来了。",
+   "pinyin": "shì juǎn fā xià lái le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1066",
+   "level": 4,
+   "round": 6,
+   "text": "他手里拿着一本书。",
+   "pinyin": "tā shǒu lǐ ná zhe yī běn shū。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1067",
+   "level": 4,
+   "round": 6,
+   "text": "他操作电脑很熟练。",
+   "pinyin": "tā cāo zuò diàn nǎo hěn shú liàn。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1068",
+   "level": 4,
+   "round": 6,
+   "text": "门口站着一个帅哥。",
+   "pinyin": "mén kǒu zhàn zhe yī gè shuài gē。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1069",
+   "level": 4,
+   "round": 6,
+   "text": "请把塑料袋收起来。",
+   "pinyin": "qǐng bǎ sù liào dài shōu qǐ lái。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1070",
+   "level": 4,
+   "round": 6,
+   "text": "台上站着一位老师。",
+   "pinyin": "tái shàng zhàn zhe yī wèi lǎo shī。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1071",
+   "level": 4,
+   "round": 6,
+   "text": "医生让我去体检。",
+   "pinyin": "yī shēng ràng wǒ qù tǐ jiǎn。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1072",
+   "level": 4,
+   "round": 6,
+   "text": "孩子调皮，你别生气。",
+   "pinyin": "hái zi diào pí，nǐ bié shēng qì。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1073",
+   "level": 4,
+   "round": 6,
+   "text": "他把精力都投入工作了。",
+   "pinyin": "tā bǎ jīng lì dōu tóu rù gōng zuò le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1074",
+   "level": 4,
+   "round": 6,
+   "text": "农民在土地上种玉米。",
+   "pinyin": "nóng mín zài tǔ dì shàng zhǒng yù mǐ。",
+   "grammar": [
+    "G4-33"
+   ]
+  },
+  {
+   "id": "L4-1075",
+   "level": 4,
+   "round": 6,
+   "text": "微信上有很多消息。",
+   "pinyin": "wēi xìn shàng yǒu hěn duō xiāo xī。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1076",
+   "level": 4,
+   "round": 6,
+   "text": "这家医院位于街口，很方便。",
+   "pinyin": "zhè jiā yī yuàn wèi yú jiē kǒu，hěn fāng biàn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1077",
+   "level": 4,
+   "round": 6,
+   "text": "这么无聊的书，谁想看？",
+   "pinyin": "zhè me wú liáo de shū，shuí xiǎng kàn？",
+   "grammar": [
+    "G4-63"
+   ]
+  },
+  {
+   "id": "L4-1078",
+   "level": 4,
+   "round": 6,
+   "text": "杯子里放着根吸管。",
+   "pinyin": "bēi zi lǐ fàng zhe gēn xī guǎn。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1079",
+   "level": 4,
+   "round": 6,
+   "text": "他连细节都记得。",
+   "pinyin": "tā lián xì jié dōu jì dé。",
+   "grammar": [
+    "G4-66"
+   ]
+  },
+  {
+   "id": "L4-1080",
+   "level": 4,
+   "round": 6,
+   "text": "这汤格外鲜。",
+   "pinyin": "zhè tāng gé wài xiān。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1081",
+   "level": 4,
+   "round": 6,
+   "text": "这个旧木箱很重。",
+   "pinyin": "zhè gè jiù mù xiāng hěn zhòng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1082",
+   "level": 4,
+   "round": 6,
+   "text": "路上走来一个小伙子。",
+   "pinyin": "lù shàng zǒu lái yī gè xiǎo huǒ zi。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1083",
+   "level": 4,
+   "round": 6,
+   "text": "他的心情是很难形容的。",
+   "pinyin": "tā de xīn qíng shì hěn nán xíng róng de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1084",
+   "level": 4,
+   "round": 6,
+   "text": "医生让他检查胸部。",
+   "pinyin": "yī shēng ràng tā jiǎn chá xiōng bù。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1085",
+   "level": 4,
+   "round": 6,
+   "text": "他把牙刷放进杯子里。",
+   "pinyin": "tā bǎ yá shuā fàng jìn bēi zi lǐ。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1086",
+   "level": 4,
+   "round": 6,
+   "text": "他是研究生，还在读书。",
+   "pinyin": "tā shì yán jiū shēng，hái zài dú shū。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1087",
+   "level": 4,
+   "round": 6,
+   "text": "他打球只是业余爱好。",
+   "pinyin": "tā dǎ qiú zhǐ shì yè yú ài hǎo。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1088",
+   "level": 4,
+   "round": 6,
+   "text": "大家意见一致，事情就好办。",
+   "pinyin": "dà jiā yì jiàn yī zhì，shì qíng jiù hǎo bàn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1089",
+   "level": 4,
+   "round": 6,
+   "text": "这是每个公民的义务。",
+   "pinyin": "zhè shì měi gè gōng mín de yì wù。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1090",
+   "level": 4,
+   "round": 6,
+   "text": "他是一位英勇的战士。",
+   "pinyin": "tā shì yī wèi yīng yǒng de zhàn shì。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1091",
+   "level": 4,
+   "round": 6,
+   "text": "班里有许多优秀的学生。",
+   "pinyin": "bān lǐ yǒu xǔ duō yōu xiù de xué shēng。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1092",
+   "level": 4,
+   "round": 6,
+   "text": "玉米渐渐长高了。",
+   "pinyin": "yù mǐ jiàn jiàn zhǎng gāo le。",
+   "grammar": [
+    "G4-07"
+   ]
+  },
+  {
+   "id": "L4-1093",
+   "level": 4,
+   "round": 6,
+   "text": "演出圆满结束，观众很满意。",
+   "pinyin": "yǎn chū yuán mǎn jié shù，guān zhòng hěn mǎn yì。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1094",
+   "level": 4,
+   "round": 6,
+   "text": "他还在乎这件事吗？",
+   "pinyin": "tā hái zài hū zhè jiàn shì ma？",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1095",
+   "level": 4,
+   "round": 6,
+   "text": "这是一场激烈的战斗。",
+   "pinyin": "zhè shì yī chǎng jī liè de zhàn dòu。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1096",
+   "level": 4,
+   "round": 6,
+   "text": "楼下着火了，还不快跑？",
+   "pinyin": "lóu xià zhe huǒ le，hái bù kuài pǎo？",
+   "grammar": [
+    "G4-63"
+   ]
+  },
+  {
+   "id": "L4-1097",
+   "level": 4,
+   "round": 6,
+   "text": "这两座楼之间有个花园。",
+   "pinyin": "zhè liǎng zuò lóu zhī jiān yǒu gè huā yuán。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1098",
+   "level": 4,
+   "round": 6,
+   "text": "这台机器是智能的。",
+   "pinyin": "zhè tái jī qì shì zhì néng de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1099",
+   "level": 4,
+   "round": 6,
+   "text": "他的病逐步好转，能上班了。",
+   "pinyin": "tā de bìng zhú bù hǎo zhuǎn，néng shàng bān le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1100",
+   "level": 4,
+   "round": 6,
+   "text": "他专心看书，没听见门响。",
+   "pinyin": "tā zhuān xīn kàn shū，méi tīng jiàn mén xiǎng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1101",
+   "level": 4,
+   "round": 6,
+   "text": "房子已经装修好了。",
+   "pinyin": "fáng zi yǐ jīng zhuāng xiū hǎo le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1102",
+   "level": 4,
+   "round": 6,
+   "text": "他很自信，从不紧张。",
+   "pinyin": "tā hěn zì xìn，cóng bù jǐn zhāng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1103",
+   "level": 4,
+   "round": 6,
+   "text": "这个决定是他作出的。",
+   "pinyin": "zhè gè jué dìng shì tā zuò chū de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1104",
+   "level": 4,
+   "round": 6,
+   "text": "他暗示我，我没懂。",
+   "pinyin": "tā àn shì wǒ，wǒ méi dǒng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1105",
+   "level": 4,
+   "round": 6,
+   "text": "他把包裹放在桌上。",
+   "pinyin": "tā bǎ bāo guǒ fàng zài zhuō shàng。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1106",
+   "level": 4,
+   "round": 6,
+   "text": "这件事请你保密。",
+   "pinyin": "zhè jiàn shì qǐng nǐ bǎo mì。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1107",
+   "level": 4,
+   "round": 6,
+   "text": "老师叫我们避雨。",
+   "pinyin": "lǎo shī jiào wǒ men bì yǔ。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1108",
+   "level": 4,
+   "round": 6,
+   "text": "小伤不要紧，你别怕。",
+   "pinyin": "xiǎo shāng bù yào jǐn，nǐ bié pà。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1109",
+   "level": 4,
+   "round": 6,
+   "text": "他把财富看得很淡。",
+   "pinyin": "tā bǎ cái fù kàn dé hěn dàn。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1110",
+   "level": 4,
+   "round": 6,
+   "text": "体温已经测过了。",
+   "pinyin": "tǐ wēn yǐ jīng cè guò le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1111",
+   "level": 4,
+   "round": 6,
+   "text": "对于潮流，他从不关心。",
+   "pinyin": "duì yú cháo liú，tā cóng bù guān xīn。",
+   "grammar": [
+    "G4-14"
+   ]
+  },
+  {
+   "id": "L4-1112",
+   "level": 4,
+   "round": 6,
+   "text": "做人讲诚信很重要。",
+   "pinyin": "zuò rén jiǎng chéng xìn hěn zhòng yào。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1113",
+   "level": 4,
+   "round": 6,
+   "text": "我把充电器放在包里。",
+   "pinyin": "wǒ bǎ chōng diàn qì fàng zài bāo lǐ。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1114",
+   "level": 4,
+   "round": 6,
+   "text": "这是一家出售旧书的小店。",
+   "pinyin": "zhè shì yī jiā chū shòu jiù shū de xiǎo diàn。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1115",
+   "level": 4,
+   "round": 6,
+   "text": "春季到了，天气还很冷。",
+   "pinyin": "chūn jì dào le，tiān qì hái hěn lěng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1116",
+   "level": 4,
+   "round": 6,
+   "text": "这棵老树很粗。",
+   "pinyin": "zhè kē lǎo shù hěn cū。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1117",
+   "level": 4,
+   "round": 6,
+   "text": "我们是坐大巴去的。",
+   "pinyin": "wǒ men shì zuò dà bā qù de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1118",
+   "level": 4,
+   "round": 6,
+   "text": "大姐叫我帮她买菜。",
+   "pinyin": "dà jiě jiào wǒ bāng tā mǎi cài。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1119",
+   "level": 4,
+   "round": 6,
+   "text": "他病了，于是我代替他去。",
+   "pinyin": "tā bìng le，yú shì wǒ dài tì tā qù。",
+   "grammar": [
+    "G4-46"
+   ]
+  },
+  {
+   "id": "L4-1120",
+   "level": 4,
+   "round": 6,
+   "text": "门口站着一位导游。",
+   "pinyin": "mén kǒu zhàn zhe yī wèi dǎo yóu。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1121",
+   "level": 4,
+   "round": 6,
+   "text": "请你先登录，再填表。",
+   "pinyin": "qǐng nǐ xiān dēng lù，zài tián biǎo。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1122",
+   "level": 4,
+   "round": 6,
+   "text": "地下停着两辆车。",
+   "pinyin": "dì xià tíng zhe liǎng liàng chē。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1123",
+   "level": 4,
+   "round": 6,
+   "text": "这里的冬季格外冷。",
+   "pinyin": "zhè lǐ de dōng jì gé wài lěng。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1124",
+   "level": 4,
+   "round": 6,
+   "text": "他是在国外度过童年的。",
+   "pinyin": "tā shì zài guó wài dù guò tóng nián de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1125",
+   "level": 4,
+   "round": 6,
+   "text": "桌上有多种小吃。",
+   "pinyin": "zhuō shàng yǒu duō zhǒng xiǎo chī。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1126",
+   "level": 4,
+   "round": 6,
+   "text": "法官让他说明情况。",
+   "pinyin": "fǎ guān ràng tā shuō míng qíng kuàng。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1127",
+   "level": 4,
+   "round": 6,
+   "text": "房子分布不均，让人担心。",
+   "pinyin": "fáng zi fēn bù bù jūn，ràng rén dān xīn。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1128",
+   "level": 4,
+   "round": 6,
+   "text": "这对夫妇待人很热情。",
+   "pinyin": "zhè duì fū fù dài rén hěn rè qíng。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1129",
+   "level": 4,
+   "round": 6,
+   "text": "家里的条件改善了不少。",
+   "pinyin": "jiā lǐ de tiáo jiàn gǎi shàn le bù shǎo。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1130",
+   "level": 4,
+   "round": 6,
+   "text": "他的为人是很高尚的。",
+   "pinyin": "tā de wèi rén shì hěn gāo shàng de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1131",
+   "level": 4,
+   "round": 6,
+   "text": "他买了两根香蕉。",
+   "pinyin": "tā mǎi le liǎng gēn xiāng jiāo。",
+   "grammar": [
+    "G4-03"
+   ]
+  },
+  {
+   "id": "L4-1132",
+   "level": 4,
+   "round": 6,
+   "text": "这个瓜极甜。",
+   "pinyin": "zhè gè guā jí tián。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1133",
+   "level": 4,
+   "round": 6,
+   "text": "你这样做不过分吗？",
+   "pinyin": "nǐ zhè yàng zuò bù guò fēn ma？",
+   "grammar": [
+    "G4-63"
+   ]
+  },
+  {
+   "id": "L4-1134",
+   "level": 4,
+   "round": 6,
+   "text": "寒假即将开始。",
+   "pinyin": "hán jiǎ jí jiāng kāi shǐ。",
+   "grammar": [
+    "G4-07"
+   ]
+  },
+  {
+   "id": "L4-1135",
+   "level": 4,
+   "round": 6,
+   "text": "黑暗里站着一个人。",
+   "pinyin": "hēi àn lǐ zhàn zhe yī gè rén。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1136",
+   "level": 4,
+   "round": 6,
+   "text": "护士叫他别乱动。",
+   "pinyin": "hù shì jiào tā bié luàn dòng。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1137",
+   "level": 4,
+   "round": 6,
+   "text": "他把情况汇报了一遍。",
+   "pinyin": "tā bǎ qíng kuàng huì bào le yī biàn。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1138",
+   "level": 4,
+   "round": 6,
+   "text": "老师教我们如何获取资料。",
+   "pinyin": "lǎo shī jiào wǒ men rú hé huò qǔ zī liào。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1139",
+   "level": 4,
+   "round": 6,
+   "text": "他画画很有技巧。",
+   "pinyin": "tā huà huà hěn yǒu jì qiǎo。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1140",
+   "level": 4,
+   "round": 6,
+   "text": "他工作很忙，还做家务。",
+   "pinyin": "tā gōng zuò hěn máng，hái zuò jiā wù。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1141",
+   "level": 4,
+   "round": 6,
+   "text": "他穿衣服很讲究。",
+   "pinyin": "tā chuān yī fú hěn jiǎng jiū。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1142",
+   "level": 4,
+   "round": 6,
+   "text": "飞机渐渐降落了。",
+   "pinyin": "fēi jī jiàn jiàn jiàng luò le。",
+   "grammar": [
+    "G4-07"
+   ]
+  },
+  {
+   "id": "L4-1143",
+   "level": 4,
+   "round": 6,
+   "text": "他很节省，从不乱花钱。",
+   "pinyin": "tā hěn jié shěng，cóng bù luàn huā qián。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1144",
+   "level": 4,
+   "round": 6,
+   "text": "自近代以来，这里变化很大。",
+   "pinyin": "zì jìn dài yǐ lái，zhè lǐ biàn huà hěn dà。",
+   "grammar": [
+    "G4-30"
+   ]
+  },
+  {
+   "id": "L4-1145",
+   "level": 4,
+   "round": 6,
+   "text": "他请我参加聚会。",
+   "pinyin": "tā qǐng wǒ cān jiā jù huì。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1146",
+   "level": 4,
+   "round": 6,
+   "text": "考察团按时出发了。",
+   "pinyin": "kǎo chá tuán àn shí chū fā le。",
+   "grammar": [
+    "G4-07"
+   ]
+  },
+  {
+   "id": "L4-1147",
+   "level": 4,
+   "round": 6,
+   "text": "这条宽广的马路很安静。",
+   "pinyin": "zhè tiáo kuān guǎng de mǎ lù hěn ān jìng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1148",
+   "level": 4,
+   "round": 6,
+   "text": "这道菜是我老婆做的。",
+   "pinyin": "zhè dào cài shì wǒ lǎo pó zuò de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1149",
+   "level": 4,
+   "round": 6,
+   "text": "他是离不开手机的。",
+   "pinyin": "tā shì lí bù kāi shǒu jī de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1150",
+   "level": 4,
+   "round": 6,
+   "text": "我的确很了解他。",
+   "pinyin": "wǒ de què hěn le jiě tā。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1151",
+   "level": 4,
+   "round": 6,
+   "text": "远处有一片陆地。",
+   "pinyin": "yuǎn chù yǒu yī piàn lù dì。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1152",
+   "level": 4,
+   "round": 6,
+   "text": "轮子被石头卡住了。",
+   "pinyin": "lún zi bèi shí tóu kǎ zhù le。",
+   "grammar": [
+    "G4-39"
+   ]
+  },
+  {
+   "id": "L4-1153",
+   "level": 4,
+   "round": 6,
+   "text": "他把美金换成了现金。",
+   "pinyin": "tā bǎ měi jīn huàn chéng le xiàn jīn。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1154",
+   "level": 4,
+   "round": 6,
+   "text": "密码被人改了。",
+   "pinyin": "mì mǎ bèi rén gǎi le。",
+   "grammar": [
+    "G4-39"
+   ]
+  },
+  {
+   "id": "L4-1155",
+   "level": 4,
+   "round": 6,
+   "text": "公司请她当模特儿。",
+   "pinyin": "gōng sī qǐng tā dāng mó tè ér。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1156",
+   "level": 4,
+   "round": 6,
+   "text": "内部意见不同，事情很难办。",
+   "pinyin": "nèi bù yì jiàn bù tóng，shì qíng hěn nán bàn。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1157",
+   "level": 4,
+   "round": 6,
+   "text": "这些书已经排列好了。",
+   "pinyin": "zhè xiē shū yǐ jīng pái liè hǎo le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1158",
+   "level": 4,
+   "round": 6,
+   "text": "这种看法极片面。",
+   "pinyin": "zhè zhǒng kàn fǎ jí piàn miàn。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1159",
+   "level": 4,
+   "round": 6,
+   "text": "那家公司竟然破产了。",
+   "pinyin": "nà jiā gōng sī jìng rán pò chǎn le。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1160",
+   "level": 4,
+   "round": 6,
+   "text": "其余的书他都卖了。",
+   "pinyin": "qí yú de shū tā dōu mài le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1161",
+   "level": 4,
+   "round": 6,
+   "text": "这块巧克力是给她的。",
+   "pinyin": "zhè kuài qiǎo kè lì shì gěi tā de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1162",
+   "level": 4,
+   "round": 6,
+   "text": "他睡了一觉，头脑清醒了。",
+   "pinyin": "tā shuì le yī jué，tóu nǎo qīng xǐng le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1163",
+   "level": 4,
+   "round": 6,
+   "text": "节日的街上格外热闹。",
+   "pinyin": "jié rì de jiē shàng gé wài rè nào。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1164",
+   "level": 4,
+   "round": 6,
+   "text": "画面的色彩极其鲜明。",
+   "pinyin": "huà miàn de sè cǎi jí qí xiān míng。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1165",
+   "level": 4,
+   "round": 6,
+   "text": "小区里有很多设施。",
+   "pinyin": "xiǎo qū lǐ yǒu hěn duō shè shī。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1166",
+   "level": 4,
+   "round": 6,
+   "text": "这不是神话，而是事实。",
+   "pinyin": "zhè bù shì shén huà，ér shì shì shí。",
+   "grammar": [
+    "G4-43"
+   ]
+  },
+  {
+   "id": "L4-1167",
+   "level": 4,
+   "round": 6,
+   "text": "这个方法的确很实用。",
+   "pinyin": "zhè gè fāng fǎ de què hěn shí yòng。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1168",
+   "level": 4,
+   "round": 6,
+   "text": "他是否来，还不确定。",
+   "pinyin": "tā shì fǒu lái，hái bù què dìng。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1169",
+   "level": 4,
+   "round": 6,
+   "text": "医生把手术推迟了。",
+   "pinyin": "yī shēng bǎ shǒu shù tuī chí le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1170",
+   "level": 4,
+   "round": 6,
+   "text": "树林里有很多鸟。",
+   "pinyin": "shù lín lǐ yǒu hěn duō niǎo。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1171",
+   "level": 4,
+   "round": 6,
+   "text": "是他率先提出来的。",
+   "pinyin": "shì tā lǜ xiān tí chū lái de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1172",
+   "level": 4,
+   "round": 6,
+   "text": "桌上有杯酸奶。",
+   "pinyin": "zhuō shàng yǒu bēi suān nǎi。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1173",
+   "level": 4,
+   "round": 6,
+   "text": "桌上摆着一份套餐。",
+   "pinyin": "zhuō shàng bǎi zhe yī fèn tào cān。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1174",
+   "level": 4,
+   "round": 6,
+   "text": "他的体重渐渐增加了。",
+   "pinyin": "tā de tǐ zhòng jiàn jiàn zēng jiā le。",
+   "grammar": [
+    "G4-07"
+   ]
+  },
+  {
+   "id": "L4-1175",
+   "level": 4,
+   "round": 6,
+   "text": "通知书昨天就寄到了。",
+   "pinyin": "tōng zhī shū zuó tiān jiù jì dào le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1176",
+   "level": 4,
+   "round": 6,
+   "text": "这家店是被他投诉的。",
+   "pinyin": "zhè jiā diàn shì bèi tā tóu sù de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1177",
+   "level": 4,
+   "round": 6,
+   "text": "会议被推迟了。",
+   "pinyin": "huì yì bèi tuī chí le。",
+   "grammar": [
+    "G4-39"
+   ]
+  },
+  {
+   "id": "L4-1178",
+   "level": 4,
+   "round": 6,
+   "text": "我的围巾被风吹走了。",
+   "pinyin": "wǒ de wéi jīn bèi fēng chuī zǒu le。",
+   "grammar": [
+    "G4-39"
+   ]
+  },
+  {
+   "id": "L4-1179",
+   "level": 4,
+   "round": 6,
+   "text": "这菜味儿的确不错。",
+   "pinyin": "zhè cài wèi ér de què bù cuò。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1180",
+   "level": 4,
+   "round": 6,
+   "text": "天上有无数的星星。",
+   "pinyin": "tiān shàng yǒu wú shù de xīng xīng。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1181",
+   "level": 4,
+   "round": 6,
+   "text": "植物吸收养分需要阳光。",
+   "pinyin": "zhí wù xī shōu yǎng fēn xū yào yáng guāng。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1182",
+   "level": 4,
+   "round": 6,
+   "text": "她做事很细致。",
+   "pinyin": "tā zuò shì hěn xì zhì。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1183",
+   "level": 4,
+   "round": 6,
+   "text": "文章的观点极鲜明。",
+   "pinyin": "wén zhāng de guān diǎn jí xiān míng。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1184",
+   "level": 4,
+   "round": 6,
+   "text": "这种日子你能想象吗？",
+   "pinyin": "zhè zhǒng rì zi nǐ néng xiǎng xiàng ma？",
+   "grammar": [
+    "G4-63"
+   ]
+  },
+  {
+   "id": "L4-1185",
+   "level": 4,
+   "round": 6,
+   "text": "这是一家小型超市。",
+   "pinyin": "zhè shì yī jiā xiǎo xíng chāo shì。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1186",
+   "level": 4,
+   "round": 6,
+   "text": "今年的形势的确不错。",
+   "pinyin": "jīn nián de xíng shì de què bù cuò。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1187",
+   "level": 4,
+   "round": 6,
+   "text": "学分已经修够了。",
+   "pinyin": "xué fēn yǐ jīng xiū gòu le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1188",
+   "level": 4,
+   "round": 6,
+   "text": "亚运会即将举行。",
+   "pinyin": "yà yùn huì jí jiāng jǔ xíng。",
+   "grammar": [
+    "G4-07"
+   ]
+  },
+  {
+   "id": "L4-1189",
+   "level": 4,
+   "round": 6,
+   "text": "他们研制出了新药。",
+   "pinyin": "tā men yán zhì chū le xīn yào。",
+   "grammar": [
+    "G4-37"
+   ]
+  },
+  {
+   "id": "L4-1190",
+   "level": 4,
+   "round": 6,
+   "text": "秋天到了，叶子黄了。",
+   "pinyin": "qiū tiān dào le，yè zi huáng le。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1191",
+   "level": 4,
+   "round": 6,
+   "text": "请把桌子移动一下。",
+   "pinyin": "qǐng bǎ zhuō zi yí dòng yī xià。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1192",
+   "level": 4,
+   "round": 6,
+   "text": "别让人议论你。",
+   "pinyin": "bié ràng rén yì lùn nǐ。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1193",
+   "level": 4,
+   "round": 6,
+   "text": "这场胜利是大家一起赢得的。",
+   "pinyin": "zhè chǎng shèng lì shì dà jiā yī qǐ yíng dé de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1194",
+   "level": 4,
+   "round": 6,
+   "text": "他今天干活很有劲儿。",
+   "pinyin": "tā jīn tiān gàn huó hěn yǒu jìn ér。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1195",
+   "level": 4,
+   "round": 6,
+   "text": "明天的天气谁能预测？",
+   "pinyin": "míng tiān de tiān qì shuí néng yù cè？",
+   "grammar": [
+    "G4-63"
+   ]
+  },
+  {
+   "id": "L4-1196",
+   "level": 4,
+   "round": 6,
+   "text": "这个约会是他定的。",
+   "pinyin": "zhè gè yuē huì shì tā dìng de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1197",
+   "level": 4,
+   "round": 6,
+   "text": "问题不在于钱，而在于时间。",
+   "pinyin": "wèn tí bù zài yú qián，ér zài yú shí jiān。",
+   "grammar": [
+    "G4-43"
+   ]
+  },
+  {
+   "id": "L4-1198",
+   "level": 4,
+   "round": 6,
+   "text": "对手被他战胜了。",
+   "pinyin": "duì shǒu bèi tā zhàn shèng le。",
+   "grammar": [
+    "G4-39"
+   ]
+  },
+  {
+   "id": "L4-1199",
+   "level": 4,
+   "round": 6,
+   "text": "这个方案是针对他的。",
+   "pinyin": "zhè gè fāng àn shì zhēn duì tā de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1200",
+   "level": 4,
+   "round": 6,
+   "text": "睡觉之前他让我关灯。",
+   "pinyin": "shuì jué zhī qián tā ràng wǒ guān dēng。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1201",
+   "level": 4,
+   "round": 6,
+   "text": "街角有一家中介。",
+   "pinyin": "jiē jiǎo yǒu yī jiā zhōng jiè。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1202",
+   "level": 4,
+   "round": 6,
+   "text": "这次会议的主题极其明确。",
+   "pinyin": "zhè cì huì yì de zhǔ tí jí qí míng què。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1203",
+   "level": 4,
+   "round": 6,
+   "text": "风车在风中慢慢转动。",
+   "pinyin": "fēng chē zài fēng zhōng màn màn zhuǎn dòng。",
+   "grammar": [
+    "G4-33"
+   ]
+  },
+  {
+   "id": "L4-1204",
+   "level": 4,
+   "round": 6,
+   "text": "这个装置已经安装好了。",
+   "pinyin": "zhè gè zhuāng zhì yǐ jīng ān zhuāng hǎo le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1205",
+   "level": 4,
+   "round": 6,
+   "text": "这个字母写错了。",
+   "pinyin": "zhè gè zì mǔ xiě cuò le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1206",
+   "level": 4,
+   "round": 6,
+   "text": "他还在做梦呢。",
+   "pinyin": "tā hái zài zuò mèng ne。",
+   "grammar": [
+    "G4-73"
+   ]
+  },
+  {
+   "id": "L4-1207",
+   "level": 4,
+   "round": 6,
+   "text": "他是坐巴士来的。",
+   "pinyin": "tā shì zuò bā shì lái de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1208",
+   "level": 4,
+   "round": 6,
+   "text": "这份便宜套餐包含茶水。",
+   "pinyin": "zhè fèn biàn yí tào cān bāo hán chá shuǐ。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1209",
+   "level": 4,
+   "round": 6,
+   "text": "他的主意竟然这么保守。",
+   "pinyin": "tā de zhǔ yì jìng rán zhè me bǎo shǒu。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1210",
+   "level": 4,
+   "round": 6,
+   "text": "路边那个红色标志很清楚。",
+   "pinyin": "lù biān nà gè hóng sè biāo zhì hěn qīng chǔ。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1211",
+   "level": 4,
+   "round": 6,
+   "text": "谁不在乎自己的孩子？",
+   "pinyin": "shuí bù zài hū zì jǐ de hái zi？",
+   "grammar": [
+    "G4-63"
+   ]
+  },
+  {
+   "id": "L4-1212",
+   "level": 4,
+   "round": 6,
+   "text": "学校请记者来采访。",
+   "pinyin": "xué xiào qǐng jì zhě lái cǎi fǎng。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1213",
+   "level": 4,
+   "round": 6,
+   "text": "他先把屋子测量了一遍。",
+   "pinyin": "tā xiān bǎ wū zi cè liàng le yī biàn。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1214",
+   "level": 4,
+   "round": 6,
+   "text": "这间屋子极其潮湿。",
+   "pinyin": "zhè jiān wū zi jí qí cháo shī。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1215",
+   "level": 4,
+   "round": 6,
+   "text": "他到现在还不承认。",
+   "pinyin": "tā dào xiàn zài hái bù chéng rèn。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1216",
+   "level": 4,
+   "round": 6,
+   "text": "他给出了一个充分的理由。",
+   "pinyin": "tā gěi chū le yī gè chōng fēn de lǐ yóu。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1217",
+   "level": 4,
+   "round": 6,
+   "text": "这家小公司处于困难时期。",
+   "pinyin": "zhè jiā xiǎo gōng sī chù yú kùn nán shí qī。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1218",
+   "level": 4,
+   "round": 6,
+   "text": "喝纯净水对身体好。",
+   "pinyin": "hē chún jìng shuǐ duì shēn tǐ hǎo。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1219",
+   "level": 4,
+   "round": 6,
+   "text": "这件事促使他改变。",
+   "pinyin": "zhè jiàn shì cù shǐ tā gǎi biàn。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1220",
+   "level": 4,
+   "round": 6,
+   "text": "同学大多住校，很少回家。",
+   "pinyin": "tóng xué dà duō zhù xiào，hěn shǎo huí jiā。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1221",
+   "level": 4,
+   "round": 6,
+   "text": "城东那座新大楼很高。",
+   "pinyin": "chéng dōng nà zuò xīn dà lóu hěn gāo。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1222",
+   "level": 4,
+   "round": 6,
+   "text": "我敢替他担保。",
+   "pinyin": "wǒ gǎn tì tā dān bǎo。",
+   "grammar": [
+    "G4-16"
+   ]
+  },
+  {
+   "id": "L4-1223",
+   "level": 4,
+   "round": 6,
+   "text": "这家店是去年倒闭的。",
+   "pinyin": "zhè jiā diàn shì qù nián dào bì de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1224",
+   "level": 4,
+   "round": 6,
+   "text": "他喜欢登山，而我怕累。",
+   "pinyin": "tā xǐ huān dēng shān，ér wǒ pà lèi。",
+   "grammar": [
+    "G4-20"
+   ]
+  },
+  {
+   "id": "L4-1225",
+   "level": 4,
+   "round": 6,
+   "text": "他是个典型的北方人。",
+   "pinyin": "tā shì gè diǎn xíng de běi fāng rén。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1226",
+   "level": 4,
+   "round": 6,
+   "text": "看动画片对眼睛不好。",
+   "pinyin": "kàn dòng huà piàn duì yǎn jīng bù hǎo。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1227",
+   "level": 4,
+   "round": 6,
+   "text": "把两份数据对比一下。",
+   "pinyin": "bǎ liǎng fèn shù jù duì bǐ yī xià。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1228",
+   "level": 4,
+   "round": 6,
+   "text": "保护儿童是大家的责任。",
+   "pinyin": "bǎo hù ér tóng shì dà jiā de zé rèn。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1229",
+   "level": 4,
+   "round": 6,
+   "text": "这是法律规定的。",
+   "pinyin": "zhè shì fǎ lǜ guī dìng de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1230",
+   "level": 4,
+   "round": 6,
+   "text": "他把资料分散放在各处。",
+   "pinyin": "tā bǎ zī liào fēn sàn fàng zài gè chù。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1231",
+   "level": 4,
+   "round": 6,
+   "text": "对面那位年轻夫人笑了。",
+   "pinyin": "duì miàn nà wèi nián qīng fū rén xiào le。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1232",
+   "level": 4,
+   "round": 6,
+   "text": "他把错字改正了。",
+   "pinyin": "tā bǎ cuò zì gǎi zhèng le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1233",
+   "level": 4,
+   "round": 6,
+   "text": "他是坐高铁去的。",
+   "pinyin": "tā shì zuò gāo tiě qù de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1234",
+   "level": 4,
+   "round": 6,
+   "text": "这座城是公元前建的。",
+   "pinyin": "zhè zuò chéng shì gōng yuán qián jiàn de。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1235",
+   "level": 4,
+   "round": 6,
+   "text": "大门已经关闭了。",
+   "pinyin": "dà mén yǐ jīng guān bì le。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1236",
+   "level": 4,
+   "round": 6,
+   "text": "海水格外凉。",
+   "pinyin": "hǎi shuǐ gé wài liáng。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1237",
+   "level": 4,
+   "round": 6,
+   "text": "这个新兴行业很有名。",
+   "pinyin": "zhè gè xīn xīng xíng yè hěn yǒu míng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1238",
+   "level": 4,
+   "round": 6,
+   "text": "妈妈让我收下红包。",
+   "pinyin": "mā mā ràng wǒ shōu xià hóng bāo。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1239",
+   "level": 4,
+   "round": 6,
+   "text": "怀念过去没有用。",
+   "pinyin": "huái niàn guò qù méi yǒu yòng。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1240",
+   "level": 4,
+   "round": 6,
+   "text": "昨天那场热闹婚礼结束了。",
+   "pinyin": "zuó tiān nà chǎng rè nào hūn lǐ jié shù le。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1241",
+   "level": 4,
+   "round": 6,
+   "text": "这是一家有名的研究机构。",
+   "pinyin": "zhè shì yī jiā yǒu míng de yán jiū jī gòu。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1242",
+   "level": 4,
+   "round": 6,
+   "text": "一年四季，春天最舒服。",
+   "pinyin": "yī nián sì jì，chūn tiān zuì shū fú。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1243",
+   "level": 4,
+   "round": 6,
+   "text": "他们把水样检测了一遍。",
+   "pinyin": "tā men bǎ shuǐ yàng jiǎn cè le yī biàn。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1244",
+   "level": 4,
+   "round": 6,
+   "text": "今晚有场讲座。",
+   "pinyin": "jīn wǎn yǒu chǎng jiǎng zuò。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1245",
+   "level": 4,
+   "round": 6,
+   "text": "夜里降温，多穿件衣服。",
+   "pinyin": "yè lǐ jiàng wēn，duō chuān jiàn yī fú。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1246",
+   "level": 4,
+   "round": 6,
+   "text": "这个结论下得太早。",
+   "pinyin": "zhè gè jié lùn xià dé tài zǎo。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1247",
+   "level": 4,
+   "round": 6,
+   "text": "这是一部经典电影。",
+   "pinyin": "zhè shì yī bù jīng diǎn diàn yǐng。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1248",
+   "level": 4,
+   "round": 6,
+   "text": "他把这个角色演活了。",
+   "pinyin": "tā bǎ zhè gè jiǎo sè yǎn huó le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1249",
+   "level": 4,
+   "round": 6,
+   "text": "屋里一点空间也没有。",
+   "pinyin": "wū lǐ yī diǎn kōng jiān yě méi yǒu。",
+   "grammar": [
+    "G4-65"
+   ]
+  },
+  {
+   "id": "L4-1250",
+   "level": 4,
+   "round": 6,
+   "text": "公司即将扩展业务。",
+   "pinyin": "gōng sī jí jiāng kuò zhǎn yè wù。",
+   "grammar": [
+    "G4-07"
+   ]
+  },
+  {
+   "id": "L4-1251",
+   "level": 4,
+   "round": 6,
+   "text": "他的确很老实。",
+   "pinyin": "tā de què hěn lǎo shí。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1252",
+   "level": 4,
+   "round": 6,
+   "text": "发现火情要立即报警。",
+   "pinyin": "fā xiàn huǒ qíng yào lì jí bào jǐng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1253",
+   "level": 4,
+   "round": 6,
+   "text": "这件事已列入计划。",
+   "pinyin": "zhè jiàn shì yǐ liè rù jì huà。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1254",
+   "level": 4,
+   "round": 6,
+   "text": "客人陆续到了，屋里热闹起来。",
+   "pinyin": "kè rén lù xù dào le，wū lǐ rè nào qǐ lái。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1255",
+   "level": 4,
+   "round": 6,
+   "text": "论文写完了，他很高兴。",
+   "pinyin": "lùn wén xiě wán le，tā hěn gāo xīng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1256",
+   "level": 4,
+   "round": 6,
+   "text": "那位年轻美女笑了。",
+   "pinyin": "nà wèi nián qīng měi nǚ xiào le。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1257",
+   "level": 4,
+   "round": 6,
+   "text": "两家关系格外密切。",
+   "pinyin": "liǎng jiā guān xì gé wài mì qiè。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1258",
+   "level": 4,
+   "round": 6,
+   "text": "男女平等很重要。",
+   "pinyin": "nán nǚ píng děng hěn zhòng yào。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1259",
+   "level": 4,
+   "round": 6,
+   "text": "他挂的是内科号。",
+   "pinyin": "tā guà de shì nèi kē hào。",
+   "grammar": [
+    "G4-42"
+   ]
+  },
+  {
+   "id": "L4-1260",
+   "level": 4,
+   "round": 6,
+   "text": "盘子里有鱼。",
+   "pinyin": "pán zi lǐ yǒu yú。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1261",
+   "level": 4,
+   "round": 6,
+   "text": "他身上那种品质很难得。",
+   "pinyin": "tā shēn shàng nà zhǒng pǐn zhì hěn nán dé。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1262",
+   "level": 4,
+   "round": 6,
+   "text": "他一点也不期待。",
+   "pinyin": "tā yī diǎn yě bù qī dài。",
+   "grammar": [
+    "G4-65"
+   ]
+  },
+  {
+   "id": "L4-1263",
+   "level": 4,
+   "round": 6,
+   "text": "气球飞上天了。",
+   "pinyin": "qì qiú fēi shàng tiān le。",
+   "grammar": [
+    "G4-37"
+   ]
+  },
+  {
+   "id": "L4-1264",
+   "level": 4,
+   "round": 6,
+   "text": "亲爱的，你忙你的吧。",
+   "pinyin": "qīn ài de，nǐ máng nǐ de ba。",
+   "grammar": [
+    "G4-74"
+   ]
+  },
+  {
+   "id": "L4-1265",
+   "level": 4,
+   "round": 6,
+   "text": "这个情景让我想起家。",
+   "pinyin": "zhè gè qíng jǐng ràng wǒ xiǎng qǐ jiā。",
+   "grammar": [
+    "G4-41"
+   ]
+  },
+  {
+   "id": "L4-1266",
+   "level": 4,
+   "round": 6,
+   "text": "老王的确很热心。",
+   "pinyin": "lǎo wáng de què hěn rè xīn。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1267",
+   "level": 4,
+   "round": 6,
+   "text": "他极善于说服人。",
+   "pinyin": "tā jí shàn yú shuō fú rén。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1268",
+   "level": 4,
+   "round": 6,
+   "text": "他把闹钟设置在七点。",
+   "pinyin": "tā bǎ nào zhōng shè zhì zài qī diǎn。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1269",
+   "level": 4,
+   "round": 6,
+   "text": "山后那个小地方很神秘。",
+   "pinyin": "shān hòu nà gè xiǎo dì fāng hěn shén mì。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1270",
+   "level": 4,
+   "round": 6,
+   "text": "食堂关门了，我们出去吃。",
+   "pinyin": "shí táng guān mén le，wǒ men chū qù chī。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1271",
+   "level": 4,
+   "round": 6,
+   "text": "他把那句话收回了。",
+   "pinyin": "tā bǎ nà jù huà shōu huí le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1272",
+   "level": 4,
+   "round": 6,
+   "text": "戴上手套再干活。",
+   "pinyin": "dài shàng shǒu tào zài gàn huó。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1273",
+   "level": 4,
+   "round": 6,
+   "text": "这些数据不准确。",
+   "pinyin": "zhè xiē shù jù bù zhǔn què。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1274",
+   "level": 4,
+   "round": 6,
+   "text": "孩子还没睡着呢。",
+   "pinyin": "hái zi hái méi shuì zhe ne。",
+   "grammar": [
+    "G4-73"
+   ]
+  },
+  {
+   "id": "L4-1275",
+   "level": 4,
+   "round": 6,
+   "text": "他随手把灯关了。",
+   "pinyin": "tā suí shǒu bǎ dēng guān le。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1276",
+   "level": 4,
+   "round": 6,
+   "text": "这批特价水果不新鲜。",
+   "pinyin": "zhè pī tè jià shuǐ guǒ bù xīn xiān。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1277",
+   "level": 4,
+   "round": 6,
+   "text": "谁能替代他呢？",
+   "pinyin": "shuí néng tì dài tā ne？",
+   "grammar": [
+    "G4-63"
+   ]
+  },
+  {
+   "id": "L4-1278",
+   "level": 4,
+   "round": 6,
+   "text": "连他也同情那个孩子。",
+   "pinyin": "lián tā yě tóng qíng nà gè hái zi。",
+   "grammar": [
+    "G4-66"
+   ]
+  },
+  {
+   "id": "L4-1279",
+   "level": 4,
+   "round": 6,
+   "text": "他把钱投资在房子上。",
+   "pinyin": "tā bǎ qián tóu zī zài fáng zi shàng。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1280",
+   "level": 4,
+   "round": 6,
+   "text": "他把外汇换成了现金。",
+   "pinyin": "tā bǎ wài huì huàn chéng le xiàn jīn。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1281",
+   "level": 4,
+   "round": 6,
+   "text": "维持生活很不容易。",
+   "pinyin": "wéi chí shēng huó hěn bù róng yì。",
+   "grammar": [
+    "G4-34"
+   ]
+  },
+  {
+   "id": "L4-1282",
+   "level": 4,
+   "round": 6,
+   "text": "他语速不快，但很稳。",
+   "pinyin": "tā yǔ sù bù kuài，dàn hěn wěn。",
+   "grammar": [
+    "G4-20"
+   ]
+  },
+  {
+   "id": "L4-1283",
+   "level": 4,
+   "round": 6,
+   "text": "无论怎样，我都无所谓。",
+   "pinyin": "wú lùn zěn yàng，wǒ dōu wú suǒ wèi。",
+   "grammar": [
+    "G4-54"
+   ]
+  },
+  {
+   "id": "L4-1284",
+   "level": 4,
+   "round": 6,
+   "text": "这张画格外吸引人。",
+   "pinyin": "zhè zhāng huà gé wài xī yǐn rén。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1285",
+   "level": 4,
+   "round": 6,
+   "text": "下个月开学，我得回校。",
+   "pinyin": "xià gè yuè kāi xué，wǒ dé huí xiào。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1286",
+   "level": 4,
+   "round": 6,
+   "text": "他在学习上有显著进步。",
+   "pinyin": "tā zài xué xí shàng yǒu xiǎn zhù jìn bù。",
+   "grammar": [
+    "G4-33"
+   ]
+  },
+  {
+   "id": "L4-1287",
+   "level": 4,
+   "round": 6,
+   "text": "墙上挂着一张旧相片。",
+   "pinyin": "qiáng shàng guà zhe yī zhāng jiù xiāng piàn。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1288",
+   "level": 4,
+   "round": 6,
+   "text": "他心理压力大，睡不好。",
+   "pinyin": "tā xīn lǐ yā lì dà，shuì bù hǎo。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1289",
+   "level": 4,
+   "round": 6,
+   "text": "他体型高大，力气不小。",
+   "pinyin": "tā tǐ xíng gāo dà，lì qì bù xiǎo。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1290",
+   "level": 4,
+   "round": 6,
+   "text": "新学年开始了，大家很忙。",
+   "pinyin": "xīn xué nián kāi shǐ le，dà jiā hěn máng。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1291",
+   "level": 4,
+   "round": 6,
+   "text": "会议时间延长了半小时。",
+   "pinyin": "huì yì shí jiān yán zhǎng le bàn xiǎo shí。",
+   "grammar": [
+    "G4-35"
+   ]
+  },
+  {
+   "id": "L4-1292",
+   "level": 4,
+   "round": 6,
+   "text": "他眼里含着泪。",
+   "pinyin": "tā yǎn lǐ hán zhe lèi。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1293",
+   "level": 4,
+   "round": 6,
+   "text": "这里的医疗条件很好。",
+   "pinyin": "zhè lǐ de yī liáo tiáo jiàn hěn hǎo。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1294",
+   "level": 4,
+   "round": 6,
+   "text": "他把全家移民到了国外。",
+   "pinyin": "tā bǎ quán jiā yí mín dào le guó wài。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1295",
+   "level": 4,
+   "round": 6,
+   "text": "他把客人引到门口。",
+   "pinyin": "tā bǎ kè rén yǐn dào mén kǒu。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1296",
+   "level": 4,
+   "round": 6,
+   "text": "月光下他的影子格外长。",
+   "pinyin": "yuè guāng xià tā de yǐng zi gé wài zhǎng。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1297",
+   "level": 4,
+   "round": 6,
+   "text": "这个故事极有趣。",
+   "pinyin": "zhè gè gù shì jí yǒu qù。",
+   "grammar": [
+    "G4-05"
+   ]
+  },
+  {
+   "id": "L4-1298",
+   "level": 4,
+   "round": 6,
+   "text": "我在网上预订了两张票。",
+   "pinyin": "wǒ zài wǎng shàng yù dìng le liǎng zhāng piào。",
+   "grammar": [
+    "G4-33"
+   ]
+  },
+  {
+   "id": "L4-1299",
+   "level": 4,
+   "round": 6,
+   "text": "月底即将放假。",
+   "pinyin": "yuè dǐ jí jiāng fàng jiǎ。",
+   "grammar": [
+    "G4-07"
+   ]
+  },
+  {
+   "id": "L4-1300",
+   "level": 4,
+   "round": 6,
+   "text": "谁能不赞成呢？",
+   "pinyin": "shuí néng bù zàn chéng ne？",
+   "grammar": [
+    "G4-63"
+   ]
+  },
+  {
+   "id": "L4-1301",
+   "level": 4,
+   "round": 6,
+   "text": "门口守着两个战士。",
+   "pinyin": "mén kǒu shǒu zhe liǎng gè zhàn shì。",
+   "grammar": [
+    "G4-40"
+   ]
+  },
+  {
+   "id": "L4-1302",
+   "level": 4,
+   "round": 6,
+   "text": "两人争论半天，谁也不服。",
+   "pinyin": "liǎng rén zhēng lùn bàn tiān，shuí yě bù fú。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1303",
+   "level": 4,
+   "round": 6,
+   "text": "这是今年最主要的原因之一。",
+   "pinyin": "zhè shì jīn nián zuì zhǔ yào de yuán yīn zhī yī。",
+   "grammar": [
+    "G4-36"
+   ]
+  },
+  {
+   "id": "L4-1304",
+   "level": 4,
+   "round": 6,
+   "text": "水果种类多，价钱也便宜。",
+   "pinyin": "shuǐ guǒ zhǒng lèi duō，jià qián yě biàn yí。",
+   "grammar": [
+    "G4-59"
+   ]
+  },
+  {
+   "id": "L4-1305",
+   "level": 4,
+   "round": 6,
+   "text": "主席在台上讲话。",
+   "pinyin": "zhǔ xí zài tái shàng jiǎng huà。",
+   "grammar": [
+    "G4-33"
+   ]
+  },
+  {
+   "id": "L4-1306",
+   "level": 4,
+   "round": 6,
+   "text": "请把这个消息转告他。",
+   "pinyin": "qǐng bǎ zhè gè xiāo xī zhuǎn gào tā。",
+   "grammar": [
+    "G4-38"
+   ]
+  },
+  {
+   "id": "L4-1307",
+   "level": 4,
+   "round": 6,
+   "text": "他还在追求那位姑娘。",
+   "pinyin": "tā hái zài zhuī qiú nà wèi gū niáng。",
+   "grammar": [
+    "G4-12"
+   ]
+  },
+  {
+   "id": "L4-1308",
+   "level": 4,
+   "round": 6,
+   "text": "我们班总共三十人。",
+   "pinyin": "wǒ men bān zǒng gòng sān shí rén。",
+   "grammar": [
+    "G4-06"
    ]
   }
  ]

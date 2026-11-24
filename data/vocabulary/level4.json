@@ -1,0 +1,8032 @@
+{
+ "source": "HSK 3.0 vocabulary transcription",
+ "standard": "GF 0025-2021",
+ "level_range": 4,
+ "level_label": "四级",
+ "entries": 1000,
+ "unique_headwords": 995,
+ "duplicate_entries": {
+  "倒车": [
+   "倒车",
+   "倒车"
+  ],
+  "划": [
+   "划",
+   "划"
+  ],
+  "卷": [
+   "卷",
+   "卷"
+  ],
+  "批": [
+   "批",
+   "批（量）"
+  ],
+  "挑": [
+   "挑",
+   "挑"
+  ]
+ },
+ "items": [
+  {
+   "no": 2,
+   "level": "四级",
+   "raw": "阿姨",
+   "word": "阿姨",
+   "pinyin": "āyí",
+   "pos": "名"
+  },
+  {
+   "no": 3,
+   "level": "四级",
+   "raw": "啊",
+   "word": "啊",
+   "pinyin": "ā",
+   "pos": "叹"
+  },
+  {
+   "no": 14,
+   "level": "四级",
+   "raw": "矮",
+   "word": "矮",
+   "pinyin": "ǎi",
+   "pos": "形"
+  },
+  {
+   "no": 15,
+   "level": "四级",
+   "raw": "矮小",
+   "word": "矮小",
+   "pinyin": "ǎixiǎo",
+   "pos": "形"
+  },
+  {
+   "no": 20,
+   "level": "四级",
+   "raw": "爱国",
+   "word": "爱国",
+   "pinyin": "ài∥guó",
+   "pos": ""
+  },
+  {
+   "no": 22,
+   "level": "四级",
+   "raw": "爱护",
+   "word": "爱护",
+   "pinyin": "àihù",
+   "pos": "动"
+  },
+  {
+   "no": 30,
+   "level": "四级",
+   "raw": "安",
+   "word": "安",
+   "pinyin": "ān",
+   "pos": "动、形"
+  },
+  {
+   "no": 43,
+   "level": "四级",
+   "raw": "安置",
+   "word": "安置",
+   "pinyin": "ānzhì",
+   "pos": "动"
+  },
+  {
+   "no": 51,
+   "level": "四级",
+   "raw": "按时",
+   "word": "按时",
+   "pinyin": "ànshí",
+   "pos": "副"
+  },
+  {
+   "no": 55,
+   "level": "四级",
+   "raw": "暗",
+   "word": "暗",
+   "pinyin": "àn",
+   "pos": "形"
+  },
+  {
+   "no": 58,
+   "level": "四级",
+   "raw": "暗示",
+   "word": "暗示",
+   "pinyin": "ànshì",
+   "pos": "动"
+  },
+  {
+   "no": 71,
+   "level": "四级",
+   "raw": "巴士",
+   "word": "巴士",
+   "pinyin": "bāshì",
+   "pos": "名"
+  },
+  {
+   "no": 103,
+   "level": "四级",
+   "raw": "百货",
+   "word": "百货",
+   "pinyin": "bǎihuò",
+   "pos": "名"
+  },
+  {
+   "no": 106,
+   "level": "四级",
+   "raw": "摆",
+   "word": "摆",
+   "pinyin": "bǎi",
+   "pos": "动"
+  },
+  {
+   "no": 107,
+   "level": "四级",
+   "raw": "摆动",
+   "word": "摆动",
+   "pinyin": "bǎidòng",
+   "pos": "动"
+  },
+  {
+   "no": 111,
+   "level": "四级",
+   "raw": "摆脱",
+   "word": "摆脱",
+   "pinyin": "bǎituō",
+   "pos": "动"
+  },
+  {
+   "no": 112,
+   "level": "四级",
+   "raw": "败",
+   "word": "败",
+   "pinyin": "bài",
+   "pos": "动"
+  },
+  {
+   "no": 138,
+   "level": "四级",
+   "raw": "办事",
+   "word": "办事",
+   "pinyin": "bàn∥shì",
+   "pos": ""
+  },
+  {
+   "no": 174,
+   "level": "四级",
+   "raw": "包裹",
+   "word": "包裹",
+   "pinyin": "bāoguǒ",
+   "pos": "名、动"
+  },
+  {
+   "no": 175,
+   "level": "四级",
+   "raw": "包含",
+   "word": "包含",
+   "pinyin": "bāohán",
+   "pos": "动"
+  },
+  {
+   "no": 176,
+   "level": "四级",
+   "raw": "包括",
+   "word": "包括",
+   "pinyin": "bāokuò",
+   "pos": "动"
+  },
+  {
+   "no": 184,
+   "level": "四级",
+   "raw": "薄",
+   "word": "薄",
+   "pinyin": "báo",
+   "pos": "形"
+  },
+  {
+   "no": 188,
+   "level": "四级",
+   "raw": "宝",
+   "word": "宝",
+   "pinyin": "bǎo",
+   "pos": "名"
+  },
+  {
+   "no": 189,
+   "level": "四级",
+   "raw": "宝宝",
+   "word": "宝宝",
+   "pinyin": "bǎobao",
+   "pos": "名"
+  },
+  {
+   "no": 190,
+   "level": "四级",
+   "raw": "宝贝",
+   "word": "宝贝",
+   "pinyin": "bǎo·bèi",
+   "pos": "名"
+  },
+  {
+   "no": 191,
+   "level": "四级",
+   "raw": "宝贵",
+   "word": "宝贵",
+   "pinyin": "bǎoguì",
+   "pos": "形"
+  },
+  {
+   "no": 193,
+   "level": "四级",
+   "raw": "宝石",
+   "word": "宝石",
+   "pinyin": "bǎoshí",
+   "pos": "名"
+  },
+  {
+   "no": 203,
+   "level": "四级",
+   "raw": "保密",
+   "word": "保密",
+   "pinyin": "bǎo∥mì",
+   "pos": ""
+  },
+  {
+   "no": 206,
+   "level": "四级",
+   "raw": "保守",
+   "word": "保守",
+   "pinyin": "bǎoshǒu",
+   "pos": "动、形"
+  },
+  {
+   "no": 236,
+   "level": "四级",
+   "raw": "抱",
+   "word": "抱",
+   "pinyin": "bào",
+   "pos": "动"
+  },
+  {
+   "no": 281,
+   "level": "四级",
+   "raw": "背景",
+   "word": "背景",
+   "pinyin": "bèijǐng",
+   "pos": "名"
+  },
+  {
+   "no": 287,
+   "level": "四级",
+   "raw": "倍",
+   "word": "倍",
+   "pinyin": "bèi",
+   "pos": "量"
+  },
+  {
+   "no": 292,
+   "level": "四级",
+   "raw": "被迫",
+   "word": "被迫",
+   "pinyin": "bèipò",
+   "pos": "动"
+  },
+  {
+   "no": 302,
+   "level": "四级",
+   "raw": "本科",
+   "word": "本科",
+   "pinyin": "běnkē",
+   "pos": "名"
+  },
+  {
+   "no": 319,
+   "level": "四级",
+   "raw": "笨",
+   "word": "笨",
+   "pinyin": "bèn",
+   "pos": "形"
+  },
+  {
+   "no": 336,
+   "level": "四级",
+   "raw": "比分",
+   "word": "比分",
+   "pinyin": "bǐfēn",
+   "pos": "名"
+  },
+  {
+   "no": 362,
+   "level": "四级",
+   "raw": "毕业",
+   "word": "毕业",
+   "pinyin": "bì∥yè",
+   "pos": ""
+  },
+  {
+   "no": 363,
+   "level": "四级",
+   "raw": "毕业生",
+   "word": "毕业生",
+   "pinyin": "bìyèshēng",
+   "pos": "名"
+  },
+  {
+   "no": 371,
+   "level": "四级",
+   "raw": "避",
+   "word": "避",
+   "pinyin": "bì",
+   "pos": "动"
+  },
+  {
+   "no": 372,
+   "level": "四级",
+   "raw": "避免",
+   "word": "避免",
+   "pinyin": "bìmiǎn",
+   "pos": "动"
+  },
+  {
+   "no": 381,
+   "level": "四级",
+   "raw": "编",
+   "word": "编",
+   "pinyin": "biān",
+   "pos": "动"
+  },
+  {
+   "no": 424,
+   "level": "四级",
+   "raw": "辩论",
+   "word": "辩论",
+   "pinyin": "biànlùn",
+   "pos": "动、名"
+  },
+  {
+   "no": 433,
+   "level": "四级",
+   "raw": "标志",
+   "word": "标志",
+   "pinyin": "biāozhì",
+   "pos": "动、名"
+  },
+  {
+   "no": 445,
+   "level": "四级",
+   "raw": "表情",
+   "word": "表情",
+   "pinyin": "biǎoqíng",
+   "pos": "名"
+  },
+  {
+   "no": 452,
+   "level": "四级",
+   "raw": "表扬",
+   "word": "表扬",
+   "pinyin": "biǎoyáng",
+   "pos": "动"
+  },
+  {
+   "no": 456,
+   "level": "四级",
+   "raw": "别",
+   "word": "别",
+   "pinyin": "bié",
+   "pos": "动"
+  },
+  {
+   "no": 470,
+   "level": "四级",
+   "raw": "冰",
+   "word": "冰",
+   "pinyin": "bīng",
+   "pos": "名"
+  },
+  {
+   "no": 473,
+   "level": "四级",
+   "raw": "冰箱",
+   "word": "冰箱",
+   "pinyin": "bīngxiāng",
+   "pos": "名"
+  },
+  {
+   "no": 474,
+   "level": "四级",
+   "raw": "冰雪",
+   "word": "冰雪",
+   "pinyin": "bīngxuě",
+   "pos": "名、形"
+  },
+  {
+   "no": 475,
+   "level": "四级",
+   "raw": "兵",
+   "word": "兵",
+   "pinyin": "bīng",
+   "pos": "名"
+  },
+  {
+   "no": 481,
+   "level": "四级",
+   "raw": "并",
+   "word": "并",
+   "pinyin": "bìng",
+   "pos": "动"
+  },
+  {
+   "no": 551,
+   "level": "四级",
+   "raw": "不要紧",
+   "word": "不要紧",
+   "pinyin": "búyàojǐn",
+   "pos": "形"
+  },
+  {
+   "no": 558,
+   "level": "四级",
+   "raw": "不在乎",
+   "word": "不在乎",
+   "pinyin": "búzàihu",
+   "pos": "动"
+  },
+  {
+   "no": 588,
+   "level": "四级",
+   "raw": "不管",
+   "word": "不管",
+   "pinyin": "bùguǎn",
+   "pos": "连"
+  },
+  {
+   "no": 612,
+   "level": "四级",
+   "raw": "不然",
+   "word": "不然",
+   "pinyin": "bùrán",
+   "pos": "连"
+  },
+  {
+   "no": 647,
+   "level": "四级",
+   "raw": "布置",
+   "word": "布置",
+   "pinyin": "bùzhì",
+   "pos": "动"
+  },
+  {
+   "no": 651,
+   "level": "四级",
+   "raw": "步行",
+   "word": "步行",
+   "pinyin": "bùxíng",
+   "pos": "动"
+  },
+  {
+   "no": 661,
+   "level": "四级",
+   "raw": "擦",
+   "word": "擦",
+   "pinyin": "cā",
+   "pos": "动"
+  },
+  {
+   "no": 667,
+   "level": "四级",
+   "raw": "才（名）",
+   "word": "才",
+   "pinyin": "cái",
+   "pos": "名"
+  },
+  {
+   "no": 670,
+   "level": "四级",
+   "raw": "材料",
+   "word": "材料",
+   "pinyin": "cáiliào",
+   "pos": "名"
+  },
+  {
+   "no": 671,
+   "level": "四级",
+   "raw": "财产",
+   "word": "财产",
+   "pinyin": "cáichǎn",
+   "pos": "名"
+  },
+  {
+   "no": 672,
+   "level": "四级",
+   "raw": "财富",
+   "word": "财富",
+   "pinyin": "cáifù",
+   "pos": "名"
+  },
+  {
+   "no": 683,
+   "level": "四级",
+   "raw": "采访",
+   "word": "采访",
+   "pinyin": "cǎifǎng",
+   "pos": "动、名"
+  },
+  {
+   "no": 703,
+   "level": "四级",
+   "raw": "参考",
+   "word": "参考",
+   "pinyin": "cānkǎo",
+   "pos": "动"
+  },
+  {
+   "no": 706,
+   "level": "四级",
+   "raw": "参与",
+   "word": "参与",
+   "pinyin": "cānyù",
+   "pos": "动"
+  },
+  {
+   "no": 735,
+   "level": "四级",
+   "raw": "操场",
+   "word": "操场",
+   "pinyin": "cāochǎng",
+   "pos": "名"
+  },
+  {
+   "no": 740,
+   "level": "四级",
+   "raw": "操作",
+   "word": "操作",
+   "pinyin": "cāozuò",
+   "pos": "动"
+  },
+  {
+   "no": 752,
+   "level": "四级",
+   "raw": "测",
+   "word": "测",
+   "pinyin": "cè",
+   "pos": "动"
+  },
+  {
+   "no": 754,
+   "level": "四级",
+   "raw": "测量",
+   "word": "测量",
+   "pinyin": "cèliáng",
+   "pos": "动"
+  },
+  {
+   "no": 755,
+   "level": "四级",
+   "raw": "测试",
+   "word": "测试",
+   "pinyin": "cèshì",
+   "pos": "动、名"
+  },
+  {
+   "no": 764,
+   "level": "四级",
+   "raw": "曾",
+   "word": "曾",
+   "pinyin": "céng",
+   "pos": "副"
+  },
+  {
+   "no": 781,
+   "level": "四级",
+   "raw": "茶叶",
+   "word": "茶叶",
+   "pinyin": "cháyè",
+   "pos": "名"
+  },
+  {
+   "no": 806,
+   "level": "四级",
+   "raw": "产品",
+   "word": "产品",
+   "pinyin": "chǎnpǐn",
+   "pos": "名"
+  },
+  {
+   "no": 829,
+   "level": "四级",
+   "raw": "长途",
+   "word": "长途",
+   "pinyin": "chángtú",
+   "pos": "形、名"
+  },
+  {
+   "no": 844,
+   "level": "四级",
+   "raw": "常识",
+   "word": "常识",
+   "pinyin": "chángshí",
+   "pos": "名"
+  },
+  {
+   "no": 869,
+   "level": "四级",
+   "raw": "唱片",
+   "word": "唱片",
+   "pinyin": "chàngpiàn",
+   "pos": "名"
+  },
+  {
+   "no": 870,
+   "level": "四级",
+   "raw": "抄",
+   "word": "抄",
+   "pinyin": "chāo",
+   "pos": "动"
+  },
+  {
+   "no": 872,
+   "level": "四级",
+   "raw": "抄写",
+   "word": "抄写",
+   "pinyin": "chāoxiě",
+   "pos": "动"
+  },
+  {
+   "no": 889,
+   "level": "四级",
+   "raw": "潮",
+   "word": "潮",
+   "pinyin": "cháo",
+   "pos": "名、形"
+  },
+  {
+   "no": 890,
+   "level": "四级",
+   "raw": "潮流",
+   "word": "潮流",
+   "pinyin": "cháoliú",
+   "pos": "名"
+  },
+  {
+   "no": 891,
+   "level": "四级",
+   "raw": "潮湿",
+   "word": "潮湿",
+   "pinyin": "cháoshī",
+   "pos": "形"
+  },
+  {
+   "no": 917,
+   "level": "四级",
+   "raw": "彻底",
+   "word": "彻底",
+   "pinyin": "chèdǐ",
+   "pos": "形"
+  },
+  {
+   "no": 923,
+   "level": "四级",
+   "raw": "沉",
+   "word": "沉",
+   "pinyin": "chén",
+   "pos": "动、形"
+  },
+  {
+   "no": 929,
+   "level": "四级",
+   "raw": "沉默",
+   "word": "沉默",
+   "pinyin": "chénmò",
+   "pos": "形、动"
+  },
+  {
+   "no": 932,
+   "level": "四级",
+   "raw": "沉重",
+   "word": "沉重",
+   "pinyin": "chénzhòng",
+   "pos": "形"
+  },
+  {
+   "no": 949,
+   "level": "四级",
+   "raw": "称赞",
+   "word": "称赞",
+   "pinyin": "chēngzàn",
+   "pos": "动"
+  },
+  {
+   "no": 969,
+   "level": "四级",
+   "raw": "成人",
+   "word": "成人",
+   "pinyin": "chéngrén",
+   "pos": "名"
+  },
+  {
+   "no": 981,
+   "level": "四级",
+   "raw": "诚实",
+   "word": "诚实",
+   "pinyin": "chéng·shí",
+   "pos": "形"
+  },
+  {
+   "no": 983,
+   "level": "四级",
+   "raw": "诚信",
+   "word": "诚信",
+   "pinyin": "chéngxìn",
+   "pos": "形"
+  },
+  {
+   "no": 988,
+   "level": "四级",
+   "raw": "承担",
+   "word": "承担",
+   "pinyin": "chéngdān",
+   "pos": "动"
+  },
+  {
+   "no": 990,
+   "level": "四级",
+   "raw": "承认",
+   "word": "承认",
+   "pinyin": "chéngrèn",
+   "pos": "动"
+  },
+  {
+   "no": 991,
+   "level": "四级",
+   "raw": "承受",
+   "word": "承受",
+   "pinyin": "chéngshòu",
+   "pos": "动"
+  },
+  {
+   "no": 1007,
+   "level": "四级",
+   "raw": "程序",
+   "word": "程序",
+   "pinyin": "chéngxù",
+   "pos": "名"
+  },
+  {
+   "no": 1019,
+   "level": "四级",
+   "raw": "吃惊",
+   "word": "吃惊",
+   "pinyin": "chī∥jīng",
+   "pos": ""
+  },
+  {
+   "no": 1031,
+   "level": "四级",
+   "raw": "迟到",
+   "word": "迟到",
+   "pinyin": "chídào",
+   "pos": "动"
+  },
+  {
+   "no": 1039,
+   "level": "四级",
+   "raw": "尺",
+   "word": "尺",
+   "pinyin": "chǐ",
+   "pos": "名、量"
+  },
+  {
+   "no": 1040,
+   "level": "四级",
+   "raw": "尺寸",
+   "word": "尺寸",
+   "pinyin": "chǐ·cùn",
+   "pos": "名"
+  },
+  {
+   "no": 1042,
+   "level": "四级",
+   "raw": "尺子",
+   "word": "尺子",
+   "pinyin": "chǐzi",
+   "pos": "名"
+  },
+  {
+   "no": 1047,
+   "level": "四级",
+   "raw": "冲",
+   "word": "冲",
+   "pinyin": "chōng",
+   "pos": "动"
+  },
+  {
+   "no": 1057,
+   "level": "四级",
+   "raw": "充电",
+   "word": "充电",
+   "pinyin": "chōng∥diàn",
+   "pos": ""
+  },
+  {
+   "no": 1058,
+   "level": "四级",
+   "raw": "充电器",
+   "word": "充电器",
+   "pinyin": "chōngdiànqì",
+   "pos": "名"
+  },
+  {
+   "no": 1059,
+   "level": "四级",
+   "raw": "充分",
+   "word": "充分",
+   "pinyin": "chōngfèn",
+   "pos": "形"
+  },
+  {
+   "no": 1064,
+   "level": "四级",
+   "raw": "虫子",
+   "word": "虫子",
+   "pinyin": "chóngzi",
+   "pos": "名"
+  },
+  {
+   "no": 1083,
+   "level": "四级",
+   "raw": "抽",
+   "word": "抽",
+   "pinyin": "chōu",
+   "pos": "动"
+  },
+  {
+   "no": 1084,
+   "level": "四级",
+   "raw": "抽奖",
+   "word": "抽奖",
+   "pinyin": "chōu∥jiǎng",
+   "pos": ""
+  },
+  {
+   "no": 1088,
+   "level": "四级",
+   "raw": "抽烟",
+   "word": "抽烟",
+   "pinyin": "chōuyān",
+   "pos": "动"
+  },
+  {
+   "no": 1128,
+   "level": "四级",
+   "raw": "出口（动）",
+   "word": "出口",
+   "pinyin": "chū∥kǒu",
+   "pos": ""
+  },
+  {
+   "no": 1142,
+   "level": "四级",
+   "raw": "出色",
+   "word": "出色",
+   "pinyin": "chūsè",
+   "pos": "形"
+  },
+  {
+   "no": 1149,
+   "level": "四级",
+   "raw": "出售",
+   "word": "出售",
+   "pinyin": "chūshòu",
+   "pos": "动"
+  },
+  {
+   "no": 1154,
+   "level": "四级",
+   "raw": "出席",
+   "word": "出席",
+   "pinyin": "chūxí",
+   "pos": "动"
+  },
+  {
+   "no": 1193,
+   "level": "四级",
+   "raw": "处于",
+   "word": "处于",
+   "pinyin": "chǔyú",
+   "pos": "动"
+  },
+  {
+   "no": 1199,
+   "level": "四级",
+   "raw": "处",
+   "word": "处",
+   "pinyin": "chù",
+   "pos": "名"
+  },
+  {
+   "no": 1214,
+   "level": "四级",
+   "raw": "穿上",
+   "word": "穿上",
+   "pinyin": "chuānshang",
+   "pos": ""
+  },
+  {
+   "no": 1233,
+   "level": "四级",
+   "raw": "传统",
+   "word": "传统",
+   "pinyin": "chuántǒng",
+   "pos": "名、形"
+  },
+  {
+   "no": 1248,
+   "level": "四级",
+   "raw": "窗户",
+   "word": "窗户",
+   "pinyin": "chuānghu",
+   "pos": "名"
+  },
+  {
+   "no": 1251,
+   "level": "四级",
+   "raw": "窗台",
+   "word": "窗台",
+   "pinyin": "chuāngtái",
+   "pos": "名"
+  },
+  {
+   "no": 1252,
+   "level": "四级",
+   "raw": "窗子",
+   "word": "窗子",
+   "pinyin": "chuāngzi",
+   "pos": "名"
+  },
+  {
+   "no": 1274,
+   "level": "四级",
+   "raw": "春季",
+   "word": "春季",
+   "pinyin": "chūnjì",
+   "pos": "名"
+  },
+  {
+   "no": 1277,
+   "level": "四级",
+   "raw": "纯",
+   "word": "纯",
+   "pinyin": "chún",
+   "pos": "形"
+  },
+  {
+   "no": 1280,
+   "level": "四级",
+   "raw": "纯净水",
+   "word": "纯净水",
+   "pinyin": "chúnjìngshuǐ",
+   "pos": "名"
+  },
+  {
+   "no": 1288,
+   "level": "四级",
+   "raw": "词汇",
+   "word": "词汇",
+   "pinyin": "cíhuì",
+   "pos": "名"
+  },
+  {
+   "no": 1303,
+   "level": "四级",
+   "raw": "此",
+   "word": "此",
+   "pinyin": "cǐ",
+   "pos": "代"
+  },
+  {
+   "no": 1312,
+   "level": "四级",
+   "raw": "此外",
+   "word": "此外",
+   "pinyin": "cǐwài",
+   "pos": "连"
+  },
+  {
+   "no": 1315,
+   "level": "四级",
+   "raw": "次（形）",
+   "word": "次",
+   "pinyin": "cì",
+   "pos": "形"
+  },
+  {
+   "no": 1319,
+   "level": "四级",
+   "raw": "刺",
+   "word": "刺",
+   "pinyin": "cì",
+   "pos": "动、名"
+  },
+  {
+   "no": 1322,
+   "level": "四级",
+   "raw": "刺激",
+   "word": "刺激",
+   "pinyin": "cìjī",
+   "pos": "动、名"
+  },
+  {
+   "no": 1332,
+   "level": "四级",
+   "raw": "从此",
+   "word": "从此",
+   "pinyin": "cóngcǐ",
+   "pos": "副"
+  },
+  {
+   "no": 1352,
+   "level": "四级",
+   "raw": "粗",
+   "word": "粗",
+   "pinyin": "cū",
+   "pos": "形"
+  },
+  {
+   "no": 1357,
+   "level": "四级",
+   "raw": "粗心",
+   "word": "粗心",
+   "pinyin": "cūxīn",
+   "pos": "形"
+  },
+  {
+   "no": 1360,
+   "level": "四级",
+   "raw": "促进",
+   "word": "促进",
+   "pinyin": "cùjìn",
+   "pos": "动"
+  },
+  {
+   "no": 1361,
+   "level": "四级",
+   "raw": "促使",
+   "word": "促使",
+   "pinyin": "cùshǐ",
+   "pos": "动"
+  },
+  {
+   "no": 1362,
+   "level": "四级",
+   "raw": "促销",
+   "word": "促销",
+   "pinyin": "cùxiāo",
+   "pos": "动"
+  },
+  {
+   "no": 1385,
+   "level": "四级",
+   "raw": "措施",
+   "word": "措施",
+   "pinyin": "cuòshī",
+   "pos": "名"
+  },
+  {
+   "no": 1400,
+   "level": "四级",
+   "raw": "打",
+   "word": "打",
+   "pinyin": "dá",
+   "pos": "量"
+  },
+  {
+   "no": 1405,
+   "level": "四级",
+   "raw": "答案",
+   "word": "答案",
+   "pinyin": "dá’àn",
+   "pos": "名"
+  },
+  {
+   "no": 1410,
+   "level": "四级",
+   "raw": "打败",
+   "word": "打败",
+   "pinyin": "dǎbài",
+   "pos": "动"
+  },
+  {
+   "no": 1429,
+   "level": "四级",
+   "raw": "打雷",
+   "word": "打雷",
+   "pinyin": "dǎ∥léi",
+   "pos": ""
+  },
+  {
+   "no": 1437,
+   "level": "四级",
+   "raw": "打扫",
+   "word": "打扫",
+   "pinyin": "dǎsǎo",
+   "pos": "动"
+  },
+  {
+   "no": 1446,
+   "level": "四级",
+   "raw": "打折",
+   "word": "打折",
+   "pinyin": "dǎ∥zhé",
+   "pos": ""
+  },
+  {
+   "no": 1447,
+   "level": "四级",
+   "raw": "打针",
+   "word": "打针",
+   "pinyin": "dǎ∥zhēn",
+   "pos": ""
+  },
+  {
+   "no": 1449,
+   "level": "四级",
+   "raw": "大巴",
+   "word": "大巴",
+   "pinyin": "dàbā",
+   "pos": "名"
+  },
+  {
+   "no": 1462,
+   "level": "四级",
+   "raw": "大多",
+   "word": "大多",
+   "pinyin": "dàduō",
+   "pos": "副"
+  },
+  {
+   "no": 1464,
+   "level": "四级",
+   "raw": "大方",
+   "word": "大方",
+   "pinyin": "dàfang",
+   "pos": "形"
+  },
+  {
+   "no": 1468,
+   "level": "四级",
+   "raw": "大哥",
+   "word": "大哥",
+   "pinyin": "dàgē",
+   "pos": "名"
+  },
+  {
+   "no": 1470,
+   "level": "四级",
+   "raw": "大规模",
+   "word": "大规模",
+   "pinyin": "dà guīmó",
+   "pos": ""
+  },
+  {
+   "no": 1472,
+   "level": "四级",
+   "raw": "大会",
+   "word": "大会",
+   "pinyin": "dàhuì",
+   "pos": "名"
+  },
+  {
+   "no": 1479,
+   "level": "四级",
+   "raw": "大姐",
+   "word": "大姐",
+   "pinyin": "dàjiě",
+   "pos": "名"
+  },
+  {
+   "no": 1485,
+   "level": "四级",
+   "raw": "大楼",
+   "word": "大楼",
+   "pinyin": "dà lóu",
+   "pos": ""
+  },
+  {
+   "no": 1486,
+   "level": "四级",
+   "raw": "大陆",
+   "word": "大陆",
+   "pinyin": "dàlù",
+   "pos": "名"
+  },
+  {
+   "no": 1487,
+   "level": "四级",
+   "raw": "大妈",
+   "word": "大妈",
+   "pinyin": "dàmā",
+   "pos": "名"
+  },
+  {
+   "no": 1515,
+   "level": "四级",
+   "raw": "大型",
+   "word": "大型",
+   "pinyin": "dàxíng",
+   "pos": "形"
+  },
+  {
+   "no": 1521,
+   "level": "四级",
+   "raw": "大爷",
+   "word": "大爷",
+   "pinyin": "dàye",
+   "pos": "名"
+  },
+  {
+   "no": 1529,
+   "level": "四级",
+   "raw": "大众",
+   "word": "大众",
+   "pinyin": "dàzhòng",
+   "pos": "名"
+  },
+  {
+   "no": 1545,
+   "level": "四级",
+   "raw": "代替",
+   "word": "代替",
+   "pinyin": "dàitì",
+   "pos": "动"
+  },
+  {
+   "no": 1558,
+   "level": "四级",
+   "raw": "待遇",
+   "word": "待遇",
+   "pinyin": "dàiyù",
+   "pos": "名"
+  },
+  {
+   "no": 1561,
+   "level": "四级",
+   "raw": "袋",
+   "word": "袋",
+   "pinyin": "dài",
+   "pos": "名、量"
+  },
+  {
+   "no": 1563,
+   "level": "四级",
+   "raw": "戴",
+   "word": "戴",
+   "pinyin": "dài",
+   "pos": "动"
+  },
+  {
+   "no": 1565,
+   "level": "四级",
+   "raw": "担保",
+   "word": "担保",
+   "pinyin": "dānbǎo",
+   "pos": "动、名"
+  },
+  {
+   "no": 1568,
+   "level": "四级",
+   "raw": "担任",
+   "word": "担任",
+   "pinyin": "dānrèn",
+   "pos": "动"
+  },
+  {
+   "no": 1569,
+   "level": "四级",
+   "raw": "担心",
+   "word": "担心",
+   "pinyin": "dān∥xīn",
+   "pos": ""
+  },
+  {
+   "no": 1571,
+   "level": "四级",
+   "raw": "单",
+   "word": "单",
+   "pinyin": "dān",
+   "pos": "形、副"
+  },
+  {
+   "no": 1574,
+   "level": "四级",
+   "raw": "单纯",
+   "word": "单纯",
+   "pinyin": "dānchún",
+   "pos": "形"
+  },
+  {
+   "no": 1576,
+   "level": "四级",
+   "raw": "单调",
+   "word": "单调",
+   "pinyin": "dāndiào",
+   "pos": "形"
+  },
+  {
+   "no": 1577,
+   "level": "四级",
+   "raw": "单独",
+   "word": "单独",
+   "pinyin": "dāndú",
+   "pos": "副"
+  },
+  {
+   "no": 1596,
+   "level": "四级",
+   "raw": "淡",
+   "word": "淡",
+   "pinyin": "dàn",
+   "pos": "形"
+  },
+  {
+   "no": 1643,
+   "level": "四级",
+   "raw": "导游",
+   "word": "导游",
+   "pinyin": "dǎoyóu",
+   "pos": "动、名"
+  },
+  {
+   "no": 1644,
+   "level": "四级",
+   "raw": "导致",
+   "word": "导致",
+   "pinyin": "dǎozhì",
+   "pos": "动"
+  },
+  {
+   "no": 1649,
+   "level": "四级",
+   "raw": "倒闭",
+   "word": "倒闭",
+   "pinyin": "dǎobì",
+   "pos": "动"
+  },
+  {
+   "no": 1650,
+   "level": "四级",
+   "raw": "倒车",
+   "word": "倒车",
+   "pinyin": "dǎo∥chē",
+   "pos": ""
+  },
+  {
+   "no": 1664,
+   "level": "四级",
+   "raw": "倒车",
+   "word": "倒车",
+   "pinyin": "dào∥chē",
+   "pos": ""
+  },
+  {
+   "no": 1694,
+   "level": "四级",
+   "raw": "得意",
+   "word": "得意",
+   "pinyin": "déyì",
+   "pos": "形"
+  },
+  {
+   "no": 1703,
+   "level": "四级",
+   "raw": "得",
+   "word": "得",
+   "pinyin": "děi",
+   "pos": "动"
+  },
+  {
+   "no": 1705,
+   "level": "四级",
+   "raw": "灯光",
+   "word": "灯光",
+   "pinyin": "dēngguāng",
+   "pos": "名"
+  },
+  {
+   "no": 1708,
+   "level": "四级",
+   "raw": "登",
+   "word": "登",
+   "pinyin": "dēng",
+   "pos": "动"
+  },
+  {
+   "no": 1710,
+   "level": "四级",
+   "raw": "登记",
+   "word": "登记",
+   "pinyin": "dēng∥jì",
+   "pos": ""
+  },
+  {
+   "no": 1712,
+   "level": "四级",
+   "raw": "登录",
+   "word": "登录",
+   "pinyin": "dēnglù",
+   "pos": "动"
+  },
+  {
+   "no": 1713,
+   "level": "四级",
+   "raw": "登山",
+   "word": "登山",
+   "pinyin": "dēng∥shān",
+   "pos": ""
+  },
+  {
+   "no": 1739,
+   "level": "四级",
+   "raw": "的确",
+   "word": "的确",
+   "pinyin": "díquè",
+   "pos": "副"
+  },
+  {
+   "no": 1740,
+   "level": "四级",
+   "raw": "敌人",
+   "word": "敌人",
+   "pinyin": "dírén",
+   "pos": "名"
+  },
+  {
+   "no": 1750,
+   "level": "四级",
+   "raw": "底",
+   "word": "底",
+   "pinyin": "dǐ",
+   "pos": "名"
+  },
+  {
+   "no": 1764,
+   "level": "四级",
+   "raw": "地方",
+   "word": "地方",
+   "pinyin": "dìfāng",
+   "pos": "名"
+  },
+  {
+   "no": 1767,
+   "level": "四级",
+   "raw": "地面",
+   "word": "地面",
+   "pinyin": "dìmiàn",
+   "pos": "名"
+  },
+  {
+   "no": 1776,
+   "level": "四级",
+   "raw": "地位",
+   "word": "地位",
+   "pinyin": "dìwèi",
+   "pos": "名"
+  },
+  {
+   "no": 1777,
+   "level": "四级",
+   "raw": "地下",
+   "word": "地下",
+   "pinyin": "dìxià",
+   "pos": "名"
+  },
+  {
+   "no": 1784,
+   "level": "四级",
+   "raw": "地址",
+   "word": "地址",
+   "pinyin": "dìzhǐ",
+   "pos": "名"
+  },
+  {
+   "no": 1801,
+   "level": "四级",
+   "raw": "典型",
+   "word": "典型",
+   "pinyin": "diǎnxíng",
+   "pos": "名、形"
+  },
+  {
+   "no": 1805,
+   "level": "四级",
+   "raw": "点名",
+   "word": "点名",
+   "pinyin": "diǎn∥míng",
+   "pos": ""
+  },
+  {
+   "no": 1816,
+   "level": "四级",
+   "raw": "电灯",
+   "word": "电灯",
+   "pinyin": "diàndēng",
+   "pos": "名"
+  },
+  {
+   "no": 1818,
+   "level": "四级",
+   "raw": "电动车",
+   "word": "电动车",
+   "pinyin": "diàndòngchē",
+   "pos": "名"
+  },
+  {
+   "no": 1830,
+   "level": "四级",
+   "raw": "电梯",
+   "word": "电梯",
+   "pinyin": "diàntī",
+   "pos": "名"
+  },
+  {
+   "no": 1837,
+   "level": "四级",
+   "raw": "电源",
+   "word": "电源",
+   "pinyin": "diànyuán",
+   "pos": "名"
+  },
+  {
+   "no": 1872,
+   "level": "四级",
+   "raw": "顶",
+   "word": "顶",
+   "pinyin": "dǐng",
+   "pos": "名、动、量"
+  },
+  {
+   "no": 1882,
+   "level": "四级",
+   "raw": "定",
+   "word": "定",
+   "pinyin": "dìng",
+   "pos": "动"
+  },
+  {
+   "no": 1911,
+   "level": "四级",
+   "raw": "冬季",
+   "word": "冬季",
+   "pinyin": "dōngjì",
+   "pos": "名"
+  },
+  {
+   "no": 1925,
+   "level": "四级",
+   "raw": "动画片",
+   "word": "动画片",
+   "pinyin": "dònghuàpiàn",
+   "pos": "名"
+  },
+  {
+   "no": 1939,
+   "level": "四级",
+   "raw": "动摇",
+   "word": "动摇",
+   "pinyin": "dòngyáo",
+   "pos": "动"
+  },
+  {
+   "no": 1957,
+   "level": "四级",
+   "raw": "豆腐",
+   "word": "豆腐",
+   "pinyin": "dòufu",
+   "pos": "名"
+  },
+  {
+   "no": 1970,
+   "level": "四级",
+   "raw": "独立",
+   "word": "独立",
+   "pinyin": "dúlì",
+   "pos": "动"
+  },
+  {
+   "no": 1973,
+   "level": "四级",
+   "raw": "独特",
+   "word": "独特",
+   "pinyin": "dútè",
+   "pos": "形"
+  },
+  {
+   "no": 1975,
+   "level": "四级",
+   "raw": "独自",
+   "word": "独自",
+   "pinyin": "dúzì",
+   "pos": "副"
+  },
+  {
+   "no": 1980,
+   "level": "四级",
+   "raw": "堵",
+   "word": "堵",
+   "pinyin": "dǔ",
+   "pos": "动"
+  },
+  {
+   "no": 1981,
+   "level": "四级",
+   "raw": "堵车",
+   "word": "堵车",
+   "pinyin": "dǔ∥chē",
+   "pos": ""
+  },
+  {
+   "no": 1986,
+   "level": "四级",
+   "raw": "肚子",
+   "word": "肚子",
+   "pinyin": "dùzi",
+   "pos": "名"
+  },
+  {
+   "no": 1990,
+   "level": "四级",
+   "raw": "度过",
+   "word": "度过",
+   "pinyin": "dùguò",
+   "pos": "动"
+  },
+  {
+   "no": 2011,
+   "level": "四级",
+   "raw": "锻炼",
+   "word": "锻炼",
+   "pinyin": "duànliàn",
+   "pos": "动"
+  },
+  {
+   "no": 2022,
+   "level": "四级",
+   "raw": "对比",
+   "word": "对比",
+   "pinyin": "duìbǐ",
+   "pos": "动、名"
+  },
+  {
+   "no": 2029,
+   "level": "四级",
+   "raw": "对付",
+   "word": "对付",
+   "pinyin": "duìfu",
+   "pos": "动"
+  },
+  {
+   "no": 2040,
+   "level": "四级",
+   "raw": "对于",
+   "word": "对于",
+   "pinyin": "duìyú",
+   "pos": "介"
+  },
+  {
+   "no": 2057,
+   "level": "四级",
+   "raw": "多次",
+   "word": "多次",
+   "pinyin": "duō cì",
+   "pos": ""
+  },
+  {
+   "no": 2065,
+   "level": "四级",
+   "raw": "多年",
+   "word": "多年",
+   "pinyin": "duō nián",
+   "pos": ""
+  },
+  {
+   "no": 2070,
+   "level": "四级",
+   "raw": "多样",
+   "word": "多样",
+   "pinyin": "duōyàng",
+   "pos": "形"
+  },
+  {
+   "no": 2074,
+   "level": "四级",
+   "raw": "多种",
+   "word": "多种",
+   "pinyin": "duō zhǒng",
+   "pos": ""
+  },
+  {
+   "no": 2090,
+   "level": "四级",
+   "raw": "恶心",
+   "word": "恶心",
+   "pinyin": "ěxin",
+   "pos": "形、动"
+  },
+  {
+   "no": 2107,
+   "level": "四级",
+   "raw": "儿童",
+   "word": "儿童",
+   "pinyin": "értóng",
+   "pos": "名"
+  },
+  {
+   "no": 2109,
+   "level": "四级",
+   "raw": "而",
+   "word": "而",
+   "pinyin": "ér",
+   "pos": "连"
+  },
+  {
+   "no": 2111,
+   "level": "四级",
+   "raw": "而是",
+   "word": "而是",
+   "pinyin": "ér shì",
+   "pos": ""
+  },
+  {
+   "no": 2115,
+   "level": "四级",
+   "raw": "耳机",
+   "word": "耳机",
+   "pinyin": "ěrjī",
+   "pos": "名"
+  },
+  {
+   "no": 2120,
+   "level": "四级",
+   "raw": "二手",
+   "word": "二手",
+   "pinyin": "èrshǒu",
+   "pos": "形"
+  },
+  {
+   "no": 2140,
+   "level": "四级",
+   "raw": "发挥",
+   "word": "发挥",
+   "pinyin": "fāhuī",
+   "pos": "动"
+  },
+  {
+   "no": 2149,
+   "level": "四级",
+   "raw": "发票",
+   "word": "发票",
+   "pinyin": "fāpiào",
+   "pos": "名"
+  },
+  {
+   "no": 2153,
+   "level": "四级",
+   "raw": "发烧",
+   "word": "发烧",
+   "pinyin": "fā∥shāo",
+   "pos": ""
+  },
+  {
+   "no": 2173,
+   "level": "四级",
+   "raw": "法",
+   "word": "法",
+   "pinyin": "fǎ",
+   "pos": "名"
+  },
+  {
+   "no": 2174,
+   "level": "四级",
+   "raw": "法官",
+   "word": "法官",
+   "pinyin": "fǎguān",
+   "pos": "名"
+  },
+  {
+   "no": 2176,
+   "level": "四级",
+   "raw": "法律",
+   "word": "法律",
+   "pinyin": "fǎlǜ",
+   "pos": "名"
+  },
+  {
+   "no": 2179,
+   "level": "四级",
+   "raw": "法院",
+   "word": "法院",
+   "pinyin": "fǎyuàn",
+   "pos": "名"
+  },
+  {
+   "no": 2186,
+   "level": "四级",
+   "raw": "翻",
+   "word": "翻",
+   "pinyin": "fān",
+   "pos": "动"
+  },
+  {
+   "no": 2190,
+   "level": "四级",
+   "raw": "翻译",
+   "word": "翻译",
+   "pinyin": "fānyì",
+   "pos": "动、名"
+  },
+  {
+   "no": 2193,
+   "level": "四级",
+   "raw": "烦",
+   "word": "烦",
+   "pinyin": "fán",
+   "pos": "形、动"
+  },
+  {
+   "no": 2203,
+   "level": "四级",
+   "raw": "反",
+   "word": "反",
+   "pinyin": "fǎn",
+   "pos": "形、动、副"
+  },
+  {
+   "no": 2209,
+   "level": "四级",
+   "raw": "反而",
+   "word": "反而",
+   "pinyin": "fǎn’ér",
+   "pos": "副"
+  },
+  {
+   "no": 2223,
+   "level": "四级",
+   "raw": "反映",
+   "word": "反映",
+   "pinyin": "fǎnyìng",
+   "pos": "动、名"
+  },
+  {
+   "no": 2239,
+   "level": "四级",
+   "raw": "方",
+   "word": "方",
+   "pinyin": "fāng",
+   "pos": "形、名"
+  },
+  {
+   "no": 2240,
+   "level": "四级",
+   "raw": "方案",
+   "word": "方案",
+   "pinyin": "fāng’àn",
+   "pos": "名"
+  },
+  {
+   "no": 2250,
+   "level": "四级",
+   "raw": "方针",
+   "word": "方针",
+   "pinyin": "fāngzhēn",
+   "pos": "名"
+  },
+  {
+   "no": 2287,
+   "level": "四级",
+   "raw": "放松",
+   "word": "放松",
+   "pinyin": "fàngsōng",
+   "pos": "动"
+  },
+  {
+   "no": 2303,
+   "level": "四级",
+   "raw": "非",
+   "word": "非",
+   "pinyin": "fēi",
+   "pos": "副"
+  },
+  {
+   "no": 2310,
+   "level": "四级",
+   "raw": "肥",
+   "word": "肥",
+   "pinyin": "féi",
+   "pos": "形"
+  },
+  {
+   "no": 2333,
+   "level": "四级",
+   "raw": "分布",
+   "word": "分布",
+   "pinyin": "fēnbù",
+   "pos": "动"
+  },
+  {
+   "no": 2350,
+   "level": "四级",
+   "raw": "分散",
+   "word": "分散",
+   "pinyin": "fēnsàn",
+   "pos": "动、形"
+  },
+  {
+   "no": 2351,
+   "level": "四级",
+   "raw": "分手",
+   "word": "分手",
+   "pinyin": "fēn∥shǒu",
+   "pos": ""
+  },
+  {
+   "no": 2353,
+   "level": "四级",
+   "raw": "分为",
+   "word": "分为",
+   "pinyin": "fēnwéi",
+   "pos": ""
+  },
+  {
+   "no": 2357,
+   "level": "四级",
+   "raw": "…分之…",
+   "word": "分之",
+   "pinyin": "…fēn zhī…",
+   "pos": ""
+  },
+  {
+   "no": 2363,
+   "level": "四级",
+   "raw": "纷纷",
+   "word": "纷纷",
+   "pinyin": "fēnfēn",
+   "pos": "副"
+  },
+  {
+   "no": 2375,
+   "level": "四级",
+   "raw": "奋斗",
+   "word": "奋斗",
+   "pinyin": "fèndòu",
+   "pos": "动"
+  },
+  {
+   "no": 2396,
+   "level": "四级",
+   "raw": "风格",
+   "word": "风格",
+   "pinyin": "fēnggé",
+   "pos": "名"
+  },
+  {
+   "no": 2399,
+   "level": "四级",
+   "raw": "风景",
+   "word": "风景",
+   "pinyin": "fēngjǐng",
+   "pos": "名"
+  },
+  {
+   "no": 2410,
+   "level": "四级",
+   "raw": "风俗",
+   "word": "风俗",
+   "pinyin": "fēngsú",
+   "pos": "名"
+  },
+  {
+   "no": 2418,
+   "level": "四级",
+   "raw": "封闭",
+   "word": "封闭",
+   "pinyin": "fēngbì",
+   "pos": "动、形"
+  },
+  {
+   "no": 2441,
+   "level": "四级",
+   "raw": "否则",
+   "word": "否则",
+   "pinyin": "fǒuzé",
+   "pos": "连"
+  },
+  {
+   "no": 2442,
+   "level": "四级",
+   "raw": "夫妇",
+   "word": "夫妇",
+   "pinyin": "fūfù",
+   "pos": "名"
+  },
+  {
+   "no": 2443,
+   "level": "四级",
+   "raw": "夫妻",
+   "word": "夫妻",
+   "pinyin": "fūqī",
+   "pos": "名"
+  },
+  {
+   "no": 2444,
+   "level": "四级",
+   "raw": "夫人",
+   "word": "夫人",
+   "pinyin": "fū·rén",
+   "pos": "名"
+  },
+  {
+   "no": 2462,
+   "level": "四级",
+   "raw": "符号",
+   "word": "符号",
+   "pinyin": "fúhào",
+   "pos": "名"
+  },
+  {
+   "no": 2463,
+   "level": "四级",
+   "raw": "符合",
+   "word": "符合",
+   "pinyin": "fúhé",
+   "pos": "动"
+  },
+  {
+   "no": 2488,
+   "level": "四级",
+   "raw": "付出",
+   "word": "付出",
+   "pinyin": "fùchū",
+   "pos": "动"
+  },
+  {
+   "no": 2492,
+   "level": "四级",
+   "raw": "负担",
+   "word": "负担",
+   "pinyin": "fùdān",
+   "pos": "动、名"
+  },
+  {
+   "no": 2503,
+   "level": "四级",
+   "raw": "附近",
+   "word": "附近",
+   "pinyin": "fùjìn",
+   "pos": "名"
+  },
+  {
+   "no": 2516,
+   "level": "四级",
+   "raw": "复制",
+   "word": "复制",
+   "pinyin": "fùzhì",
+   "pos": "动"
+  },
+  {
+   "no": 2546,
+   "level": "四级",
+   "raw": "改善",
+   "word": "改善",
+   "pinyin": "gǎishàn",
+   "pos": "动"
+  },
+  {
+   "no": 2550,
+   "level": "四级",
+   "raw": "改正",
+   "word": "改正",
+   "pinyin": "gǎizhèng",
+   "pos": "动"
+  },
+  {
+   "no": 2553,
+   "level": "四级",
+   "raw": "盖",
+   "word": "盖",
+   "pinyin": "gài",
+   "pos": "动"
+  },
+  {
+   "no": 2556,
+   "level": "四级",
+   "raw": "概括",
+   "word": "概括",
+   "pinyin": "gàikuò",
+   "pos": "动、形"
+  },
+  {
+   "no": 2604,
+   "level": "四级",
+   "raw": "感兴趣",
+   "word": "感兴趣",
+   "pinyin": "gǎn xìngqù",
+   "pos": ""
+  },
+  {
+   "no": 2632,
+   "level": "四级",
+   "raw": "高潮",
+   "word": "高潮",
+   "pinyin": "gāocháo",
+   "pos": "名"
+  },
+  {
+   "no": 2646,
+   "level": "四级",
+   "raw": "高价",
+   "word": "高价",
+   "pinyin": "gāojià",
+   "pos": "名"
+  },
+  {
+   "no": 2653,
+   "level": "四级",
+   "raw": "高尚",
+   "word": "高尚",
+   "pinyin": "gāoshàng",
+   "pos": "形"
+  },
+  {
+   "no": 2657,
+   "level": "四级",
+   "raw": "高铁",
+   "word": "高铁",
+   "pinyin": "gāotiě",
+   "pos": "名"
+  },
+  {
+   "no": 2708,
+   "level": "四级",
+   "raw": "格外",
+   "word": "格外",
+   "pinyin": "géwài",
+   "pos": "副"
+  },
+  {
+   "no": 2709,
+   "level": "四级",
+   "raw": "隔",
+   "word": "隔",
+   "pinyin": "gé",
+   "pos": "动"
+  },
+  {
+   "no": 2712,
+   "level": "四级",
+   "raw": "隔开",
+   "word": "隔开",
+   "pinyin": "gékāi",
+   "pos": "动"
+  },
+  {
+   "no": 2716,
+   "level": "四级",
+   "raw": "个别",
+   "word": "个别",
+   "pinyin": "gèbié",
+   "pos": "形"
+  },
+  {
+   "no": 2719,
+   "level": "四级",
+   "raw": "个体",
+   "word": "个体",
+   "pinyin": "gètǐ",
+   "pos": "名"
+  },
+  {
+   "no": 2726,
+   "level": "四级",
+   "raw": "各个",
+   "word": "各个",
+   "pinyin": "gègè",
+   "pos": "代、副"
+  },
+  {
+   "no": 2732,
+   "level": "四级",
+   "raw": "根",
+   "word": "根",
+   "pinyin": "gēn",
+   "pos": "量、名"
+  },
+  {
+   "no": 2735,
+   "level": "四级",
+   "raw": "根据",
+   "word": "根据",
+   "pinyin": "gēnjù",
+   "pos": "动、介、名"
+  },
+  {
+   "no": 2755,
+   "level": "四级",
+   "raw": "工程",
+   "word": "工程",
+   "pinyin": "gōngchéng",
+   "pos": "名"
+  },
+  {
+   "no": 2814,
+   "level": "四级",
+   "raw": "公元",
+   "word": "公元",
+   "pinyin": "gōngyuán",
+   "pos": "名"
+  },
+  {
+   "no": 2841,
+   "level": "四级",
+   "raw": "供应",
+   "word": "供应",
+   "pinyin": "gōngyìng",
+   "pos": "动"
+  },
+  {
+   "no": 2849,
+   "level": "四级",
+   "raw": "共",
+   "word": "共",
+   "pinyin": "gòng",
+   "pos": "副"
+  },
+  {
+   "no": 2868,
+   "level": "四级",
+   "raw": "构成",
+   "word": "构成",
+   "pinyin": "gòuchéng",
+   "pos": "动"
+  },
+  {
+   "no": 2872,
+   "level": "四级",
+   "raw": "构造",
+   "word": "构造",
+   "pinyin": "gòuzào",
+   "pos": "名"
+  },
+  {
+   "no": 2874,
+   "level": "四级",
+   "raw": "购买",
+   "word": "购买",
+   "pinyin": "gòumǎi",
+   "pos": "动"
+  },
+  {
+   "no": 2875,
+   "level": "四级",
+   "raw": "购物",
+   "word": "购物",
+   "pinyin": "gòuwù",
+   "pos": "动"
+  },
+  {
+   "no": 2908,
+   "level": "四级",
+   "raw": "骨头",
+   "word": "骨头",
+   "pinyin": "gǔtou",
+   "pos": "名"
+  },
+  {
+   "no": 2915,
+   "level": "四级",
+   "raw": "固定",
+   "word": "固定",
+   "pinyin": "gùdìng",
+   "pos": "形、动"
+  },
+  {
+   "no": 2935,
+   "level": "四级",
+   "raw": "瓜",
+   "word": "瓜",
+   "pinyin": "guā",
+   "pos": "名"
+  },
+  {
+   "no": 2951,
+   "level": "四级",
+   "raw": "怪",
+   "word": "怪",
+   "pinyin": "guài",
+   "pos": "形、副"
+  },
+  {
+   "no": 2957,
+   "level": "四级",
+   "raw": "关（名）",
+   "word": "关",
+   "pinyin": "guān",
+   "pos": "名"
+  },
+  {
+   "no": 2959,
+   "level": "四级",
+   "raw": "关闭",
+   "word": "关闭",
+   "pinyin": "guānbì",
+   "pos": "动"
+  },
+  {
+   "no": 2971,
+   "level": "四级",
+   "raw": "关于",
+   "word": "关于",
+   "pinyin": "guānyú",
+   "pos": "介"
+  },
+  {
+   "no": 2985,
+   "level": "四级",
+   "raw": "官",
+   "word": "官",
+   "pinyin": "guān",
+   "pos": "名"
+  },
+  {
+   "no": 2987,
+   "level": "四级",
+   "raw": "官方",
+   "word": "官方",
+   "pinyin": "guānfāng",
+   "pos": "名"
+  },
+  {
+   "no": 3023,
+   "level": "四级",
+   "raw": "光临",
+   "word": "光临",
+   "pinyin": "guānglín",
+   "pos": "动"
+  },
+  {
+   "no": 3027,
+   "level": "四级",
+   "raw": "光盘",
+   "word": "光盘",
+   "pinyin": "guāngpán",
+   "pos": "名"
+  },
+  {
+   "no": 3039,
+   "level": "四级",
+   "raw": "逛",
+   "word": "逛",
+   "pinyin": "guàng",
+   "pos": "动"
+  },
+  {
+   "no": 3040,
+   "level": "四级",
+   "raw": "归",
+   "word": "归",
+   "pinyin": "guī",
+   "pos": "动"
+  },
+  {
+   "no": 3054,
+   "level": "四级",
+   "raw": "规律",
+   "word": "规律",
+   "pinyin": "guīlǜ",
+   "pos": "名"
+  },
+  {
+   "no": 3055,
+   "level": "四级",
+   "raw": "规模",
+   "word": "规模",
+   "pinyin": "guīmó",
+   "pos": "名"
+  },
+  {
+   "no": 3056,
+   "level": "四级",
+   "raw": "规则",
+   "word": "规则",
+   "pinyin": "guīzé",
+   "pos": "名、形"
+  },
+  {
+   "no": 3099,
+   "level": "四级",
+   "raw": "果实",
+   "word": "果实",
+   "pinyin": "guǒshí",
+   "pos": "名"
+  },
+  {
+   "no": 3113,
+   "level": "四级",
+   "raw": "过分",
+   "word": "过分",
+   "pinyin": "guò∥fèn",
+   "pos": ""
+  },
+  {
+   "no": 3158,
+   "level": "四级",
+   "raw": "海水",
+   "word": "海水",
+   "pinyin": "hǎishuǐ",
+   "pos": "名"
+  },
+  {
+   "no": 3163,
+   "level": "四级",
+   "raw": "海鲜",
+   "word": "海鲜",
+   "pinyin": "hǎixiān",
+   "pos": "名"
+  },
+  {
+   "no": 3177,
+   "level": "四级",
+   "raw": "含",
+   "word": "含",
+   "pinyin": "hán",
+   "pos": "动"
+  },
+  {
+   "no": 3179,
+   "level": "四级",
+   "raw": "含量",
+   "word": "含量",
+   "pinyin": "hánliàng",
+   "pos": "名"
+  },
+  {
+   "no": 3181,
+   "level": "四级",
+   "raw": "含义",
+   "word": "含义",
+   "pinyin": "hányì",
+   "pos": "名"
+  },
+  {
+   "no": 3182,
+   "level": "四级",
+   "raw": "含有",
+   "word": "含有",
+   "pinyin": "hányǒu",
+   "pos": "动"
+  },
+  {
+   "no": 3186,
+   "level": "四级",
+   "raw": "寒假",
+   "word": "寒假",
+   "pinyin": "hánjià",
+   "pos": "名"
+  },
+  {
+   "no": 3187,
+   "level": "四级",
+   "raw": "寒冷",
+   "word": "寒冷",
+   "pinyin": "hánlěng",
+   "pos": "形"
+  },
+  {
+   "no": 3202,
+   "level": "四级",
+   "raw": "行业",
+   "word": "行业",
+   "pinyin": "hángyè",
+   "pos": "名"
+  },
+  {
+   "no": 3203,
+   "level": "四级",
+   "raw": "航班",
+   "word": "航班",
+   "pinyin": "hángbān",
+   "pos": "名"
+  },
+  {
+   "no": 3205,
+   "level": "四级",
+   "raw": "航空",
+   "word": "航空",
+   "pinyin": "hángkōng",
+   "pos": "动"
+  },
+  {
+   "no": 3212,
+   "level": "四级",
+   "raw": "毫米",
+   "word": "毫米",
+   "pinyin": "háomǐ",
+   "pos": "量"
+  },
+  {
+   "no": 3213,
+   "level": "四级",
+   "raw": "毫升",
+   "word": "毫升",
+   "pinyin": "háoshēng",
+   "pos": "量"
+  },
+  {
+   "no": 3242,
+   "level": "四级",
+   "raw": "好友",
+   "word": "好友",
+   "pinyin": "hǎoyǒu",
+   "pos": "名"
+  },
+  {
+   "no": 3248,
+   "level": "四级",
+   "raw": "号码",
+   "word": "号码",
+   "pinyin": "hàomǎ",
+   "pos": "名"
+  },
+  {
+   "no": 3250,
+   "level": "四级",
+   "raw": "好",
+   "word": "好",
+   "pinyin": "hào",
+   "pos": "动"
+  },
+  {
+   "no": 3274,
+   "level": "四级",
+   "raw": "合同",
+   "word": "合同",
+   "pinyin": "hé·tóng",
+   "pos": "名"
+  },
+  {
+   "no": 3316,
+   "level": "四级",
+   "raw": "黑暗",
+   "word": "黑暗",
+   "pinyin": "hēi’àn",
+   "pos": "形"
+  },
+  {
+   "no": 3347,
+   "level": "四级",
+   "raw": "红包",
+   "word": "红包",
+   "pinyin": "hóngbāo",
+   "pos": "名"
+  },
+  {
+   "no": 3384,
+   "level": "四级",
+   "raw": "后头",
+   "word": "后头",
+   "pinyin": "hòutou",
+   "pos": "名"
+  },
+  {
+   "no": 3390,
+   "level": "四级",
+   "raw": "厚",
+   "word": "厚",
+   "pinyin": "hòu",
+   "pos": "形"
+  },
+  {
+   "no": 3398,
+   "level": "四级",
+   "raw": "呼吸",
+   "word": "呼吸",
+   "pinyin": "hūxī",
+   "pos": "动"
+  },
+  {
+   "no": 3404,
+   "level": "四级",
+   "raw": "忽视",
+   "word": "忽视",
+   "pinyin": "hūshì",
+   "pos": "动"
+  },
+  {
+   "no": 3424,
+   "level": "四级",
+   "raw": "户",
+   "word": "户",
+   "pinyin": "hù",
+   "pos": "量"
+  },
+  {
+   "no": 3428,
+   "level": "四级",
+   "raw": "护士",
+   "word": "护士",
+   "pinyin": "hùshi",
+   "pos": "名"
+  },
+  {
+   "no": 3432,
+   "level": "四级",
+   "raw": "花（形）",
+   "word": "花",
+   "pinyin": "huā",
+   "pos": "形"
+  },
+  {
+   "no": 3441,
+   "level": "四级",
+   "raw": "划",
+   "word": "划",
+   "pinyin": "huá",
+   "pos": "动"
+  },
+  {
+   "no": 3465,
+   "level": "四级",
+   "raw": "划",
+   "word": "划",
+   "pinyin": "huà",
+   "pos": "动"
+  },
+  {
+   "no": 3485,
+   "level": "四级",
+   "raw": "怀念",
+   "word": "怀念",
+   "pinyin": "huáiniàn",
+   "pos": "动"
+  },
+  {
+   "no": 3486,
+   "level": "四级",
+   "raw": "怀疑",
+   "word": "怀疑",
+   "pinyin": "huáiyí",
+   "pos": "动"
+  },
+  {
+   "no": 3512,
+   "level": "四级",
+   "raw": "缓解",
+   "word": "缓解",
+   "pinyin": "huǎnjiě",
+   "pos": "动"
+  },
+  {
+   "no": 3542,
+   "level": "四级",
+   "raw": "黄瓜",
+   "word": "黄瓜",
+   "pinyin": "huáng·guā",
+   "pos": "名"
+  },
+  {
+   "no": 3544,
+   "level": "四级",
+   "raw": "黄金",
+   "word": "黄金",
+   "pinyin": "huángjīn",
+   "pos": "名"
+  },
+  {
+   "no": 3565,
+   "level": "四级",
+   "raw": "回复",
+   "word": "回复",
+   "pinyin": "huífù",
+   "pos": "动"
+  },
+  {
+   "no": 3589,
+   "level": "四级",
+   "raw": "汇",
+   "word": "汇",
+   "pinyin": "huì",
+   "pos": "动"
+  },
+  {
+   "no": 3590,
+   "level": "四级",
+   "raw": "汇报",
+   "word": "汇报",
+   "pinyin": "huìbào",
+   "pos": "动、名"
+  },
+  {
+   "no": 3595,
+   "level": "四级",
+   "raw": "会",
+   "word": "会",
+   "pinyin": "huìlǜ",
+   "pos": "名"
+  },
+  {
+   "no": 3613,
+   "level": "四级",
+   "raw": "婚礼",
+   "word": "婚礼",
+   "pinyin": "hūnlǐ",
+   "pos": "名"
+  },
+  {
+   "no": 3635,
+   "level": "四级",
+   "raw": "火（形）",
+   "word": "火",
+   "pinyin": "huǒ",
+   "pos": "形"
+  },
+  {
+   "no": 3652,
+   "level": "四级",
+   "raw": "伙",
+   "word": "伙",
+   "pinyin": "huǒ",
+   "pos": "量"
+  },
+  {
+   "no": 3653,
+   "level": "四级",
+   "raw": "伙伴",
+   "word": "伙伴",
+   "pinyin": "huǒbàn",
+   "pos": "名"
+  },
+  {
+   "no": 3658,
+   "level": "四级",
+   "raw": "或许",
+   "word": "或许",
+   "pinyin": "huòxǔ",
+   "pos": "副"
+  },
+  {
+   "no": 3660,
+   "level": "四级",
+   "raw": "货",
+   "word": "货",
+   "pinyin": "huò",
+   "pos": "名"
+  },
+  {
+   "no": 3665,
+   "level": "四级",
+   "raw": "获",
+   "word": "获",
+   "pinyin": "huò",
+   "pos": "动"
+  },
+  {
+   "no": 3666,
+   "level": "四级",
+   "raw": "获得",
+   "word": "获得",
+   "pinyin": "huòdé",
+   "pos": "动"
+  },
+  {
+   "no": 3667,
+   "level": "四级",
+   "raw": "获奖",
+   "word": "获奖",
+   "pinyin": "huòjiǎng",
+   "pos": "动"
+  },
+  {
+   "no": 3668,
+   "level": "四级",
+   "raw": "获取",
+   "word": "获取",
+   "pinyin": "huòqǔ",
+   "pos": "动"
+  },
+  {
+   "no": 3674,
+   "level": "四级",
+   "raw": "几乎",
+   "word": "几乎",
+   "pinyin": "jīhū",
+   "pos": "副"
+  },
+  {
+   "no": 3682,
+   "level": "四级",
+   "raw": "机构",
+   "word": "机构",
+   "pinyin": "jīgòu",
+   "pos": "名"
+  },
+  {
+   "no": 3691,
+   "level": "四级",
+   "raw": "机遇",
+   "word": "机遇",
+   "pinyin": "jīyù",
+   "pos": "名"
+  },
+  {
+   "no": 3701,
+   "level": "四级",
+   "raw": "积累",
+   "word": "积累",
+   "pinyin": "jīlěi",
+   "pos": "动"
+  },
+  {
+   "no": 3715,
+   "level": "四级",
+   "raw": "激动",
+   "word": "激动",
+   "pinyin": "jīdòng",
+   "pos": "形、动"
+  },
+  {
+   "no": 3721,
+   "level": "四级",
+   "raw": "激烈",
+   "word": "激烈",
+   "pinyin": "jīliè",
+   "pos": "形"
+  },
+  {
+   "no": 3726,
+   "level": "四级",
+   "raw": "及格",
+   "word": "及格",
+   "pinyin": "jí∥gé",
+   "pos": ""
+  },
+  {
+   "no": 3737,
+   "level": "四级",
+   "raw": "极",
+   "word": "极",
+   "pinyin": "jí",
+   "pos": "副"
+  },
+  {
+   "no": 3742,
+   "level": "四级",
+   "raw": "极其",
+   "word": "极其",
+   "pinyin": "jíqí",
+   "pos": "副"
+  },
+  {
+   "no": 3748,
+   "level": "四级",
+   "raw": "即将",
+   "word": "即将",
+   "pinyin": "jíjiāng",
+   "pos": "副"
+  },
+  {
+   "no": 3754,
+   "level": "四级",
+   "raw": "急忙",
+   "word": "急忙",
+   "pinyin": "jímáng",
+   "pos": "副"
+  },
+  {
+   "no": 3764,
+   "level": "四级",
+   "raw": "集合",
+   "word": "集合",
+   "pinyin": "jíhé",
+   "pos": "动"
+  },
+  {
+   "no": 3792,
+   "level": "四级",
+   "raw": "记载",
+   "word": "记载",
+   "pinyin": "jìzǎi",
+   "pos": "动"
+  },
+  {
+   "no": 3797,
+   "level": "四级",
+   "raw": "纪律",
+   "word": "纪律",
+   "pinyin": "jìlǜ",
+   "pos": "名"
+  },
+  {
+   "no": 3804,
+   "level": "四级",
+   "raw": "技巧",
+   "word": "技巧",
+   "pinyin": "jìqiǎo",
+   "pos": "名"
+  },
+  {
+   "no": 3807,
+   "level": "四级",
+   "raw": "系",
+   "word": "系",
+   "pinyin": "jì",
+   "pos": "动"
+  },
+  {
+   "no": 3811,
+   "level": "四级",
+   "raw": "季",
+   "word": "季",
+   "pinyin": "jì",
+   "pos": "名"
+  },
+  {
+   "no": 3812,
+   "level": "四级",
+   "raw": "季度",
+   "word": "季度",
+   "pinyin": "jìdù",
+   "pos": "名"
+  },
+  {
+   "no": 3813,
+   "level": "四级",
+   "raw": "季节",
+   "word": "季节",
+   "pinyin": "jìjié",
+   "pos": "名"
+  },
+  {
+   "no": 3816,
+   "level": "四级",
+   "raw": "既",
+   "word": "既",
+   "pinyin": "jì",
+   "pos": "副、连"
+  },
+  {
+   "no": 3817,
+   "level": "四级",
+   "raw": "既然",
+   "word": "既然",
+   "pinyin": "jìrán",
+   "pos": "连"
+  },
+  {
+   "no": 3827,
+   "level": "四级",
+   "raw": "寄",
+   "word": "寄",
+   "pinyin": "jì",
+   "pos": "动"
+  },
+  {
+   "no": 3832,
+   "level": "四级",
+   "raw": "加班",
+   "word": "加班",
+   "pinyin": "jiā∥bān",
+   "pos": ""
+  },
+  {
+   "no": 3840,
+   "level": "四级",
+   "raw": "加入",
+   "word": "加入",
+   "pinyin": "jiārù",
+   "pos": "动"
+  },
+  {
+   "no": 3846,
+   "level": "四级",
+   "raw": "加油站",
+   "word": "加油站",
+   "pinyin": "jiāyóuzhàn",
+   "pos": "名"
+  },
+  {
+   "no": 3863,
+   "level": "四级",
+   "raw": "家务",
+   "word": "家务",
+   "pinyin": "jiāwù",
+   "pos": "名"
+  },
+  {
+   "no": 3877,
+   "level": "四级",
+   "raw": "假如",
+   "word": "假如",
+   "pinyin": "jiǎrú",
+   "pos": "连"
+  },
+  {
+   "no": 3907,
+   "level": "四级",
+   "raw": "坚固",
+   "word": "坚固",
+   "pinyin": "jiāngù",
+   "pos": "形"
+  },
+  {
+   "no": 3941,
+   "level": "四级",
+   "raw": "检测",
+   "word": "检测",
+   "pinyin": "jiǎncè",
+   "pos": "动"
+  },
+  {
+   "no": 3946,
+   "level": "四级",
+   "raw": "减",
+   "word": "减",
+   "pinyin": "jiǎn",
+   "pos": "动"
+  },
+  {
+   "no": 3947,
+   "level": "四级",
+   "raw": "减肥",
+   "word": "减肥",
+   "pinyin": "jiǎn∥féi",
+   "pos": ""
+  },
+  {
+   "no": 3951,
+   "level": "四级",
+   "raw": "减少",
+   "word": "减少",
+   "pinyin": "jiǎnshǎo",
+   "pos": "动"
+  },
+  {
+   "no": 3963,
+   "level": "四级",
+   "raw": "简历",
+   "word": "简历",
+   "pinyin": "jiǎnlì",
+   "pos": "名"
+  },
+  {
+   "no": 4003,
+   "level": "四级",
+   "raw": "健身",
+   "word": "健身",
+   "pinyin": "jiànshēn",
+   "pos": "动"
+  },
+  {
+   "no": 4005,
+   "level": "四级",
+   "raw": "渐渐",
+   "word": "渐渐",
+   "pinyin": "jiànjiàn",
+   "pos": "副"
+  },
+  {
+   "no": 4014,
+   "level": "四级",
+   "raw": "江",
+   "word": "江",
+   "pinyin": "jiāng",
+   "pos": "名"
+  },
+  {
+   "no": 4027,
+   "level": "四级",
+   "raw": "讲究",
+   "word": "讲究",
+   "pinyin": "jiǎngjiu",
+   "pos": "动、形"
+  },
+  {
+   "no": 4031,
+   "level": "四级",
+   "raw": "讲座",
+   "word": "讲座",
+   "pinyin": "jiǎngzuò",
+   "pos": "名"
+  },
+  {
+   "no": 4032,
+   "level": "四级",
+   "raw": "奖",
+   "word": "奖",
+   "pinyin": "jiǎng",
+   "pos": "动、名"
+  },
+  {
+   "no": 4034,
+   "level": "四级",
+   "raw": "奖金",
+   "word": "奖金",
+   "pinyin": "jiǎngjīn",
+   "pos": "名"
+  },
+  {
+   "no": 4039,
+   "level": "四级",
+   "raw": "奖学金",
+   "word": "奖学金",
+   "pinyin": "jiǎngxuéjīn",
+   "pos": "名"
+  },
+  {
+   "no": 4040,
+   "level": "四级",
+   "raw": "降",
+   "word": "降",
+   "pinyin": "jiàng",
+   "pos": "动"
+  },
+  {
+   "no": 4041,
+   "level": "四级",
+   "raw": "降低",
+   "word": "降低",
+   "pinyin": "jiàngdī",
+   "pos": "动"
+  },
+  {
+   "no": 4042,
+   "level": "四级",
+   "raw": "降价",
+   "word": "降价",
+   "pinyin": "jiàng∥jià",
+   "pos": ""
+  },
+  {
+   "no": 4044,
+   "level": "四级",
+   "raw": "降落",
+   "word": "降落",
+   "pinyin": "jiàngluò",
+   "pos": "动"
+  },
+  {
+   "no": 4045,
+   "level": "四级",
+   "raw": "降温",
+   "word": "降温",
+   "pinyin": "jiàng∥wēn",
+   "pos": ""
+  },
+  {
+   "no": 4055,
+   "level": "四级",
+   "raw": "交换",
+   "word": "交换",
+   "pinyin": "jiāohuàn",
+   "pos": "动"
+  },
+  {
+   "no": 4057,
+   "level": "四级",
+   "raw": "交际",
+   "word": "交际",
+   "pinyin": "jiāojì",
+   "pos": "动"
+  },
+  {
+   "no": 4123,
+   "level": "四级",
+   "raw": "教授",
+   "word": "教授",
+   "pinyin": "jiàoshòu",
+   "pos": "名"
+  },
+  {
+   "no": 4128,
+   "level": "四级",
+   "raw": "教训",
+   "word": "教训",
+   "pinyin": "jiào·xùn",
+   "pos": "动、名"
+  },
+  {
+   "no": 4133,
+   "level": "四级",
+   "raw": "阶段",
+   "word": "阶段",
+   "pinyin": "jiēduàn",
+   "pos": "名"
+  },
+  {
+   "no": 4169,
+   "level": "四级",
+   "raw": "街道",
+   "word": "街道",
+   "pinyin": "jiēdào",
+   "pos": "名"
+  },
+  {
+   "no": 4179,
+   "level": "四级",
+   "raw": "节省",
+   "word": "节省",
+   "pinyin": "jiéshěng",
+   "pos": "动"
+  },
+  {
+   "no": 4188,
+   "level": "四级",
+   "raw": "结",
+   "word": "结",
+   "pinyin": "jié",
+   "pos": "动、名"
+  },
+  {
+   "no": 4190,
+   "level": "四级",
+   "raw": "结构",
+   "word": "结构",
+   "pinyin": "jiégòu",
+   "pos": "名"
+  },
+  {
+   "no": 4196,
+   "level": "四级",
+   "raw": "结论",
+   "word": "结论",
+   "pinyin": "jiélùn",
+   "pos": "名"
+  },
+  {
+   "no": 4207,
+   "level": "四级",
+   "raw": "姐妹",
+   "word": "姐妹",
+   "pinyin": "jiěmèi",
+   "pos": "名"
+  },
+  {
+   "no": 4219,
+   "level": "四级",
+   "raw": "解释",
+   "word": "解释",
+   "pinyin": "jiěshì",
+   "pos": "动"
+  },
+  {
+   "no": 4268,
+   "level": "四级",
+   "raw": "尽快",
+   "word": "尽快",
+   "pinyin": "jǐnkuài",
+   "pos": "副"
+  },
+  {
+   "no": 4276,
+   "level": "四级",
+   "raw": "紧密",
+   "word": "紧密",
+   "pinyin": "jǐnmì",
+   "pos": "形"
+  },
+  {
+   "no": 4285,
+   "level": "四级",
+   "raw": "尽力",
+   "word": "尽力",
+   "pinyin": "jìn∥lì",
+   "pos": ""
+  },
+  {
+   "no": 4298,
+   "level": "四级",
+   "raw": "进口",
+   "word": "进口",
+   "pinyin": "jìnkǒu",
+   "pos": "动、名"
+  },
+  {
+   "no": 4307,
+   "level": "四级",
+   "raw": "近代",
+   "word": "近代",
+   "pinyin": "jìndài",
+   "pos": "名"
+  },
+  {
+   "no": 4318,
+   "level": "四级",
+   "raw": "禁止",
+   "word": "禁止",
+   "pinyin": "jìnzhǐ",
+   "pos": "动"
+  },
+  {
+   "no": 4323,
+   "level": "四级",
+   "raw": "经典",
+   "word": "经典",
+   "pinyin": "jīngdiǎn",
+   "pos": "名"
+  },
+  {
+   "no": 4357,
+   "level": "四级",
+   "raw": "精力",
+   "word": "精力",
+   "pinyin": "jīnglì",
+   "pos": "名"
+  },
+  {
+   "no": 4398,
+   "level": "四级",
+   "raw": "竟然",
+   "word": "竟然",
+   "pinyin": "jìngrán",
+   "pos": "副"
+  },
+  {
+   "no": 4416,
+   "level": "四级",
+   "raw": "镜头",
+   "word": "镜头",
+   "pinyin": "jìngtóu",
+   "pos": "名"
+  },
+  {
+   "no": 4417,
+   "level": "四级",
+   "raw": "镜子",
+   "word": "镜子",
+   "pinyin": "jìngzi",
+   "pos": "名"
+  },
+  {
+   "no": 4422,
+   "level": "四级",
+   "raw": "究竟",
+   "word": "究竟",
+   "pinyin": "jiūjìng",
+   "pos": "副"
+  },
+  {
+   "no": 4429,
+   "level": "四级",
+   "raw": "酒吧",
+   "word": "酒吧",
+   "pinyin": "jiǔbā",
+   "pos": "名"
+  },
+  {
+   "no": 4463,
+   "level": "四级",
+   "raw": "居民",
+   "word": "居民",
+   "pinyin": "jūmín",
+   "pos": "名"
+  },
+  {
+   "no": 4466,
+   "level": "四级",
+   "raw": "居住",
+   "word": "居住",
+   "pinyin": "jūzhù",
+   "pos": "动"
+  },
+  {
+   "no": 4468,
+   "level": "四级",
+   "raw": "局",
+   "word": "局",
+   "pinyin": "jú",
+   "pos": "名"
+  },
+  {
+   "no": 4492,
+   "level": "四级",
+   "raw": "巨大",
+   "word": "巨大",
+   "pinyin": "jùdà",
+   "pos": "形"
+  },
+  {
+   "no": 4501,
+   "level": "四级",
+   "raw": "具备",
+   "word": "具备",
+   "pinyin": "jùbèi",
+   "pos": "动"
+  },
+  {
+   "no": 4519,
+   "level": "四级",
+   "raw": "距离",
+   "word": "距离",
+   "pinyin": "jùlí",
+   "pos": "动、名"
+  },
+  {
+   "no": 4521,
+   "level": "四级",
+   "raw": "聚",
+   "word": "聚",
+   "pinyin": "jù",
+   "pos": "动"
+  },
+  {
+   "no": 4522,
+   "level": "四级",
+   "raw": "聚会",
+   "word": "聚会",
+   "pinyin": "jùhuì",
+   "pos": "动、名"
+  },
+  {
+   "no": 4530,
+   "level": "四级",
+   "raw": "卷",
+   "word": "卷",
+   "pinyin": "juǎn",
+   "pos": "动"
+  },
+  {
+   "no": 4532,
+   "level": "四级",
+   "raw": "卷",
+   "word": "卷",
+   "pinyin": "juàn",
+   "pos": "量"
+  },
+  {
+   "no": 4543,
+   "level": "四级",
+   "raw": "角色",
+   "word": "角色",
+   "pinyin": "juésè",
+   "pos": "名"
+  },
+  {
+   "no": 4591,
+   "level": "四级",
+   "raw": "开花",
+   "word": "开花",
+   "pinyin": "kāi∥huā",
+   "pos": ""
+  },
+  {
+   "no": 4605,
+   "level": "四级",
+   "raw": "开水",
+   "word": "开水",
+   "pinyin": "kāishuǐ",
+   "pos": "名"
+  },
+  {
+   "no": 4632,
+   "level": "四级",
+   "raw": "看不起",
+   "word": "看不起",
+   "pinyin": "kànbuqǐ",
+   "pos": "动"
+  },
+  {
+   "no": 4643,
+   "level": "四级",
+   "raw": "看来",
+   "word": "看来",
+   "pinyin": "kànlái",
+   "pos": ""
+  },
+  {
+   "no": 4649,
+   "level": "四级",
+   "raw": "看望",
+   "word": "看望",
+   "pinyin": "kànwàng",
+   "pos": "动"
+  },
+  {
+   "no": 4663,
+   "level": "四级",
+   "raw": "考察",
+   "word": "考察",
+   "pinyin": "kǎochá",
+   "pos": "动、名"
+  },
+  {
+   "no": 4667,
+   "level": "四级",
+   "raw": "考虑",
+   "word": "考虑",
+   "pinyin": "kǎolǜ",
+   "pos": "动"
+  },
+  {
+   "no": 4686,
+   "level": "四级",
+   "raw": "棵",
+   "word": "棵",
+   "pinyin": "kē",
+   "pos": "量"
+  },
+  {
+   "no": 4701,
+   "level": "四级",
+   "raw": "可见",
+   "word": "可见",
+   "pinyin": "kějiàn",
+   "pos": "连"
+  },
+  {
+   "no": 4752,
+   "level": "四级",
+   "raw": "空间",
+   "word": "空间",
+   "pinyin": "kōngjiān",
+   "pos": "名"
+  },
+  {
+   "no": 4767,
+   "level": "四级",
+   "raw": "空",
+   "word": "空",
+   "pinyin": "kòng",
+   "pos": "动、形"
+  },
+  {
+   "no": 4779,
+   "level": "四级",
+   "raw": "口袋",
+   "word": "口袋",
+   "pinyin": "kǒudai",
+   "pos": "名"
+  },
+  {
+   "no": 4793,
+   "level": "四级",
+   "raw": "口语",
+   "word": "口语",
+   "pinyin": "kǒuyǔ",
+   "pos": "名"
+  },
+  {
+   "no": 4806,
+   "level": "四级",
+   "raw": "苦",
+   "word": "苦",
+   "pinyin": "kǔ",
+   "pos": "形"
+  },
+  {
+   "no": 4828,
+   "level": "四级",
+   "raw": "会计",
+   "word": "会计",
+   "pinyin": "kuài·jì",
+   "pos": "名"
+  },
+  {
+   "no": 4833,
+   "level": "四级",
+   "raw": "快递",
+   "word": "快递",
+   "pinyin": "kuàidì",
+   "pos": "名"
+  },
+  {
+   "no": 4841,
+   "level": "四级",
+   "raw": "宽",
+   "word": "宽",
+   "pinyin": "kuān",
+   "pos": "形"
+  },
+  {
+   "no": 4845,
+   "level": "四级",
+   "raw": "宽广",
+   "word": "宽广",
+   "pinyin": "kuānguǎng",
+   "pos": "形"
+  },
+  {
+   "no": 4862,
+   "level": "四级",
+   "raw": "矿泉水",
+   "word": "矿泉水",
+   "pinyin": "kuàngquánshuǐ",
+   "pos": "名"
+  },
+  {
+   "no": 4876,
+   "level": "四级",
+   "raw": "扩大",
+   "word": "扩大",
+   "pinyin": "kuòdà",
+   "pos": "动"
+  },
+  {
+   "no": 4879,
+   "level": "四级",
+   "raw": "扩展",
+   "word": "扩展",
+   "pinyin": "kuòzhǎn",
+   "pos": "动"
+  },
+  {
+   "no": 4881,
+   "level": "四级",
+   "raw": "括号",
+   "word": "括号",
+   "pinyin": "kuòhào",
+   "pos": "名"
+  },
+  {
+   "no": 4885,
+   "level": "四级",
+   "raw": "垃圾",
+   "word": "垃圾",
+   "pinyin": "lājī",
+   "pos": "名"
+  },
+  {
+   "no": 4888,
+   "level": "四级",
+   "raw": "拉开",
+   "word": "拉开",
+   "pinyin": "lākāi",
+   "pos": ""
+  },
+  {
+   "no": 4897,
+   "level": "四级",
+   "raw": "辣",
+   "word": "辣",
+   "pinyin": "là",
+   "pos": "形"
+  },
+  {
+   "no": 4902,
+   "level": "四级",
+   "raw": "来不及",
+   "word": "来不及",
+   "pinyin": "láibují",
+   "pos": "动"
+  },
+  {
+   "no": 4904,
+   "level": "四级",
+   "raw": "来得及",
+   "word": "来得及",
+   "pinyin": "láidejí",
+   "pos": "动"
+  },
+  {
+   "no": 4914,
+   "level": "四级",
+   "raw": "来源",
+   "word": "来源",
+   "pinyin": "láiyuán",
+   "pos": "名"
+  },
+  {
+   "no": 4959,
+   "level": "四级",
+   "raw": "老公",
+   "word": "老公",
+   "pinyin": "lǎogōng",
+   "pos": "名"
+  },
+  {
+   "no": 4962,
+   "level": "四级",
+   "raw": "老家",
+   "word": "老家",
+   "pinyin": "lǎojiā",
+   "pos": "名"
+  },
+  {
+   "no": 4965,
+   "level": "四级",
+   "raw": "老婆",
+   "word": "老婆",
+   "pinyin": "lǎopo",
+   "pos": "名"
+  },
+  {
+   "no": 4969,
+   "level": "四级",
+   "raw": "老实",
+   "word": "老实",
+   "pinyin": "lǎoshi",
+   "pos": "形"
+  },
+  {
+   "no": 4982,
+   "level": "四级",
+   "raw": "乐趣",
+   "word": "乐趣",
+   "pinyin": "lèqù",
+   "pos": "名"
+  },
+  {
+   "no": 4990,
+   "level": "四级",
+   "raw": "泪",
+   "word": "泪",
+   "pinyin": "lèi",
+   "pos": "名"
+  },
+  {
+   "no": 4991,
+   "level": "四级",
+   "raw": "泪水",
+   "word": "泪水",
+   "pinyin": "lèishuǐ",
+   "pos": "名"
+  },
+  {
+   "no": 4995,
+   "level": "四级",
+   "raw": "类型",
+   "word": "类型",
+   "pinyin": "lèixíng",
+   "pos": "名"
+  },
+  {
+   "no": 5001,
+   "level": "四级",
+   "raw": "冷静",
+   "word": "冷静",
+   "pinyin": "lěngjìng",
+   "pos": "形"
+  },
+  {
+   "no": 5012,
+   "level": "四级",
+   "raw": "厘米",
+   "word": "厘米",
+   "pinyin": "límǐ",
+   "pos": "量"
+  },
+  {
+   "no": 5014,
+   "level": "四级",
+   "raw": "离不开",
+   "word": "离不开",
+   "pinyin": "lí bu kāi",
+   "pos": ""
+  },
+  {
+   "no": 5056,
+   "level": "四级",
+   "raw": "力气",
+   "word": "力气",
+   "pinyin": "lìqi",
+   "pos": "名"
+  },
+  {
+   "no": 5065,
+   "level": "四级",
+   "raw": "历史",
+   "word": "历史",
+   "pinyin": "lìshǐ",
+   "pos": "名"
+  },
+  {
+   "no": 5072,
+   "level": "四级",
+   "raw": "立即",
+   "word": "立即",
+   "pinyin": "lìjí",
+   "pos": "副"
+  },
+  {
+   "no": 5083,
+   "level": "四级",
+   "raw": "利息",
+   "word": "利息",
+   "pinyin": "lìxī",
+   "pos": "名"
+  },
+  {
+   "no": 5084,
+   "level": "四级",
+   "raw": "利益",
+   "word": "利益",
+   "pinyin": "lìyì",
+   "pos": "名"
+  },
+  {
+   "no": 5090,
+   "level": "四级",
+   "raw": "俩",
+   "word": "俩",
+   "pinyin": "liǎ",
+   "pos": ""
+  },
+  {
+   "no": 5130,
+   "level": "四级",
+   "raw": "良好",
+   "word": "良好",
+   "pinyin": "liánghǎo",
+   "pos": "形"
+  },
+  {
+   "no": 5138,
+   "level": "四级",
+   "raw": "量",
+   "word": "量",
+   "pinyin": "liáng",
+   "pos": "动"
+  },
+  {
+   "no": 5139,
+   "level": "四级",
+   "raw": "粮食",
+   "word": "粮食",
+   "pinyin": "liángshi",
+   "pos": "名"
+  },
+  {
+   "no": 5143,
+   "level": "四级",
+   "raw": "两边",
+   "word": "两边",
+   "pinyin": "liǎngbiān",
+   "pos": "名"
+  },
+  {
+   "no": 5157,
+   "level": "四级",
+   "raw": "疗养",
+   "word": "疗养",
+   "pinyin": "liáoyǎng",
+   "pos": "动"
+  },
+  {
+   "no": 5163,
+   "level": "四级",
+   "raw": "了不起",
+   "word": "了不起",
+   "pinyin": "liǎobuqǐ",
+   "pos": "形"
+  },
+  {
+   "no": 5165,
+   "level": "四级",
+   "raw": "了解",
+   "word": "了解",
+   "pinyin": "liǎojiě",
+   "pos": "动"
+  },
+  {
+   "no": 5172,
+   "level": "四级",
+   "raw": "列",
+   "word": "列",
+   "pinyin": "liè",
+   "pos": "动、量"
+  },
+  {
+   "no": 5173,
+   "level": "四级",
+   "raw": "列车",
+   "word": "列车",
+   "pinyin": "lièchē",
+   "pos": "名"
+  },
+  {
+   "no": 5175,
+   "level": "四级",
+   "raw": "列入",
+   "word": "列入",
+   "pinyin": "lièrù",
+   "pos": "动"
+  },
+  {
+   "no": 5176,
+   "level": "四级",
+   "raw": "列为",
+   "word": "列为",
+   "pinyin": "lièwéi",
+   "pos": ""
+  },
+  {
+   "no": 5192,
+   "level": "四级",
+   "raw": "临时",
+   "word": "临时",
+   "pinyin": "línshí",
+   "pos": "形、副"
+  },
+  {
+   "no": 5209,
+   "level": "四级",
+   "raw": "零食",
+   "word": "零食",
+   "pinyin": "língshí",
+   "pos": "名"
+  },
+  {
+   "no": 5249,
+   "level": "四级",
+   "raw": "流传",
+   "word": "流传",
+   "pinyin": "liúchuán",
+   "pos": "动"
+  },
+  {
+   "no": 5284,
+   "level": "四级",
+   "raw": "楼梯",
+   "word": "楼梯",
+   "pinyin": "lóutī",
+   "pos": "名"
+  },
+  {
+   "no": 5296,
+   "level": "四级",
+   "raw": "陆地",
+   "word": "陆地",
+   "pinyin": "lùdì",
+   "pos": "名"
+  },
+  {
+   "no": 5298,
+   "level": "四级",
+   "raw": "陆续",
+   "word": "陆续",
+   "pinyin": "lùxù",
+   "pos": "副"
+  },
+  {
+   "no": 5300,
+   "level": "四级",
+   "raw": "录取",
+   "word": "录取",
+   "pinyin": "lùqǔ",
+   "pos": "动"
+  },
+  {
+   "no": 5335,
+   "level": "四级",
+   "raw": "律师",
+   "word": "律师",
+   "pinyin": "lǜshī",
+   "pos": "名"
+  },
+  {
+   "no": 5352,
+   "level": "四级",
+   "raw": "轮",
+   "word": "轮",
+   "pinyin": "lún",
+   "pos": "名、动、量"
+  },
+  {
+   "no": 5353,
+   "level": "四级",
+   "raw": "轮船",
+   "word": "轮船",
+   "pinyin": "lúnchuán",
+   "pos": "名"
+  },
+  {
+   "no": 5358,
+   "level": "四级",
+   "raw": "轮椅",
+   "word": "轮椅",
+   "pinyin": "lúnyǐ",
+   "pos": "名"
+  },
+  {
+   "no": 5359,
+   "level": "四级",
+   "raw": "轮子",
+   "word": "轮子",
+   "pinyin": "lúnzi",
+   "pos": "名"
+  },
+  {
+   "no": 5362,
+   "level": "四级",
+   "raw": "论文",
+   "word": "论文",
+   "pinyin": "lùnwén",
+   "pos": "名"
+  },
+  {
+   "no": 5371,
+   "level": "四级",
+   "raw": "落",
+   "word": "落",
+   "pinyin": "luò",
+   "pos": "动"
+  },
+  {
+   "no": 5445,
+   "level": "四级",
+   "raw": "毛巾",
+   "word": "毛巾",
+   "pinyin": "máojīn",
+   "pos": "名"
+  },
+  {
+   "no": 5446,
+   "level": "四级",
+   "raw": "毛衣",
+   "word": "毛衣",
+   "pinyin": "máoyī",
+   "pos": "名"
+  },
+  {
+   "no": 5458,
+   "level": "四级",
+   "raw": "帽子",
+   "word": "帽子",
+   "pinyin": "màozi",
+   "pos": "名"
+  },
+  {
+   "no": 5460,
+   "level": "四级",
+   "raw": "没错",
+   "word": "没错",
+   "pinyin": "méi cuò",
+   "pos": ""
+  },
+  {
+   "no": 5461,
+   "level": "四级",
+   "raw": "没法儿",
+   "word": "没法儿",
+   "pinyin": "méifǎr",
+   "pos": "动"
+  },
+  {
+   "no": 5468,
+   "level": "四级",
+   "raw": "没想到",
+   "word": "没想到",
+   "pinyin": "méi xiǎngdào",
+   "pos": ""
+  },
+  {
+   "no": 5492,
+   "level": "四级",
+   "raw": "美金",
+   "word": "美金",
+   "pinyin": "měijīn",
+   "pos": "名"
+  },
+  {
+   "no": 5497,
+   "level": "四级",
+   "raw": "美女",
+   "word": "美女",
+   "pinyin": "měinǚ",
+   "pos": "名"
+  },
+  {
+   "no": 5528,
+   "level": "四级",
+   "raw": "梦",
+   "word": "梦",
+   "pinyin": "mèng",
+   "pos": "名、动"
+  },
+  {
+   "no": 5530,
+   "level": "四级",
+   "raw": "梦见",
+   "word": "梦见",
+   "pinyin": "mèngjiàn",
+   "pos": ""
+  },
+  {
+   "no": 5531,
+   "level": "四级",
+   "raw": "梦想",
+   "word": "梦想",
+   "pinyin": "mèngxiǎng",
+   "pos": "动、名"
+  },
+  {
+   "no": 5551,
+   "level": "四级",
+   "raw": "秘密",
+   "word": "秘密",
+   "pinyin": "mìmì",
+   "pos": "形、名"
+  },
+  {
+   "no": 5552,
+   "level": "四级",
+   "raw": "秘书",
+   "word": "秘书",
+   "pinyin": "mìshū",
+   "pos": "名"
+  },
+  {
+   "no": 5553,
+   "level": "四级",
+   "raw": "密",
+   "word": "密",
+   "pinyin": "mì",
+   "pos": "形"
+  },
+  {
+   "no": 5558,
+   "level": "四级",
+   "raw": "密码",
+   "word": "密码",
+   "pinyin": "mìmǎ",
+   "pos": "名"
+  },
+  {
+   "no": 5559,
+   "level": "四级",
+   "raw": "密切",
+   "word": "密切",
+   "pinyin": "mìqiè",
+   "pos": "形、动"
+  },
+  {
+   "no": 5569,
+   "level": "四级",
+   "raw": "免费",
+   "word": "免费",
+   "pinyin": "miǎn∥fèi",
+   "pos": ""
+  },
+  {
+   "no": 5583,
+   "level": "四级",
+   "raw": "面临",
+   "word": "面临",
+   "pinyin": "miànlín",
+   "pos": "动"
+  },
+  {
+   "no": 5588,
+   "level": "四级",
+   "raw": "面试",
+   "word": "面试",
+   "pinyin": "miànshì",
+   "pos": "动"
+  },
+  {
+   "no": 5596,
+   "level": "四级",
+   "raw": "描述",
+   "word": "描述",
+   "pinyin": "miáoshù",
+   "pos": "动"
+  },
+  {
+   "no": 5597,
+   "level": "四级",
+   "raw": "描写",
+   "word": "描写",
+   "pinyin": "miáoxiě",
+   "pos": "动"
+  },
+  {
+   "no": 5628,
+   "level": "四级",
+   "raw": "名牌儿",
+   "word": "名牌儿",
+   "pinyin": "míngpáir",
+   "pos": "名"
+  },
+  {
+   "no": 5629,
+   "level": "四级",
+   "raw": "名片",
+   "word": "名片",
+   "pinyin": "míngpiàn",
+   "pos": "名"
+  },
+  {
+   "no": 5631,
+   "level": "四级",
+   "raw": "名人",
+   "word": "名人",
+   "pinyin": "míngrén",
+   "pos": "名"
+  },
+  {
+   "no": 5658,
+   "level": "四级",
+   "raw": "摸",
+   "word": "摸",
+   "pinyin": "mō",
+   "pos": "动"
+  },
+  {
+   "no": 5665,
+   "level": "四级",
+   "raw": "模特儿",
+   "word": "模特儿",
+   "pinyin": "mótèr",
+   "pos": "名"
+  },
+  {
+   "no": 5666,
+   "level": "四级",
+   "raw": "模型",
+   "word": "模型",
+   "pinyin": "móxíng",
+   "pos": "名"
+  },
+  {
+   "no": 5678,
+   "level": "四级",
+   "raw": "末",
+   "word": "末",
+   "pinyin": "mò",
+   "pos": "名"
+  },
+  {
+   "no": 5690,
+   "level": "四级",
+   "raw": "默默",
+   "word": "默默",
+   "pinyin": "mòmò",
+   "pos": "副"
+  },
+  {
+   "no": 5737,
+   "level": "四级",
+   "raw": "哪怕",
+   "word": "哪怕",
+   "pinyin": "nǎpà",
+   "pos": "连"
+  },
+  {
+   "no": 5756,
+   "level": "四级",
+   "raw": "哪",
+   "word": "哪",
+   "pinyin": "na",
+   "pos": "助"
+  },
+  {
+   "no": 5770,
+   "level": "四级",
+   "raw": "男女",
+   "word": "男女",
+   "pinyin": "nánnǚ",
+   "pos": "名"
+  },
+  {
+   "no": 5774,
+   "level": "四级",
+   "raw": "男士",
+   "word": "男士",
+   "pinyin": "nánshì",
+   "pos": "名"
+  },
+  {
+   "no": 5796,
+   "level": "四级",
+   "raw": "难免",
+   "word": "难免",
+   "pinyin": "nánmiǎn",
+   "pos": "形"
+  },
+  {
+   "no": 5808,
+   "level": "四级",
+   "raw": "脑袋",
+   "word": "脑袋",
+   "pinyin": "nǎodai",
+   "pos": "名"
+  },
+  {
+   "no": 5812,
+   "level": "四级",
+   "raw": "闹",
+   "word": "闹",
+   "pinyin": "nào",
+   "pos": "形、动"
+  },
+  {
+   "no": 5815,
+   "level": "四级",
+   "raw": "闹钟",
+   "word": "闹钟",
+   "pinyin": "nàozhōng",
+   "pos": "名"
+  },
+  {
+   "no": 5818,
+   "level": "四级",
+   "raw": "内部",
+   "word": "内部",
+   "pinyin": "nèibù",
+   "pos": "名"
+  },
+  {
+   "no": 5824,
+   "level": "四级",
+   "raw": "内科",
+   "word": "内科",
+   "pinyin": "nèikē",
+   "pos": "名"
+  },
+  {
+   "no": 5837,
+   "level": "四级",
+   "raw": "能干",
+   "word": "能干",
+   "pinyin": "nénggàn",
+   "pos": "形"
+  },
+  {
+   "no": 5883,
+   "level": "四级",
+   "raw": "宁静",
+   "word": "宁静",
+   "pinyin": "níngjìng",
+   "pos": "形"
+  },
+  {
+   "no": 5908,
+   "level": "四级",
+   "raw": "浓",
+   "word": "浓",
+   "pinyin": "nóng",
+   "pos": "形"
+  },
+  {
+   "no": 5923,
+   "level": "四级",
+   "raw": "女士",
+   "word": "女士",
+   "pinyin": "nǚshì",
+   "pos": "名"
+  },
+  {
+   "no": 5930,
+   "level": "四级",
+   "raw": "暖气",
+   "word": "暖气",
+   "pinyin": "nuǎnqì",
+   "pos": "名"
+  },
+  {
+   "no": 5950,
+   "level": "四级",
+   "raw": "拍照",
+   "word": "拍照",
+   "pinyin": "pāi∥zhào",
+   "pos": ""
+  },
+  {
+   "no": 5959,
+   "level": "四级",
+   "raw": "排列",
+   "word": "排列",
+   "pinyin": "páiliè",
+   "pos": "动"
+  },
+  {
+   "no": 5963,
+   "level": "四级",
+   "raw": "牌",
+   "word": "牌",
+   "pinyin": "pái",
+   "pos": "名"
+  },
+  {
+   "no": 5972,
+   "level": "四级",
+   "raw": "盘",
+   "word": "盘",
+   "pinyin": "pán",
+   "pos": "名、量"
+  },
+  {
+   "no": 5975,
+   "level": "四级",
+   "raw": "盘子",
+   "word": "盘子",
+   "pinyin": "pánzi",
+   "pos": "名"
+  },
+  {
+   "no": 5989,
+   "level": "四级",
+   "raw": "胖子",
+   "word": "胖子",
+   "pinyin": "pàngzi",
+   "pos": "名"
+  },
+  {
+   "no": 6007,
+   "level": "四级",
+   "raw": "培训",
+   "word": "培训",
+   "pinyin": "péixùn",
+   "pos": "动"
+  },
+  {
+   "no": 6008,
+   "level": "四级",
+   "raw": "培训班",
+   "word": "培训班",
+   "pinyin": "péixùnbān",
+   "pos": "名"
+  },
+  {
+   "no": 6009,
+   "level": "四级",
+   "raw": "培养",
+   "word": "培养",
+   "pinyin": "péiyǎng",
+   "pos": "动"
+  },
+  {
+   "no": 6010,
+   "level": "四级",
+   "raw": "培育",
+   "word": "培育",
+   "pinyin": "péiyù",
+   "pos": "动"
+  },
+  {
+   "no": 6042,
+   "level": "四级",
+   "raw": "批",
+   "word": "批",
+   "pinyin": "pī",
+   "pos": "动"
+  },
+  {
+   "no": 6043,
+   "level": "四级",
+   "raw": "批（量）",
+   "word": "批",
+   "pinyin": "pī",
+   "pos": "量"
+  },
+  {
+   "no": 6084,
+   "level": "四级",
+   "raw": "片面",
+   "word": "片面",
+   "pinyin": "piànmiàn",
+   "pos": "形"
+  },
+  {
+   "no": 6112,
+   "level": "四级",
+   "raw": "品质",
+   "word": "品质",
+   "pinyin": "pǐnzhì",
+   "pos": "名"
+  },
+  {
+   "no": 6126,
+   "level": "四级",
+   "raw": "平方",
+   "word": "平方",
+   "pinyin": "píngfāng",
+   "pos": "名、量"
+  },
+  {
+   "no": 6131,
+   "level": "四级",
+   "raw": "平静",
+   "word": "平静",
+   "pinyin": "píngjìng",
+   "pos": "形"
+  },
+  {
+   "no": 6132,
+   "level": "四级",
+   "raw": "平均",
+   "word": "平均",
+   "pinyin": "píngjūn",
+   "pos": "动、形"
+  },
+  {
+   "no": 6139,
+   "level": "四级",
+   "raw": "平稳",
+   "word": "平稳",
+   "pinyin": "píngwěn",
+   "pos": "形"
+  },
+  {
+   "no": 6168,
+   "level": "四级",
+   "raw": "迫切",
+   "word": "迫切",
+   "pinyin": "pòqiè",
+   "pos": "形"
+  },
+  {
+   "no": 6172,
+   "level": "四级",
+   "raw": "破产",
+   "word": "破产",
+   "pinyin": "pò∥chǎn",
+   "pos": ""
+  },
+  {
+   "no": 6201,
+   "level": "四级",
+   "raw": "妻子",
+   "word": "妻子",
+   "pinyin": "qīzi",
+   "pos": "名"
+  },
+  {
+   "no": 6204,
+   "level": "四级",
+   "raw": "期待",
+   "word": "期待",
+   "pinyin": "qīdài",
+   "pos": "动"
+  },
+  {
+   "no": 6205,
+   "level": "四级",
+   "raw": "期间",
+   "word": "期间",
+   "pinyin": "qījiān",
+   "pos": "名"
+  },
+  {
+   "no": 6206,
+   "level": "四级",
+   "raw": "期末",
+   "word": "期末",
+   "pinyin": "qīmò",
+   "pos": "名"
+  },
+  {
+   "no": 6209,
+   "level": "四级",
+   "raw": "期限",
+   "word": "期限",
+   "pinyin": "qīxiàn",
+   "pos": "名"
+  },
+  {
+   "no": 6210,
+   "level": "四级",
+   "raw": "期中",
+   "word": "期中",
+   "pinyin": "qīzhōng",
+   "pos": "名"
+  },
+  {
+   "no": 6224,
+   "level": "四级",
+   "raw": "其余",
+   "word": "其余",
+   "pinyin": "qíyú",
+   "pos": "代"
+  },
+  {
+   "no": 6244,
+   "level": "四级",
+   "raw": "企业",
+   "word": "企业",
+   "pinyin": "qǐyè",
+   "pos": "名"
+  },
+  {
+   "no": 6276,
+   "level": "四级",
+   "raw": "气球",
+   "word": "气球",
+   "pinyin": "qìqiú",
+   "pos": "名"
+  },
+  {
+   "no": 6287,
+   "level": "四级",
+   "raw": "汽水",
+   "word": "汽水",
+   "pinyin": "qìshuǐ",
+   "pos": "名"
+  },
+  {
+   "no": 6288,
+   "level": "四级",
+   "raw": "汽油",
+   "word": "汽油",
+   "pinyin": "qìyóu",
+   "pos": "名"
+  },
+  {
+   "no": 6292,
+   "level": "四级",
+   "raw": "器官",
+   "word": "器官",
+   "pinyin": "qìguān",
+   "pos": "名"
+  },
+  {
+   "no": 6352,
+   "level": "四级",
+   "raw": "前头",
+   "word": "前头",
+   "pinyin": "qiántou",
+   "pos": "名"
+  },
+  {
+   "no": 6353,
+   "level": "四级",
+   "raw": "前途",
+   "word": "前途",
+   "pinyin": "qiántú",
+   "pos": "名"
+  },
+  {
+   "no": 6372,
+   "level": "四级",
+   "raw": "浅",
+   "word": "浅",
+   "pinyin": "qiǎn",
+   "pos": "形"
+  },
+  {
+   "no": 6418,
+   "level": "四级",
+   "raw": "巧克力",
+   "word": "巧克力",
+   "pinyin": "qiǎokèlì",
+   "pos": "名"
+  },
+  {
+   "no": 6423,
+   "level": "四级",
+   "raw": "切",
+   "word": "切",
+   "pinyin": "qiē",
+   "pos": "动"
+  },
+  {
+   "no": 6440,
+   "level": "四级",
+   "raw": "亲爱",
+   "word": "亲爱",
+   "pinyin": "qīn’ài",
+   "pos": "形"
+  },
+  {
+   "no": 6443,
+   "level": "四级",
+   "raw": "亲密",
+   "word": "亲密",
+   "pinyin": "qīnmì",
+   "pos": "形"
+  },
+  {
+   "no": 6464,
+   "level": "四级",
+   "raw": "青春",
+   "word": "青春",
+   "pinyin": "qīngchūn",
+   "pos": "名"
+  },
+  {
+   "no": 6472,
+   "level": "四级",
+   "raw": "轻松",
+   "word": "轻松",
+   "pinyin": "qīngsōng",
+   "pos": "形"
+  },
+  {
+   "no": 6475,
+   "level": "四级",
+   "raw": "轻易",
+   "word": "轻易",
+   "pinyin": "qīngyì",
+   "pos": "形、副"
+  },
+  {
+   "no": 6499,
+   "level": "四级",
+   "raw": "清醒",
+   "word": "清醒",
+   "pinyin": "qīngxǐng",
+   "pos": "形、动"
+  },
+  {
+   "no": 6509,
+   "level": "四级",
+   "raw": "情景",
+   "word": "情景",
+   "pinyin": "qíngjǐng",
+   "pos": "名"
+  },
+  {
+   "no": 6534,
+   "level": "四级",
+   "raw": "穷",
+   "word": "穷",
+   "pinyin": "qióng",
+   "pos": "形"
+  },
+  {
+   "no": 6535,
+   "level": "四级",
+   "raw": "穷人",
+   "word": "穷人",
+   "pinyin": "qióngrén",
+   "pos": "名"
+  },
+  {
+   "no": 6537,
+   "level": "四级",
+   "raw": "秋季",
+   "word": "秋季",
+   "pinyin": "qiūjì",
+   "pos": "名"
+  },
+  {
+   "no": 6565,
+   "level": "四级",
+   "raw": "趋势",
+   "word": "趋势",
+   "pinyin": "qūshì",
+   "pos": "名"
+  },
+  {
+   "no": 6591,
+   "level": "四级",
+   "raw": "圈",
+   "word": "圈",
+   "pinyin": "quān",
+   "pos": "名、动"
+  },
+  {
+   "no": 6597,
+   "level": "四级",
+   "raw": "权利",
+   "word": "权利",
+   "pinyin": "quánlì",
+   "pos": "名"
+  },
+  {
+   "no": 6638,
+   "level": "四级",
+   "raw": "却",
+   "word": "却",
+   "pinyin": "què",
+   "pos": "副"
+  },
+  {
+   "no": 6644,
+   "level": "四级",
+   "raw": "确认",
+   "word": "确认",
+   "pinyin": "quèrèn",
+   "pos": "动"
+  },
+  {
+   "no": 6653,
+   "level": "四级",
+   "raw": "然而",
+   "word": "然而",
+   "pinyin": "rán’ér",
+   "pos": "连"
+  },
+  {
+   "no": 6656,
+   "level": "四级",
+   "raw": "燃料",
+   "word": "燃料",
+   "pinyin": "ránliào",
+   "pos": "名"
+  },
+  {
+   "no": 6658,
+   "level": "四级",
+   "raw": "燃烧",
+   "word": "燃烧",
+   "pinyin": "ránshāo",
+   "pos": "动"
+  },
+  {
+   "no": 6679,
+   "level": "四级",
+   "raw": "热闹",
+   "word": "热闹",
+   "pinyin": "rènao",
+   "pos": "形、动"
+  },
+  {
+   "no": 6687,
+   "level": "四级",
+   "raw": "热心",
+   "word": "热心",
+   "pinyin": "rèxīn",
+   "pos": "形"
+  },
+  {
+   "no": 6696,
+   "level": "四级",
+   "raw": "人家",
+   "word": "人家",
+   "pinyin": "rénjia",
+   "pos": "代"
+  },
+  {
+   "no": 6766,
+   "level": "四级",
+   "raw": "日记",
+   "word": "日记",
+   "pinyin": "rìjì",
+   "pos": "名"
+  },
+  {
+   "no": 6767,
+   "level": "四级",
+   "raw": "日历",
+   "word": "日历",
+   "pinyin": "rìlì",
+   "pos": "名"
+  },
+  {
+   "no": 6802,
+   "level": "四级",
+   "raw": "如今",
+   "word": "如今",
+   "pinyin": "rújīn",
+   "pos": "名"
+  },
+  {
+   "no": 6831,
+   "level": "四级",
+   "raw": "弱",
+   "word": "弱",
+   "pinyin": "ruò",
+   "pos": "形"
+  },
+  {
+   "no": 6847,
+   "level": "四级",
+   "raw": "伞",
+   "word": "伞",
+   "pinyin": "sǎn",
+   "pos": "名"
+  },
+  {
+   "no": 6850,
+   "level": "四级",
+   "raw": "散",
+   "word": "散",
+   "pinyin": "sàn",
+   "pos": "动"
+  },
+  {
+   "no": 6860,
+   "level": "四级",
+   "raw": "扫",
+   "word": "扫",
+   "pinyin": "sǎo",
+   "pos": "动"
+  },
+  {
+   "no": 6866,
+   "level": "四级",
+   "raw": "色",
+   "word": "色",
+   "pinyin": "sè",
+   "pos": "名"
+  },
+  {
+   "no": 6867,
+   "level": "四级",
+   "raw": "色彩",
+   "word": "色彩",
+   "pinyin": "sècǎi",
+   "pos": "名"
+  },
+  {
+   "no": 6868,
+   "level": "四级",
+   "raw": "森林",
+   "word": "森林",
+   "pinyin": "sēnlín",
+   "pos": "名"
+  },
+  {
+   "no": 6887,
+   "level": "四级",
+   "raw": "晒",
+   "word": "晒",
+   "pinyin": "shài",
+   "pos": "动"
+  },
+  {
+   "no": 6904,
+   "level": "四级",
+   "raw": "闪",
+   "word": "闪",
+   "pinyin": "shǎn",
+   "pos": "动"
+  },
+  {
+   "no": 6905,
+   "level": "四级",
+   "raw": "闪电",
+   "word": "闪电",
+   "pinyin": "shǎndiàn",
+   "pos": "名"
+  },
+  {
+   "no": 6910,
+   "level": "四级",
+   "raw": "善良",
+   "word": "善良",
+   "pinyin": "shànliáng",
+   "pos": "形"
+  },
+  {
+   "no": 6912,
+   "level": "四级",
+   "raw": "善于",
+   "word": "善于",
+   "pinyin": "shànyú",
+   "pos": "动"
+  },
+  {
+   "no": 6920,
+   "level": "四级",
+   "raw": "伤害",
+   "word": "伤害",
+   "pinyin": "shānghài",
+   "pos": "动"
+  },
+  {
+   "no": 6938,
+   "level": "四级",
+   "raw": "商务",
+   "word": "商务",
+   "pinyin": "shāngwù",
+   "pos": "名"
+  },
+  {
+   "no": 6940,
+   "level": "四级",
+   "raw": "赏",
+   "word": "赏",
+   "pinyin": "shǎng",
+   "pos": "动"
+  },
+  {
+   "no": 6952,
+   "level": "四级",
+   "raw": "上个月",
+   "word": "上个月",
+   "pinyin": "shàng ge yuè",
+   "pos": ""
+  },
+  {
+   "no": 6959,
+   "level": "四级",
+   "raw": "上楼",
+   "word": "上楼",
+   "pinyin": "shàng lóu",
+   "pos": ""
+  },
+  {
+   "no": 6960,
+   "level": "四级",
+   "raw": "上门",
+   "word": "上门",
+   "pinyin": "shàng∥mén",
+   "pos": ""
+  },
+  {
+   "no": 6989,
+   "level": "四级",
+   "raw": "烧",
+   "word": "烧",
+   "pinyin": "shāo",
+   "pos": "动"
+  },
+  {
+   "no": 7021,
+   "level": "四级",
+   "raw": "设施",
+   "word": "设施",
+   "pinyin": "shèshī",
+   "pos": "名"
+  },
+  {
+   "no": 7023,
+   "level": "四级",
+   "raw": "设置",
+   "word": "设置",
+   "pinyin": "shèzhì",
+   "pos": "动"
+  },
+  {
+   "no": 7045,
+   "level": "四级",
+   "raw": "申请",
+   "word": "申请",
+   "pinyin": "shēnqǐng",
+   "pos": "动"
+  },
+  {
+   "no": 7052,
+   "level": "四级",
+   "raw": "身材",
+   "word": "身材",
+   "pinyin": "shēncái",
+   "pos": "名"
+  },
+  {
+   "no": 7053,
+   "level": "四级",
+   "raw": "身份",
+   "word": "身份",
+   "pinyin": "shēn·fèn",
+   "pos": "名"
+  },
+  {
+   "no": 7055,
+   "level": "四级",
+   "raw": "身高",
+   "word": "身高",
+   "pinyin": "shēngāo",
+   "pos": "名"
+  },
+  {
+   "no": 7068,
+   "level": "四级",
+   "raw": "深厚",
+   "word": "深厚",
+   "pinyin": "shēnhòu",
+   "pos": "形"
+  },
+  {
+   "no": 7084,
+   "level": "四级",
+   "raw": "神话",
+   "word": "神话",
+   "pinyin": "shénhuà",
+   "pos": "名"
+  },
+  {
+   "no": 7086,
+   "level": "四级",
+   "raw": "神秘",
+   "word": "神秘",
+   "pinyin": "shénmì",
+   "pos": "形"
+  },
+  {
+   "no": 7102,
+   "level": "四级",
+   "raw": "甚至",
+   "word": "甚至",
+   "pinyin": "shènzhì",
+   "pos": "连"
+  },
+  {
+   "no": 7170,
+   "level": "四级",
+   "raw": "失败",
+   "word": "失败",
+   "pinyin": "shībài",
+   "pos": "动、形"
+  },
+  {
+   "no": 7180,
+   "level": "四级",
+   "raw": "失望",
+   "word": "失望",
+   "pinyin": "shīwàng",
+   "pos": "形"
+  },
+  {
+   "no": 7183,
+   "level": "四级",
+   "raw": "失业",
+   "word": "失业",
+   "pinyin": "shī∥yè",
+   "pos": ""
+  },
+  {
+   "no": 7192,
+   "level": "四级",
+   "raw": "诗",
+   "word": "诗",
+   "pinyin": "shī",
+   "pos": "名"
+  },
+  {
+   "no": 7194,
+   "level": "四级",
+   "raw": "诗人",
+   "word": "诗人",
+   "pinyin": "shīrén",
+   "pos": "名"
+  },
+  {
+   "no": 7200,
+   "level": "四级",
+   "raw": "湿",
+   "word": "湿",
+   "pinyin": "shī",
+   "pos": "形"
+  },
+  {
+   "no": 7244,
+   "level": "四级",
+   "raw": "实施",
+   "word": "实施",
+   "pinyin": "shíshī",
+   "pos": "动"
+  },
+  {
+   "no": 7253,
+   "level": "四级",
+   "raw": "实用",
+   "word": "实用",
+   "pinyin": "shíyòng",
+   "pos": "形"
+  },
+  {
+   "no": 7260,
+   "level": "四级",
+   "raw": "食堂",
+   "word": "食堂",
+   "pinyin": "shítáng",
+   "pos": "名"
+  },
+  {
+   "no": 7268,
+   "level": "四级",
+   "raw": "使劲",
+   "word": "使劲",
+   "pinyin": "shǐ∥jìn",
+   "pos": ""
+  },
+  {
+   "no": 7273,
+   "level": "四级",
+   "raw": "士兵",
+   "word": "士兵",
+   "pinyin": "shìbīng",
+   "pos": "名"
+  },
+  {
+   "no": 7289,
+   "level": "四级",
+   "raw": "市区",
+   "word": "市区",
+   "pinyin": "shìqū",
+   "pos": "名"
+  },
+  {
+   "no": 7292,
+   "level": "四级",
+   "raw": "似的",
+   "word": "似的",
+   "pinyin": "shìde",
+   "pos": "助"
+  },
+  {
+   "no": 7308,
+   "level": "四级",
+   "raw": "事物",
+   "word": "事物",
+   "pinyin": "shìwù",
+   "pos": "名"
+  },
+  {
+   "no": 7309,
+   "level": "四级",
+   "raw": "事先",
+   "word": "事先",
+   "pinyin": "shìxiān",
+   "pos": "名"
+  },
+  {
+   "no": 7316,
+   "level": "四级",
+   "raw": "试卷",
+   "word": "试卷",
+   "pinyin": "shìjuàn",
+   "pos": "名"
+  },
+  {
+   "no": 7336,
+   "level": "四级",
+   "raw": "是否",
+   "word": "是否",
+   "pinyin": "shìfǒu",
+   "pos": "副"
+  },
+  {
+   "no": 7355,
+   "level": "四级",
+   "raw": "收回",
+   "word": "收回",
+   "pinyin": "shōu∥huí",
+   "pos": ""
+  },
+  {
+   "no": 7356,
+   "level": "四级",
+   "raw": "收获",
+   "word": "收获",
+   "pinyin": "shōuhuò",
+   "pos": "动、名"
+  },
+  {
+   "no": 7370,
+   "level": "四级",
+   "raw": "收益",
+   "word": "收益",
+   "pinyin": "shōuyì",
+   "pos": "名"
+  },
+  {
+   "no": 7380,
+   "level": "四级",
+   "raw": "手工",
+   "word": "手工",
+   "pinyin": "shǒugōng",
+   "pos": "名"
+  },
+  {
+   "no": 7383,
+   "level": "四级",
+   "raw": "手里",
+   "word": "手里",
+   "pinyin": "shǒu li",
+   "pos": ""
+  },
+  {
+   "no": 7387,
+   "level": "四级",
+   "raw": "手术",
+   "word": "手术",
+   "pinyin": "shǒushù",
+   "pos": "名"
+  },
+  {
+   "no": 7389,
+   "level": "四级",
+   "raw": "手套",
+   "word": "手套",
+   "pinyin": "shǒutào",
+   "pos": "名"
+  },
+  {
+   "no": 7397,
+   "level": "四级",
+   "raw": "守",
+   "word": "守",
+   "pinyin": "shǒu",
+   "pos": "动"
+  },
+  {
+   "no": 7401,
+   "level": "四级",
+   "raw": "首",
+   "word": "首",
+   "pinyin": "shǒu",
+   "pos": "量"
+  },
+  {
+   "no": 7417,
+   "level": "四级",
+   "raw": "受不了",
+   "word": "受不了",
+   "pinyin": "shòubuliǎo",
+   "pos": "动"
+  },
+  {
+   "no": 7432,
+   "level": "四级",
+   "raw": "售货员",
+   "word": "售货员",
+   "pinyin": "shòuhuòyuán",
+   "pos": "名"
+  },
+  {
+   "no": 7451,
+   "level": "四级",
+   "raw": "叔叔",
+   "word": "叔叔",
+   "pinyin": "shūshu",
+   "pos": "名"
+  },
+  {
+   "no": 7457,
+   "level": "四级",
+   "raw": "舒适",
+   "word": "舒适",
+   "pinyin": "shūshì",
+   "pos": "形"
+  },
+  {
+   "no": 7472,
+   "level": "四级",
+   "raw": "熟练",
+   "word": "熟练",
+   "pinyin": "shúliàn",
+   "pos": "形"
+  },
+  {
+   "no": 7475,
+   "level": "四级",
+   "raw": "暑假",
+   "word": "暑假",
+   "pinyin": "shǔjià",
+   "pos": "名"
+  },
+  {
+   "no": 7490,
+   "level": "四级",
+   "raw": "树林",
+   "word": "树林",
+   "pinyin": "shùlín",
+   "pos": "名"
+  },
+  {
+   "no": 7493,
+   "level": "四级",
+   "raw": "树叶",
+   "word": "树叶",
+   "pinyin": "shùyè",
+   "pos": "名"
+  },
+  {
+   "no": 7498,
+   "level": "四级",
+   "raw": "数据",
+   "word": "数据",
+   "pinyin": "shùjù",
+   "pos": "名"
+  },
+  {
+   "no": 7501,
+   "level": "四级",
+   "raw": "数码",
+   "word": "数码",
+   "pinyin": "shùmǎ",
+   "pos": "名"
+  },
+  {
+   "no": 7504,
+   "level": "四级",
+   "raw": "刷",
+   "word": "刷",
+   "pinyin": "shuā",
+   "pos": "动"
+  },
+  {
+   "no": 7506,
+   "level": "四级",
+   "raw": "刷牙",
+   "word": "刷牙",
+   "pinyin": "shuā yá",
+   "pos": ""
+  },
+  {
+   "no": 7507,
+   "level": "四级",
+   "raw": "刷子",
+   "word": "刷子",
+   "pinyin": "shuāzi",
+   "pos": "名"
+  },
+  {
+   "no": 7519,
+   "level": "四级",
+   "raw": "帅",
+   "word": "帅",
+   "pinyin": "shuài",
+   "pos": "形"
+  },
+  {
+   "no": 7520,
+   "level": "四级",
+   "raw": "帅哥",
+   "word": "帅哥",
+   "pinyin": "shuàigē",
+   "pos": "名"
+  },
+  {
+   "no": 7523,
+   "level": "四级",
+   "raw": "率先",
+   "word": "率先",
+   "pinyin": "shuàixiān",
+   "pos": "副"
+  },
+  {
+   "no": 7570,
+   "level": "四级",
+   "raw": "睡着",
+   "word": "睡着",
+   "pinyin": "shuìzháo",
+   "pos": ""
+  },
+  {
+   "no": 7583,
+   "level": "四级",
+   "raw": "顺序",
+   "word": "顺序",
+   "pinyin": "shùnxù",
+   "pos": "名"
+  },
+  {
+   "no": 7589,
+   "level": "四级",
+   "raw": "说不定",
+   "word": "说不定",
+   "pinyin": "shuōbudìng",
+   "pos": "动、副"
+  },
+  {
+   "no": 7594,
+   "level": "四级",
+   "raw": "说服",
+   "word": "说服",
+   "pinyin": "shuōfú",
+   "pos": "动"
+  },
+  {
+   "no": 7625,
+   "level": "四级",
+   "raw": "思考",
+   "word": "思考",
+   "pinyin": "sīkǎo",
+   "pos": "动"
+  },
+  {
+   "no": 7646,
+   "level": "四级",
+   "raw": "似乎",
+   "word": "似乎",
+   "pinyin": "sìhū",
+   "pos": "副"
+  },
+  {
+   "no": 7651,
+   "level": "四级",
+   "raw": "松",
+   "word": "松",
+   "pinyin": "sōng",
+   "pos": "形、动"
+  },
+  {
+   "no": 7654,
+   "level": "四级",
+   "raw": "松树",
+   "word": "松树",
+   "pinyin": "sōngshù",
+   "pos": "名"
+  },
+  {
+   "no": 7687,
+   "level": "四级",
+   "raw": "塑料",
+   "word": "塑料",
+   "pinyin": "sùliào",
+   "pos": "名"
+  },
+  {
+   "no": 7688,
+   "level": "四级",
+   "raw": "塑料袋",
+   "word": "塑料袋",
+   "pinyin": "sùliàodài",
+   "pos": "名"
+  },
+  {
+   "no": 7690,
+   "level": "四级",
+   "raw": "酸",
+   "word": "酸",
+   "pinyin": "suān",
+   "pos": "形"
+  },
+  {
+   "no": 7691,
+   "level": "四级",
+   "raw": "酸奶",
+   "word": "酸奶",
+   "pinyin": "suānnǎi",
+   "pos": "名"
+  },
+  {
+   "no": 7713,
+   "level": "四级",
+   "raw": "随手",
+   "word": "随手",
+   "pinyin": "suíshǒu",
+   "pos": "副"
+  },
+  {
+   "no": 7723,
+   "level": "四级",
+   "raw": "孙女",
+   "word": "孙女",
+   "pinyin": "sūn·nǚ",
+   "pos": "名"
+  },
+  {
+   "no": 7724,
+   "level": "四级",
+   "raw": "孙子",
+   "word": "孙子",
+   "pinyin": "sūnzi",
+   "pos": "名"
+  },
+  {
+   "no": 7732,
+   "level": "四级",
+   "raw": "缩短",
+   "word": "缩短",
+   "pinyin": "suōduǎn",
+   "pos": "动"
+  },
+  {
+   "no": 7734,
+   "level": "四级",
+   "raw": "缩小",
+   "word": "缩小",
+   "pinyin": "suōxiǎo",
+   "pos": "动"
+  },
+  {
+   "no": 7767,
+   "level": "四级",
+   "raw": "台阶",
+   "word": "台阶",
+   "pinyin": "táijiē",
+   "pos": "名"
+  },
+  {
+   "no": 7769,
+   "level": "四级",
+   "raw": "台上",
+   "word": "台上",
+   "pinyin": "táishàng",
+   "pos": "名"
+  },
+  {
+   "no": 7825,
+   "level": "四级",
+   "raw": "躺",
+   "word": "躺",
+   "pinyin": "tǎng",
+   "pos": "动"
+  },
+  {
+   "no": 7853,
+   "level": "四级",
+   "raw": "套餐",
+   "word": "套餐",
+   "pinyin": "tàocān",
+   "pos": "名"
+  },
+  {
+   "no": 7862,
+   "level": "四级",
+   "raw": "特价",
+   "word": "特价",
+   "pinyin": "tèjià",
+   "pos": "名"
+  },
+  {
+   "no": 7867,
+   "level": "四级",
+   "raw": "特殊",
+   "word": "特殊",
+   "pinyin": "tèshū",
+   "pos": "形"
+  },
+  {
+   "no": 7872,
+   "level": "四级",
+   "raw": "特征",
+   "word": "特征",
+   "pinyin": "tèzhēng",
+   "pos": "名"
+  },
+  {
+   "no": 7888,
+   "level": "四级",
+   "raw": "提供",
+   "word": "提供",
+   "pinyin": "tígōng",
+   "pos": "动"
+  },
+  {
+   "no": 7899,
+   "level": "四级",
+   "raw": "提醒",
+   "word": "提醒",
+   "pinyin": "tí∥xǐng",
+   "pos": ""
+  },
+  {
+   "no": 7905,
+   "level": "四级",
+   "raw": "体操",
+   "word": "体操",
+   "pinyin": "tǐcāo",
+   "pos": "名"
+  },
+  {
+   "no": 7908,
+   "level": "四级",
+   "raw": "体检",
+   "word": "体检",
+   "pinyin": "tǐjiǎn",
+   "pos": "动"
+  },
+  {
+   "no": 7923,
+   "level": "四级",
+   "raw": "体重",
+   "word": "体重",
+   "pinyin": "tǐzhòng",
+   "pos": "名"
+  },
+  {
+   "no": 7925,
+   "level": "四级",
+   "raw": "替",
+   "word": "替",
+   "pinyin": "tì",
+   "pos": "动、介"
+  },
+  {
+   "no": 7926,
+   "level": "四级",
+   "raw": "替代",
+   "word": "替代",
+   "pinyin": "tìdài",
+   "pos": "动"
+  },
+  {
+   "no": 7951,
+   "level": "四级",
+   "raw": "天真",
+   "word": "天真",
+   "pinyin": "tiānzhēn",
+   "pos": "形"
+  },
+  {
+   "no": 7961,
+   "level": "四级",
+   "raw": "填",
+   "word": "填",
+   "pinyin": "tián",
+   "pos": "动"
+  },
+  {
+   "no": 7964,
+   "level": "四级",
+   "raw": "填空",
+   "word": "填空",
+   "pinyin": "tián∥kòng",
+   "pos": ""
+  },
+  {
+   "no": 7967,
+   "level": "四级",
+   "raw": "挑",
+   "word": "挑",
+   "pinyin": "tiāo",
+   "pos": "动"
+  },
+  {
+   "no": 7969,
+   "level": "四级",
+   "raw": "挑选",
+   "word": "挑选",
+   "pinyin": "tiāoxuǎn",
+   "pos": "动"
+  },
+  {
+   "no": 7981,
+   "level": "四级",
+   "raw": "调皮",
+   "word": "调皮",
+   "pinyin": "tiáopí",
+   "pos": "形"
+  },
+  {
+   "no": 7984,
+   "level": "四级",
+   "raw": "挑",
+   "word": "挑",
+   "pinyin": "tiǎo",
+   "pos": "动"
+  },
+  {
+   "no": 7987,
+   "level": "四级",
+   "raw": "挑战",
+   "word": "挑战",
+   "pinyin": "tiǎo∥zhàn",
+   "pos": ""
+  },
+  {
+   "no": 7997,
+   "level": "四级",
+   "raw": "贴",
+   "word": "贴",
+   "pinyin": "tiē",
+   "pos": "动"
+  },
+  {
+   "no": 8024,
+   "level": "四级",
+   "raw": "停下",
+   "word": "停下",
+   "pinyin": "tíngxia",
+   "pos": ""
+  },
+  {
+   "no": 8028,
+   "level": "四级",
+   "raw": "挺（动）",
+   "word": "挺",
+   "pinyin": "tǐng",
+   "pos": "动"
+  },
+  {
+   "no": 8053,
+   "level": "四级",
+   "raw": "通知书",
+   "word": "通知书",
+   "pinyin": "tōngzhīshū",
+   "pos": "名"
+  },
+  {
+   "no": 8066,
+   "level": "四级",
+   "raw": "同情",
+   "word": "同情",
+   "pinyin": "tóngqíng",
+   "pos": "动"
+  },
+  {
+   "no": 8078,
+   "level": "四级",
+   "raw": "童话",
+   "word": "童话",
+   "pinyin": "tónghuà",
+   "pos": "名"
+  },
+  {
+   "no": 8079,
+   "level": "四级",
+   "raw": "童年",
+   "word": "童年",
+   "pinyin": "tóngnián",
+   "pos": "名"
+  },
+  {
+   "no": 8081,
+   "level": "四级",
+   "raw": "统计",
+   "word": "统计",
+   "pinyin": "tǒngjì",
+   "pos": "动"
+  },
+  {
+   "no": 8083,
+   "level": "四级",
+   "raw": "统一",
+   "word": "统一",
+   "pinyin": "tǒngyī",
+   "pos": "动、形"
+  },
+  {
+   "no": 8091,
+   "level": "四级",
+   "raw": "痛快",
+   "word": "痛快",
+   "pinyin": "tòng·kuài",
+   "pos": "形"
+  },
+  {
+   "no": 8111,
+   "level": "四级",
+   "raw": "投",
+   "word": "投",
+   "pinyin": "tóu",
+   "pos": "动"
+  },
+  {
+   "no": 8116,
+   "level": "四级",
+   "raw": "投入",
+   "word": "投入",
+   "pinyin": "tóurù",
+   "pos": "动、名"
+  },
+  {
+   "no": 8119,
+   "level": "四级",
+   "raw": "投诉",
+   "word": "投诉",
+   "pinyin": "tóusù",
+   "pos": "动"
+  },
+  {
+   "no": 8121,
+   "level": "四级",
+   "raw": "投资",
+   "word": "投资",
+   "pinyin": "tóuzī",
+   "pos": "名"
+  },
+  {
+   "no": 8122,
+   "level": "四级",
+   "raw": "透",
+   "word": "透",
+   "pinyin": "tòu",
+   "pos": "动、形"
+  },
+  {
+   "no": 8126,
+   "level": "四级",
+   "raw": "透明",
+   "word": "透明",
+   "pinyin": "tòumíng",
+   "pos": "形"
+  },
+  {
+   "no": 8140,
+   "level": "四级",
+   "raw": "图案",
+   "word": "图案",
+   "pinyin": "tú’àn",
+   "pos": "名"
+  },
+  {
+   "no": 8152,
+   "level": "四级",
+   "raw": "途中",
+   "word": "途中",
+   "pinyin": "túzhōng",
+   "pos": "名"
+  },
+  {
+   "no": 8157,
+   "level": "四级",
+   "raw": "土地",
+   "word": "土地",
+   "pinyin": "tǔdì",
+   "pos": "名"
+  },
+  {
+   "no": 8176,
+   "level": "四级",
+   "raw": "推迟",
+   "word": "推迟",
+   "pinyin": "tuīchí",
+   "pos": "动"
+  },
+  {
+   "no": 8189,
+   "level": "四级",
+   "raw": "推销",
+   "word": "推销",
+   "pinyin": "tuīxiāo",
+   "pos": "动"
+  },
+  {
+   "no": 8216,
+   "level": "四级",
+   "raw": "脱",
+   "word": "脱",
+   "pinyin": "tuō",
+   "pos": "动"
+  },
+  {
+   "no": 8236,
+   "level": "四级",
+   "raw": "袜子",
+   "word": "袜子",
+   "pinyin": "wàzi",
+   "pos": "名"
+  },
+  {
+   "no": 8252,
+   "level": "四级",
+   "raw": "外汇",
+   "word": "外汇",
+   "pinyin": "wàihuì",
+   "pos": "名"
+  },
+  {
+   "no": 8255,
+   "level": "四级",
+   "raw": "外交官",
+   "word": "外交官",
+   "pinyin": "wàijiāoguān",
+   "pos": "名"
+  },
+  {
+   "no": 8265,
+   "level": "四级",
+   "raw": "外套",
+   "word": "外套",
+   "pinyin": "wàitào",
+   "pos": "名"
+  },
+  {
+   "no": 8274,
+   "level": "四级",
+   "raw": "弯",
+   "word": "弯",
+   "pinyin": "wān",
+   "pos": "形、动"
+  },
+  {
+   "no": 8302,
+   "level": "四级",
+   "raw": "晚点",
+   "word": "晚点",
+   "pinyin": "wǎn∥diǎn",
+   "pos": ""
+  },
+  {
+   "no": 8317,
+   "level": "四级",
+   "raw": "万一",
+   "word": "万一",
+   "pinyin": "wànyī",
+   "pos": "名、连"
+  },
+  {
+   "no": 8320,
+   "level": "四级",
+   "raw": "王",
+   "word": "王",
+   "pinyin": "wáng",
+   "pos": "名"
+  },
+  {
+   "no": 8328,
+   "level": "四级",
+   "raw": "网络",
+   "word": "网络",
+   "pinyin": "wǎngluò",
+   "pos": "名"
+  },
+  {
+   "no": 8335,
+   "level": "四级",
+   "raw": "网址",
+   "word": "网址",
+   "pinyin": "wǎngzhǐ",
+   "pos": "名"
+  },
+  {
+   "no": 8372,
+   "level": "四级",
+   "raw": "微笑",
+   "word": "微笑",
+   "pinyin": "wēixiào",
+   "pos": "动"
+  },
+  {
+   "no": 8373,
+   "level": "四级",
+   "raw": "微信",
+   "word": "微信",
+   "pinyin": "wēixìn",
+   "pos": "名"
+  },
+  {
+   "no": 8389,
+   "level": "四级",
+   "raw": "围巾",
+   "word": "围巾",
+   "pinyin": "wéijīn",
+   "pos": "名"
+  },
+  {
+   "no": 8395,
+   "level": "四级",
+   "raw": "维持",
+   "word": "维持",
+   "pinyin": "wéichí",
+   "pos": "动"
+  },
+  {
+   "no": 8396,
+   "level": "四级",
+   "raw": "维护",
+   "word": "维护",
+   "pinyin": "wéihù",
+   "pos": "动"
+  },
+  {
+   "no": 8398,
+   "level": "四级",
+   "raw": "维修",
+   "word": "维修",
+   "pinyin": "wéixiū",
+   "pos": "动"
+  },
+  {
+   "no": 8402,
+   "level": "四级",
+   "raw": "尾巴",
+   "word": "尾巴",
+   "pinyin": "wěiba",
+   "pos": "名"
+  },
+  {
+   "no": 8422,
+   "level": "四级",
+   "raw": "未必",
+   "word": "未必",
+   "pinyin": "wèibì",
+   "pos": "副"
+  },
+  {
+   "no": 8425,
+   "level": "四级",
+   "raw": "未来",
+   "word": "未来",
+   "pinyin": "wèilái",
+   "pos": "名"
+  },
+  {
+   "no": 8429,
+   "level": "四级",
+   "raw": "位于",
+   "word": "位于",
+   "pinyin": "wèiyú",
+   "pos": "动"
+  },
+  {
+   "no": 8430,
+   "level": "四级",
+   "raw": "位置",
+   "word": "位置",
+   "pinyin": "wèi·zhì",
+   "pos": "名"
+  },
+  {
+   "no": 8434,
+   "level": "四级",
+   "raw": "味儿",
+   "word": "味儿",
+   "pinyin": "wèir",
+   "pos": "名"
+  },
+  {
+   "no": 8440,
+   "level": "四级",
+   "raw": "喂（动）",
+   "word": "喂",
+   "pinyin": "wèi",
+   "pos": "动"
+  },
+  {
+   "no": 8478,
+   "level": "四级",
+   "raw": "稳",
+   "word": "稳",
+   "pinyin": "wěn",
+   "pos": "形"
+  },
+  {
+   "no": 8479,
+   "level": "四级",
+   "raw": "稳定",
+   "word": "稳定",
+   "pinyin": "wěndìng",
+   "pos": "形"
+  },
+  {
+   "no": 8485,
+   "level": "四级",
+   "raw": "问候",
+   "word": "问候",
+   "pinyin": "wènhòu",
+   "pos": "动"
+  },
+  {
+   "no": 8507,
+   "level": "四级",
+   "raw": "无",
+   "word": "无",
+   "pinyin": "wú",
+   "pos": "动"
+  },
+  {
+   "no": 8514,
+   "level": "四级",
+   "raw": "无法",
+   "word": "无法",
+   "pinyin": "wúfǎ",
+   "pos": "动"
+  },
+  {
+   "no": 8529,
+   "level": "四级",
+   "raw": "无聊",
+   "word": "无聊",
+   "pinyin": "wúliáo",
+   "pos": "形"
+  },
+  {
+   "no": 8530,
+   "level": "四级",
+   "raw": "无论",
+   "word": "无论",
+   "pinyin": "wúlùn",
+   "pos": "连"
+  },
+  {
+   "no": 8538,
+   "level": "四级",
+   "raw": "无数",
+   "word": "无数",
+   "pinyin": "wúshù",
+   "pos": "形"
+  },
+  {
+   "no": 8541,
+   "level": "四级",
+   "raw": "无所谓",
+   "word": "无所谓",
+   "pinyin": "wúsuǒwèi",
+   "pos": "动"
+  },
+  {
+   "no": 8545,
+   "level": "四级",
+   "raw": "无限",
+   "word": "无限",
+   "pinyin": "wúxiàn",
+   "pos": "形"
+  },
+  {
+   "no": 8561,
+   "level": "四级",
+   "raw": "五颜六色",
+   "word": "五颜六色",
+   "pinyin": "wǔyán-liùsè",
+   "pos": ""
+  },
+  {
+   "no": 8589,
+   "level": "四级",
+   "raw": "误会",
+   "word": "误会",
+   "pinyin": "wùhuì",
+   "pos": "动、名"
+  },
+  {
+   "no": 8600,
+   "level": "四级",
+   "raw": "西瓜",
+   "word": "西瓜",
+   "pinyin": "xī·guā",
+   "pos": "名"
+  },
+  {
+   "no": 8605,
+   "level": "四级",
+   "raw": "吸",
+   "word": "吸",
+   "pinyin": "xī",
+   "pos": "动"
+  },
+  {
+   "no": 8607,
+   "level": "四级",
+   "raw": "吸管",
+   "word": "吸管",
+   "pinyin": "xīguǎn",
+   "pos": "名"
+  },
+  {
+   "no": 8610,
+   "level": "四级",
+   "raw": "吸收",
+   "word": "吸收",
+   "pinyin": "xīshōu",
+   "pos": "动"
+  },
+  {
+   "no": 8611,
+   "level": "四级",
+   "raw": "吸烟",
+   "word": "吸烟",
+   "pinyin": "xīyān",
+   "pos": "动"
+  },
+  {
+   "no": 8612,
+   "level": "四级",
+   "raw": "吸引",
+   "word": "吸引",
+   "pinyin": "xīyǐn",
+   "pos": "动"
+  },
+  {
+   "no": 8639,
+   "level": "四级",
+   "raw": "喜爱",
+   "word": "喜爱",
+   "pinyin": "xǐ’ài",
+   "pos": "动"
+  },
+  {
+   "no": 8655,
+   "level": "四级",
+   "raw": "系列",
+   "word": "系列",
+   "pinyin": "xìliè",
+   "pos": "名"
+  },
+  {
+   "no": 8656,
+   "level": "四级",
+   "raw": "系统",
+   "word": "系统",
+   "pinyin": "xìtǒng",
+   "pos": "名、形"
+  },
+  {
+   "no": 8657,
+   "level": "四级",
+   "raw": "细",
+   "word": "细",
+   "pinyin": "xì",
+   "pos": "形"
+  },
+  {
+   "no": 8659,
+   "level": "四级",
+   "raw": "细节",
+   "word": "细节",
+   "pinyin": "xìjié",
+   "pos": "名"
+  },
+  {
+   "no": 8664,
+   "level": "四级",
+   "raw": "细致",
+   "word": "细致",
+   "pinyin": "xìzhì",
+   "pos": "形"
+  },
+  {
+   "no": 8681,
+   "level": "四级",
+   "raw": "下个月",
+   "word": "下个月",
+   "pinyin": "xià ge yuè",
+   "pos": ""
+  },
+  {
+   "no": 8685,
+   "level": "四级",
+   "raw": "下降",
+   "word": "下降",
+   "pinyin": "xiàjiàng",
+   "pos": "动"
+  },
+  {
+   "no": 8690,
+   "level": "四级",
+   "raw": "下楼",
+   "word": "下楼",
+   "pinyin": "xià lóu",
+   "pos": ""
+  },
+  {
+   "no": 8709,
+   "level": "四级",
+   "raw": "下载",
+   "word": "下载",
+   "pinyin": "xiàzài",
+   "pos": "动"
+  },
+  {
+   "no": 8715,
+   "level": "四级",
+   "raw": "夏季",
+   "word": "夏季",
+   "pinyin": "xiàjì",
+   "pos": "名"
+  },
+  {
+   "no": 8731,
+   "level": "四级",
+   "raw": "鲜",
+   "word": "鲜",
+   "pinyin": "xiān",
+   "pos": "形"
+  },
+  {
+   "no": 8732,
+   "level": "四级",
+   "raw": "鲜花",
+   "word": "鲜花",
+   "pinyin": "xiānhuā",
+   "pos": "名"
+  },
+  {
+   "no": 8735,
+   "level": "四级",
+   "raw": "鲜明",
+   "word": "鲜明",
+   "pinyin": "xiānmíng",
+   "pos": "形"
+  },
+  {
+   "no": 8740,
+   "level": "四级",
+   "raw": "咸",
+   "word": "咸",
+   "pinyin": "xián",
+   "pos": "形"
+  },
+  {
+   "no": 8755,
+   "level": "四级",
+   "raw": "显著",
+   "word": "显著",
+   "pinyin": "xiǎnzhù",
+   "pos": "形"
+  },
+  {
+   "no": 8757,
+   "level": "四级",
+   "raw": "县",
+   "word": "县",
+   "pinyin": "xiàn",
+   "pos": "名"
+  },
+  {
+   "no": 8773,
+   "level": "四级",
+   "raw": "限制",
+   "word": "限制",
+   "pinyin": "xiànzhì",
+   "pos": "动、名"
+  },
+  {
+   "no": 8795,
+   "level": "四级",
+   "raw": "相处",
+   "word": "相处",
+   "pinyin": "xiāngchǔ",
+   "pos": "动"
+  },
+  {
+   "no": 8802,
+   "level": "四级",
+   "raw": "相反",
+   "word": "相反",
+   "pinyin": "xiāngfǎn",
+   "pos": "形、连"
+  },
+  {
+   "no": 8826,
+   "level": "四级",
+   "raw": "箱",
+   "word": "箱",
+   "pinyin": "xiāng",
+   "pos": "量"
+  },
+  {
+   "no": 8827,
+   "level": "四级",
+   "raw": "箱子",
+   "word": "箱子",
+   "pinyin": "xiāngzi",
+   "pos": "名"
+  },
+  {
+   "no": 8846,
+   "level": "四级",
+   "raw": "想念",
+   "word": "想念",
+   "pinyin": "xiǎngniàn",
+   "pos": "动"
+  },
+  {
+   "no": 8848,
+   "level": "四级",
+   "raw": "想象",
+   "word": "想象",
+   "pinyin": "xiǎngxiàng",
+   "pos": "名、动"
+  },
+  {
+   "no": 8856,
+   "level": "四级",
+   "raw": "项",
+   "word": "项",
+   "pinyin": "xiàng",
+   "pos": "量"
+  },
+  {
+   "no": 8858,
+   "level": "四级",
+   "raw": "项目",
+   "word": "项目",
+   "pinyin": "xiàngmù",
+   "pos": "名"
+  },
+  {
+   "no": 8860,
+   "level": "四级",
+   "raw": "相片",
+   "word": "相片",
+   "pinyin": "xiàngpiàn",
+   "pos": "名"
+  },
+  {
+   "no": 8877,
+   "level": "四级",
+   "raw": "消化",
+   "word": "消化",
+   "pinyin": "xiāohuà",
+   "pos": "动"
+  },
+  {
+   "no": 8887,
+   "level": "四级",
+   "raw": "销售",
+   "word": "销售",
+   "pinyin": "xiāoshòu",
+   "pos": "动"
+  },
+  {
+   "no": 8891,
+   "level": "四级",
+   "raw": "小吃",
+   "word": "小吃",
+   "pinyin": "xiǎochī",
+   "pos": "名"
+  },
+  {
+   "no": 8896,
+   "level": "四级",
+   "raw": "小伙子",
+   "word": "小伙子",
+   "pinyin": "xiǎohuǒzi",
+   "pos": "名"
+  },
+  {
+   "no": 8917,
+   "level": "四级",
+   "raw": "小型",
+   "word": "小型",
+   "pinyin": "xiǎoxíng",
+   "pos": "形"
+  },
+  {
+   "no": 8938,
+   "level": "四级",
+   "raw": "效率",
+   "word": "效率",
+   "pinyin": "xiàolǜ",
+   "pos": "名"
+  },
+  {
+   "no": 8941,
+   "level": "四级",
+   "raw": "些",
+   "word": "些",
+   "pinyin": "xiē",
+   "pos": "量"
+  },
+  {
+   "no": 8983,
+   "level": "四级",
+   "raw": "心理",
+   "word": "心理",
+   "pinyin": "xīnlǐ",
+   "pos": "名"
+  },
+  {
+   "no": 9016,
+   "level": "四级",
+   "raw": "新郎",
+   "word": "新郎",
+   "pinyin": "xīnláng",
+   "pos": "名"
+  },
+  {
+   "no": 9018,
+   "level": "四级",
+   "raw": "新娘",
+   "word": "新娘",
+   "pinyin": "xīnniáng",
+   "pos": "名"
+  },
+  {
+   "no": 9025,
+   "level": "四级",
+   "raw": "新鲜",
+   "word": "新鲜",
+   "pinyin": "xīn·xiān",
+   "pos": "形"
+  },
+  {
+   "no": 9027,
+   "level": "四级",
+   "raw": "新型",
+   "word": "新型",
+   "pinyin": "xīnxíng",
+   "pos": "形"
+  },
+  {
+   "no": 9046,
+   "level": "四级",
+   "raw": "兴奋",
+   "word": "兴奋",
+   "pinyin": "xīngfèn",
+   "pos": "形"
+  },
+  {
+   "no": 9071,
+   "level": "四级",
+   "raw": "形容",
+   "word": "形容",
+   "pinyin": "xíngróng",
+   "pos": "动"
+  },
+  {
+   "no": 9073,
+   "level": "四级",
+   "raw": "形势",
+   "word": "形势",
+   "pinyin": "xíngshì",
+   "pos": "名"
+  },
+  {
+   "no": 9079,
+   "level": "四级",
+   "raw": "型",
+   "word": "型",
+   "pinyin": "xíng",
+   "pos": "名"
+  },
+  {
+   "no": 9080,
+   "level": "四级",
+   "raw": "型号",
+   "word": "型号",
+   "pinyin": "xínghào",
+   "pos": "名"
+  },
+  {
+   "no": 9081,
+   "level": "四级",
+   "raw": "醒",
+   "word": "醒",
+   "pinyin": "xǐng",
+   "pos": "动"
+  },
+  {
+   "no": 9086,
+   "level": "四级",
+   "raw": "兴趣",
+   "word": "兴趣",
+   "pinyin": "xìngqù",
+   "pos": "名"
+  },
+  {
+   "no": 9101,
+   "level": "四级",
+   "raw": "性质",
+   "word": "性质",
+   "pinyin": "xìngzhì",
+   "pos": "名"
+  },
+  {
+   "no": 9111,
+   "level": "四级",
+   "raw": "兄弟",
+   "word": "兄弟",
+   "pinyin": "xiōngdì",
+   "pos": "名"
+  },
+  {
+   "no": 9113,
+   "level": "四级",
+   "raw": "胸部",
+   "word": "胸部",
+   "pinyin": "xiōngbù",
+   "pos": "名"
+  },
+  {
+   "no": 9134,
+   "level": "四级",
+   "raw": "修理",
+   "word": "修理",
+   "pinyin": "xiūlǐ",
+   "pos": "动"
+  },
+  {
+   "no": 9199,
+   "level": "四级",
+   "raw": "选择",
+   "word": "选择",
+   "pinyin": "xuǎnzé",
+   "pos": "动、名"
+  },
+  {
+   "no": 9206,
+   "level": "四级",
+   "raw": "学分",
+   "word": "学分",
+   "pinyin": "xuéfēn",
+   "pos": "名"
+  },
+  {
+   "no": 9210,
+   "level": "四级",
+   "raw": "学年",
+   "word": "学年",
+   "pinyin": "xuénián",
+   "pos": "名"
+  },
+  {
+   "no": 9213,
+   "level": "四级",
+   "raw": "学时",
+   "word": "学时",
+   "pinyin": "xuéshí",
+   "pos": "名"
+  },
+  {
+   "no": 9215,
+   "level": "四级",
+   "raw": "学术",
+   "word": "学术",
+   "pinyin": "xuéshù",
+   "pos": "名"
+  },
+  {
+   "no": 9219,
+   "level": "四级",
+   "raw": "学问",
+   "word": "学问",
+   "pinyin": "xuéwen",
+   "pos": "名"
+  },
+  {
+   "no": 9244,
+   "level": "四级",
+   "raw": "寻找",
+   "word": "寻找",
+   "pinyin": "xúnzhǎo",
+   "pos": "动"
+  },
+  {
+   "no": 9251,
+   "level": "四级",
+   "raw": "迅速",
+   "word": "迅速",
+   "pinyin": "xùnsù",
+   "pos": "形"
+  },
+  {
+   "no": 9266,
+   "level": "四级",
+   "raw": "牙",
+   "word": "牙",
+   "pinyin": "yá",
+   "pos": "名"
+  },
+  {
+   "no": 9269,
+   "level": "四级",
+   "raw": "牙刷",
+   "word": "牙刷",
+   "pinyin": "yáshuā",
+   "pos": "名"
+  },
+  {
+   "no": 9273,
+   "level": "四级",
+   "raw": "亚运会",
+   "word": "亚运会",
+   "pinyin": "Yàyùnhuì",
+   "pos": "名"
+  },
+  {
+   "no": 9274,
+   "level": "四级",
+   "raw": "呀",
+   "word": "呀",
+   "pinyin": "ya",
+   "pos": "助"
+  },
+  {
+   "no": 9282,
+   "level": "四级",
+   "raw": "延长",
+   "word": "延长",
+   "pinyin": "yáncháng",
+   "pos": "动"
+  },
+  {
+   "no": 9284,
+   "level": "四级",
+   "raw": "延期",
+   "word": "延期",
+   "pinyin": "yán∥qī",
+   "pos": ""
+  },
+  {
+   "no": 9287,
+   "level": "四级",
+   "raw": "延续",
+   "word": "延续",
+   "pinyin": "yánxù",
+   "pos": "动"
+  },
+  {
+   "no": 9288,
+   "level": "四级",
+   "raw": "严",
+   "word": "严",
+   "pinyin": "yán",
+   "pos": "形"
+  },
+  {
+   "no": 9289,
+   "level": "四级",
+   "raw": "严格",
+   "word": "严格",
+   "pinyin": "yángé",
+   "pos": "形、动"
+  },
+  {
+   "no": 9296,
+   "level": "四级",
+   "raw": "严重",
+   "word": "严重",
+   "pinyin": "yánzhòng",
+   "pos": "形"
+  },
+  {
+   "no": 9311,
+   "level": "四级",
+   "raw": "研究",
+   "word": "研究",
+   "pinyin": "yánjiū",
+   "pos": "动"
+  },
+  {
+   "no": 9312,
+   "level": "四级",
+   "raw": "研究生",
+   "word": "研究生",
+   "pinyin": "yánjiūshēng",
+   "pos": "名"
+  },
+  {
+   "no": 9315,
+   "level": "四级",
+   "raw": "研制",
+   "word": "研制",
+   "pinyin": "yánzhì",
+   "pos": "动"
+  },
+  {
+   "no": 9316,
+   "level": "四级",
+   "raw": "盐",
+   "word": "盐",
+   "pinyin": "yán",
+   "pos": "名"
+  },
+  {
+   "no": 9328,
+   "level": "四级",
+   "raw": "眼镜",
+   "word": "眼镜",
+   "pinyin": "yǎnjìng",
+   "pos": "名"
+  },
+  {
+   "no": 9330,
+   "level": "四级",
+   "raw": "眼泪",
+   "word": "眼泪",
+   "pinyin": "yǎnlèi",
+   "pos": "名"
+  },
+  {
+   "no": 9331,
+   "level": "四级",
+   "raw": "眼里",
+   "word": "眼里",
+   "pinyin": "yǎnli",
+   "pos": "名"
+  },
+  {
+   "no": 9343,
+   "level": "四级",
+   "raw": "演讲",
+   "word": "演讲",
+   "pinyin": "yǎnjiǎng",
+   "pos": "动"
+  },
+  {
+   "no": 9367,
+   "level": "四级",
+   "raw": "阳台",
+   "word": "阳台",
+   "pinyin": "yángtái",
+   "pos": "名"
+  },
+  {
+   "no": 9374,
+   "level": "四级",
+   "raw": "养成",
+   "word": "养成",
+   "pinyin": "yǎngchéng",
+   "pos": "动"
+  },
+  {
+   "no": 9390,
+   "level": "四级",
+   "raw": "腰",
+   "word": "腰",
+   "pinyin": "yāo",
+   "pos": "名"
+  },
+  {
+   "no": 9395,
+   "level": "四级",
+   "raw": "摇",
+   "word": "摇",
+   "pinyin": "yáo",
+   "pos": "动"
+  },
+  {
+   "no": 9412,
+   "level": "四级",
+   "raw": "药物",
+   "word": "药物",
+   "pinyin": "yàowù",
+   "pos": "名"
+  },
+  {
+   "no": 9414,
+   "level": "四级",
+   "raw": "要（连）",
+   "word": "要",
+   "pinyin": "yào",
+   "pos": "连"
+  },
+  {
+   "no": 9448,
+   "level": "四级",
+   "raw": "业余",
+   "word": "业余",
+   "pinyin": "yèyú",
+   "pos": "形"
+  },
+  {
+   "no": 9449,
+   "level": "四级",
+   "raw": "叶子",
+   "word": "叶子",
+   "pinyin": "yèzi",
+   "pos": "名"
+  },
+  {
+   "no": 9471,
+   "level": "四级",
+   "raw": "医疗",
+   "word": "医疗",
+   "pinyin": "yīliáo",
+   "pos": "动"
+  },
+  {
+   "no": 9474,
+   "level": "四级",
+   "raw": "医学",
+   "word": "医学",
+   "pinyin": "yīxué",
+   "pos": "名"
+  },
+  {
+   "no": 9482,
+   "level": "四级",
+   "raw": "依靠",
+   "word": "依靠",
+   "pinyin": "yīkào",
+   "pos": "动、名"
+  },
+  {
+   "no": 9484,
+   "level": "四级",
+   "raw": "依然",
+   "word": "依然",
+   "pinyin": "yīrán",
+   "pos": "副"
+  },
+  {
+   "no": 9517,
+   "level": "四级",
+   "raw": "一律",
+   "word": "一律",
+   "pinyin": "yílǜ",
+   "pos": "副"
+  },
+  {
+   "no": 9530,
+   "level": "四级",
+   "raw": "一再",
+   "word": "一再",
+   "pinyin": "yízài",
+   "pos": "副"
+  },
+  {
+   "no": 9532,
+   "level": "四级",
+   "raw": "一致",
+   "word": "一致",
+   "pinyin": "yízhì",
+   "pos": "形、副"
+  },
+  {
+   "no": 9538,
+   "level": "四级",
+   "raw": "移",
+   "word": "移",
+   "pinyin": "yí",
+   "pos": "动"
+  },
+  {
+   "no": 9539,
+   "level": "四级",
+   "raw": "移动",
+   "word": "移动",
+   "pinyin": "yídòng",
+   "pos": "动"
+  },
+  {
+   "no": 9541,
+   "level": "四级",
+   "raw": "移民",
+   "word": "移民",
+   "pinyin": "yímín",
+   "pos": "动、名"
+  },
+  {
+   "no": 9543,
+   "level": "四级",
+   "raw": "遗产",
+   "word": "遗产",
+   "pinyin": "yíchǎn",
+   "pos": "名"
+  },
+  {
+   "no": 9544,
+   "level": "四级",
+   "raw": "遗传",
+   "word": "遗传",
+   "pinyin": "yíchuán",
+   "pos": "动"
+  },
+  {
+   "no": 9557,
+   "level": "四级",
+   "raw": "疑问",
+   "word": "疑问",
+   "pinyin": "yíwèn",
+   "pos": "名"
+  },
+  {
+   "no": 9564,
+   "level": "四级",
+   "raw": "以及",
+   "word": "以及",
+   "pinyin": "yǐjí",
+   "pos": "连"
+  },
+  {
+   "no": 9567,
+   "level": "四级",
+   "raw": "以内",
+   "word": "以内",
+   "pinyin": "yǐnèi",
+   "pos": "名"
+  },
+  {
+   "no": 9581,
+   "level": "四级",
+   "raw": "一般来说",
+   "word": "一般来说",
+   "pinyin": "yìbānláishuō",
+   "pos": ""
+  },
+  {
+   "no": 9635,
+   "level": "四级",
+   "raw": "义务",
+   "word": "义务",
+   "pinyin": "yìwù",
+   "pos": "名"
+  },
+  {
+   "no": 9641,
+   "level": "四级",
+   "raw": "议论",
+   "word": "议论",
+   "pinyin": "yìlùn",
+   "pos": "动、名"
+  },
+  {
+   "no": 9699,
+   "level": "四级",
+   "raw": "引",
+   "word": "引",
+   "pinyin": "yǐn",
+   "pos": "动"
+  },
+  {
+   "no": 9700,
+   "level": "四级",
+   "raw": "引导",
+   "word": "引导",
+   "pinyin": "yǐndǎo",
+   "pos": "动"
+  },
+  {
+   "no": 9702,
+   "level": "四级",
+   "raw": "引进",
+   "word": "引进",
+   "pinyin": "yǐnjìn",
+   "pos": "动"
+  },
+  {
+   "no": 9705,
+   "level": "四级",
+   "raw": "引起",
+   "word": "引起",
+   "pinyin": "yǐnqǐ",
+   "pos": "动"
+  },
+  {
+   "no": 9733,
+   "level": "四级",
+   "raw": "应",
+   "word": "应",
+   "pinyin": "yīng",
+   "pos": "动"
+  },
+  {
+   "no": 9741,
+   "level": "四级",
+   "raw": "英勇",
+   "word": "英勇",
+   "pinyin": "yīngyǒng",
+   "pos": "形"
+  },
+  {
+   "no": 9753,
+   "level": "四级",
+   "raw": "营业",
+   "word": "营业",
+   "pinyin": "yíngyè",
+   "pos": "动"
+  },
+  {
+   "no": 9756,
+   "level": "四级",
+   "raw": "赢得",
+   "word": "赢得",
+   "pinyin": "yíngdé",
+   "pos": "动"
+  },
+  {
+   "no": 9764,
+   "level": "四级",
+   "raw": "影子",
+   "word": "影子",
+   "pinyin": "yǐngzi",
+   "pos": "名"
+  },
+  {
+   "no": 9788,
+   "level": "四级",
+   "raw": "勇敢",
+   "word": "勇敢",
+   "pinyin": "yǒnggǎn",
+   "pos": "形"
+  },
+  {
+   "no": 9789,
+   "level": "四级",
+   "raw": "勇气",
+   "word": "勇气",
+   "pinyin": "yǒngqì",
+   "pos": "名"
+  },
+  {
+   "no": 9808,
+   "level": "四级",
+   "raw": "用途",
+   "word": "用途",
+   "pinyin": "yòngtú",
+   "pos": "名"
+  },
+  {
+   "no": 9816,
+   "level": "四级",
+   "raw": "优良",
+   "word": "优良",
+   "pinyin": "yōuliáng",
+   "pos": "形"
+  },
+  {
+   "no": 9817,
+   "level": "四级",
+   "raw": "优美",
+   "word": "优美",
+   "pinyin": "yōuměi",
+   "pos": "形"
+  },
+  {
+   "no": 9820,
+   "level": "四级",
+   "raw": "优秀",
+   "word": "优秀",
+   "pinyin": "yōuxiù",
+   "pos": "形"
+  },
+  {
+   "no": 9842,
+   "level": "四级",
+   "raw": "邮局",
+   "word": "邮局",
+   "pinyin": "yóujú",
+   "pos": "名"
+  },
+  {
+   "no": 9876,
+   "level": "四级",
+   "raw": "有劲儿",
+   "word": "有劲儿",
+   "pinyin": "yǒu∥jìnr",
+   "pos": ""
+  },
+  {
+   "no": 9885,
+   "level": "四级",
+   "raw": "有趣",
+   "word": "有趣",
+   "pinyin": "yǒuqù",
+   "pos": "形"
+  },
+  {
+   "no": 9893,
+   "level": "四级",
+   "raw": "有限",
+   "word": "有限",
+   "pinyin": "yǒuxiàn",
+   "pos": "形"
+  },
+  {
+   "no": 9910,
+   "level": "四级",
+   "raw": "幼儿园",
+   "word": "幼儿园",
+   "pinyin": "yòu’éryuán",
+   "pos": "名"
+  },
+  {
+   "no": 9917,
+   "level": "四级",
+   "raw": "于是",
+   "word": "于是",
+   "pinyin": "yúshì",
+   "pos": "连"
+  },
+  {
+   "no": 9945,
+   "level": "四级",
+   "raw": "语法",
+   "word": "语法",
+   "pinyin": "yǔfǎ",
+   "pos": "名"
+  },
+  {
+   "no": 9948,
+   "level": "四级",
+   "raw": "语音",
+   "word": "语音",
+   "pinyin": "yǔyīn",
+   "pos": "名"
+  },
+  {
+   "no": 9949,
+   "level": "四级",
+   "raw": "玉",
+   "word": "玉",
+   "pinyin": "yù",
+   "pos": "名"
+  },
+  {
+   "no": 9950,
+   "level": "四级",
+   "raw": "玉米",
+   "word": "玉米",
+   "pinyin": "yùmǐ",
+   "pos": "名"
+  },
+  {
+   "no": 9954,
+   "level": "四级",
+   "raw": "预测",
+   "word": "预测",
+   "pinyin": "yùcè",
+   "pos": "动"
+  },
+  {
+   "no": 9955,
+   "level": "四级",
+   "raw": "预订",
+   "word": "预订",
+   "pinyin": "yùdìng",
+   "pos": "动"
+  },
+  {
+   "no": 9974,
+   "level": "四级",
+   "raw": "遇",
+   "word": "遇",
+   "pinyin": "yù",
+   "pos": "动"
+  },
+  {
+   "no": 9975,
+   "level": "四级",
+   "raw": "遇到",
+   "word": "遇到",
+   "pinyin": "yùdào",
+   "pos": ""
+  },
+  {
+   "no": 9976,
+   "level": "四级",
+   "raw": "遇见",
+   "word": "遇见",
+   "pinyin": "yùjiàn",
+   "pos": "动"
+  },
+  {
+   "no": 10008,
+   "level": "四级",
+   "raw": "原料",
+   "word": "原料",
+   "pinyin": "yuánliào",
+   "pos": "名"
+  },
+  {
+   "no": 10014,
+   "level": "四级",
+   "raw": "原则",
+   "word": "原则",
+   "pinyin": "yuánzé",
+   "pos": "名"
+  },
+  {
+   "no": 10017,
+   "level": "四级",
+   "raw": "圆",
+   "word": "圆",
+   "pinyin": "yuán",
+   "pos": "形、名"
+  },
+  {
+   "no": 10018,
+   "level": "四级",
+   "raw": "圆满",
+   "word": "圆满",
+   "pinyin": "yuánmǎn",
+   "pos": "形"
+  },
+  {
+   "no": 10051,
+   "level": "四级",
+   "raw": "约会",
+   "word": "约会",
+   "pinyin": "yuē·huì",
+   "pos": "动、名"
+  },
+  {
+   "no": 10056,
+   "level": "四级",
+   "raw": "月底",
+   "word": "月底",
+   "pinyin": "yuèdǐ",
+   "pos": "名"
+  },
+  {
+   "no": 10066,
+   "level": "四级",
+   "raw": "阅读",
+   "word": "阅读",
+   "pinyin": "yuèdú",
+   "pos": "动"
+  },
+  {
+   "no": 10083,
+   "level": "四级",
+   "raw": "运动会",
+   "word": "运动会",
+   "pinyin": "yùndònghuì",
+   "pos": "名"
+  },
+  {
+   "no": 10084,
+   "level": "四级",
+   "raw": "运动员",
+   "word": "运动员",
+   "pinyin": "yùndòngyuán",
+   "pos": "名"
+  },
+  {
+   "no": 10086,
+   "level": "四级",
+   "raw": "运气",
+   "word": "运气",
+   "pinyin": "yùnqi",
+   "pos": "名"
+  },
+  {
+   "no": 10091,
+   "level": "四级",
+   "raw": "运用",
+   "word": "运用",
+   "pinyin": "yùnyòng",
+   "pos": "动"
+  },
+  {
+   "no": 10116,
+   "level": "四级",
+   "raw": "再三",
+   "word": "再三",
+   "pinyin": "zàisān",
+   "pos": "副"
+  },
+  {
+   "no": 10123,
+   "level": "四级",
+   "raw": "在乎",
+   "word": "在乎",
+   "pinyin": "zàihu",
+   "pos": "动"
+  },
+  {
+   "no": 10128,
+   "level": "四级",
+   "raw": "在于",
+   "word": "在于",
+   "pinyin": "zàiyú",
+   "pos": "动"
+  },
+  {
+   "no": 10138,
+   "level": "四级",
+   "raw": "赞成",
+   "word": "赞成",
+   "pinyin": "zànchéng",
+   "pos": "动"
+  },
+  {
+   "no": 10140,
+   "level": "四级",
+   "raw": "赞赏",
+   "word": "赞赏",
+   "pinyin": "zànshǎng",
+   "pos": "动"
+  },
+  {
+   "no": 10146,
+   "level": "四级",
+   "raw": "赞助",
+   "word": "赞助",
+   "pinyin": "zànzhù",
+   "pos": "动"
+  },
+  {
+   "no": 10175,
+   "level": "四级",
+   "raw": "造型",
+   "word": "造型",
+   "pinyin": "zàoxíng",
+   "pos": "名"
+  },
+  {
+   "no": 10240,
+   "level": "四级",
+   "raw": "战斗",
+   "word": "战斗",
+   "pinyin": "zhàndòu",
+   "pos": "动、名"
+  },
+  {
+   "no": 10242,
+   "level": "四级",
+   "raw": "战胜",
+   "word": "战胜",
+   "pinyin": "zhànshèng",
+   "pos": "动"
+  },
+  {
+   "no": 10243,
+   "level": "四级",
+   "raw": "战士",
+   "word": "战士",
+   "pinyin": "zhànshì",
+   "pos": "名"
+  },
+  {
+   "no": 10246,
+   "level": "四级",
+   "raw": "战争",
+   "word": "战争",
+   "pinyin": "zhànzhēng",
+   "pos": "名"
+  },
+  {
+   "no": 10269,
+   "level": "四级",
+   "raw": "丈夫",
+   "word": "丈夫",
+   "pinyin": "zhàngfu",
+   "pos": "名"
+  },
+  {
+   "no": 10283,
+   "level": "四级",
+   "raw": "招呼",
+   "word": "招呼",
+   "pinyin": "zhāohu",
+   "pos": "动"
+  },
+  {
+   "no": 10295,
+   "level": "四级",
+   "raw": "着",
+   "word": "着",
+   "pinyin": "zháo",
+   "pos": "动"
+  },
+  {
+   "no": 10296,
+   "level": "四级",
+   "raw": "着火",
+   "word": "着火",
+   "pinyin": "zháo∥huǒ",
+   "pos": ""
+  },
+  {
+   "no": 10297,
+   "level": "四级",
+   "raw": "着急",
+   "word": "着急",
+   "pinyin": "zháo∥jí",
+   "pos": ""
+  },
+  {
+   "no": 10304,
+   "level": "四级",
+   "raw": "召开",
+   "word": "召开",
+   "pinyin": "zhàokāi",
+   "pos": "动"
+  },
+  {
+   "no": 10322,
+   "level": "四级",
+   "raw": "折",
+   "word": "折",
+   "pinyin": "zhé",
+   "pos": "动"
+  },
+  {
+   "no": 10342,
+   "level": "四级",
+   "raw": "针",
+   "word": "针",
+   "pinyin": "zhēn",
+   "pos": "名"
+  },
+  {
+   "no": 10343,
+   "level": "四级",
+   "raw": "针对",
+   "word": "针对",
+   "pinyin": "zhēnduì",
+   "pos": "动"
+  },
+  {
+   "no": 10369,
+   "level": "四级",
+   "raw": "阵",
+   "word": "阵",
+   "pinyin": "zhèn",
+   "pos": "量"
+  },
+  {
+   "no": 10388,
+   "level": "四级",
+   "raw": "争论",
+   "word": "争论",
+   "pinyin": "zhēnglùn",
+   "pos": "动"
+  },
+  {
+   "no": 10395,
+   "level": "四级",
+   "raw": "征服",
+   "word": "征服",
+   "pinyin": "zhēngfú",
+   "pos": "动"
+  },
+  {
+   "no": 10397,
+   "level": "四级",
+   "raw": "征求",
+   "word": "征求",
+   "pinyin": "zhēngqiú",
+   "pos": "动"
+  },
+  {
+   "no": 10444,
+   "level": "四级",
+   "raw": "政府",
+   "word": "政府",
+   "pinyin": "zhèngfǔ",
+   "pos": "名"
+  },
+  {
+   "no": 10446,
+   "level": "四级",
+   "raw": "政治",
+   "word": "政治",
+   "pinyin": "zhèngzhì",
+   "pos": "名"
+  },
+  {
+   "no": 10452,
+   "level": "四级",
+   "raw": "之后",
+   "word": "之后",
+   "pinyin": "zhīhòu",
+   "pos": "名"
+  },
+  {
+   "no": 10453,
+   "level": "四级",
+   "raw": "之间",
+   "word": "之间",
+   "pinyin": "zhījiān",
+   "pos": "名"
+  },
+  {
+   "no": 10456,
+   "level": "四级",
+   "raw": "之前",
+   "word": "之前",
+   "pinyin": "zhīqián",
+   "pos": "名"
+  },
+  {
+   "no": 10460,
+   "level": "四级",
+   "raw": "之一",
+   "word": "之一",
+   "pinyin": "zhīyī",
+   "pos": "名"
+  },
+  {
+   "no": 10463,
+   "level": "四级",
+   "raw": "支（动）",
+   "word": "支",
+   "pinyin": "zhī",
+   "pos": "动"
+  },
+  {
+   "no": 10518,
+   "level": "四级",
+   "raw": "植物",
+   "word": "植物",
+   "pinyin": "zhíwù",
+   "pos": "名"
+  },
+  {
+   "no": 10542,
+   "level": "四级",
+   "raw": "指挥",
+   "word": "指挥",
+   "pinyin": "zhǐhuī",
+   "pos": "动、名"
+  },
+  {
+   "no": 10569,
+   "level": "四级",
+   "raw": "制订",
+   "word": "制订",
+   "pinyin": "zhìdìng",
+   "pos": "动"
+  },
+  {
+   "no": 10579,
+   "level": "四级",
+   "raw": "质量",
+   "word": "质量",
+   "pinyin": "zhìliàng",
+   "pos": "名"
+  },
+  {
+   "no": 10583,
+   "level": "四级",
+   "raw": "治",
+   "word": "治",
+   "pinyin": "zhì",
+   "pos": "动"
+  },
+  {
+   "no": 10587,
+   "level": "四级",
+   "raw": "治疗",
+   "word": "治疗",
+   "pinyin": "zhìliáo",
+   "pos": "动"
+  },
+  {
+   "no": 10600,
+   "level": "四级",
+   "raw": "智力",
+   "word": "智力",
+   "pinyin": "zhìlì",
+   "pos": "名"
+  },
+  {
+   "no": 10601,
+   "level": "四级",
+   "raw": "智能",
+   "word": "智能",
+   "pinyin": "zhìnéng",
+   "pos": "名"
+  },
+  {
+   "no": 10617,
+   "level": "四级",
+   "raw": "中介",
+   "word": "中介",
+   "pinyin": "zhōngjiè",
+   "pos": "名"
+  },
+  {
+   "no": 10656,
+   "level": "四级",
+   "raw": "种类",
+   "word": "种类",
+   "pinyin": "zhǒnglèi",
+   "pos": "名"
+  },
+  {
+   "no": 10661,
+   "level": "四级",
+   "raw": "中奖",
+   "word": "中奖",
+   "pinyin": "zhòng∥jiǎng",
+   "pos": ""
+  },
+  {
+   "no": 10667,
+   "level": "四级",
+   "raw": "种",
+   "word": "种",
+   "pinyin": "zhòng",
+   "pos": "动"
+  },
+  {
+   "no": 10668,
+   "level": "四级",
+   "raw": "种植",
+   "word": "种植",
+   "pinyin": "zhòngzhí",
+   "pos": "动"
+  },
+  {
+   "no": 10673,
+   "level": "四级",
+   "raw": "重量",
+   "word": "重量",
+   "pinyin": "zhòngliàng",
+   "pos": "名"
+  },
+  {
+   "no": 10704,
+   "level": "四级",
+   "raw": "逐步",
+   "word": "逐步",
+   "pinyin": "zhúbù",
+   "pos": "副"
+  },
+  {
+   "no": 10705,
+   "level": "四级",
+   "raw": "逐渐",
+   "word": "逐渐",
+   "pinyin": "zhújiàn",
+   "pos": "副"
+  },
+  {
+   "no": 10725,
+   "level": "四级",
+   "raw": "主题",
+   "word": "主题",
+   "pinyin": "zhǔtí",
+   "pos": "名"
+  },
+  {
+   "no": 10728,
+   "level": "四级",
+   "raw": "主席",
+   "word": "主席",
+   "pinyin": "zhǔxí",
+   "pos": "名"
+  },
+  {
+   "no": 10763,
+   "level": "四级",
+   "raw": "祝福",
+   "word": "祝福",
+   "pinyin": "zhùfú",
+   "pos": "动"
+  },
+  {
+   "no": 10766,
+   "level": "四级",
+   "raw": "著名",
+   "word": "著名",
+   "pinyin": "zhùmíng",
+   "pos": "形"
+  },
+  {
+   "no": 10767,
+   "level": "四级",
+   "raw": "著作",
+   "word": "著作",
+   "pinyin": "zhùzuò",
+   "pos": "名"
+  },
+  {
+   "no": 10771,
+   "level": "四级",
+   "raw": "抓紧",
+   "word": "抓紧",
+   "pinyin": "zhuā∥jǐn",
+   "pos": ""
+  },
+  {
+   "no": 10786,
+   "level": "四级",
+   "raw": "专心",
+   "word": "专心",
+   "pinyin": "zhuānxīn",
+   "pos": "形"
+  },
+  {
+   "no": 10798,
+   "level": "四级",
+   "raw": "转动",
+   "word": "转动",
+   "pinyin": "zhuǎndòng",
+   "pos": "动"
+  },
+  {
+   "no": 10799,
+   "level": "四级",
+   "raw": "转告",
+   "word": "转告",
+   "pinyin": "zhuǎngào",
+   "pos": "动"
+  },
+  {
+   "no": 10805,
+   "level": "四级",
+   "raw": "转身",
+   "word": "转身",
+   "pinyin": "zhuǎn∥shēn",
+   "pos": ""
+  },
+  {
+   "no": 10806,
+   "level": "四级",
+   "raw": "转弯",
+   "word": "转弯",
+   "pinyin": "zhuǎn∥wān",
+   "pos": ""
+  },
+  {
+   "no": 10811,
+   "level": "四级",
+   "raw": "转移",
+   "word": "转移",
+   "pinyin": "zhuǎnyí",
+   "pos": "动"
+  },
+  {
+   "no": 10831,
+   "level": "四级",
+   "raw": "装修",
+   "word": "装修",
+   "pinyin": "zhuāngxiū",
+   "pos": "动"
+  },
+  {
+   "no": 10832,
+   "level": "四级",
+   "raw": "装置",
+   "word": "装置",
+   "pinyin": "zhuāngzhì",
+   "pos": "动、名"
+  },
+  {
+   "no": 10849,
+   "level": "四级",
+   "raw": "追求",
+   "word": "追求",
+   "pinyin": "zhuīqiú",
+   "pos": "动"
+  },
+  {
+   "no": 10860,
+   "level": "四级",
+   "raw": "准时",
+   "word": "准时",
+   "pinyin": "zhǔnshí",
+   "pos": "形"
+  },
+  {
+   "no": 10888,
+   "level": "四级",
+   "raw": "资料",
+   "word": "资料",
+   "pinyin": "zīliào",
+   "pos": "名"
+  },
+  {
+   "no": 10891,
+   "level": "四级",
+   "raw": "资源",
+   "word": "资源",
+   "pinyin": "zīyuán",
+   "pos": "名"
+  },
+  {
+   "no": 10901,
+   "level": "四级",
+   "raw": "自",
+   "word": "自",
+   "pinyin": "zì",
+   "pos": "介"
+  },
+  {
+   "no": 10929,
+   "level": "四级",
+   "raw": "自信",
+   "word": "自信",
+   "pinyin": "zìxìn",
+   "pos": "动"
+  },
+  {
+   "no": 10948,
+   "level": "四级",
+   "raw": "字母",
+   "word": "字母",
+   "pinyin": "zìmǔ",
+   "pos": "名"
+  },
+  {
+   "no": 10956,
+   "level": "四级",
+   "raw": "综合",
+   "word": "综合",
+   "pinyin": "zōnghé",
+   "pos": "动"
+  },
+  {
+   "no": 10964,
+   "level": "四级",
+   "raw": "总共",
+   "word": "总共",
+   "pinyin": "zǒnggòng",
+   "pos": "副"
+  },
+  {
+   "no": 10969,
+   "level": "四级",
+   "raw": "总理",
+   "word": "总理",
+   "pinyin": "zǒnglǐ",
+   "pos": "名"
+  },
+  {
+   "no": 10975,
+   "level": "四级",
+   "raw": "总统",
+   "word": "总统",
+   "pinyin": "zǒngtǒng",
+   "pos": "名"
+  },
+  {
+   "no": 10976,
+   "level": "四级",
+   "raw": "总之",
+   "word": "总之",
+   "pinyin": "zǒngzhī",
+   "pos": "连"
+  },
+  {
+   "no": 11014,
+   "level": "四级",
+   "raw": "阻止",
+   "word": "阻止",
+   "pinyin": "zǔzhǐ",
+   "pos": "动"
+  },
+  {
+   "no": 11034,
+   "level": "四级",
+   "raw": "嘴巴",
+   "word": "嘴巴",
+   "pinyin": "zuǐba",
+   "pos": "名"
+  },
+  {
+   "no": 11037,
+   "level": "四级",
+   "raw": "最初",
+   "word": "最初",
+   "pinyin": "zuìchū",
+   "pos": "名"
+  },
+  {
+   "no": 11064,
+   "level": "四级",
+   "raw": "作出",
+   "word": "作出",
+   "pinyin": "zuòchū",
+   "pos": ""
+  },
+  {
+   "no": 11071,
+   "level": "四级",
+   "raw": "作为",
+   "word": "作为",
+   "pinyin": "zuòwéi",
+   "pos": "介、动"
+  },
+  {
+   "no": 11091,
+   "level": "四级",
+   "raw": "做梦",
+   "word": "做梦",
+   "pinyin": "zuò∥mèng",
+   "pos": ""
+  }
+ ]
+}
