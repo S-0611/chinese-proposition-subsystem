@@ -10,7 +10,7 @@
     "allow_digits": false,
     "bank_target_items": [
       160,
-      600
+      1100
     ]
   },
   "thresholds": {
@@ -18,7 +18,8 @@
     "char_freq_min": 1,
     "core_char_freq_min": 2,
     "grammar_coverage_min": 1.0,
-    "grammar_freq_min": 2
+    "grammar_freq_min": 2,
+    "vocab_coverage_min": 1.0
   },
   "chars": {
     "all": [
@@ -1159,5 +1160,13 @@
   ],
   "char_table_mode": "cumulative",
   "grammar_validation": "id_only",
-  "manual_review_required": true
+  "manual_review_required": true,
+  "vocabulary": {
+    "new_count": 973,
+    "total_count": 973,
+    "unique_headwords": 966,
+    "list_path": "data/vocabulary/level3.json",
+    "source": "HSK 3.0 vocabulary transcription",
+    "note": "三级 973 词；词形按「去括号补充、∣取首形、去∥、去空格」规范化，与一、二级同规则"
+  }
 }

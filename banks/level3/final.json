@@ -4426,8 +4426,8 @@
       "id": "L3-443",
       "level": 3,
       "round": 4,
-      "text": "他发怒了就走了。",
-      "pinyin": "tā fā nù le jiù zǒu le。",
+      "text": "他生气了就走了。",
+      "pinyin": "tā shēng qì le jiù zǒu le。",
       "grammar": [
         "G3-73"
       ]
@@ -4466,8 +4466,8 @@
       "id": "L3-447",
       "level": 3,
       "round": 4,
-      "text": "他的手腕受伤了就休息了。",
-      "pinyin": "tā de shǒu wàn shòu shāng le jiù xiū xī le。",
+      "text": "他的手受伤了就休息了。",
+      "pinyin": "tā de shǒu shòu shāng le jiù xiū xī le。",
       "grammar": [
         "G3-73"
       ]
@@ -5486,10 +5486,4370 @@
       "id": "L3-549",
       "level": 3,
       "round": 5,
-      "text": "他站在旁边，腿疼得厉害。",
-      "pinyin": "tā zhàn zài páng biān， tuǐ téng de lì hai。",
+      "text": "他站在旁边，腿疼极了。",
+      "pinyin": "tā zhàn zài páng biān，tuǐ téng jí le。",
       "grammar": [
         "G3-49"
+      ]
+    },
+    {
+      "id": "L3-550",
+      "level": 3,
+      "round": 6,
+      "text": "他把上衣放在上面的箱子里。",
+      "pinyin": "tā bǎ shàng yī fàng zài shàng miàn de xiāng zi lǐ。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-551",
+      "level": 3,
+      "round": 6,
+      "text": "下面的箱子是空的。",
+      "pinyin": "xià miàn de xiāng zi shì kōng de。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-552",
+      "level": 3,
+      "round": 6,
+      "text": "不断上升的气温让人不安。",
+      "pinyin": "bù duàn shàng shēng de qì wēn ràng rén bù ān。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-553",
+      "level": 3,
+      "round": 6,
+      "text": "你不必为这事不安。",
+      "pinyin": "nǐ bù bì wèi zhè shì bù ān。",
+      "grammar": [
+        "G3-23"
+      ]
+    },
+    {
+      "id": "L3-554",
+      "level": 3,
+      "round": 6,
+      "text": "我不得不去他家做客。",
+      "pinyin": "wǒ bù dé bù qù tā jiā zuò kè。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-555",
+      "level": 3,
+      "round": 6,
+      "text": "不论天气怎样，他都去。",
+      "pinyin": "bù lùn tiān qì zěn yàng，tā dōu qù。",
+      "grammar": [
+        "G3-70"
+      ]
+    },
+    {
+      "id": "L3-556",
+      "level": 3,
+      "round": 6,
+      "text": "他的专业是京剧。",
+      "pinyin": "tā de zhuān yè shì jīng jù。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-557",
+      "level": 3,
+      "round": 6,
+      "text": "主任主持的会员大会很成功。",
+      "pinyin": "zhǔ rèn zhǔ chí de huì yuán dà huì hěn chéng gōng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-558",
+      "level": 3,
+      "round": 6,
+      "text": "专题报告由他主持。",
+      "pinyin": "zhuān tí bào gào yóu tā zhǔ chí。",
+      "grammar": [
+        "G3-20"
+      ]
+    },
+    {
+      "id": "L3-559",
+      "level": 3,
+      "round": 6,
+      "text": "举办世界杯的城市在东部。",
+      "pinyin": "jǔ bàn shì jiè bēi de chéng shì zài dōng bù。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-560",
+      "level": 3,
+      "round": 6,
+      "text": "专门学京剧的人很多。",
+      "pinyin": "zhuān mén xué jīng jù de rén hěn duō。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-561",
+      "level": 3,
+      "round": 6,
+      "text": "中华民族的将来很光明。",
+      "pinyin": "zhōng huá mín zú de jiāng lái hěn guāng míng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-562",
+      "level": 3,
+      "round": 6,
+      "text": "这次会议是他主动主持的。",
+      "pinyin": "zhè cì huì yì shì tā zhǔ dòng zhǔ chí de。",
+      "grammar": [
+        "G3-77"
+      ]
+    },
+    {
+      "id": "L3-563",
+      "level": 3,
+      "round": 6,
+      "text": "中部的交易会办得很成功。",
+      "pinyin": "zhōng bù de jiāo yì huì bàn dé hěn chéng gōng。",
+      "grammar": [
+        "G3-49"
+      ]
+    },
+    {
+      "id": "L3-564",
+      "level": 3,
+      "round": 6,
+      "text": "这次事故产生的影响很大。",
+      "pinyin": "zhè cì shì gù chǎn shēng de yǐng xiǎng hěn dà。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-565",
+      "level": 3,
+      "round": 6,
+      "text": "传播很广的传说不是事实。",
+      "pinyin": "chuán bō hěn guǎng de chuán shuō bù shì shì shí。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-566",
+      "level": 3,
+      "round": 6,
+      "text": "事实上，一切都变了。",
+      "pinyin": "shì shí shàng，yī qiè dōu biàn le。",
+      "grammar": [
+        "G3-79"
+      ]
+    },
+    {
+      "id": "L3-567",
+      "level": 3,
+      "round": 6,
+      "text": "这起事件影响很大。",
+      "pinyin": "zhè qǐ shì jiàn yǐng xiǎng hěn dà。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-568",
+      "level": 3,
+      "round": 6,
+      "text": "事故现场的交警很忙。",
+      "pinyin": "shì gù xiàn chǎng de jiāo jǐng hěn máng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-569",
+      "level": 3,
+      "round": 6,
+      "text": "我们交往很久了，常交流。",
+      "pinyin": "wǒ men jiāo wǎng hěn jiǔ le，cháng jiāo liú。",
+      "grammar": [
+        "G3-51"
+      ]
+    },
+    {
+      "id": "L3-570",
+      "level": 3,
+      "round": 6,
+      "text": "用互联网交费很方便。",
+      "pinyin": "yòng hù lián wǎng jiāo fèi hěn fāng biàn。",
+      "grammar": [
+        "G3-43"
+      ]
+    },
+    {
+      "id": "L3-571",
+      "level": 3,
+      "round": 6,
+      "text": "人民币的价格是我们的优势。",
+      "pinyin": "rén mín bì de jià gé shì wǒ men de yōu shì。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-572",
+      "level": 3,
+      "round": 6,
+      "text": "远处传来的歌声很美。",
+      "pinyin": "yuǎn chù chuán lái de gē shēng hěn měi。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-573",
+      "level": 3,
+      "round": 6,
+      "text": "他伤心得吃不下饭。",
+      "pinyin": "tā shāng xīn dé chī bù xià fàn。",
+      "grammar": [
+        "G3-49"
+      ]
+    },
+    {
+      "id": "L3-574",
+      "level": 3,
+      "round": 6,
+      "text": "我体会到他的心情。",
+      "pinyin": "wǒ tǐ huì dào tā de xīn qíng。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-575",
+      "level": 3,
+      "round": 6,
+      "text": "作者的作品体现了中国文化。",
+      "pinyin": "zuò zhě de zuò pǐn tǐ xiàn le zhōng guó wén huà。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-576",
+      "level": 3,
+      "round": 6,
+      "text": "体验农村生活很有意义。",
+      "pinyin": "tǐ yàn nóng cūn shēng huó hěn yǒu yì yì。",
+      "grammar": [
+        "G3-43"
+      ]
+    },
+    {
+      "id": "L3-577",
+      "level": 3,
+      "round": 6,
+      "text": "保安把信封保存好了。",
+      "pinyin": "bǎo ān bǎ xìn fēng bǎo cún hǎo le。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-578",
+      "level": 3,
+      "round": 6,
+      "text": "他把事业保住了。",
+      "pinyin": "tā bǎ shì yè bǎo zhù le。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-579",
+      "level": 3,
+      "round": 6,
+      "text": "他保留了自己的主张。",
+      "pinyin": "tā bǎo liú le zì jǐ de zhǔ zhāng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-580",
+      "level": 3,
+      "round": 6,
+      "text": "保险让人安心。",
+      "pinyin": "bǎo xiǎn ràng rén ān xīn。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-581",
+      "level": 3,
+      "round": 6,
+      "text": "修改后的作品更好了。",
+      "pinyin": "xiū gǎi hòu de zuò pǐn gèng hǎo le。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-582",
+      "level": 3,
+      "round": 6,
+      "text": "这本书，我看值五十元。",
+      "pinyin": "zhè běn shū，wǒ kàn zhí wǔ shí yuán。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-583",
+      "level": 3,
+      "round": 6,
+      "text": "先进的经验值得学习。",
+      "pinyin": "xiān jìn de jīng yàn zhí dé xué xí。",
+      "grammar": [
+        "G3-44"
+      ]
+    },
+    {
+      "id": "L3-584",
+      "level": 3,
+      "round": 6,
+      "text": "人群站满了全场。",
+      "pinyin": "rén qún zhàn mǎn le quán chǎng。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-585",
+      "level": 3,
+      "round": 6,
+      "text": "全球都关注这件事了。",
+      "pinyin": "quán qiú dōu guān zhù zhè jiàn shì le。",
+      "grammar": [
+        "G3-79"
+      ]
+    },
+    {
+      "id": "L3-586",
+      "level": 3,
+      "round": 6,
+      "text": "全面检查很有必要。",
+      "pinyin": "quán miàn jiǎn chá hěn yǒu bì yào。",
+      "grammar": [
+        "G3-43"
+      ]
+    },
+    {
+      "id": "L3-587",
+      "level": 3,
+      "round": 6,
+      "text": "公务员的工作很具体。",
+      "pinyin": "gōng wù yuán de gōng zuò hěn jù tǐ。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-588",
+      "level": 3,
+      "round": 6,
+      "text": "公布的结果很清楚。",
+      "pinyin": "gōng bù de jié guǒ hěn qīng chǔ。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-589",
+      "level": 3,
+      "round": 6,
+      "text": "公民有交费的责任。",
+      "pinyin": "gōng mín yǒu jiāo fèi de zé rèn。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-590",
+      "level": 3,
+      "round": 6,
+      "text": "这是大家共同的决定。",
+      "pinyin": "zhè shì dà jiā gòng tóng de jué dìng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-591",
+      "level": 3,
+      "round": 6,
+      "text": "其次，具体的时间我们再定。",
+      "pinyin": "qí cì，jù tǐ de shí jiān wǒ men zài dìng。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-592",
+      "level": 3,
+      "round": 6,
+      "text": "具有优势的人才不多。",
+      "pinyin": "jù yǒu yōu shì de rén cái bù duō。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-593",
+      "level": 3,
+      "round": 6,
+      "text": "室内的安静让他内心不安。",
+      "pinyin": "shì nèi de ān jìng ràng tā nèi xīn bù ān。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-594",
+      "level": 3,
+      "round": 6,
+      "text": "农民的生活越来越好。",
+      "pinyin": "nóng mín de shēng huó yuè lái yuè hǎo。",
+      "grammar": [
+        "G3-42"
+      ]
+    },
+    {
+      "id": "L3-595",
+      "level": 3,
+      "round": 6,
+      "text": "他从事农业已经十年了。",
+      "pinyin": "tā cóng shì nóng yè yǐ jīng shí nián le。",
+      "grammar": [
+        "G3-51"
+      ]
+    },
+    {
+      "id": "L3-596",
+      "level": 3,
+      "round": 6,
+      "text": "从前的他很乐观。",
+      "pinyin": "cóng qián de tā hěn lè guān。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-597",
+      "level": 3,
+      "round": 6,
+      "text": "他仍保持着乐观的个性。",
+      "pinyin": "tā réng bǎo chí zhe lè guān de gè xìng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-598",
+      "level": 3,
+      "round": 6,
+      "text": "仅仅他一个人来了。",
+      "pinyin": "jǐn jǐn tā yī gè rén lái le。",
+      "grammar": [
+        "G3-13"
+      ]
+    },
+    {
+      "id": "L3-599",
+      "level": 3,
+      "round": 6,
+      "text": "她亲了一下孩子。",
+      "pinyin": "tā qīn le yī xià hái zi。",
+      "grammar": [
+        "G3-50"
+      ]
+    },
+    {
+      "id": "L3-600",
+      "level": 3,
+      "round": 6,
+      "text": "亲人的话很亲切。",
+      "pinyin": "qīn rén de huà hěn qīn qiè。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-601",
+      "level": 3,
+      "round": 6,
+      "text": "他亲自代我交费。",
+      "pinyin": "tā qīn zì dài wǒ jiāo fèi。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-602",
+      "level": 3,
+      "round": 6,
+      "text": "人工比机器贵。",
+      "pinyin": "rén gōng bǐ jī qì guì。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-603",
+      "level": 3,
+      "round": 6,
+      "text": "服务人员的态度很好。",
+      "pinyin": "fú wù rén yuán de tài dù hěn hǎo。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-604",
+      "level": 3,
+      "round": 6,
+      "text": "他的人生充满了光明。",
+      "pinyin": "tā de rén shēng chōng mǎn le guāng míng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-605",
+      "level": 3,
+      "round": 6,
+      "text": "他上来了，把书也带上去了。",
+      "pinyin": "tā shàng lái le，bǎ shū yě dài shàng qù le。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-606",
+      "level": 3,
+      "round": 6,
+      "text": "这个乐队的演出很精彩。",
+      "pinyin": "zhè gè lè duì de yǎn chū hěn jīng cǎi。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-607",
+      "level": 3,
+      "round": 6,
+      "text": "他争取到了这份工作。",
+      "pinyin": "tā zhēng qǔ dào le zhè fèn gōng zuò。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-608",
+      "level": 3,
+      "round": 6,
+      "text": "他是代表团的代表。",
+      "pinyin": "tā shì dài biǎo tuán de dài biǎo。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-609",
+      "level": 3,
+      "round": 6,
+      "text": "大家任他当组长。",
+      "pinyin": "dà jiā rèn tā dāng zǔ zhǎng。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-610",
+      "level": 3,
+      "round": 6,
+      "text": "我保证按时回来。",
+      "pinyin": "wǒ bǎo zhèng àn shí huí lái。",
+      "grammar": [
+        "G3-44"
+      ]
+    },
+    {
+      "id": "L3-611",
+      "level": 3,
+      "round": 6,
+      "text": "他值得我的信任。",
+      "pinyin": "tā zhí dé wǒ de xìn rèn。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-612",
+      "level": 3,
+      "round": 6,
+      "text": "公共汽车上人很多。",
+      "pinyin": "gōng gòng qì chē shàng rén hěn duō。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-613",
+      "level": 3,
+      "round": 6,
+      "text": "他把消息公开了。",
+      "pinyin": "tā bǎ xiāo xī gōng kāi le。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-614",
+      "level": 3,
+      "round": 6,
+      "text": "北部和南部的城市都很发达。",
+      "pinyin": "běi bù hé nán bù de chéng shì dōu hěn fā dá。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-615",
+      "level": 3,
+      "round": 6,
+      "text": "决赛的场地在北部。",
+      "pinyin": "jué sài de chǎng dì zài běi bù。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-616",
+      "level": 3,
+      "round": 6,
+      "text": "国内的团体很多。",
+      "pinyin": "guó nèi de tuán tǐ hěn duō。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-617",
+      "level": 3,
+      "round": 6,
+      "text": "各地的华人很多。",
+      "pinyin": "gè dì de huá rén hěn duō。",
+      "grammar": [
+        "G3-08"
+      ]
+    },
+    {
+      "id": "L3-618",
+      "level": 3,
+      "round": 6,
+      "text": "他前往南部办理手续。",
+      "pinyin": "tā qián wǎng nán bù bàn lǐ shǒu xù。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-619",
+      "level": 3,
+      "round": 6,
+      "text": "这个区比那个区富。",
+      "pinyin": "zhè gè qū bǐ nà gè qū fù。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-620",
+      "level": 3,
+      "round": 6,
+      "text": "我分不清两个区的区别。",
+      "pinyin": "wǒ fēn bù qīng liǎng gè qū de qū bié。",
+      "grammar": [
+        "G3-48"
+      ]
+    },
+    {
+      "id": "L3-621",
+      "level": 3,
+      "round": 6,
+      "text": "他去卫生间洗手。",
+      "pinyin": "tā qù wèi shēng jiān xǐ shǒu。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-622",
+      "level": 3,
+      "round": 6,
+      "text": "为了加强合作，双方开了会。",
+      "pinyin": "wèi le jiā qiáng hé zuò，shuāng fāng kāi le huì。",
+      "grammar": [
+        "G3-72"
+      ]
+    },
+    {
+      "id": "L3-623",
+      "level": 3,
+      "round": 6,
+      "text": "为了创业，他制定了计划。",
+      "pinyin": "wèi le chuàng yè，tā zhì dìng le jì huà。",
+      "grammar": [
+        "G3-72"
+      ]
+    },
+    {
+      "id": "L3-624",
+      "level": 3,
+      "round": 6,
+      "text": "他发动大家创业。",
+      "pinyin": "tā fā dòng dà jiā chuàng yè。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-625",
+      "level": 3,
+      "round": 6,
+      "text": "我们决心创造新产品。",
+      "pinyin": "wǒ men jué xīn chuàng zào xīn chǎn pǐn。",
+      "grammar": [
+        "G3-44"
+      ]
+    },
+    {
+      "id": "L3-626",
+      "level": 3,
+      "round": 6,
+      "text": "创新需要力量。",
+      "pinyin": "chuàng xīn xū yào lì liàng。",
+      "grammar": [
+        "G3-43"
+      ]
+    },
+    {
+      "id": "L3-627",
+      "level": 3,
+      "round": 6,
+      "text": "团结的力量很大。",
+      "pinyin": "tuán jié de lì liàng hěn dà。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-628",
+      "level": 3,
+      "round": 6,
+      "text": "他及时处理了问题。",
+      "pinyin": "tā jí shí chù lǐ le wèn tí。",
+      "grammar": [
+        "G3-14"
+      ]
+    },
+    {
+      "id": "L3-629",
+      "level": 3,
+      "round": 6,
+      "text": "他赶紧办理手续。",
+      "pinyin": "tā gǎn jǐn bàn lǐ shǒu xù。",
+      "grammar": [
+        "G3-14"
+      ]
+    },
+    {
+      "id": "L3-630",
+      "level": 3,
+      "round": 6,
+      "text": "他把工作分配好了。",
+      "pinyin": "tā bǎ gōng zuò fēn pèi hǎo le。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-631",
+      "level": 3,
+      "round": 6,
+      "text": "中国制造的商品很可靠。",
+      "pinyin": "zhōng guó zhì zào de shāng pǐn hěn kě kào。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-632",
+      "level": 3,
+      "round": 6,
+      "text": "他制作的图画很动人。",
+      "pinyin": "tā zhì zuò de tú huà hěn dòng rén。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-633",
+      "level": 3,
+      "round": 6,
+      "text": "这个判断比较合理。",
+      "pinyin": "zhè gè pàn duàn bǐ jiào hé lǐ。",
+      "grammar": [
+        "G3-12"
+      ]
+    },
+    {
+      "id": "L3-634",
+      "level": 3,
+      "round": 6,
+      "text": "他把书压住了。",
+      "pinyin": "tā bǎ shū yā zhù le。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-635",
+      "level": 3,
+      "round": 6,
+      "text": "前进的路上有困难。",
+      "pinyin": "qián jìn de lù shàng yǒu kùn nán。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-636",
+      "level": 3,
+      "round": 6,
+      "text": "前面的路很难走。",
+      "pinyin": "qián miàn de lù hěn nán zǒu。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-637",
+      "level": 3,
+      "round": 6,
+      "text": "后面的楼很高。",
+      "pinyin": "hòu miàn de lóu hěn gāo。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-638",
+      "level": 3,
+      "round": 6,
+      "text": "春节前后的天气很冷。",
+      "pinyin": "chūn jié qián hòu de tiān qì hěn lěng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-639",
+      "level": 3,
+      "round": 6,
+      "text": "这个剧场又大又干净。",
+      "pinyin": "zhè gè jù chǎng yòu dà yòu gàn jìng。",
+      "grammar": [
+        "G3-63"
+      ]
+    },
+    {
+      "id": "L3-640",
+      "level": 3,
+      "round": 6,
+      "text": "火车终于到达北部了。",
+      "pinyin": "huǒ chē zhōng yú dào dá běi bù le。",
+      "grammar": [
+        "G3-19"
+      ]
+    },
+    {
+      "id": "L3-641",
+      "level": 3,
+      "round": 6,
+      "text": "初到南方的他很不习惯。",
+      "pinyin": "chū dào nán fāng de tā hěn bù xí guàn。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-642",
+      "level": 3,
+      "round": 6,
+      "text": "这只是初步的想法。",
+      "pinyin": "zhè zhǐ shì chū bù de xiǎng fǎ。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-643",
+      "level": 3,
+      "round": 6,
+      "text": "初级班的同学很少。",
+      "pinyin": "chū jí bān de tóng xué hěn shǎo。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-644",
+      "level": 3,
+      "round": 6,
+      "text": "功课他基本上做完了。",
+      "pinyin": "gōng kè tā jī běn shàng zuò wán le。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-645",
+      "level": 3,
+      "round": 6,
+      "text": "加工后的水果很甜。",
+      "pinyin": "jiā gōng hòu de shuǐ guǒ hěn tián。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-646",
+      "level": 3,
+      "round": 6,
+      "text": "为了加快生产，他买了机器。",
+      "pinyin": "wèi le jiā kuài shēng chǎn，tā mǎi le jī qì。",
+      "grammar": [
+        "G3-72"
+      ]
+    },
+    {
+      "id": "L3-647",
+      "level": 3,
+      "round": 6,
+      "text": "手机的功能很多。",
+      "pinyin": "shǒu jī de gōng néng hěn duō。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-648",
+      "level": 3,
+      "round": 6,
+      "text": "他功夫很好。",
+      "pinyin": "tā gōng fū hěn hǎo。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-649",
+      "level": 3,
+      "round": 6,
+      "text": "他有学习的动力。",
+      "pinyin": "tā yǒu xué xí de dòng lì。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-650",
+      "level": 3,
+      "round": 6,
+      "text": "发送文件很方便。",
+      "pinyin": "fā sòng wén jiàn hěn fāng biàn。",
+      "grammar": [
+        "G3-43"
+      ]
+    },
+    {
+      "id": "L3-651",
+      "level": 3,
+      "round": 6,
+      "text": "他发明的新机器很有用。",
+      "pinyin": "tā fā míng de xīn jī qì hěn yǒu yòng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-652",
+      "level": 3,
+      "round": 6,
+      "text": "这里发生过两次事故。",
+      "pinyin": "zhè lǐ fā shēng guò liǎng cì shì gù。",
+      "grammar": [
+        "G3-50"
+      ]
+    },
+    {
+      "id": "L3-653",
+      "level": 3,
+      "round": 6,
+      "text": "公司发出了声明。",
+      "pinyin": "gōng sī fā chū le shēng míng。",
+      "grammar": [
+        "G3-47"
+      ]
+    },
+    {
+      "id": "L3-654",
+      "level": 3,
+      "round": 6,
+      "text": "另外，他发表了一篇文章。",
+      "pinyin": "lìng wài，tā fā biǎo le yī piān wén zhāng。",
+      "grammar": [
+        "G3-30"
+      ]
+    },
+    {
+      "id": "L3-655",
+      "level": 3,
+      "round": 6,
+      "text": "他发言了，我们就走了。",
+      "pinyin": "tā fā yán le，wǒ men jiù zǒu le。",
+      "grammar": [
+        "G3-73"
+      ]
+    },
+    {
+      "id": "L3-656",
+      "level": 3,
+      "round": 6,
+      "text": "他很受大家的欢迎。",
+      "pinyin": "tā hěn shòu dà jiā de huān yíng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-657",
+      "level": 3,
+      "round": 6,
+      "text": "由于天气暖，雪变为水。",
+      "pinyin": "yóu yú tiān qì nuǎn，xuě biàn wèi shuǐ。",
+      "grammar": [
+        "G3-71"
+      ]
+    },
+    {
+      "id": "L3-658",
+      "level": 3,
+      "round": 6,
+      "text": "雪都化了。",
+      "pinyin": "xuě dōu huà le。",
+      "grammar": [
+        "G3-79"
+      ]
+    },
+    {
+      "id": "L3-659",
+      "level": 3,
+      "round": 6,
+      "text": "这里的变化很大。",
+      "pinyin": "zhè lǐ de biàn huà hěn dà。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-660",
+      "level": 3,
+      "round": 6,
+      "text": "由于生病，他去年去世了。",
+      "pinyin": "yóu yú shēng bìng，tā qù nián qù shì le。",
+      "grammar": [
+        "G3-71"
+      ]
+    },
+    {
+      "id": "L3-661",
+      "level": 3,
+      "round": 6,
+      "text": "下雨了，因此比赛取消了。",
+      "pinyin": "xià yǔ le，yīn cǐ bǐ sài qǔ xiāo le。",
+      "grammar": [
+        "G3-71"
+      ]
+    },
+    {
+      "id": "L3-662",
+      "level": 3,
+      "round": 6,
+      "text": "后年的计划很简单。",
+      "pinyin": "hòu nián de jì huà hěn jiǎn dān。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-663",
+      "level": 3,
+      "round": 6,
+      "text": "他反复说了三次。",
+      "pinyin": "tā fǎn fù shuō le sān cì。",
+      "grammar": [
+        "G3-50"
+      ]
+    },
+    {
+      "id": "L3-664",
+      "level": 3,
+      "round": 6,
+      "text": "这件事处理完了。",
+      "pinyin": "zhè jiàn shì chù lǐ wán le。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-665",
+      "level": 3,
+      "round": 6,
+      "text": "外面吵得很。",
+      "pinyin": "wài miàn chǎo dé hěn。",
+      "grammar": [
+        "G3-49"
+      ]
+    },
+    {
+      "id": "L3-666",
+      "level": 3,
+      "round": 6,
+      "text": "他向各位告别。",
+      "pinyin": "tā xiàng gè wèi gào bié。",
+      "grammar": [
+        "G3-24"
+      ]
+    },
+    {
+      "id": "L3-667",
+      "level": 3,
+      "round": 6,
+      "text": "他们各自回家了。",
+      "pinyin": "tā men gè zì huí jiā le。",
+      "grammar": [
+        "G3-08"
+      ]
+    },
+    {
+      "id": "L3-668",
+      "level": 3,
+      "round": 6,
+      "text": "各种颜色都有。",
+      "pinyin": "gè zhǒng yán sè dōu yǒu。",
+      "grammar": [
+        "G3-08"
+      ]
+    },
+    {
+      "id": "L3-669",
+      "level": 3,
+      "round": 6,
+      "text": "只有合格的产品才能卖。",
+      "pinyin": "zhǐ yǒu hé gé de chǎn pǐn cái néng mài。",
+      "grammar": [
+        "G3-70"
+      ]
+    },
+    {
+      "id": "L3-670",
+      "level": 3,
+      "round": 6,
+      "text": "这是合法的生意。",
+      "pinyin": "zhè shì hé fǎ de shēng yì。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-671",
+      "level": 3,
+      "round": 6,
+      "text": "他坚决否认这件事。",
+      "pinyin": "tā jiān jué fǒu rèn zhè jiàn shì。",
+      "grammar": [
+        "G3-17"
+      ]
+    },
+    {
+      "id": "L3-672",
+      "level": 3,
+      "round": 6,
+      "text": "他反应很快。",
+      "pinyin": "tā fǎn yīng hěn kuài。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-673",
+      "level": 3,
+      "round": 6,
+      "text": "听众的笑声很大。",
+      "pinyin": "tīng zhòng de xiào shēng hěn dà。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-674",
+      "level": 3,
+      "round": 6,
+      "text": "他听力很好。",
+      "pinyin": "tā tīng lì hěn hǎo。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-675",
+      "level": 3,
+      "round": 6,
+      "text": "每个人的命运都不同。",
+      "pinyin": "měi gè rén de mìng yùn dōu bù tóng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-676",
+      "level": 3,
+      "round": 6,
+      "text": "和平的日子很幸福。",
+      "pinyin": "hé píng de rì zi hěn xìng fú。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-677",
+      "level": 3,
+      "round": 6,
+      "text": "周围的人很热情。",
+      "pinyin": "zhōu wéi de rén hěn rè qíng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-678",
+      "level": 3,
+      "round": 6,
+      "text": "他是这个团体的一员。",
+      "pinyin": "tā shì zhè gè tuán tǐ de yī yuán。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-679",
+      "level": 3,
+      "round": 6,
+      "text": "大家围着他坐。",
+      "pinyin": "dà jiā wéi zhe tā zuò。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-680",
+      "level": 3,
+      "round": 6,
+      "text": "这种习惯危害很大。",
+      "pinyin": "zhè zhǒng xí guàn wēi hài hěn dà。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-681",
+      "level": 3,
+      "round": 6,
+      "text": "他给我的印象很好。",
+      "pinyin": "tā gěi wǒ de yìn xiàng hěn hǎo。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-682",
+      "level": 3,
+      "round": 6,
+      "text": "这个场合比较正式。",
+      "pinyin": "zhè gè chǎng hé bǐ jiào zhèng shì。",
+      "grammar": [
+        "G3-12"
+      ]
+    },
+    {
+      "id": "L3-683",
+      "level": 3,
+      "round": 6,
+      "text": "这里不是说话的场所。",
+      "pinyin": "zhè lǐ bù shì shuō huà de chǎng suǒ。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-684",
+      "level": 3,
+      "round": 6,
+      "text": "她是个坚强的女人。",
+      "pinyin": "tā shì gè jiān qiáng de nǚ rén。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-685",
+      "level": 3,
+      "round": 6,
+      "text": "这个单元比较难。",
+      "pinyin": "zhè gè dān yuán bǐ jiào nán。",
+      "grammar": [
+        "G3-12"
+      ]
+    },
+    {
+      "id": "L3-686",
+      "level": 3,
+      "round": 6,
+      "text": "今年的增长比去年快。",
+      "pinyin": "jīn nián de zēng zhǎng bǐ qù nián kuài。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-687",
+      "level": 3,
+      "round": 6,
+      "text": "他去商店买可乐。",
+      "pinyin": "tā qù shāng diàn mǎi kě lè。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-688",
+      "level": 3,
+      "round": 6,
+      "text": "我们分别去了南部。",
+      "pinyin": "wǒ men fēn bié qù le nán bù。",
+      "grammar": [
+        "G3-17"
+      ]
+    },
+    {
+      "id": "L3-689",
+      "level": 3,
+      "round": 6,
+      "text": "老师叫我们分组。",
+      "pinyin": "lǎo shī jiào wǒ men fēn zǔ。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-690",
+      "level": 3,
+      "round": 6,
+      "text": "我学会了划船。",
+      "pinyin": "wǒ xué huì le huà chuán。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-691",
+      "level": 3,
+      "round": 6,
+      "text": "古代的人没有电灯。",
+      "pinyin": "gǔ dài de rén méi yǒu diàn dēng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-692",
+      "level": 3,
+      "round": 6,
+      "text": "我只有一个想法。",
+      "pinyin": "wǒ zhǐ yǒu yī gè xiǎng fǎ。",
+      "grammar": [
+        "G3-13"
+      ]
+    },
+    {
+      "id": "L3-693",
+      "level": 3,
+      "round": 6,
+      "text": "他反正会来的。",
+      "pinyin": "tā fǎn zhèng huì lái de。",
+      "grammar": [
+        "G3-19"
+      ]
+    },
+    {
+      "id": "L3-694",
+      "level": 3,
+      "round": 6,
+      "text": "你千万别喝凉水。",
+      "pinyin": "nǐ qiān wàn bié hē liáng shuǐ。",
+      "grammar": [
+        "G3-19"
+      ]
+    },
+    {
+      "id": "L3-695",
+      "level": 3,
+      "round": 6,
+      "text": "你要想清楚后果。",
+      "pinyin": "nǐ yào xiǎng qīng chǔ hòu guǒ。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-696",
+      "level": 3,
+      "round": 6,
+      "text": "这个城市的商业很有名。",
+      "pinyin": "zhè gè chéng shì de shāng yè hěn yǒu míng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-697",
+      "level": 3,
+      "round": 6,
+      "text": "大使馆需要复印外文文件。",
+      "pinyin": "dà shǐ guǎn xū yào fù yìn wài wén wén jiàn。",
+      "grammar": [
+        "G3-04"
+      ]
+    },
+    {
+      "id": "L3-698",
+      "level": 3,
+      "round": 6,
+      "text": "外交工作，他很有经验。",
+      "pinyin": "wài jiāo gōng zuò，tā hěn yǒu jīng yàn。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-699",
+      "level": 3,
+      "round": 6,
+      "text": "那名女子是当地有名的导演。",
+      "pinyin": "nà míng nǚ zi shì dāng dì yǒu míng de dǎo yǎn。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-700",
+      "level": 3,
+      "round": 6,
+      "text": "大夫让他定期检查身体。",
+      "pinyin": "dà fū ràng tā dìng qī jiǎn chá shēn tǐ。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-701",
+      "level": 3,
+      "round": 6,
+      "text": "他害怕看大夫。",
+      "pinyin": "tā hài pà kàn dà fū。",
+      "grammar": [
+        "G3-44"
+      ]
+    },
+    {
+      "id": "L3-702",
+      "level": 3,
+      "round": 6,
+      "text": "天空中的云慢慢散开了。",
+      "pinyin": "tiān kōng zhōng de yún màn màn sàn kāi le。",
+      "grammar": [
+        "G3-47"
+      ]
+    },
+    {
+      "id": "L3-703",
+      "level": 3,
+      "round": 6,
+      "text": "他头脑清楚，办事很快。",
+      "pinyin": "tā tóu nǎo qīng chǔ，bàn shì hěn kuài。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-704",
+      "level": 3,
+      "round": 6,
+      "text": "意外的消息让他失去信心。",
+      "pinyin": "yì wài de xiāo xī ràng tā shī qù xìn xīn。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-705",
+      "level": 3,
+      "round": 6,
+      "text": "她好奇地喝了一口奶茶。",
+      "pinyin": "tā hǎo qí dì hē le yī kǒu nǎi chá。",
+      "grammar": [
+        "G3-50"
+      ]
+    },
+    {
+      "id": "L3-706",
+      "level": 3,
+      "round": 6,
+      "text": "他始终好好地照顾我。",
+      "pinyin": "tā shǐ zhōng hǎo hǎo dì zhào gù wǒ。",
+      "grammar": [
+        "G3-14"
+      ]
+    },
+    {
+      "id": "L3-707",
+      "level": 3,
+      "round": 6,
+      "text": "父母的愿望是子女幸福。",
+      "pinyin": "fù mǔ de yuàn wàng shì zi nǚ xìng fú。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-708",
+      "level": 3,
+      "round": 6,
+      "text": "我们应当把这件事办好。",
+      "pinyin": "wǒ men yīng dāng bǎ zhè jiàn shì bàn hǎo。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-709",
+      "level": 3,
+      "round": 6,
+      "text": "他把学费存到银行去了。",
+      "pinyin": "tā bǎ xué fèi cún dào yín xíng qù le。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-710",
+      "level": 3,
+      "round": 6,
+      "text": "公司安排工人安装空调。",
+      "pinyin": "gōng sī ān pái gōng rén ān zhuāng kōng diào。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-711",
+      "level": 3,
+      "round": 6,
+      "text": "完善制度很有必要。",
+      "pinyin": "wán shàn zhì dù hěn yǒu bì yào。",
+      "grammar": [
+        "G3-43"
+      ]
+    },
+    {
+      "id": "L3-712",
+      "level": 3,
+      "round": 6,
+      "text": "这本书内容完整，语言完美。",
+      "pinyin": "zhè běn shū nèi róng wán zhěng，yǔ yán wán měi。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-713",
+      "level": 3,
+      "round": 6,
+      "text": "对手的实力非常强大。",
+      "pinyin": "duì shǒu de shí lì fēi cháng qiáng dà。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-714",
+      "level": 3,
+      "round": 6,
+      "text": "实际上这个办法实行两年了。",
+      "pinyin": "shí jì shàng zhè gè bàn fǎ shí xíng liǎng nián le。",
+      "grammar": [
+        "G3-51"
+      ]
+    },
+    {
+      "id": "L3-715",
+      "level": 3,
+      "round": 6,
+      "text": "他找到了实验的对象。",
+      "pinyin": "tā zhǎo dào le shí yàn de duì xiàng。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-716",
+      "level": 3,
+      "round": 6,
+      "text": "他的看法比较客观。",
+      "pinyin": "tā de kàn fǎ bǐ jiào kè guān。",
+      "grammar": [
+        "G3-12"
+      ]
+    },
+    {
+      "id": "L3-717",
+      "level": 3,
+      "round": 6,
+      "text": "开发和宣传新产品都很重要。",
+      "pinyin": "kāi fā hé xuān chuán xīn chǎn pǐn dōu hěn zhòng yào。",
+      "grammar": [
+        "G3-43"
+      ]
+    },
+    {
+      "id": "L3-718",
+      "level": 3,
+      "round": 6,
+      "text": "我的家乡在南方。",
+      "pinyin": "wǒ de jiā xiāng zài nán fāng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-719",
+      "level": 3,
+      "round": 6,
+      "text": "屋子里的家具很旧。",
+      "pinyin": "wū zi lǐ de jiā jù hěn jiù。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-720",
+      "level": 3,
+      "round": 6,
+      "text": "家属们都很着急。",
+      "pinyin": "jiā shǔ men dōu hěn zhe jí。",
+      "grammar": [
+        "G3-02"
+      ]
+    },
+    {
+      "id": "L3-721",
+      "level": 3,
+      "round": 6,
+      "text": "他对待客人很热情。",
+      "pinyin": "tā duì dài kè rén hěn rè qíng。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-722",
+      "level": 3,
+      "round": 6,
+      "text": "对方已经同意了。",
+      "pinyin": "duì fāng yǐ jīng tóng yì le。",
+      "grammar": [
+        "G3-14"
+      ]
+    },
+    {
+      "id": "L3-723",
+      "level": 3,
+      "round": 6,
+      "text": "他真幸运，考上了大学。",
+      "pinyin": "tā zhēn xìng yùn，kǎo shàng le dà xué。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-724",
+      "level": 3,
+      "round": 6,
+      "text": "将来你要是有空，就来看我。",
+      "pinyin": "jiāng lái nǐ yào shì yǒu kōng，jiù lái kàn wǒ。",
+      "grammar": [
+        "G3-69"
+      ]
+    },
+    {
+      "id": "L3-725",
+      "level": 3,
+      "round": 6,
+      "text": "他学了将近两年中文。",
+      "pinyin": "tā xué le jiāng jìn liǎng nián zhōng wén。",
+      "grammar": [
+        "G3-51"
+      ]
+    },
+    {
+      "id": "L3-726",
+      "level": 3,
+      "round": 6,
+      "text": "大学生就业比较难。",
+      "pinyin": "dà xué shēng jiù yè bǐ jiào nán。",
+      "grammar": [
+        "G3-12"
+      ]
+    },
+    {
+      "id": "L3-727",
+      "level": 3,
+      "round": 6,
+      "text": "你尽量早点回来。",
+      "pinyin": "nǐ jǐn liàng zǎo diǎn huí lái。",
+      "grammar": [
+        "G3-17"
+      ]
+    },
+    {
+      "id": "L3-728",
+      "level": 3,
+      "round": 6,
+      "text": "讨论展开得很顺利。",
+      "pinyin": "tǎo lùn zhǎn kāi dé hěn shùn lì。",
+      "grammar": [
+        "G3-49"
+      ]
+    },
+    {
+      "id": "L3-729",
+      "level": 3,
+      "round": 6,
+      "text": "这台机器属我们车间。",
+      "pinyin": "zhè tái jī qì shǔ wǒ men chē jiān。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-730",
+      "level": 3,
+      "round": 6,
+      "text": "工业建设使当地就业增加了。",
+      "pinyin": "gōng yè jiàn shè shǐ dāng dì jiù yè zēng jiā le。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-731",
+      "level": 3,
+      "round": 6,
+      "text": "老师带领我们参观工厂。",
+      "pinyin": "lǎo shī dài lǐng wǒ men cān guān gōng chǎng。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-732",
+      "level": 3,
+      "round": 6,
+      "text": "他用了三天工夫才修好。",
+      "pinyin": "tā yòng le sān tiān gōng fū cái xiū hǎo。",
+      "grammar": [
+        "G3-14"
+      ]
+    },
+    {
+      "id": "L3-733",
+      "level": 3,
+      "round": 6,
+      "text": "他们把新房子建好了。",
+      "pinyin": "tā men bǎ xīn fáng zi jiàn hǎo le。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-734",
+      "level": 3,
+      "round": 6,
+      "text": "工程师的工资比我的高。",
+      "pinyin": "gōng chéng shī de gōng zī bǐ wǒ de gāo。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-735",
+      "level": 3,
+      "round": 6,
+      "text": "他带动大家一起干。",
+      "pinyin": "tā dài dòng dà jiā yī qǐ gàn。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-736",
+      "level": 3,
+      "round": 6,
+      "text": "你干吗不去呢？",
+      "pinyin": "nǐ gàn ma bù qù ne？",
+      "grammar": [
+        "G3-78"
+      ]
+    },
+    {
+      "id": "L3-737",
+      "level": 3,
+      "round": 6,
+      "text": "那个年代生活很苦。",
+      "pinyin": "nà gè nián dài shēng huó hěn kǔ。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-738",
+      "level": 3,
+      "round": 6,
+      "text": "到了年底，工作更忙了。",
+      "pinyin": "dào le nián dǐ，gōng zuò gèng máng le。",
+      "grammar": [
+        "G3-12"
+      ]
+    },
+    {
+      "id": "L3-739",
+      "level": 3,
+      "round": 6,
+      "text": "同学当中，他年纪最大。",
+      "pinyin": "tóng xué dāng zhōng，tā nián jì zuì dà。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-740",
+      "level": 3,
+      "round": 6,
+      "text": "他并不喜欢喝茶。",
+      "pinyin": "tā bìng bù xǐ huān hē chá。",
+      "grammar": [
+        "G3-19"
+      ]
+    },
+    {
+      "id": "L3-741",
+      "level": 3,
+      "round": 6,
+      "text": "广大的农村变化很大。",
+      "pinyin": "guǎng dà de nóng cūn biàn huà hěn dà。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-742",
+      "level": 3,
+      "round": 6,
+      "text": "我们为他庆祝生日。",
+      "pinyin": "wǒ men wèi tā qìng zhù shēng rì。",
+      "grammar": [
+        "G3-23"
+      ]
+    },
+    {
+      "id": "L3-743",
+      "level": 3,
+      "round": 6,
+      "text": "这种技术应用很广。",
+      "pinyin": "zhè zhǒng jì shù yīng yòng hěn guǎng。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-744",
+      "level": 3,
+      "round": 6,
+      "text": "猫在桌子底下睡了一觉。",
+      "pinyin": "māo zài zhuō zi dǐ xià shuì le yī jué。",
+      "grammar": [
+        "G3-32"
+      ]
+    },
+    {
+      "id": "L3-745",
+      "level": 3,
+      "round": 6,
+      "text": "新机场已经建成了。",
+      "pinyin": "xīn jī chǎng yǐ jīng jiàn chéng le。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-746",
+      "level": 3,
+      "round": 6,
+      "text": "两国建立外交关系十年了。",
+      "pinyin": "liǎng guó jiàn lì wài jiāo guān xì shí nián le。",
+      "grammar": [
+        "G3-52"
+      ]
+    },
+    {
+      "id": "L3-747",
+      "level": 3,
+      "round": 6,
+      "text": "这家饭馆开业已经三个月了。",
+      "pinyin": "zhè jiā fàn guǎn kāi yè yǐ jīng sān gè yuè le。",
+      "grammar": [
+        "G3-51"
+      ]
+    },
+    {
+      "id": "L3-748",
+      "level": 3,
+      "round": 6,
+      "text": "体育活动开展得很好。",
+      "pinyin": "tǐ yù huó dòng kāi zhǎn dé hěn hǎo。",
+      "grammar": [
+        "G3-49"
+      ]
+    },
+    {
+      "id": "L3-749",
+      "level": 3,
+      "round": 6,
+      "text": "他的思想很开放。",
+      "pinyin": "tā de sī xiǎng hěn kāi fàng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-750",
+      "level": 3,
+      "round": 6,
+      "text": "他的话里有强烈的感情。",
+      "pinyin": "tā de huà lǐ yǒu qiáng liè de gǎn qíng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-751",
+      "level": 3,
+      "round": 6,
+      "text": "他把这一点强调了好几遍。",
+      "pinyin": "tā bǎ zhè yī diǎn qiáng diào le hǎo jǐ biàn。",
+      "grammar": [
+        "G3-50"
+      ]
+    },
+    {
+      "id": "L3-752",
+      "level": 3,
+      "round": 6,
+      "text": "当初他当然不同意。",
+      "pinyin": "dāng chū tā dāng rán bù tóng yì。",
+      "grammar": [
+        "G3-19"
+      ]
+    },
+    {
+      "id": "L3-753",
+      "level": 3,
+      "round": 6,
+      "text": "录音的效果好极了。",
+      "pinyin": "lù yīn de xiào guǒ hǎo jí le。",
+      "grammar": [
+        "G3-49"
+      ]
+    },
+    {
+      "id": "L3-754",
+      "level": 3,
+      "round": 6,
+      "text": "影视作品的形式很特别。",
+      "pinyin": "yǐng shì zuò pǐn de xíng shì hěn tè bié。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-755",
+      "level": 3,
+      "round": 6,
+      "text": "这个形象让人难忘。",
+      "pinyin": "zhè gè xíng xiàng ràng rén nán wàng。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-756",
+      "level": 3,
+      "round": 6,
+      "text": "从那时起，这里慢慢形成了湖。",
+      "pinyin": "cóng nà shí qǐ，zhè lǐ màn màn xíng chéng le hú。",
+      "grammar": [
+        "G3-39"
+      ]
+    },
+    {
+      "id": "L3-757",
+      "level": 3,
+      "round": 6,
+      "text": "这块石头的形状奇怪得很。",
+      "pinyin": "zhè kuài shí tóu de xíng zhuàng qí guài dé hěn。",
+      "grammar": [
+        "G3-49"
+      ]
+    },
+    {
+      "id": "L3-758",
+      "level": 3,
+      "round": 6,
+      "text": "这场球他得分最多。",
+      "pinyin": "zhè chǎng qiú tā dé fēn zuì duō。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-759",
+      "level": 3,
+      "round": 6,
+      "text": "要是不努力，就必然落后。",
+      "pinyin": "yào shì bù nǔ lì，jiù bì rán luò hòu。",
+      "grammar": [
+        "G3-69"
+      ]
+    },
+    {
+      "id": "L3-760",
+      "level": 3,
+      "round": 6,
+      "text": "他的志愿是当老师。",
+      "pinyin": "tā de zhì yuàn shì dāng lǎo shī。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-761",
+      "level": 3,
+      "round": 6,
+      "text": "志愿者们都到了。",
+      "pinyin": "zhì yuàn zhě men dōu dào le。",
+      "grammar": [
+        "G3-02"
+      ]
+    },
+    {
+      "id": "L3-762",
+      "level": 3,
+      "round": 6,
+      "text": "他快速地跑过去。",
+      "pinyin": "tā kuài sù dì pǎo guò qù。",
+      "grammar": [
+        "G3-47"
+      ]
+    },
+    {
+      "id": "L3-763",
+      "level": 3,
+      "round": 6,
+      "text": "他一点儿也不怕苦。",
+      "pinyin": "tā yī diǎn ér yě bù pà kǔ。",
+      "grammar": [
+        "G3-41"
+      ]
+    },
+    {
+      "id": "L3-764",
+      "level": 3,
+      "round": 6,
+      "text": "它的重要性很明显。",
+      "pinyin": "tā de zhòng yào xìng hěn míng xiǎn。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-765",
+      "level": 3,
+      "round": 6,
+      "text": "请把性别写在这里。",
+      "pinyin": "qǐng bǎ xìng bié xiě zài zhè lǐ。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-766",
+      "level": 3,
+      "round": 6,
+      "text": "这份情感让他很难忘。",
+      "pinyin": "zhè fèn qíng gǎn ràng tā hěn nán wàng。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-767",
+      "level": 3,
+      "round": 6,
+      "text": "他这次旅行感受很深。",
+      "pinyin": "tā zhè cì lǚ xíng gǎn shòu hěn shēn。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-768",
+      "level": 3,
+      "round": 6,
+      "text": "团队的成员都很年轻。",
+      "pinyin": "tuán duì de chéng yuán dōu hěn nián qīng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-769",
+      "level": 3,
+      "round": 6,
+      "text": "这次的成果让大家很满意。",
+      "pinyin": "zhè cì de chéng guǒ ràng dà jiā hěn mǎn yì。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-770",
+      "level": 3,
+      "round": 6,
+      "text": "他的想法已经成熟。",
+      "pinyin": "tā de xiǎng fǎ yǐ jīng chéng shú。",
+      "grammar": [
+        "G3-14"
+      ]
+    },
+    {
+      "id": "L3-771",
+      "level": 3,
+      "round": 6,
+      "text": "公司成立十年了。",
+      "pinyin": "gōng sī chéng lì shí nián le。",
+      "grammar": [
+        "G3-51"
+      ]
+    },
+    {
+      "id": "L3-772",
+      "level": 3,
+      "round": 6,
+      "text": "这些小树慢慢成长起来了。",
+      "pinyin": "zhè xiē xiǎo shù màn màn chéng zhǎng qǐ lái le。",
+      "grammar": [
+        "G3-47"
+      ]
+    },
+    {
+      "id": "L3-773",
+      "level": 3,
+      "round": 6,
+      "text": "我的房东人很好。",
+      "pinyin": "wǒ de fáng dōng rén hěn hǎo。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-774",
+      "level": 3,
+      "round": 6,
+      "text": "所长把旧房屋修好了。",
+      "pinyin": "suǒ zhǎng bǎ jiù fáng wū xiū hǎo le。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-775",
+      "level": 3,
+      "round": 6,
+      "text": "所长的手指很长。",
+      "pinyin": "suǒ zhǎng de shǒu zhǐ hěn zhǎng。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-776",
+      "level": 3,
+      "round": 6,
+      "text": "所长批准我请假。",
+      "pinyin": "suǒ zhǎng pī zhǔn wǒ qǐng jiǎ。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-777",
+      "level": 3,
+      "round": 6,
+      "text": "他去打听报到的手续。",
+      "pinyin": "tā qù dǎ tīng bào dào de shǒu xù。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-778",
+      "level": 3,
+      "round": 6,
+      "text": "他跟我握手表示欢迎。",
+      "pinyin": "tā gēn wǒ wò shǒu biǎo shì huān yíng。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-779",
+      "level": 3,
+      "round": 6,
+      "text": "警察把坏人抓走了。",
+      "pinyin": "jǐng chá bǎ huài rén zhuā zǒu le。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-780",
+      "level": 3,
+      "round": 6,
+      "text": "爷爷早上看报，然后听广播。",
+      "pinyin": "yé yé zǎo shàng kàn bào，rán hòu tīng guǎng bō。",
+      "grammar": [
+        "G3-64"
+      ]
+    },
+    {
+      "id": "L3-781",
+      "level": 3,
+      "round": 6,
+      "text": "报告指出了他的毛病。",
+      "pinyin": "bào gào zhǐ chū le tā de máo bìng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-782",
+      "level": 3,
+      "round": 6,
+      "text": "电视播出了这次演出。",
+      "pinyin": "diàn shì bō chū le zhè cì yǎn chū。",
+      "grammar": [
+        "G3-47"
+      ]
+    },
+    {
+      "id": "L3-783",
+      "level": 3,
+      "round": 6,
+      "text": "收音机播放的节目很有意思。",
+      "pinyin": "shōu yīn jī bō fàng de jié mù hěn yǒu yì sī。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-784",
+      "level": 3,
+      "round": 6,
+      "text": "收听和收看都是学习方式。",
+      "pinyin": "shōu tīng hé shōu kàn dōu shì xué xí fāng shì。",
+      "grammar": [
+        "G3-43"
+      ]
+    },
+    {
+      "id": "L3-785",
+      "level": 3,
+      "round": 6,
+      "text": "这里按标准收费。",
+      "pinyin": "zhè lǐ àn biāo zhǔn shōu fèi。",
+      "grammar": [
+        "G3-29"
+      ]
+    },
+    {
+      "id": "L3-786",
+      "level": 3,
+      "round": 6,
+      "text": "手机支付的方式很方便。",
+      "pinyin": "shǒu jī zhī fù de fāng shì hěn fāng biàn。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-787",
+      "level": 3,
+      "round": 6,
+      "text": "他买了两支笔。",
+      "pinyin": "tā mǎi le liǎng zhī bǐ。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-788",
+      "level": 3,
+      "round": 6,
+      "text": "我们把旧房屋改造成旅馆了。",
+      "pinyin": "wǒ men bǎ jiù fáng wū gǎi zào chéng lǚ guǎn le。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-789",
+      "level": 3,
+      "round": 6,
+      "text": "公司推广的新技术很有效。",
+      "pinyin": "gōng sī tuī guǎng de xīn jì shù hěn yǒu xiào。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-790",
+      "level": 3,
+      "round": 6,
+      "text": "高温持续了整整一周。",
+      "pinyin": "gāo wēn chí xù le zhěng zhěng yī zhōu。",
+      "grammar": [
+        "G3-51"
+      ]
+    },
+    {
+      "id": "L3-791",
+      "level": 3,
+      "round": 6,
+      "text": "他成绩接近满分，排名也高。",
+      "pinyin": "tā chéng jì jiē jìn mǎn fēn，pái míng yě gāo。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-792",
+      "level": 3,
+      "round": 6,
+      "text": "女生的比例比去年明显上升。",
+      "pinyin": "nǚ shēng de bǐ lì bǐ qù nián míng xiǎn shàng shēng。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-793",
+      "level": 3,
+      "round": 6,
+      "text": "商品的数量比去年多了。",
+      "pinyin": "shāng pǐn de shù liàng bǐ qù nián duō le。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-794",
+      "level": 3,
+      "round": 6,
+      "text": "那个时刻我早已忘了。",
+      "pinyin": "nà gè shí kè wǒ zǎo yǐ wàng le。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-795",
+      "level": 3,
+      "round": 6,
+      "text": "这件事他根本不知道。",
+      "pinyin": "zhè jiàn shì tā gēn běn bù zhī dào。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-796",
+      "level": 3,
+      "round": 6,
+      "text": "他果然通过了考试。",
+      "pinyin": "tā guǒ rán tōng guò le kǎo shì。",
+      "grammar": [
+        "G3-19"
+      ]
+    },
+    {
+      "id": "L3-797",
+      "level": 3,
+      "round": 6,
+      "text": "这本杂志的标题很特别。",
+      "pinyin": "zhè běn zá zhì de biāo tí hěn tè bié。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-798",
+      "level": 3,
+      "round": 6,
+      "text": "教材里的文字很生动。",
+      "pinyin": "jiào cái lǐ de wén zì hěn shēng dòng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-799",
+      "level": 3,
+      "round": 6,
+      "text": "古代的文明消失了吗？",
+      "pinyin": "gǔ dài de wén míng xiāo shī le ma？",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-800",
+      "level": 3,
+      "round": 6,
+      "text": "这个概念的定义很明确。",
+      "pinyin": "zhè gè gài niàn de dìng yì hěn míng què。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-801",
+      "level": 3,
+      "round": 6,
+      "text": "他把文件放到桌上。",
+      "pinyin": "tā bǎ wén jiàn fàng dào zhuō shàng。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-802",
+      "level": 3,
+      "round": 6,
+      "text": "参加晚会要穿正式的服装。",
+      "pinyin": "cān jiā wǎn huì yào chuān zhèng shì de fú zhuāng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-803",
+      "level": 3,
+      "round": 6,
+      "text": "这里日常消费很高。",
+      "pinyin": "zhè lǐ rì cháng xiāo fèi hěn gāo。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-804",
+      "level": 3,
+      "round": 6,
+      "text": "他本事不小，学本领很快。",
+      "pinyin": "tā běn shì bù xiǎo，xué běn lǐng hěn kuài。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-805",
+      "level": 3,
+      "round": 6,
+      "text": "教练指导我们训练。",
+      "pinyin": "jiào liàn zhǐ dǎo wǒ men xùn liàn。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-806",
+      "level": 3,
+      "round": 6,
+      "text": "学生向老师提问。",
+      "pinyin": "xué shēng xiàng lǎo shī tí wèn。",
+      "grammar": [
+        "G3-24"
+      ]
+    },
+    {
+      "id": "L3-807",
+      "level": 3,
+      "round": 6,
+      "text": "旅馆的服务员接待了我们。",
+      "pinyin": "lǚ guǎn de fú wù yuán jiē dài le wǒ men。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-808",
+      "level": 3,
+      "round": 6,
+      "text": "我们搬家的那天很累。",
+      "pinyin": "wǒ men bān jiā de nà tiān hěn lèi。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-809",
+      "level": 3,
+      "round": 6,
+      "text": "故乡的景色也美，气候也温暖。",
+      "pinyin": "gù xiāng de jǐng sè yě měi，qì hòu yě wēn nuǎn。",
+      "grammar": [
+        "G3-60"
+      ]
+    },
+    {
+      "id": "L3-810",
+      "level": 3,
+      "round": 6,
+      "text": "鞋里的沙子很多。",
+      "pinyin": "xié lǐ de shā zi hěn duō。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-811",
+      "level": 3,
+      "round": 6,
+      "text": "古代的武器比现在的落后。",
+      "pinyin": "gǔ dài de wǔ qì bǐ xiàn zài de luò hòu。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-812",
+      "level": 3,
+      "round": 6,
+      "text": "这个收音机的毛病很多。",
+      "pinyin": "zhè gè shōu yīn jī de máo bìng hěn duō。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-813",
+      "level": 3,
+      "round": 6,
+      "text": "买没用的东西就是浪费。",
+      "pinyin": "mǎi méi yòng de dōng xī jiù shì làng fèi。",
+      "grammar": [
+        "G3-43"
+      ]
+    },
+    {
+      "id": "L3-814",
+      "level": 3,
+      "round": 6,
+      "text": "他对这个问题有深入的了解。",
+      "pinyin": "tā duì zhè gè wèn tí yǒu shēn rù de le jiě。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-815",
+      "level": 3,
+      "round": 6,
+      "text": "他讲的话很深刻。",
+      "pinyin": "tā jiǎng de huà hěn shēn kè。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-816",
+      "level": 3,
+      "round": 6,
+      "text": "歌手的歌声很动人，歌迷很多。",
+      "pinyin": "gē shǒu de gē shēng hěn dòng rén，gē mí hěn duō。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-817",
+      "level": 3,
+      "round": 6,
+      "text": "这场演唱会持续了三个小时。",
+      "pinyin": "zhè chǎng yǎn chàng huì chí xù le sān gè xiǎo shí。",
+      "grammar": [
+        "G3-51"
+      ]
+    },
+    {
+      "id": "L3-818",
+      "level": 3,
+      "round": 6,
+      "text": "这个演员演的角色很成功。",
+      "pinyin": "zhè gè yǎn yuán yǎn de jiǎo sè hěn chéng gōng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-819",
+      "level": 3,
+      "round": 6,
+      "text": "他演唱的节目很受欢迎。",
+      "pinyin": "tā yǎn chàng de jié mù hěn shòu huān yíng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-820",
+      "level": 3,
+      "round": 6,
+      "text": "他热爱自己的父母。",
+      "pinyin": "tā rè ài zì jǐ de fù mǔ。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-821",
+      "level": 3,
+      "round": 6,
+      "text": "熟人说他很有爱心。",
+      "pinyin": "shú rén shuō tā hěn yǒu ài xīn。",
+      "grammar": [
+        "G3-44"
+      ]
+    },
+    {
+      "id": "L3-822",
+      "level": 3,
+      "round": 6,
+      "text": "显然，他有把握成功。",
+      "pinyin": "xiǎn rán，tā yǒu bǎ wò chéng gōng。",
+      "grammar": [
+        "G3-19"
+      ]
+    },
+    {
+      "id": "L3-823",
+      "level": 3,
+      "round": 6,
+      "text": "社会推动了文化普及的工作。",
+      "pinyin": "shè huì tuī dòng le wén huà pǔ jí de gōng zuò。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-824",
+      "level": 3,
+      "round": 6,
+      "text": "整体的工作推进得很快。",
+      "pinyin": "zhěng tǐ de gōng zuò tuī jìn dé hěn kuài。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-825",
+      "level": 3,
+      "round": 6,
+      "text": "这种现象相当普遍。",
+      "pinyin": "zhè zhǒng xiàn xiàng xiāng dāng pǔ biàn。",
+      "grammar": [
+        "G3-12"
+      ]
+    },
+    {
+      "id": "L3-826",
+      "level": 3,
+      "round": 6,
+      "text": "散步对身体有利。",
+      "pinyin": "sàn bù duì shēn tǐ yǒu lì。",
+      "grammar": [
+        "G3-43"
+      ]
+    },
+    {
+      "id": "L3-827",
+      "level": 3,
+      "round": 6,
+      "text": "节日的欢乐让他很满足。",
+      "pinyin": "jié rì de huān lè ràng tā hěn mǎn zú。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-828",
+      "level": 3,
+      "round": 6,
+      "text": "海关比旅行社忙。",
+      "pinyin": "hǎi guān bǐ lǚ xíng shè máng。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-829",
+      "level": 3,
+      "round": 6,
+      "text": "民间文学的形式很丰富。",
+      "pinyin": "mín jiān wén xué de xíng shì hěn fēng fù。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-830",
+      "level": 3,
+      "round": 6,
+      "text": "他一步一步往前走。",
+      "pinyin": "tā yī bù yī bù wǎng qián zǒu。",
+      "grammar": [
+        "G3-33"
+      ]
+    },
+    {
+      "id": "L3-831",
+      "level": 3,
+      "round": 6,
+      "text": "他整了整衣服就出门了。",
+      "pinyin": "tā zhěng le zhěng yī fú jiù chū mén le。",
+      "grammar": [
+        "G3-73"
+      ]
+    },
+    {
+      "id": "L3-832",
+      "level": 3,
+      "round": 6,
+      "text": "整个上午他都在整理文件。",
+      "pinyin": "zhěng gè shàng wǔ tā dōu zài zhěng lǐ wén jiàn。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-833",
+      "level": 3,
+      "round": 6,
+      "text": "整天工作的人容易累。",
+      "pinyin": "zhěng tiān gōng zuò de rén róng yì lèi。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-834",
+      "level": 3,
+      "round": 6,
+      "text": "他的目标很明确。",
+      "pinyin": "tā de mù biāo hěn míng què。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-835",
+      "level": 3,
+      "round": 6,
+      "text": "天上飞过一架飞机。",
+      "pinyin": "tiān shàng fēi guò yī jià fēi jī。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-836",
+      "level": 3,
+      "round": 6,
+      "text": "改进后的房屋很舒服。",
+      "pinyin": "gǎi jìn hòu de fáng wū hěn shū fú。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-837",
+      "level": 3,
+      "round": 6,
+      "text": "这篇报道显示情况变了。",
+      "pinyin": "zhè piān bào dào xiǎn shì qíng kuàng biàn le。",
+      "grammar": [
+        "G3-44"
+      ]
+    },
+    {
+      "id": "L3-838",
+      "level": 3,
+      "round": 6,
+      "text": "这个菜很有特色。",
+      "pinyin": "zhè gè cài hěn yǒu tè sè。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-839",
+      "level": 3,
+      "round": 6,
+      "text": "他目前身体状况很好。",
+      "pinyin": "tā mù qián shēn tǐ zhuàng kuàng hěn hǎo。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-840",
+      "level": 3,
+      "round": 6,
+      "text": "这个玩具看起来很有意思。",
+      "pinyin": "zhè gè wán jù kàn qǐ lái hěn yǒu yì sī。",
+      "grammar": [
+        "G3-35"
+      ]
+    },
+    {
+      "id": "L3-841",
+      "level": 3,
+      "round": 6,
+      "text": "这个环是银的。",
+      "pinyin": "zhè gè huán shì yín de。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-842",
+      "level": 3,
+      "round": 6,
+      "text": "环保问题越来越重要。",
+      "pinyin": "huán bǎo wèn tí yuè lái yuè zhòng yào。",
+      "grammar": [
+        "G3-42"
+      ]
+    },
+    {
+      "id": "L3-843",
+      "level": 3,
+      "round": 6,
+      "text": "现代科技发展很快。",
+      "pinyin": "xiàn dài kē jì fā zhǎn hěn kuài。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-844",
+      "level": 3,
+      "round": 6,
+      "text": "现实比想象更难。",
+      "pinyin": "xiàn shí bǐ xiǎng xiàng gèng nán。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-845",
+      "level": 3,
+      "round": 6,
+      "text": "这是一种自然现象。",
+      "pinyin": "zhè shì yī zhǒng zì rán xiàn xiàng。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-846",
+      "level": 3,
+      "round": 6,
+      "text": "他把现金放在皮包里。",
+      "pinyin": "tā bǎ xiàn jīn fàng zài pí bāo lǐ。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-847",
+      "level": 3,
+      "round": 6,
+      "text": "我们班级的球迷很多。",
+      "pinyin": "wǒ men bān jí de qiú mí hěn duō。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-848",
+      "level": 3,
+      "round": 6,
+      "text": "他理发的理由很奇怪。",
+      "pinyin": "tā lǐ fā de lǐ yóu hěn qí guài。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-849",
+      "level": 3,
+      "round": 6,
+      "text": "他的话让我理解了。",
+      "pinyin": "tā de huà ràng wǒ lǐ jiě le。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-850",
+      "level": 3,
+      "round": 6,
+      "text": "我们要把理论和实际结合。",
+      "pinyin": "wǒ men yào bǎ lǐ lùn hé shí jì jié hé。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-851",
+      "level": 3,
+      "round": 6,
+      "text": "他讲课很生动。",
+      "pinyin": "tā jiǎng kè hěn shēng dòng。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-852",
+      "level": 3,
+      "round": 6,
+      "text": "每种动物都要生存。",
+      "pinyin": "měi zhǒng dòng wù dōu yào shēng cún。",
+      "grammar": [
+        "G3-08"
+      ]
+    },
+    {
+      "id": "L3-853",
+      "level": 3,
+      "round": 6,
+      "text": "他的生意越做越大。",
+      "pinyin": "tā de shēng yì yuè zuò yuè dà。",
+      "grammar": [
+        "G3-42"
+      ]
+    },
+    {
+      "id": "L3-854",
+      "level": 3,
+      "round": 6,
+      "text": "阳光让种子生长。",
+      "pinyin": "yáng guāng ràng zhǒng zi shēng zhǎng。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-855",
+      "level": 3,
+      "round": 6,
+      "text": "电视台请他去电台直播。",
+      "pinyin": "diàn shì tái qǐng tā qù diàn tái zhí bō。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-856",
+      "level": 3,
+      "round": 6,
+      "text": "他用电子邮件发来了表格。",
+      "pinyin": "tā yòng diàn zi yóu jiàn fā lái le biǎo gé。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-857",
+      "level": 3,
+      "round": 6,
+      "text": "这部电视剧很精彩。",
+      "pinyin": "zhè bù diàn shì jù hěn jīng cǎi。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-858",
+      "level": 3,
+      "round": 6,
+      "text": "那个男子个子很高。",
+      "pinyin": "nà gè nán zi gè zi hěn gāo。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-859",
+      "level": 3,
+      "round": 6,
+      "text": "他去美国留学了。",
+      "pinyin": "tā qù měi guó liú xué le。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-860",
+      "level": 3,
+      "round": 6,
+      "text": "离婚让他很痛苦。",
+      "pinyin": "lí hūn ràng tā hěn tòng kǔ。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-861",
+      "level": 3,
+      "round": 6,
+      "text": "他买了白菜就回家了。",
+      "pinyin": "tā mǎi le bái cài jiù huí jiā le。",
+      "grammar": [
+        "G3-73"
+      ]
+    },
+    {
+      "id": "L3-862",
+      "level": 3,
+      "round": 6,
+      "text": "这是我的短期目标。",
+      "pinyin": "zhè shì wǒ de duǎn qī mù biāo。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-863",
+      "level": 3,
+      "round": 6,
+      "text": "直到今天我才明白。",
+      "pinyin": "zhí dào jīn tiān wǒ cái míng bái。",
+      "grammar": [
+        "G3-14"
+      ]
+    },
+    {
+      "id": "L3-864",
+      "level": 3,
+      "round": 6,
+      "text": "我们要相互帮助。",
+      "pinyin": "wǒ men yào xiāng hù bāng zhù。",
+      "grammar": [
+        "G3-17"
+      ]
+    },
+    {
+      "id": "L3-865",
+      "level": 3,
+      "round": 6,
+      "text": "这两个问题相关。",
+      "pinyin": "zhè liǎng gè wèn tí xiāng guān。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-866",
+      "level": 3,
+      "round": 6,
+      "text": "相比去年，他的程度提高了。",
+      "pinyin": "xiāng bǐ qù nián，tā de chéng dù tí gāo le。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-867",
+      "level": 3,
+      "round": 6,
+      "text": "这个故事相当真实。",
+      "pinyin": "zhè gè gù shì xiāng dāng zhēn shí。",
+      "grammar": [
+        "G3-12"
+      ]
+    },
+    {
+      "id": "L3-868",
+      "level": 3,
+      "round": 6,
+      "text": "眼前的舞台很美。",
+      "pinyin": "yǎn qián de wǔ tái hěn měi。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-869",
+      "level": 3,
+      "round": 6,
+      "text": "每个人都有缺点和短处。",
+      "pinyin": "měi gè rén dōu yǒu quē diǎn hé duǎn chù。",
+      "grammar": [
+        "G3-08"
+      ]
+    },
+    {
+      "id": "L3-870",
+      "level": 3,
+      "round": 6,
+      "text": "这条短裤的颜色很好看。",
+      "pinyin": "zhè tiáo duǎn kù de yán sè hěn hǎo kàn。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-871",
+      "level": 3,
+      "round": 6,
+      "text": "石油的价格很高。",
+      "pinyin": "shí yóu de jià gé hěn gāo。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-872",
+      "level": 3,
+      "round": 6,
+      "text": "衣服都破了。",
+      "pinyin": "yī fú dōu pò le。",
+      "grammar": [
+        "G3-79"
+      ]
+    },
+    {
+      "id": "L3-873",
+      "level": 3,
+      "round": 6,
+      "text": "大风把房子破坏了。",
+      "pinyin": "dà fēng bǎ fáng zi pò huài le。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-874",
+      "level": 3,
+      "round": 6,
+      "text": "由于情况紧急，他先走了。",
+      "pinyin": "yóu yú qíng kuàng jǐn jí，tā xiān zǒu le。",
+      "grammar": [
+        "G3-71"
+      ]
+    },
+    {
+      "id": "L3-875",
+      "level": 3,
+      "round": 6,
+      "text": "只有检查，才能确保安全。",
+      "pinyin": "zhǐ yǒu jiǎn chá，cái néng què bǎo ān quán。",
+      "grammar": [
+        "G3-70"
+      ]
+    },
+    {
+      "id": "L3-876",
+      "level": 3,
+      "round": 6,
+      "text": "日期不是确定了吗？",
+      "pinyin": "rì qī bù shì què dìng le ma？",
+      "grammar": [
+        "G3-76"
+      ]
+    },
+    {
+      "id": "L3-877",
+      "level": 3,
+      "round": 6,
+      "text": "票价一点儿也不贵。",
+      "pinyin": "piào jià yī diǎn ér yě bù guì。",
+      "grammar": [
+        "G3-75"
+      ]
+    },
+    {
+      "id": "L3-878",
+      "level": 3,
+      "round": 6,
+      "text": "这个福字很好看。",
+      "pinyin": "zhè gè fú zì hěn hǎo kàn。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-879",
+      "level": 3,
+      "round": 6,
+      "text": "为了纪念他，我们建了公园。",
+      "pinyin": "wèi le jì niàn tā，wǒ men jiàn le gōng yuán。",
+      "grammar": [
+        "G3-72"
+      ]
+    },
+    {
+      "id": "L3-880",
+      "level": 3,
+      "round": 6,
+      "text": "他工作很积极。",
+      "pinyin": "tā gōng zuò hěn jī jí。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-881",
+      "level": 3,
+      "round": 6,
+      "text": "这里被称为小联合国。",
+      "pinyin": "zhè lǐ bèi chēng wèi xiǎo lián hé guó。",
+      "grammar": [
+        "G3-55"
+      ]
+    },
+    {
+      "id": "L3-882",
+      "level": 3,
+      "round": 6,
+      "text": "他周末通常有空。",
+      "pinyin": "tā zhōu mò tōng cháng yǒu kōng。",
+      "grammar": [
+        "G3-15"
+      ]
+    },
+    {
+      "id": "L3-883",
+      "level": 3,
+      "round": 6,
+      "text": "要是有空儿，就来玩。",
+      "pinyin": "yào shì yǒu kōng ér，jiù lái wán。",
+      "grammar": [
+        "G3-69"
+      ]
+    },
+    {
+      "id": "L3-884",
+      "level": 3,
+      "round": 6,
+      "text": "他的成绩相当突出。",
+      "pinyin": "tā de chéng jì xiāng dāng tū chū。",
+      "grammar": [
+        "G3-12"
+      ]
+    },
+    {
+      "id": "L3-885",
+      "level": 3,
+      "round": 6,
+      "text": "他简直高兴极了。",
+      "pinyin": "tā jiǎn zhí gāo xīng jí le。",
+      "grammar": [
+        "G3-49"
+      ]
+    },
+    {
+      "id": "L3-886",
+      "level": 3,
+      "round": 6,
+      "text": "妈妈不让我管这件事。",
+      "pinyin": "mā mā bù ràng wǒ guǎn zhè jiàn shì。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-887",
+      "level": 3,
+      "round": 6,
+      "text": "这两个词很类似。",
+      "pinyin": "zhè liǎng gè cí hěn lèi shì。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-888",
+      "level": 3,
+      "round": 6,
+      "text": "快把安全带系好。",
+      "pinyin": "kuài bǎ ān quán dài xì hǎo。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-889",
+      "level": 3,
+      "round": 6,
+      "text": "这件衣服比那件紧。",
+      "pinyin": "zhè jiàn yī fú bǐ nà jiàn jǐn。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-890",
+      "level": 3,
+      "round": 6,
+      "text": "红茶比绿茶好喝。",
+      "pinyin": "hóng chá bǐ lǜ chá hǎo hē。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-891",
+      "level": 3,
+      "round": 6,
+      "text": "这瓶红酒很贵。",
+      "pinyin": "zhè píng hóng jiǔ hěn guì。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-892",
+      "level": 3,
+      "round": 6,
+      "text": "他约我明天见面。",
+      "pinyin": "tā yuē wǒ míng tiān jiàn miàn。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-893",
+      "level": 3,
+      "round": 6,
+      "text": "世界纪录被他打破了。",
+      "pinyin": "shì jiè jì lù bèi tā dǎ pò le。",
+      "grammar": [
+        "G3-55"
+      ]
+    },
+    {
+      "id": "L3-894",
+      "level": 3,
+      "round": 6,
+      "text": "组合的方法很简单。",
+      "pinyin": "zǔ hé de fāng fǎ hěn jiǎn dān。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-895",
+      "level": 3,
+      "round": 6,
+      "text": "这张桌子很结实。",
+      "pinyin": "zhè zhāng zhuō zi hěn jié shí。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-896",
+      "level": 3,
+      "round": 6,
+      "text": "比赛结束了，我们就走了。",
+      "pinyin": "bǐ sài jié shù le，wǒ men jiù zǒu le。",
+      "grammar": [
+        "G3-73"
+      ]
+    },
+    {
+      "id": "L3-897",
+      "level": 3,
+      "round": 6,
+      "text": "要是缺人，就告诉我。",
+      "pinyin": "yào shì quē rén，jiù gào sù wǒ。",
+      "grammar": [
+        "G3-69"
+      ]
+    },
+    {
+      "id": "L3-898",
+      "level": 3,
+      "round": 6,
+      "text": "这件衣服五十美元。",
+      "pinyin": "zhè jiàn yī fú wǔ shí měi yuán。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-899",
+      "level": 3,
+      "round": 6,
+      "text": "我们的生活很美好。",
+      "pinyin": "wǒ men de shēng huó hěn měi hǎo。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-900",
+      "level": 3,
+      "round": 6,
+      "text": "自从学了美术，他的画更好了。",
+      "pinyin": "zì cóng xué le měi shù，tā de huà gèng hǎo le。",
+      "grammar": [
+        "G3-21"
+      ]
+    },
+    {
+      "id": "L3-901",
+      "level": 3,
+      "round": 6,
+      "text": "老太太去公园散步。",
+      "pinyin": "lǎo tài tài qù gōng yuán sàn bù。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-902",
+      "level": 3,
+      "round": 6,
+      "text": "老头儿的身体很好。",
+      "pinyin": "lǎo tóu ér de shēn tǐ hěn hǎo。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-903",
+      "level": 3,
+      "round": 6,
+      "text": "老板生意很好。",
+      "pinyin": "lǎo bǎn shēng yì hěn hǎo。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-904",
+      "level": 3,
+      "round": 6,
+      "text": "老百姓的生活好了。",
+      "pinyin": "lǎo bǎi xìng de shēng huó hǎo le。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-905",
+      "level": 3,
+      "round": 6,
+      "text": "这是一次考验。",
+      "pinyin": "zhè shì yī cì kǎo yàn。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-906",
+      "level": 3,
+      "round": 6,
+      "text": "厂里的职工很多。",
+      "pinyin": "chǎng lǐ de zhí gōng hěn duō。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-907",
+      "level": 3,
+      "round": 6,
+      "text": "我们联合起来吧。",
+      "pinyin": "wǒ men lián hé qǐ lái ba。",
+      "grammar": [
+        "G3-47"
+      ]
+    },
+    {
+      "id": "L3-908",
+      "level": 3,
+      "round": 6,
+      "text": "从今天起，我要节约用水。",
+      "pinyin": "cóng jīn tiān qǐ，wǒ yào jié yuē yòng shuǐ。",
+      "grammar": [
+        "G3-39"
+      ]
+    },
+    {
+      "id": "L3-909",
+      "level": 3,
+      "round": 6,
+      "text": "他朝我背后看了一眼。",
+      "pinyin": "tā cháo wǒ bèi hòu kàn le yī yǎn。",
+      "grammar": [
+        "G3-22"
+      ]
+    },
+    {
+      "id": "L3-910",
+      "level": 3,
+      "round": 6,
+      "text": "只有坚持，才能胜利。",
+      "pinyin": "zhǐ yǒu jiān chí，cái néng shèng lì。",
+      "grammar": [
+        "G3-70"
+      ]
+    },
+    {
+      "id": "L3-911",
+      "level": 3,
+      "round": 6,
+      "text": "能不能去还不知道。",
+      "pinyin": "néng bù néng qù hái bù zhī dào。",
+      "grammar": [
+        "G3-43"
+      ]
+    },
+    {
+      "id": "L3-912",
+      "level": 3,
+      "round": 6,
+      "text": "他的能力比我强。",
+      "pinyin": "tā de néng lì bǐ wǒ qiáng。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-913",
+      "level": 3,
+      "round": 6,
+      "text": "老师让学生自主讨论。",
+      "pinyin": "lǎo shī ràng xué shēng zì zhǔ tǎo lùn。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-914",
+      "level": 3,
+      "round": 6,
+      "text": "这个门是自动的。",
+      "pinyin": "zhè gè mén shì zì dòng de。",
+      "grammar": [
+        "G3-77"
+      ]
+    },
+    {
+      "id": "L3-915",
+      "level": 3,
+      "round": 6,
+      "text": "孩子们学习很自觉。",
+      "pinyin": "hái zi men xué xí hěn zì jué。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-916",
+      "level": 3,
+      "round": 6,
+      "text": "每个人都有自身的优点。",
+      "pinyin": "měi gè rén dōu yǒu zì shēn de yōu diǎn。",
+      "grammar": [
+        "G3-08"
+      ]
+    },
+    {
+      "id": "L3-917",
+      "level": 3,
+      "round": 6,
+      "text": "至少有三个人。",
+      "pinyin": "zhì shǎo yǒu sān gè rén。",
+      "grammar": [
+        "G3-13"
+      ]
+    },
+    {
+      "id": "L3-918",
+      "level": 3,
+      "round": 6,
+      "text": "我把行李放在门口。",
+      "pinyin": "wǒ bǎ xíng lǐ fàng zài mén kǒu。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-919",
+      "level": 3,
+      "round": 6,
+      "text": "衣架上的衣服很多。",
+      "pinyin": "yī jià shàng de yī fú hěn duō。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-920",
+      "level": 3,
+      "round": 6,
+      "text": "我再补充一句。",
+      "pinyin": "wǒ zài bǔ chōng yī jù。",
+      "grammar": [
+        "G3-16"
+      ]
+    },
+    {
+      "id": "L3-921",
+      "level": 3,
+      "round": 6,
+      "text": "他的态度表明了一切。",
+      "pinyin": "tā de tài dù biǎo míng le yī qiè。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-922",
+      "level": 3,
+      "round": 6,
+      "text": "这个菜很有营养。",
+      "pinyin": "zhè gè cài hěn yǒu yíng yǎng。",
+      "grammar": [
+        "G3-09"
+      ]
+    },
+    {
+      "id": "L3-923",
+      "level": 3,
+      "round": 6,
+      "text": "我们村比以前落后。",
+      "pinyin": "wǒ men cūn bǐ yǐ qián luò hòu。",
+      "grammar": [
+        "G3-58"
+      ]
+    },
+    {
+      "id": "L3-924",
+      "level": 3,
+      "round": 6,
+      "text": "大家对他的表现评价很高。",
+      "pinyin": "dà jiā duì tā de biǎo xiàn píng jià hěn gāo。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-925",
+      "level": 3,
+      "round": 6,
+      "text": "他能表达自己的观念。",
+      "pinyin": "tā néng biǎo dá zì jǐ de guān niàn。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-926",
+      "level": 3,
+      "round": 6,
+      "text": "他观察了水的表面。",
+      "pinyin": "tā guān chá le shuǐ de biǎo miàn。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-927",
+      "level": 3,
+      "round": 6,
+      "text": "衬衣和被子都洗了。",
+      "pinyin": "chèn yī hé bèi zi dōu xǐ le。",
+      "grammar": [
+        "G3-79"
+      ]
+    },
+    {
+      "id": "L3-928",
+      "level": 3,
+      "round": 6,
+      "text": "他把身份证和证件都给我了。",
+      "pinyin": "tā bǎ shēn fèn zhèng hé zhèng jiàn dōu gěi wǒ le。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-929",
+      "level": 3,
+      "round": 6,
+      "text": "我认出了那位记者。",
+      "pinyin": "wǒ rèn chū le nà wèi jì zhě。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-930",
+      "level": 3,
+      "round": 6,
+      "text": "我认得他的字。",
+      "pinyin": "wǒ rèn dé tā de zì。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-931",
+      "level": 3,
+      "round": 6,
+      "text": "警察调查了所有的证据。",
+      "pinyin": "jǐng chá diào chá le suǒ yǒu de zhèng jù。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-932",
+      "level": 3,
+      "round": 6,
+      "text": "读者喜欢观看话剧。",
+      "pinyin": "dú zhě xǐ huān guān kàn huà jù。",
+      "grammar": [
+        "G3-44"
+      ]
+    },
+    {
+      "id": "L3-933",
+      "level": 3,
+      "round": 6,
+      "text": "部长设立了新的部门。",
+      "pinyin": "bù zhǎng shè lì le xīn de bù mén。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-934",
+      "level": 3,
+      "round": 6,
+      "text": "他的设计得到了认可。",
+      "pinyin": "tā de shè jì dé dào le rèn kě。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-935",
+      "level": 3,
+      "round": 6,
+      "text": "老师计算了试题的难度。",
+      "pinyin": "lǎo shī jì suàn le shì tí de nán dù。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-936",
+      "level": 3,
+      "round": 6,
+      "text": "他记录了试验的结果。",
+      "pinyin": "tā jì lù le shì yàn de jié guǒ。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-937",
+      "level": 3,
+      "round": 6,
+      "text": "这道题目他答得很规范。",
+      "pinyin": "zhè dào tí mù tā dá dé hěn guī fàn。",
+      "grammar": [
+        "G3-49"
+      ]
+    },
+    {
+      "id": "L3-938",
+      "level": 3,
+      "round": 6,
+      "text": "这是他选修的课程。",
+      "pinyin": "zhè shì tā xuǎn xiū de kè chéng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-939",
+      "level": 3,
+      "round": 6,
+      "text": "首先预习，然后做题。",
+      "pinyin": "shǒu xiān yù xí，rán hòu zuò tí。",
+      "grammar": [
+        "G3-64"
+      ]
+    },
+    {
+      "id": "L3-940",
+      "level": 3,
+      "round": 6,
+      "text": "他向老师请教问题。",
+      "pinyin": "tā xiàng lǎo shī qǐng jiào wèn tí。",
+      "grammar": [
+        "G3-24"
+      ]
+    },
+    {
+      "id": "L3-941",
+      "level": 3,
+      "round": 6,
+      "text": "这个话题我们不谈了。",
+      "pinyin": "zhè gè huà tí wǒ men bù tán le。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-942",
+      "level": 3,
+      "round": 6,
+      "text": "西部的高速公路很长。",
+      "pinyin": "xī bù de gāo sù gōng lù hěn zhǎng。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-943",
+      "level": 3,
+      "round": 6,
+      "text": "高速铁路又快又干净。",
+      "pinyin": "gāo sù tiě lù yòu kuài yòu gàn jìng。",
+      "grammar": [
+        "G3-63"
+      ]
+    },
+    {
+      "id": "L3-944",
+      "level": 3,
+      "round": 6,
+      "text": "这条路线适合骑车。",
+      "pinyin": "zhè tiáo lù xiàn shì hé qí chē。",
+      "grammar": [
+        "G3-44"
+      ]
+    },
+    {
+      "id": "L3-945",
+      "level": 3,
+      "round": 6,
+      "text": "手机使通信和输入更方便。",
+      "pinyin": "shǒu jī shǐ tōng xìn hé shū rù gèng fāng biàn。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-946",
+      "level": 3,
+      "round": 6,
+      "text": "请把信发到我的邮箱。",
+      "pinyin": "qǐng bǎ xìn fā dào wǒ de yóu xiāng。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-947",
+      "level": 3,
+      "round": 6,
+      "text": "飞机的飞行很安全。",
+      "pinyin": "fēi jī de fēi xíng hěn ān quán。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-948",
+      "level": 3,
+      "round": 6,
+      "text": "食品的安全最重要。",
+      "pinyin": "shí pǐn de ān quán zuì zhòng yào。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-949",
+      "level": 3,
+      "round": 6,
+      "text": "公司了解大家的需求。",
+      "pinyin": "gōng sī le jiě dà jiā de xū qiú。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-950",
+      "level": 3,
+      "round": 6,
+      "text": "他采用了我们采取的办法。",
+      "pinyin": "tā cǎi yòng le wǒ men cǎi qǔ de bàn fǎ。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-951",
+      "level": 3,
+      "round": 6,
+      "text": "他超级喜欢足球。",
+      "pinyin": "tā chāo jí xǐ huān zú qiú。",
+      "grammar": [
+        "G3-12"
+      ]
+    },
+    {
+      "id": "L3-952",
+      "level": 3,
+      "round": 6,
+      "text": "跳远和跳高都是他的长处。",
+      "pinyin": "tiào yuǎn hé tiào gāo dōu shì tā de zhǎng chù。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-953",
+      "level": 3,
+      "round": 6,
+      "text": "这位选手领先对手，得了金牌。",
+      "pinyin": "zhè wèi xuǎn shǒu lǐng xiān duì shǒu，dé le jīn pái。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-954",
+      "level": 3,
+      "round": 6,
+      "text": "银牌被对手拿走了。",
+      "pinyin": "yín pái bèi duì shǒu ná zǒu le。",
+      "grammar": [
+        "G3-55"
+      ]
+    },
+    {
+      "id": "L3-955",
+      "level": 3,
+      "round": 6,
+      "text": "队员们要互相配合。",
+      "pinyin": "duì yuán men yào hù xiāng pèi hé。",
+      "grammar": [
+        "G3-17"
+      ]
+    },
+    {
+      "id": "L3-956",
+      "level": 3,
+      "round": 6,
+      "text": "集体讨论集中了大家的意见。",
+      "pinyin": "jí tǐ tǎo lùn jí zhōng le dà jiā de yì jiàn。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-957",
+      "level": 3,
+      "round": 6,
+      "text": "他把声音调低了。",
+      "pinyin": "tā bǎ shēng yīn diào dī le。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-958",
+      "level": 3,
+      "round": 6,
+      "text": "他终于调整了计划。",
+      "pinyin": "tā zhōng yú diào zhěng le jì huà。",
+      "grammar": [
+        "G3-19"
+      ]
+    },
+    {
+      "id": "L3-959",
+      "level": 3,
+      "round": 6,
+      "text": "他们进行了两次谈判。",
+      "pinyin": "tā men jìn xíng le liǎng cì tán pàn。",
+      "grammar": [
+        "G3-50"
+      ]
+    },
+    {
+      "id": "L3-960",
+      "level": 3,
+      "round": 6,
+      "text": "老师找他谈话。",
+      "pinyin": "lǎo shī zhǎo tā tán huà。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-961",
+      "level": 3,
+      "round": 6,
+      "text": "当老师需要资格和责任心。",
+      "pinyin": "dāng lǎo shī xū yào zī gé hé zé rèn xīn。",
+      "grammar": [
+        "G3-43"
+      ]
+    },
+    {
+      "id": "L3-962",
+      "level": 3,
+      "round": 6,
+      "text": "他让大家面对这个重大错误。",
+      "pinyin": "tā ràng dà jiā miàn duì zhè gè zhòng dà cuò wù。",
+      "grammar": [
+        "G3-57"
+      ]
+    },
+    {
+      "id": "L3-963",
+      "level": 3,
+      "round": 6,
+      "text": "为了预防风险，他买了保险。",
+      "pinyin": "wèi le yù fáng fēng xiǎn，tā mǎi le bǎo xiǎn。",
+      "grammar": [
+        "G3-72"
+      ]
+    },
+    {
+      "id": "L3-964",
+      "level": 3,
+      "round": 6,
+      "text": "长期的工作造成了很多麻烦。",
+      "pinyin": "zhǎng qī de gōng zuò zào chéng le hěn duō má fán。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-965",
+      "level": 3,
+      "round": 6,
+      "text": "他预计近期会有转变。",
+      "pinyin": "tā yù jì jìn qī huì yǒu zhuǎn biàn。",
+      "grammar": [
+        "G3-44"
+      ]
+    },
+    {
+      "id": "L3-966",
+      "level": 3,
+      "round": 6,
+      "text": "他成绩有了进一步的提高。",
+      "pinyin": "tā chéng jì yǒu le jìn yī bù de tí gāo。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-967",
+      "level": 3,
+      "round": 6,
+      "text": "他的进步非常大。",
+      "pinyin": "tā de jìn bù fēi cháng dà。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-968",
+      "level": 3,
+      "round": 6,
+      "text": "工作有了新的进展。",
+      "pinyin": "gōng zuò yǒu le xīn de jìn zhǎn。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-969",
+      "level": 3,
+      "round": 6,
+      "text": "里面的同学都到齐了。",
+      "pinyin": "lǐ miàn de tóng xué dōu dào qí le。",
+      "grammar": [
+        "G3-79"
+      ]
+    },
+    {
+      "id": "L3-970",
+      "level": 3,
+      "round": 6,
+      "text": "他退出了比赛。",
+      "pinyin": "tā tuì chū le bǐ sài。",
+      "grammar": [
+        "G3-47"
+      ]
+    },
+    {
+      "id": "L3-971",
+      "level": 3,
+      "round": 6,
+      "text": "他适应了这里的生活。",
+      "pinyin": "tā shì yīng le zhè lǐ de shēng huó。",
+      "grammar": [
+        "G3-45"
+      ]
+    },
+    {
+      "id": "L3-972",
+      "level": 3,
+      "round": 6,
+      "text": "连续剧我连续看了两天。",
+      "pinyin": "lián xù jù wǒ lián xù kàn le liǎng tiān。",
+      "grammar": [
+        "G3-53"
+      ]
+    },
+    {
+      "id": "L3-973",
+      "level": 3,
+      "round": 6,
+      "text": "这些邮票较贵。",
+      "pinyin": "zhè xiē yóu piào jiào guì。",
+      "grammar": [
+        "G3-12"
+      ]
+    },
+    {
+      "id": "L3-974",
+      "level": 3,
+      "round": 6,
+      "text": "他赶紧跑过去。",
+      "pinyin": "tā gǎn jǐn pǎo guò qù。",
+      "grammar": [
+        "G3-14"
+      ]
+    },
+    {
+      "id": "L3-975",
+      "level": 3,
+      "round": 6,
+      "text": "这个规定适用于每个人。",
+      "pinyin": "zhè gè guī dìng shì yòng yú měi gè rén。",
+      "grammar": [
+        "G3-08"
+      ]
+    },
+    {
+      "id": "L3-976",
+      "level": 3,
+      "round": 6,
+      "text": "他把衣服解开了。",
+      "pinyin": "tā bǎ yī fú jiě kāi le。",
+      "grammar": [
+        "G3-54"
+      ]
+    },
+    {
+      "id": "L3-977",
+      "level": 3,
+      "round": 6,
+      "text": "他连忙赶到车站迎接客人。",
+      "pinyin": "tā lián máng gǎn dào chē zhàn yíng jiē kè rén。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-978",
+      "level": 3,
+      "round": 6,
+      "text": "一只鸟飞走了。",
+      "pinyin": "yī zhǐ niǎo fēi zǒu le。",
+      "grammar": [
+        "G3-46"
+      ]
+    },
+    {
+      "id": "L3-979",
+      "level": 3,
+      "round": 6,
+      "text": "办证要带照片。",
+      "pinyin": "bàn zhèng yào dài zhào piàn。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-980",
+      "level": 3,
+      "round": 6,
+      "text": "这个工作费时间，也费力气。",
+      "pinyin": "zhè gè gōng zuò fèi shí jiān，yě fèi lì qì。",
+      "grammar": [
+        "G3-60"
+      ]
+    },
+    {
+      "id": "L3-981",
+      "level": 3,
+      "round": 6,
+      "text": "他赶着上班。",
+      "pinyin": "tā gǎn zhe shàng bān。",
+      "grammar": [
+        "G3-56"
+      ]
+    },
+    {
+      "id": "L3-982",
+      "level": 3,
+      "round": 6,
+      "text": "他跳得很高。",
+      "pinyin": "tā tiào dé hěn gāo。",
+      "grammar": [
+        "G3-49"
+      ]
+    },
+    {
+      "id": "L3-983",
+      "level": 3,
+      "round": 6,
+      "text": "他退了钱就走了。",
+      "pinyin": "tā tuì le qián jiù zǒu le。",
+      "grammar": [
+        "G3-73"
+      ]
+    },
+    {
+      "id": "L3-984",
+      "level": 3,
+      "round": 6,
+      "text": "为了防病，他常洗手。",
+      "pinyin": "wèi le fáng bìng，tā cháng xǐ shǒu。",
+      "grammar": [
+        "G3-72"
+      ]
+    },
+    {
+      "id": "L3-985",
+      "level": 3,
+      "round": 6,
+      "text": "他领了工资就回家了。",
+      "pinyin": "tā lǐng le gōng zī jiù huí jiā le。",
+      "grammar": [
+        "G3-73"
       ]
     }
   ]

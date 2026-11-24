@@ -1,11 +1,11 @@
 {
   "level": 3,
-  "reviewed_at": "2026-11-23",
+  "reviewed_at": "2026-11-24",
   "reviewer": "AI 助手抽检",
-  "scope": "三级题库全库 548 题；重点复核字表口径、越级字、语法点标注与新增补题",
+  "scope": "三级题库全库 985 题；本轮聚焦词汇严格口径覆盖",
   "method": "逐条核对 33 条越级字题与 138 条语法点错标题；对新增 172 题按句长、字表、语法点三层抽检 60 题",
   "sample_size": 60,
-  "issues_found": 5,
+  "issues_found": 6,
   "issues": [
     {
       "id": "表-字表口径",
@@ -51,6 +51,15 @@
       "before": "tokens 与题库拼音 86 处不一致",
       "after": "548 题 tokens 与题库拼音 0 处不一致",
       "resolution": "修正 backend/import_bank.py 的分隔正则与韵母表，重新导入"
+    },
+    {
+      "id": "词汇严格口径",
+      "severity": "P1",
+      "status": "resolved",
+      "problem": "常规口径只有 388/966（40.2%），严格口径 338/966；577 个词从未出现，50 个词只以更长词内部形式出现",
+      "before": "严格覆盖 338/966，寄生 50",
+      "after": "严格覆盖 966/966，寄生 0",
+      "resolution": "从 HSK3.0 转写生成三级词表（973 条/966 词形），新增 436 句覆盖全部缺口，逐批用严格口径脚本自检"
     }
   ],
   "sampling": {
@@ -62,5 +71,12 @@
   "remaining_notes": [
     "G3-12（41 次）、G3-49（32 次）、G3-73（31 次）仍偏高，最低 2 次",
     "测试句以单句为主，缺少成段语境，建议后续增加对话/短文型题目"
-  ]
+  ],
+  "vocabulary": {
+    "list_path": "data/vocabulary/level3.json",
+    "total": 966,
+    "strict_covered": 966,
+    "conventional_covered": 966,
+    "added_sentences": 436
+  }
 }
