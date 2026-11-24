@@ -827,7 +827,7 @@
       "alignment_errors": 0
     },
     "E_size": {
-      "items": 1328,
+      "items": 1339,
       "bank_target_items": [
         620,
         1400
@@ -843,6 +843,24 @@
       "grammar": "76/76",
       "pinyin": "1328/1328",
       "pattern": "0"
+    },
+    "F_naturalness_and_spread": {
+      "date": "2026-11-24",
+      "rewritten_colloquial": 15,
+      "reannotated_for_spread": 46,
+      "concentration_before": {
+        "G4-59": 246,
+        "G4-36": 158
+      },
+      "concentration_after": {
+        "G4-59": 234,
+        "G4-36": 142,
+        "G4-40": 132,
+        "G4-35": 86,
+        "G4-38": 83
+      },
+      "note": "剩余仍以两分句/多项定语为主，属覆盖题的兜底句式；逐类抽查每条均真含该结构",
+      "items": 1339
     }
   }
 }
