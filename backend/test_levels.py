@@ -7,10 +7,10 @@
 
 自动拉起独立测试库（backend/test_levels.db）与独立端口 8018，不污染正式 bank.db。
 覆盖：
-  1. level=1 正常查询（256 题，全部 level==1）
+  1. level=1 正常查询（题量从当前题库文件读取，全部 level==1）
   2. level=2—9 均可被接口识别，返回标准空题库响应 {"total":0,"items":[],"detail":"该等级题库尚未完成"}
   3. 空题库等级绝不串题（items 为空，不返回一级题目）
-  4. /api/levels 九级总览（一级 available，其余 pending）
+  4. /api/levels 九级总览（一级 available，二至七级 pending，八至九级 merged 到七级）
   5. level 越界（0 / 10）返回 422
   6. 空题库等级的 random / recommend / validate / stats / publish 均给出明确 404
 结果写入 reports/level1/api_levels_test_<日期>.txt。
@@ -29,6 +29,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+sys.path.insert(0, str(ROOT / "scripts"))
+from lib import default_bank, load_bank  # noqa: E402
+
+EXPECTED_LEVEL1_COUNT = len(load_bank(default_bank(1)))
 
 PASS, FAIL = [], []
 RESPONSES = {}
@@ -100,7 +104,8 @@ def main():
         code, data = req("GET", "/api/questions?level=1")
         RESPONSES["level1"] = data
         check("level=1 返回 200", code == 200, str(code))
-        check("level=1 共 256 题", data.get("total") == 256, str(data.get("total")))
+        check(f"level=1 共 {EXPECTED_LEVEL1_COUNT} 题",
+              data.get("total") == EXPECTED_LEVEL1_COUNT, str(data.get("total")))
         check("level=1 全部题目 level==1",
               data.get("total", 0) > 0 and all(i.get("level") == 1 for i in data.get("items", [])),
               f"total={data.get('total')}")
@@ -123,16 +128,22 @@ def main():
         levels = {i["level"]: i for i in data.get("items", [])}
         check("/api/levels 覆盖 1—9", set(levels.keys()) == set(range(1, 10)),
               str(sorted(levels.keys())))
-        check("一级 status=available 且 256 题",
+        check(f"一级 status=available 且 {EXPECTED_LEVEL1_COUNT} 题",
               levels.get(1, {}).get("status") == "available"
-              and levels.get(1, {}).get("question_count") == 256,
+              and levels.get(1, {}).get("question_count") == EXPECTED_LEVEL1_COUNT,
               str(levels.get(1)))
-        check("二至九级 status=pending 且 detail 正确",
+        check("二至七级 status=pending 且 detail 正确",
               all(levels.get(lv, {}).get("status") == "pending"
                   and levels.get(lv, {}).get("detail") == EMPTY_DETAIL
                   and levels.get(lv, {}).get("question_count") == 0
-                  for lv in range(2, 10)),
-              str({k: v for k, v in levels.items() if k != 1}))
+                  for lv in range(2, 8)),
+              str({k: v for k, v in levels.items() if 2 <= k <= 7}))
+        check("八、九级 status=merged 且指向七级",
+              all(levels.get(lv, {}).get("status") == "merged"
+                  and levels.get(lv, {}).get("merged_into") == 7
+                  and levels.get(lv, {}).get("question_count") == 0
+                  for lv in (8, 9)),
+              str({k: v for k, v in levels.items() if k in (8, 9)}))
 
         # 5. level 越界
         for bad in (0, 10, 99):

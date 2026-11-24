@@ -125,18 +125,33 @@ def main():
         code, data = request(args.base, "GET", "/api/levels")
         by_level = {int(item["level"]): item for item in (data or {}).get("items", [])}
         check("/api/levels 返回 1—9", code == 200 and set(by_level) == set(range(1, 10)), str(data))
-        check("7—9 级均可用", all(by_level[n]["status"] == "available" for n in (7, 8, 9)), str(by_level))
-        check("7—9 合并题数正确", sum(by_level[n]["question_count"] for n in (7, 8, 9)) == 6, str(by_level))
+        check("7—9 级按 level 7 合并可用",
+              by_level[7]["status"] == "available"
+              and by_level[8]["status"] == "merged"
+              and by_level[9]["status"] == "merged",
+              str(by_level))
+        check("7—9 合并题数正确",
+              by_level[7]["question_count"] == 2
+              and by_level[8]["question_count"] == 0
+              and by_level[9]["question_count"] == 0,
+              str(by_level))
 
         for level in range(2, 10):
             code, data = request(args.base, "GET", f"/api/questions?level={level}")
             items = (data or {}).get("items", [])
-            check(f"查询 {level} 级不串题", code == 200 and len(items) == 2 and all(i.get("level") == level for i in items), str(data))
+            expected_level = 7 if level in (8, 9) else level
+            check(f"查询 {level} 级不串题",
+                  code == 200 and len(items) == 2
+                  and all(i.get("level") == expected_level for i in items),
+                  str(data))
 
             for mode in ("random", "recommend"):
                 code, data = request(args.base, "GET", f"/api/questions/{mode}?level={level}&n=1")
                 items = (data or {}).get("items", [])
-                check(f"{mode} 抽取 {level} 级", code == 200 and len(items) == 1 and items[0].get("level") == level, str(data))
+                check(f"{mode} 抽取 {level} 级",
+                      code == 200 and len(items) == 1
+                      and items[0].get("level") == expected_level,
+                      str(data))
 
             for operation in ("validate", "stats"):
                 code, data = request(args.base, "POST", f"/api/pipeline/{operation}?level={level}")
@@ -145,7 +160,7 @@ def main():
         html = (ROOT / "frontend" / "index.html").read_text(encoding="utf-8")
         js = (ROOT / "frontend" / "app.js").read_text(encoding="utf-8")
         check("前端提供七—九级合并选项", 'value="7">七—九级（合并）' in html)
-        check("前端将七—九级映射为三个后端等级", "7: [7, 8, 9]" in js)
+        check("前端将七—九级映射为 level 7", "7: [7]" in js)
         check("前端不再写死一级查询", "/api/questions?level=1" not in js and "/api/questions/recommend?level=1" not in js)
         check("前端接入校验和统计接口", "/api/pipeline/${kind}?level=${level}" in js)
     finally:

@@ -24,6 +24,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+sys.path.insert(0, str(ROOT / "scripts"))
+from lib import default_bank, load_bank  # noqa: E402
+
+EXPECTED_LEVEL1_COUNT = len(load_bank(default_bank(1)))
 
 PASS, FAIL = [], []
 RESPONSES = {}
@@ -101,16 +105,19 @@ def main():
     print("=== 1. 服务与真实查询 ===")
     st, info = req("GET", "/", base=base)
     check("服务信息返回", st == 200 and info.get("service"), f"{st} {info}")
-    check("数据库题量 = 导入的 256", info.get("questions_total") == 256, f"{info}")
+    check(f"数据库题量 = 导入的 {EXPECTED_LEVEL1_COUNT}",
+          info.get("questions_total") == EXPECTED_LEVEL1_COUNT, f"{info}")
 
     st, lst = req("GET", "/api/questions", base=base)
     RESPONSES["list_all"] = lst
     check("GET /api/questions 返回 200", st == 200, f"{st}")
-    check("返回数量与导入文件一致(256)", lst.get("total") == 256, f"{lst.get('total')}")
+    check(f"返回数量与导入文件一致({EXPECTED_LEVEL1_COUNT})",
+          lst.get("total") == EXPECTED_LEVEL1_COUNT, f"{lst.get('total')}")
 
     st, lst1 = req("GET", "/api/questions?level=1", base=base)
     RESPONSES["list_level1"] = lst1
-    check("GET /api/questions?level=1 返回 256", st == 200 and lst1.get("total") == 256,
+    check(f"GET /api/questions?level=1 返回 {EXPECTED_LEVEL1_COUNT}",
+          st == 200 and lst1.get("total") == EXPECTED_LEVEL1_COUNT,
           f"{st} {lst1.get('total') if isinstance(lst1, dict) else lst1}")
 
     st, empty = req("GET", "/api/questions?level=2", base=base)
@@ -143,7 +150,8 @@ def main():
     st, v = req("POST", "/api/pipeline/validate?level=1", base=base)
     RESPONSES["validate"] = v
     check("POST /api/pipeline/validate → 200", st == 200, f"{st}")
-    check("校验结果：256 题全部合格", v.get("valid") == 256 and v.get("invalid") == 0,
+    check(f"校验结果：{EXPECTED_LEVEL1_COUNT} 题全部合格",
+          v.get("valid") == EXPECTED_LEVEL1_COUNT and v.get("invalid") == 0,
           f"{v.get('valid')}/{v.get('invalid')}")
     check("校验结论 pass", v.get("verdict") == "pass", f"{v.get('verdict')}")
 
@@ -165,10 +173,12 @@ def main():
 
     st, puball = req("POST", "/api/pipeline/publish", {"level": 1}, base=base)
     RESPONSES["publish_all"] = puball
-    check("整级发布 → 其余 255 题发布", st == 200 and puball.get("published_count") == 255,
+    check(f"整级发布 → 其余 {EXPECTED_LEVEL1_COUNT - 1} 题发布",
+          st == 200 and puball.get("published_count") == EXPECTED_LEVEL1_COUNT - 1,
           f"{st} {puball}")
     st, lstp = req("GET", "/api/questions?status=published", base=base)
-    check("published 题共 256", lstp.get("total") == 256, f"{lstp.get('total')}")
+    check(f"published 题共 {EXPECTED_LEVEL1_COUNT}",
+          lstp.get("total") == EXPECTED_LEVEL1_COUNT, f"{lstp.get('total')}")
 
     st, miss2 = req("POST", "/api/questions/NOPE-999/publish", base=base)
     check("发布不存在的题 → 404", st == 404, f"{st}")

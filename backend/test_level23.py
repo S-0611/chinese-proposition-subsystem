@@ -6,9 +6,8 @@
     python backend/test_level23.py --base http://127.0.0.1:8019 --skip-server
 
 说明：
-  - 正式题库 banks/level2|3/final.json 尚未交付，本脚本用占位冒烟题（各 6 题）
-    走真实导入链路（backend/import_bank.py），只验证导入与按等级查询/防串题，
-    不代表二、三级正式题库内容。
+  - 本脚本用占位冒烟题（各 6 题）走真实导入链路（backend/import_bank.py），
+    只验证导入与按等级查询/防串题，不代表二、三级正式题库内容。
   - 自动拉起独立测试库（系统临时目录）与独立端口 8019，不污染 backend/bank.db。
 结果写入 reports/level2-3/api_level23_test_<日期>.txt。
 """
@@ -27,6 +26,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+sys.path.insert(0, str(ROOT / "scripts"))
+from lib import default_bank, load_bank  # noqa: E402
+
+EXPECTED_LEVEL1_COUNT = len(load_bank(default_bank(1)))
 
 PASS, FAIL = [], []
 RESPONSES = {}
@@ -159,7 +162,9 @@ def main():
         # 3. 一级回归
         code, data = req("GET", "/api/questions?level=1")
         RESPONSES["level1"] = {"total": data.get("total")}
-        check("level=1 仍为 256 题", code == 200 and data.get("total") == 256, str(data.get("total")))
+        check(f"level=1 仍为 {EXPECTED_LEVEL1_COUNT} 题",
+              code == 200 and data.get("total") == EXPECTED_LEVEL1_COUNT,
+              str(data.get("total")))
         check("level=1 不混入二、三级题目",
               all(i.get("level") == 1 for i in data.get("items", [])),
               str({i.get("level") for i in data.get("items", [])}))
@@ -168,7 +173,9 @@ def main():
         code, data = req("GET", "/api/questions")
         RESPONSES["all_total"] = data.get("total")
         levels = {i.get("level") for i in data.get("items", [])}
-        check("不带 level 时总数为 268", data.get("total") == 268, str(data.get("total")))
+        expected_total = EXPECTED_LEVEL1_COUNT + sum(len(items) for items in SMOKE.values())
+        check(f"不带 level 时总数为 {expected_total}",
+              data.get("total") == expected_total, str(data.get("total")))
         check("不带 level 时只含 1/2/3 级", levels == {1, 2, 3}, str(sorted(levels)))
 
         # 5. /api/levels 总览
@@ -213,7 +220,7 @@ def main():
     out = out_dir / f"api_level23_test_{stamp}.txt"
     lines = [f"二、三级题库导入 + 接口测试 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
              f"base={BASE}",
-             "说明：二、三级正式题库未交付，使用各 6 道占位冒烟题走真实导入链路；一级用正式库 256 题。",
+             "说明：二、三级使用各 6 道占位冒烟题走真实导入链路；一级使用当前正式题库文件。",
              f"通过 {len(PASS)}/{len(PASS)+len(FAIL)}", ""]
     lines += [f"PASS  {p}" for p in PASS]
     lines += [f"FAIL  {f}" for f in FAIL]
