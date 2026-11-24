@@ -742,5 +742,43 @@
     },
     "residual": "其余 71 个语法点（带表层标记）未逐题验证；抽检未发现明显错标。"
   },
-  "result": "抽检 120 题发现 63 处问题 → 已全部修正；随后对 5 个结构性语法点 335 题整轮重标（改写 171 题），复检 48 题 0 处不成立。"
+  "result": "抽检 120 题发现 63 处问题 → 已全部修正；随后对 5 个结构性语法点 335 题整轮重标（改写 171 题），复检 48 题 0 处不成立。",
+  "vocab_strict": {
+    "date": "2026-11-24",
+    "method": "scripts/check_vocab_strict.py：词的每次出现都不能被更长的词表词包含",
+    "vocabulary": {
+      "path": "data/vocabulary/level4.json",
+      "entries": 1000,
+      "unique_headwords": 995,
+      "source": "data/vocabulary/hsk3_0_vocabulary.csv（级别=四级），与一至三级同规则",
+      "note": "四级词表此前缺失，本次按既有规则生成，未增删或修改任何词条"
+    },
+    "baseline": {
+      "strict_covered": 378,
+      "strict_total": 995,
+      "strict_pct": 38.0,
+      "regular_covered": 412,
+      "absent": 583,
+      "parasitic": 34
+    },
+    "final": {
+      "strict_covered": 995,
+      "strict_total": 995,
+      "strict_pct": 100.0,
+      "parasitic": 0,
+      "absent": 0,
+      "regular_covered": 995
+    },
+    "new_sentences": 616,
+    "new_id_range": [
+      "L4-693",
+      "L4-1308"
+    ],
+    "round": 6,
+    "dropped_duplicates": [
+      "遇事冷静，别着急。"
+    ],
+    "bank_items": 1308,
+    "note": "同时修掉两条含表外字（怒、腕）的旧题；bank_target_items 上调为 [620,1400]"
+  }
 }
