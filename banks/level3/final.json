@@ -5546,10 +5546,10 @@
       "id": "L3-555",
       "level": 3,
       "round": 6,
-      "text": "不论天气怎样，他都去。",
-      "pinyin": "bù lùn tiān qì zěn yàng，tā dōu qù。",
+      "text": "不论天气怎样，他都去了。",
+      "pinyin": "bù lùn tiān qì zěn yàng，tā dōu qù le。",
       "grammar": [
-        "G3-70"
+        "G3-79"
       ]
     },
     {
@@ -6276,10 +6276,10 @@
       "id": "L3-628",
       "level": 3,
       "round": 6,
-      "text": "他及时处理了问题。",
-      "pinyin": "tā jí shí chù lǐ le wèn tí。",
+      "text": "他把问题及时处理了。",
+      "pinyin": "tā bǎ wèn tí jí shí chù lǐ le。",
       "grammar": [
-        "G3-14"
+        "G3-54"
       ]
     },
     {
@@ -6706,10 +6706,10 @@
       "id": "L3-671",
       "level": 3,
       "round": 6,
-      "text": "他坚决否认这件事。",
-      "pinyin": "tā jiān jué fǒu rèn zhè jiàn shì。",
+      "text": "他是坚决否认这件事的。",
+      "pinyin": "tā shì jiān jué fǒu rèn zhè jiàn shì de。",
       "grammar": [
-        "G3-17"
+        "G3-77"
       ]
     },
     {
@@ -6876,10 +6876,10 @@
       "id": "L3-688",
       "level": 3,
       "round": 6,
-      "text": "我们分别去了南部。",
-      "pinyin": "wǒ men fēn bié qù le nán bù。",
+      "text": "我们分别去南部看朋友。",
+      "pinyin": "wǒ men fēn bié qù nán bù kàn péng yǒu。",
       "grammar": [
-        "G3-17"
+        "G3-56"
       ]
     },
     {
@@ -6916,8 +6916,8 @@
       "id": "L3-692",
       "level": 3,
       "round": 6,
-      "text": "我只有一个想法。",
-      "pinyin": "wǒ zhǐ yǒu yī gè xiǎng fǎ。",
+      "text": "我仅仅有一个想法。",
+      "pinyin": "wǒ jǐn jǐn yǒu yī gè xiǎng fǎ。",
       "grammar": [
         "G3-13"
       ]
@@ -6936,8 +6936,8 @@
       "id": "L3-694",
       "level": 3,
       "round": 6,
-      "text": "你千万别喝凉水。",
-      "pinyin": "nǐ qiān wàn bié hē liáng shuǐ。",
+      "text": "千万别喝凉水，反正有热水。",
+      "pinyin": "qiān wàn bié hē liáng shuǐ，fǎn zhèng yǒu rè shuǐ。",
       "grammar": [
         "G3-19"
       ]
@@ -7056,10 +7056,10 @@
       "id": "L3-706",
       "level": 3,
       "round": 6,
-      "text": "他始终好好地照顾我。",
-      "pinyin": "tā shǐ zhōng hǎo hǎo dì zhào gù wǒ。",
+      "text": "他始终亲自照顾我。",
+      "pinyin": "tā shǐ zhōng qīn zì zhào gù wǒ。",
       "grammar": [
-        "G3-14"
+        "G3-17"
       ]
     },
     {
@@ -7216,10 +7216,10 @@
       "id": "L3-722",
       "level": 3,
       "round": 6,
-      "text": "对方已经同意了。",
-      "pinyin": "duì fāng yǐ jīng tóng yì le。",
+      "text": "对方都已经同意了。",
+      "pinyin": "duì fāng dōu yǐ jīng tóng yì le。",
       "grammar": [
-        "G3-14"
+        "G3-79"
       ]
     },
     {
@@ -7376,8 +7376,8 @@
       "id": "L3-738",
       "level": 3,
       "round": 6,
-      "text": "到了年底，工作更忙了。",
-      "pinyin": "dào le nián dǐ，gōng zuò gèng máng le。",
+      "text": "到了年底，工作更加忙了。",
+      "pinyin": "dào le nián dǐ，gōng zuò gèng jiā máng le。",
       "grammar": [
         "G3-12"
       ]
@@ -7696,10 +7696,10 @@
       "id": "L3-770",
       "level": 3,
       "round": 6,
-      "text": "他的想法已经成熟。",
-      "pinyin": "tā de xiǎng fǎ yǐ jīng chéng shú。",
+      "text": "他的想法都已经成熟了。",
+      "pinyin": "tā de xiǎng fǎ dōu yǐ jīng chéng shú le。",
       "grammar": [
-        "G3-14"
+        "G3-79"
       ]
     },
     {
@@ -7866,10 +7866,10 @@
       "id": "L3-787",
       "level": 3,
       "round": 6,
-      "text": "他买了两支笔。",
-      "pinyin": "tā mǎi le liǎng zhī bǐ。",
+      "text": "这支笔价钱很便宜。",
+      "pinyin": "zhè zhī bǐ jià qián hěn biàn yí。",
       "grammar": [
-        "G3-09"
+        "G3-53"
       ]
     },
     {
@@ -7956,8 +7956,8 @@
       "id": "L3-796",
       "level": 3,
       "round": 6,
-      "text": "他果然通过了考试。",
-      "pinyin": "tā guǒ rán tōng guò le kǎo shì。",
+      "text": "果然，他终于通过了考试。",
+      "pinyin": "guǒ rán，tā zhōng yú tōng guò le kǎo shì。",
       "grammar": [
         "G3-19"
       ]
@@ -8216,8 +8216,8 @@
       "id": "L3-822",
       "level": 3,
       "round": 6,
-      "text": "显然，他有把握成功。",
-      "pinyin": "xiǎn rán，tā yǒu bǎ wò chéng gōng。",
+      "text": "他显然有把握，当然会成功。",
+      "pinyin": "tā xiǎn rán yǒu bǎ wò，dāng rán huì chéng gōng。",
       "grammar": [
         "G3-19"
       ]
@@ -8376,10 +8376,10 @@
       "id": "L3-838",
       "level": 3,
       "round": 6,
-      "text": "这个菜很有特色。",
-      "pinyin": "zhè gè cài hěn yǒu tè sè。",
+      "text": "这个菜特色很明显。",
+      "pinyin": "zhè gè cài tè sè hěn míng xiǎn。",
       "grammar": [
-        "G3-09"
+        "G3-53"
       ]
     },
     {
@@ -8409,7 +8409,7 @@
       "text": "这个环是银的。",
       "pinyin": "zhè gè huán shì yín de。",
       "grammar": [
-        "G3-09"
+        "G3-77"
       ]
     },
     {
@@ -8446,10 +8446,10 @@
       "id": "L3-845",
       "level": 3,
       "round": 6,
-      "text": "这是一种自然现象。",
-      "pinyin": "zhè shì yī zhǒng zì rán xiàn xiàng。",
+      "text": "自然现象原因很多。",
+      "pinyin": "zì rán xiàn xiàng yuán yīn hěn duō。",
       "grammar": [
-        "G3-09"
+        "G3-53"
       ]
     },
     {
@@ -8566,10 +8566,10 @@
       "id": "L3-857",
       "level": 3,
       "round": 6,
-      "text": "这部电视剧很精彩。",
-      "pinyin": "zhè bù diàn shì jù hěn jīng cǎi。",
+      "text": "这部电视剧演员很好。",
+      "pinyin": "zhè bù diàn shì jù yǎn yuán hěn hǎo。",
       "grammar": [
-        "G3-09"
+        "G3-53"
       ]
     },
     {
@@ -8646,10 +8646,10 @@
       "id": "L3-865",
       "level": 3,
       "round": 6,
-      "text": "这两个问题相关。",
-      "pinyin": "zhè liǎng gè wèn tí xiāng guān。",
+      "text": "这两个问题内容相关。",
+      "pinyin": "zhè liǎng gè wèn tí nèi róng xiāng guān。",
       "grammar": [
-        "G3-09"
+        "G3-53"
       ]
     },
     {
@@ -8776,8 +8776,8 @@
       "id": "L3-878",
       "level": 3,
       "round": 6,
-      "text": "这个福字很好看。",
-      "pinyin": "zhè gè fú zì hěn hǎo kàn。",
+      "text": "这张福字很好看。",
+      "pinyin": "zhè zhāng fú zì hěn hǎo kàn。",
       "grammar": [
         "G3-09"
       ]
@@ -8866,10 +8866,10 @@
       "id": "L3-887",
       "level": 3,
       "round": 6,
-      "text": "这两个词很类似。",
-      "pinyin": "zhè liǎng gè cí hěn lèi shì。",
+      "text": "这两个词意思很类似。",
+      "pinyin": "zhè liǎng gè cí yì sī hěn lèi shì。",
       "grammar": [
-        "G3-09"
+        "G3-53"
       ]
     },
     {
@@ -8906,10 +8906,10 @@
       "id": "L3-891",
       "level": 3,
       "round": 6,
-      "text": "这瓶红酒很贵。",
-      "pinyin": "zhè píng hóng jiǔ hěn guì。",
+      "text": "红酒价格很高。",
+      "pinyin": "hóng jiǔ jià gé hěn gāo。",
       "grammar": [
-        "G3-09"
+        "G3-53"
       ]
     },
     {
@@ -8976,10 +8976,10 @@
       "id": "L3-898",
       "level": 3,
       "round": 6,
-      "text": "这件衣服五十美元。",
-      "pinyin": "zhè jiàn yī fú wǔ shí měi yuán。",
+      "text": "衣服的价格是五十美元。",
+      "pinyin": "yī fú de jià gé shì wǔ shí měi yuán。",
       "grammar": [
-        "G3-09"
+        "G3-45"
       ]
     },
     {
@@ -9046,10 +9046,10 @@
       "id": "L3-905",
       "level": 3,
       "round": 6,
-      "text": "这是一次考验。",
-      "pinyin": "zhè shì yī cì kǎo yàn。",
+      "text": "这次考验结果很好。",
+      "pinyin": "zhè cì kǎo yàn jié guǒ hěn hǎo。",
       "grammar": [
-        "G3-09"
+        "G3-53"
       ]
     },
     {
@@ -9216,10 +9216,10 @@
       "id": "L3-922",
       "level": 3,
       "round": 6,
-      "text": "这个菜很有营养。",
-      "pinyin": "zhè gè cài hěn yǒu yíng yǎng。",
+      "text": "这个菜营养很多。",
+      "pinyin": "zhè gè cài yíng yǎng hěn duō。",
       "grammar": [
-        "G3-09"
+        "G3-53"
       ]
     },
     {
@@ -9506,10 +9506,10 @@
       "id": "L3-951",
       "level": 3,
       "round": 6,
-      "text": "他超级喜欢足球。",
-      "pinyin": "tā chāo jí xǐ huān zú qiú。",
+      "text": "他超级喜欢足球，比我还喜欢。",
+      "pinyin": "tā chāo jí xǐ huān zú qiú，bǐ wǒ hái xǐ huān。",
       "grammar": [
-        "G3-12"
+        "G3-58"
       ]
     },
     {
@@ -9726,8 +9726,8 @@
       "id": "L3-973",
       "level": 3,
       "round": 6,
-      "text": "这些邮票较贵。",
-      "pinyin": "zhè xiē yóu piào jiào guì。",
+      "text": "这些邮票相当贵，那套较便宜。",
+      "pinyin": "zhè xiē yóu piào xiāng dāng guì，nà tào jiào biàn yí。",
       "grammar": [
         "G3-12"
       ]
@@ -9850,6 +9850,16 @@
       "pinyin": "tā lǐng le gōng zī jiù huí jiā le。",
       "grammar": [
         "G3-73"
+      ]
+    },
+    {
+      "id": "L3-986",
+      "level": 3,
+      "round": 6,
+      "text": "好好学习很重要。",
+      "pinyin": "hǎo hǎo xué xí hěn zhòng yào。",
+      "grammar": [
+        "G3-43"
       ]
     }
   ]
