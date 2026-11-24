@@ -5,7 +5,7 @@
   "scope": "三级题库全库 985 题；本轮聚焦词汇严格口径覆盖",
   "method": "逐条核对 33 条越级字题与 138 条语法点错标题；对新增 172 题按句长、字表、语法点三层抽检 60 题",
   "sample_size": 60,
-  "issues_found": 7,
+  "issues_found": 8,
   "issues": [
     {
       "id": "表-字表口径",
@@ -69,6 +69,15 @@
       "before": "pattern 未命中 26 条",
       "after": "pattern 未命中 0 条；其中 20 条改用可校验结构，6 条改用句子实际体现的结构",
       "resolution": "逐条最小改写或改标，见 人工复核执行记录_20261124.md"
+    },
+    {
+      "id": "词表来源核验",
+      "severity": "P2",
+      "status": "resolved",
+      "problem": "三级词表由 HSK3.0 转写 CSV 生成，未与标准 PDF 逐条对照",
+      "before": "来源未核验",
+      "after": "PDF 首/中/末 153 条抽样 100% 一致，判定同源；负责人接受抽样结论",
+      "resolution": "按 153/153 抽样结论关闭，不再全量转录"
     }
   ],
   "sampling": {
@@ -96,5 +105,12 @@
     "D 拼音注音惯例",
     "E 题量规模 985"
   ],
-  "execution_record": "reports/level3/人工复核执行记录_20261124.md"
+  "execution_record": "reports/level3/人工复核执行记录_20261124.md",
+  "checklist_status": {
+    "A": "done",
+    "B": "audited",
+    "C": "accepted",
+    "D": "done",
+    "E": "accepted"
+  }
 }
