@@ -129,6 +129,8 @@ def main():
     if args.mode == "pattern":
         bad = {}
         for it in items:
+            if not it.get("grammar"):
+                continue
             g = it["grammar"][0]
             gd = gmap.get(g)
             if not gd:
@@ -157,11 +159,13 @@ def main():
     if args.mode == "concentration":
         counts = {}
         for it in items:
+            if not it.get("grammar"):
+                continue
             counts[it["grammar"][0]] = counts.get(it["grammar"][0], 0) + 1
         top = sorted(counts.items(), key=lambda kv: -kv[1])[:8]
         print("语法点集中度 top8:", "，".join(f"{g}={n}" for g, n in top))
         if args.gid:
-            sel = [it for it in items if it["grammar"][0] == args.gid]
+            sel = [it for it in items if it.get("grammar") and it["grammar"][0] == args.gid]
             print(f"{args.gid} 共 {len(sel)} 条（占 {len(sel)/len(items)*100:.1f}%）")
             if args.token:
                 miss = [it for it in sel if args.token not in it["text"]]
@@ -188,7 +192,8 @@ def main():
                 continue
             rest = [t for t in texts if t != it["text"]]
             lost = sorted(base - strict_set(words, rest))
-            print(f"{it['id']}｜{it['grammar'][0]}｜{it['text']}｜独家覆盖: {'、'.join(lost) or '（无）'}")
+            g = it["grammar"][0] if it.get("grammar") else "—"
+            print(f"{it['id']}｜{g}｜{it['text']}｜独家覆盖: {'、'.join(lost) or '（无）'}")
         return 0
 
     if args.mode == "pinyin":

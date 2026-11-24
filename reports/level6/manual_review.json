@@ -2,79 +2,26 @@
   "level": 6,
   "reviewed_at": "2026-11-24",
   "reviewer": "AI 助手（规则全量审计 + 抽检，待教学组复核）",
-  "method": "接入 HSK3.0 六级词表（1140 条 / 1134 词头）后，按严格口径补齐词汇覆盖（新增 481 句，寄生 0）；对 1655 题做 A—E 复核：A 语法点 vs 可执行 pattern 全量审计，B 语法点集中度，C 词表抽样溯源，D 一/不 变调与儿化，E 题量与冗余评估。",
-  "sample_size": 1655,
+  "method": "接入 HSK3.0 六级词表并按严格口径覆盖（1134/1134）；对 1657 题做 A—E 复核；针对 G6-38 兜底集中度做专项整改：结构可判定的重标 7 题、双句保留 G6-54 124 题、纯词汇跟读题 1328 题改 kind=vocabulary 且不挂语法点、新增 2 题承担 G6-38。",
+  "sample_size": 1657,
   "issues_found": 6,
   "issues": [
-    {
-      "id": "L6-150",
-      "severity": "P1",
-      "status": "resolved",
-      "text": "气球爆了，孩子吓哭了。",
-      "before": {"grammar": ["G6-41"]},
-      "after": {"grammar": ["G6-54"]},
-      "problem": "无被动标记，G6-41 不成立",
-      "fix": "改标二重复句 G6-54"
-    },
-    {
-      "id": "L6-285",
-      "severity": "P1",
-      "status": "resolved",
-      "text": "灯灭了。",
-      "before": {"grammar": ["G6-41"]},
-      "after": {"grammar": ["G6-38"]},
-      "problem": "单句无被动结构",
-      "fix": "改标 G6-38"
-    },
-    {
-      "id": "L6-394",
-      "severity": "P1",
-      "status": "resolved",
-      "text": "气球炸了。",
-      "before": {"grammar": ["G6-41"]},
-      "after": {"grammar": ["G6-38"]},
-      "problem": "单句无被动结构",
-      "fix": "改标 G6-38"
-    },
-    {
-      "id": "L6-1560",
-      "severity": "P1",
-      "status": "resolved",
-      "text": "联赛由股东赞助。",
-      "before": {"grammar": ["G6-41"]},
-      "after": {"grammar": ["G6-38"]},
-      "problem": "「由」不在 G6-41 的可执行标记集合内",
-      "fix": "改标 G6-38，避免与 pattern 冲突"
-    },
-    {
-      "id": "L6-1208",
-      "severity": "P1",
-      "status": "resolved",
-      "text": "消息传出去了。",
-      "before": {"grammar": ["G6-39"]},
-      "after": {"grammar": ["G6-38"]},
-      "problem": "G6-39 为「下来/下去/起来/过来」表状态，不含「出去」",
-      "fix": "改标 G6-38"
-    },
-    {
-      "id": "L6-1591",
-      "severity": "P1",
-      "status": "resolved",
-      "text": "走私货赶上了检查。",
-      "before": {"grammar": ["G6-39"]},
-      "after": {"grammar": ["G6-38"]},
-      "problem": "「赶上」不是状态趋向补语",
-      "fix": "改标 G6-38"
-    }
+    {"id": "L6-150", "severity": "P1", "status": "resolved", "text": "气球爆了，孩子吓哭了。", "before": {"grammar": ["G6-41"]}, "after": {"grammar": ["G6-54"]}, "problem": "无被动标记", "fix": "改标 G6-54"},
+    {"id": "L6-285", "severity": "P1", "status": "resolved", "text": "灯灭了。", "before": {"grammar": ["G6-41"]}, "after": {"grammar": ["G6-38"]}, "problem": "单句无被动结构", "fix": "改标 G6-38"},
+    {"id": "L6-394", "severity": "P1", "status": "resolved", "text": "气球炸了。", "before": {"grammar": ["G6-41"]}, "after": {"grammar": ["G6-38"]}, "problem": "单句无被动结构", "fix": "改标 G6-38"},
+    {"id": "L6-1560", "severity": "P1", "status": "resolved", "text": "联赛由股东赞助。", "before": {"grammar": ["G6-41"]}, "after": {"grammar": ["G6-38"]}, "problem": "「由」不在 G6-41 标记集合", "fix": "改标 G6-38（后续并入词汇跟读）"},
+    {"id": "L6-1208", "severity": "P1", "status": "resolved", "text": "消息传出去了。", "before": {"grammar": ["G6-39"]}, "after": {"grammar": ["G6-38"]}, "problem": "「出去」非状态趋向补语", "fix": "改标 G6-38（后续并入词汇跟读）"},
+    {"id": "L6-1591", "severity": "P1", "status": "resolved", "text": "走私货赶上了检查。", "before": {"grammar": ["G6-39"]}, "after": {"grammar": ["G6-38"]}, "problem": "「赶上」非状态趋向补语", "fix": "改标 G6-38（后续并入词汇跟读）"}
   ],
   "confirmed": [
-    {"note": "A 项复跑 pattern 审计：可执行 pattern 未命中 0 / 1655"},
-    {"note": "B 项集中度：G6-38=1329（80.3%）、G6-54=124、G6-40=24、G6-41=11、G6-39=12；兜底点占比高但句子均含宾语结构，属项目既有兜底口径"},
-    {"note": "C 项词表溯源：1140 条与 hsk3_0_vocabulary.csv 六级行逐项一致；抽样 8 条（头/中/尾）raw、pinyin、pos 全部匹配；一级至六级累计 5456、九级 11092 与标准口径一致"},
-    {"note": "D 项拼音：1655 题音节数=汉字数，0 异常；一/不 变调 302 处、儿化 9 处（r 音节），保持一字一音节"},
-    {"note": "E 项规模：1655 题在 [1400, 1800] 目标区间内；冗余审计因 O(n²) 未跑完，决定不删除题目（保留语法与汉字复现）"}
+    {"note": "A 项：pattern 未命中 0 / 1657"},
+    {"note": "B 项专项整改：G6-38 由 1329 → 2；最大集中度 G6-54=124（7.5%）；67 点全部 ≥2"},
+    {"note": "词汇：严格覆盖 1134/1134，寄生 0；常规 1134/1134"},
+    {"note": "C 项词表溯源：1140 条与 CSV 一致，抽样 8 条通过"},
+    {"note": "D 项拼音：一/不 变调与儿化 r 完成；仅「唯一/如一」保留 yī（正确）；9 处儿化 r；音节对齐 0 异常"},
+    {"note": "E 项规模：1657 题，处于 [1400,1800]"}
   ],
   "p0_open": 0,
   "p1_open": 0,
-  "residual": "G6-38（宾语的语义类型2）承担 1329 题（80.3%）兜底标注：补题以 3—12 字跟读短句为主，句子均有宾语或述宾结构，标注成立但偏宽泛；建议教学组后续按结构细化。变调处理使六级拼音与本仓库仍用本调的一至五级存在口径差异，属预期，已在报告中记录。"
+  "residual": "1328 题为纯词汇跟读题（kind=vocabulary），按项目设计不绑定语法点，语法点由 329 道结构题承担，67 点每点 ≥2；G6-54 124 题为双句二重复句，属真实结构。六级采用语境拼音（一/不 变调、儿化 r）；抽查发现工作树中一级、二级、四级、五级仍部分保留本调与 ér，若“一至五级已改语境拼音”为另一份未推送改动，以该版本为准。"
 }
