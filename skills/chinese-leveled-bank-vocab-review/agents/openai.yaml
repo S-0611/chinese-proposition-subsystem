@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinese Levelled Bank Vocab & Review"
+  short_description: "Strict vocabulary coverage, manual review, pinyin sandhi, import and publish for Chinese levelled banks"
+  default_prompt: "Use $chinese-leveled-bank-vocab-review to raise the chosen level bank to 100% strict vocabulary coverage, close the manual-review items (grammar annotation, word list, pinyin convention, size), then re-import, publish and verify the API."
