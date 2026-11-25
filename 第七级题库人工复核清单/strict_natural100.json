@@ -1,0 +1,10 @@
+{
+  "level": 7,
+  "total": 5620,
+  "strict_covered": 5620,
+  "parasitic": 0,
+  "never_appeared": 0,
+  "single_parasitic": [],
+  "multi_parasitic": [],
+  "targets": []
+}

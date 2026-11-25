@@ -1,0 +1,14 @@
+{
+  "kind": "validate",
+  "level": 7,
+  "requested_level": 7,
+  "merged_into": null,
+  "run_at": "2026-11-25T17:32:18+08:00",
+  "total": 1675,
+  "valid": 1675,
+  "invalid": 0,
+  "dup_ids": [],
+  "dup_texts": [],
+  "verdict": "pass",
+  "bad_items": []
+}

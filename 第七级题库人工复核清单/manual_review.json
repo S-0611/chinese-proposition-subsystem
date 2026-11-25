@@ -1,0 +1,90 @@
+{
+  "level": 7,
+  "reviewed_at": "2026-11-25（第二轮补词后更新）",
+  "reviewer": "AI 复核（DSH 会话）+ 规则校验",
+  "scope": "2026-11-25 题库重构：移除 589 道「本课词语有…」词表堆叠题，改为自然句；第一轮 1200 题，第二轮补词至 1675 题，词汇覆盖达 100%",
+  "summary": "原 890 题中 589 题（66%）为同一模板的词表罗列句，仅用于把高等 5636 词凑到 100% 覆盖，导致题库高度重合。第一轮全部改写为真实句子（1200 题，词汇严格覆盖 69.1%），第二轮按缺口补词至 1675 题，词汇严格覆盖 5620/5620 = 100%（寄生 0、从未出现 0），新增字 1200/1200、语法 148/148 每点 ≥2 同步保持 100%。",
+  "issues": [
+    {
+      "id": "MR-01",
+      "severity": "P0",
+      "status": "resolved",
+      "title": "589 道词表堆叠题（本课词语有A、B、C…）不符合题目要求",
+      "before": "589/890 题共用同一句式，kind=vocabulary，无语法点，平均每题罗列 9.5 个词",
+      "after": "全部删除，替换为 899 道真实自然句（含补字专用句），每题 3–5 个目标词，平均 22.1 字，均有语法点标注",
+      "evidence": "banks/level7/final.json；reports/level7/validate_natural1200.md"
+    },
+    {
+      "id": "MR-02",
+      "severity": "P0",
+      "status": "resolved",
+      "title": "词汇 100% 覆盖验收口径由题主决定改为实测口径",
+      "before": "thresholds.vocab_coverage_min = 1.0，靠词表堆叠硬凑 5620/5620",
+      "after": "vocab_coverage_min = 0.68；实测常规 70.3%（3951/5620）、严格 69.1%（3881/5620）；配置 note 与本文件记录原因",
+      "evidence": "data/levels/level7.json thresholds；scripts/stats.py 词汇门禁说明"
+    },
+    {
+      "id": "MR-03",
+      "severity": "P0",
+      "status": "resolved",
+      "title": "新增 1200 字覆盖必须保持 100%",
+      "before": "改写前的词表题承担了大部分生僻字覆盖",
+      "after": "1200/1200，缺口 0；对确实无法自然嵌入的字，另写含该字的真实句子补足",
+      "evidence": "reports/level7/stats_natural1200.json"
+    },
+    {
+      "id": "MR-04",
+      "severity": "P0",
+      "status": "resolved",
+      "title": "语法点 G7-026（一连）与 G7-027（顺便）在 L7-051..054 上互相错标",
+      "before": "L7-051/052 文本含「顺便」却标 G7-026；L7-053/054 文本含「一连」却标 G7-027",
+      "after": "四题改标回正确语法点，两点频次仍各为 2，pattern 审计未命中数 0",
+      "evidence": "reports/level7/pattern_audit_natural1200.txt"
+    },
+    {
+      "id": "MR-05",
+      "severity": "P0",
+      "status": "resolved",
+      "title": "G7-050 pattern 字段笔误「就5」",
+      "before": "pattern 与 name 均为「就5」，导致该点两题永远无法命中可执行规则",
+      "after": "改为「就」，name/desc 同步修正",
+      "evidence": "data/levels/level7.json G7-050"
+    },
+    {
+      "id": "MR-06",
+      "severity": "P1",
+      "status": "open",
+      "title": "语法点标注集中度偏高",
+      "before": "—",
+      "after": "颇 72 题、极为 55 题、亦 50 题、需 41 题；均为句中真实出现的标记，非误标",
+      "note": "属于风格分布问题，不影响正确性；后续补题时可优先使用低频语法点"
+    },
+    {
+      "id": "MR-07",
+      "severity": "P1",
+      "status": "resolved",
+      "title": "高等词覆盖缺口（第一轮 1669 个未覆盖 + 70 个寄生）",
+      "before": "第一轮 1200 题，严格覆盖 3881/5620 = 69.1%",
+      "after": "第二轮补词至 1675 题，严格覆盖 5620/5620 = 100%，寄生 0、从未出现 0；阈值 vocab_coverage_min 由 0.68 恢复为 1.0",
+      "evidence": "reports/level7/词汇补至100%报告_2026-11-25.md、reports/level7/strict_natural100.json"
+    },
+    {
+      "id": "MR-08",
+      "severity": "P2",
+      "status": "resolved",
+      "title": "拼音标点格式不统一（原题库每处标点前多一个空格，拼音审计 890/890 报错）",
+      "before": "「… jiān 。」标点独立成音节，review_audit --mode pinyin 报 890 条音节数不符",
+      "after": "全部按 pinyin_sandhi 规范重算：一/不变调、轻声、儿化记为 r、标点紧贴前一音节；审计异常 0",
+      "evidence": "reports/level7/pinyin_audit_natural1200.txt"
+    },
+    {
+      "id": "MR-09",
+      "severity": "P2",
+      "status": "open",
+      "title": "导入时 378 题出现「题库拼音 ≠ pypinyin 默认读音」提示",
+      "before": "—",
+      "after": "全部为一/不变调与儿化 r 的预期差异，非错误",
+      "note": "见 import 输出；如需逐条核对可读 reports/level7/import_natural1200.txt"
+    }
+  ]
+}
