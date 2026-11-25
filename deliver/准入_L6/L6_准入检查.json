@@ -1,0 +1,122 @@
+[
+ {
+  "severity": "FAIL",
+  "item": "题量在区间内",
+  "ok": true,
+  "detail": "1659 题（要求 1400–1800）"
+ },
+ {
+  "severity": "FAIL",
+  "item": "编号唯一且连续",
+  "ok": true,
+  "detail": "首个 L6-001 / 末个 L6-1659"
+ },
+ {
+  "severity": "FAIL",
+  "item": "level 一致",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "severity": "FAIL",
+  "item": "round 在 1–9",
+  "ok": true,
+  "detail": "轮次 [1, 2, 3, 4, 5, 6, 7]"
+ },
+ {
+  "severity": "FAIL",
+  "item": "文本无重复",
+  "ok": true,
+  "detail": "重复 0 句"
+ },
+ {
+  "severity": "FAIL",
+  "item": "句长在区间内",
+  "ok": true,
+  "detail": "最短 3 / 最长 12（要求 3–12）"
+ },
+ {
+  "severity": "FAIL",
+  "item": "无字母数字",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "severity": "FAIL",
+  "item": "句末标点合规",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "severity": "FAIL",
+  "item": "无超纲字",
+  "ok": true,
+  "detail": "越界 0 处"
+ },
+ {
+  "severity": "FAIL",
+  "item": "汉字与音节一一对应",
+  "ok": true,
+  "detail": "不符 0 题"
+ },
+ {
+  "severity": "FAIL",
+  "item": "拼音带句末标点",
+  "ok": true,
+  "detail": "缺标点 0 题"
+ },
+ {
+  "severity": "FAIL",
+  "item": "一/不变调正确",
+  "ok": true,
+  "detail": "不符 0 处"
+ },
+ {
+  "severity": "FAIL",
+  "item": "无空标注",
+  "ok": true,
+  "detail": "空标 0 题（词汇/汉字跟读 1330 题不要求语法点）"
+ },
+ {
+  "severity": "FAIL",
+  "item": "标注与句子相符",
+  "ok": true,
+  "detail": "不符 0 处"
+ },
+ {
+  "severity": "FAIL",
+  "item": "字覆盖 100%",
+  "ok": true,
+  "detail": "100.0%"
+ },
+ {
+  "severity": "FAIL",
+  "item": "词汇覆盖 100%",
+  "ok": true,
+  "detail": "100.0%"
+ },
+ {
+  "severity": "FAIL",
+  "item": "语法点全覆盖",
+  "ok": true,
+  "detail": "100.0%"
+ },
+ {
+  "severity": "FAIL",
+  "item": "无跨级重复",
+  "ok": true,
+  "detail": "与上一级重复 0 题"
+ },
+ {
+  "severity": "WARN",
+  "item": "近似句比例",
+  "ok": true,
+  "detail": "2 对（≥85%）"
+ },
+ {
+  "severity": "WARN",
+  "item": "音节覆盖已声明",
+  "ok": true,
+  "detail": "86/86 = 100.0%"
+ }
+]
