@@ -1,0 +1,569 @@
+[
+ {
+  "id": "G2-01",
+  "name": "能愿动词",
+  "pattern": "可能|可以",
+  "desc": "能愿动词。例句/示例：可能、可以",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-02",
+  "name": "能愿动词:该、应该",
+  "pattern": "该|应该",
+  "desc": "能愿动词:该、应该。",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-03",
+  "name": "能愿动词:愿意",
+  "pattern": "愿意",
+  "desc": "能愿动词:愿意。",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-04",
+  "name": "动词重叠",
+  "pattern": "一|了",
+  "desc": "动词重叠。例句/示例：AA、A一A、A了A、ABAB",
+  "pattern_source": "keep-fail"
+ },
+ {
+  "id": "G2-05",
+  "name": "疑问代词",
+  "pattern": "多久|为什么|怎么样|怎样",
+  "desc": "疑问代词。例句/示例：多久、为什么、怎么样、怎样",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-06",
+  "name": "人称代词",
+  "pattern": "别人|大家|它|它们|咱|咱们",
+  "desc": "人称代词。例句/示例：别人、大家、它、它们、咱、咱们",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-07",
+  "name": "指示代词",
+  "pattern": "那么|那样|这么|这样",
+  "desc": "指示代词。例句/示例：那么、那样、这么、这样",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-08",
+  "name": "形容词重叠",
+  "pattern": ".",
+  "desc": "形容词重叠。例句/示例：AA、AABB",
+  "pattern_source": "keep-fail"
+ },
+ {
+  "id": "G2-09",
+  "name": "数词",
+  "pattern": "千|万|亿",
+  "desc": "数词。例句/示例：千、万、亿",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-10",
+  "name": "名量词",
+  "pattern": "层|封|件|条|位",
+  "desc": "名量词。例句/示例：层、封、件、条、位",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-11",
+  "name": "动量词",
+  "pattern": "遍|次|场|回|下",
+  "desc": "动量词。例句/示例：遍、次、场、回、下",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-12",
+  "name": "时量词",
+  "pattern": "分钟|年|天|周",
+  "desc": "时量词。例句/示例：分钟、年、天、周",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-13",
+  "name": "程度副词",
+  "pattern": "多|多么|好|更|十分|特别|挺|有点儿",
+  "desc": "程度副词。例句/示例：多、多么、好、更、十分、特别、挺、有点儿",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-14",
+  "name": "范围、协同副词",
+  "pattern": "全|一共|只",
+  "desc": "范围、协同副词。例句/示例：全、一共、只",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-15",
+  "name": "时间副词",
+  "pattern": "刚|刚刚|还|忽然|一直|已经",
+  "desc": "时间副词。例句/示例：刚、刚刚、还、忽然、一直、已经",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-16",
+  "name": "频率、重复副词",
+  "pattern": "重新|经常|老|老是|又",
+  "desc": "频率、重复副词。例句/示例：重新、经常、老、老是、又",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-17",
+  "name": "关联副词",
+  "pattern": "就",
+  "desc": "关联副词。例句/示例：就",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-18",
+  "name": "方式副词",
+  "pattern": "故意",
+  "desc": "方式副词。例句/示例：故意",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-19",
+  "name": "情态副词",
+  "pattern": "必须|差不多|好像|一定|也许",
+  "desc": "情态副词。例句/示例：必须、差不多、好像、一定、也许",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-20",
+  "name": "语气副词",
+  "pattern": "才|都|就|正好",
+  "desc": "语气副词。例句/示例：才、都、就、正好",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-21",
+  "name": "介词",
+  "pattern": "当",
+  "desc": "介词。例句/示例：当",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-22",
+  "name": "介词",
+  "pattern": "往",
+  "desc": "介词。例句/示例：往",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-23",
+  "name": "介词",
+  "pattern": "向",
+  "desc": "介词。例句/示例：向",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-24",
+  "name": "介词",
+  "pattern": "从",
+  "desc": "介词。例句/示例：从",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-25",
+  "name": "介词",
+  "pattern": "对",
+  "desc": "介词。例句/示例：对",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-26",
+  "name": "介词",
+  "pattern": "给",
+  "desc": "介词。例句/示例：给",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-27",
+  "name": "介词",
+  "pattern": "离",
+  "desc": "介词。例句/示例：离",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-28",
+  "name": "介词",
+  "pattern": "为",
+  "desc": "介词。例句/示例：为",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-29",
+  "name": "连词",
+  "pattern": "或|或者",
+  "desc": "连词。例句/示例：或、或者",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-30",
+  "name": "连词",
+  "pattern": "不过|但|但是|而且",
+  "desc": "连词。例句/示例：不过、但、但是、而且",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-31",
+  "name": "结构助词",
+  "pattern": "得",
+  "desc": "结构助词。例句/示例：得",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-32",
+  "name": "动态助词",
+  "pattern": "过",
+  "desc": "动态助词。例句/示例：过",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-33",
+  "name": "动态助词",
+  "pattern": "着",
+  "desc": "动态助词。例句/示例：着",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-34",
+  "name": "语气助词",
+  "pattern": "啊|吧|的",
+  "desc": "语气助词。例句/示例：啊、吧、的",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-35",
+  "name": "其他助词",
+  "pattern": "的话|等",
+  "desc": "其他助词。例句/示例：的话、等",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-36",
+  "name": "叹词",
+  "pattern": "喂",
+  "desc": "叹词。例句/示例：喂",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-37",
+  "name": "短语",
+  "pattern": "(和|跟|与|又[^，。？！]{1,4}又)",
+  "desc": "短语。例句/示例：基本结构类型",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-38",
+  "name": "短语",
+  "pattern": "(的[^，。？！]{0,4}(书|人|事|东西|话)|着[^，。？！]{1,4}(说|走|笑|看))",
+  "desc": "短语。例句/示例：其他结构类型1",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-39",
+  "name": "短语",
+  "pattern": "(这|那|哪|一|两|三|几)[^，。？！]{0,3}(本|个|张|件|间|辆|只|条|位)[^，。？！]{0,4}(是|很|都|在)",
+  "desc": "短语。例句/示例：名词性短语",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-40",
+  "name": "短语",
+  "pattern": "(完|好|到|见)[^，。？！]{0,4}(再|就|去|来|吧)",
+  "desc": "短语。例句/示例：动词性短语",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-41",
+  "name": "短语",
+  "pattern": "(又[^，。？！]{1,4}又|非常|特别)",
+  "desc": "短语。例句/示例：形容词性短语",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-42",
+  "name": "固定短语",
+  "pattern": "不一会儿",
+  "desc": "固定短语。例句/示例：不一会儿",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-43",
+  "name": "固定短语",
+  "pattern": "什么的",
+  "desc": "固定短语。例句/示例：什么的",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-44",
+  "name": "固定短语",
+  "pattern": "越来越",
+  "desc": "固定短语。例句/示例：越来越",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-45",
+  "name": "固定格式",
+  "pattern": "还是.*吧",
+  "desc": "固定格式。例句/示例：还是……吧",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-46",
+  "name": "固定格式",
+  "pattern": "又.*又.*",
+  "desc": "固定格式。例句/示例：又……又……",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-47",
+  "name": "固定格式",
+  "pattern": "在.*以前|以后|前|后",
+  "desc": "固定格式。例句/示例：(在)……以前/以后/前/后",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-48",
+  "name": "句子成分",
+  "pattern": "((今天|明天|昨天|现在)[^，。？！]{0,4}(晴天|阴天|星期|点)|[^，。？！]{1,4}岁[。？])",
+  "desc": "句子成分。例句/示例：名词、代词、数词或数量短语作谓语",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-49",
+  "name": "补语",
+  "pattern": "(写|洗|吃|做|看|听|学|打|跑|走|说|干|弄|打扫)(完|好|错|对|到|见|懂|会|成|坏|清楚|干净|整齐)",
+  "desc": "补语。例句/示例：结果补语1",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-50",
+  "name": "补语",
+  "pattern": "(起来|出来|进来|回来|过来|上去|下去|进去|出去|回去|过去|带来|拿去|送来|拿来)",
+  "desc": "补语。例句/示例：趋向补语1",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-51",
+  "name": "补语",
+  "pattern": "得[^。？！]{1,8}",
+  "desc": "补语。例句/示例：状态补语1",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-52",
+  "name": "补语",
+  "pattern": "(一次|两次|三次|一趟|一遍|一下|一顿|几遍|几趟)",
+  "desc": "补语。例句/示例：数量补语1",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-53",
+  "name": "补语",
+  "pattern": "(两岁|三岁|一点儿|一些|五年|十年|半天|半个小时)",
+  "desc": "补语。例句/示例：数量补语2",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-54",
+  "name": "句型",
+  "pattern": "^[^，。？！]{1,5}(晴天|阴天|星期[一二三四五六日天]|[一二三四五六七八九十]+点|岁)",
+  "desc": "句型。例句/示例：主谓句3名词谓语句",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-55",
+  "name": "句型",
+  "pattern": "有[^，。？！]{0,8}",
+  "desc": "句型。例句/示例：\"有\"字句2",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-56",
+  "name": "句型",
+  "pattern": "(上|里|前|后|下|旁边|外|中)[^，。？！]{0,3}(放着|站着|坐着|挂着|写着|有|来了)",
+  "desc": "句型。例句/示例：存现句1",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-57",
+  "name": "句型",
+  "pattern": "[^，。？！]{1,3}(了|完)[^，。？！]{0,4}[^，。？！]{1,3}(去|来|走|出|回)",
+  "desc": "句型。例句/示例：连动句1",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-58",
+  "name": "句型",
+  "pattern": "比[^。？！]{1,8}(大|小|高|矮|贵|便宜|快|慢|好|多|少|早|晚|冷|热|难)",
+  "desc": "句型。例句/示例：比较句2",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-59",
+  "name": "句型",
+  "pattern": "(跟|和|同)[^。？！]{1,8}一样",
+  "desc": "句型。例句/示例：比较句3",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-60",
+  "name": "句型",
+  "pattern": "是[^。？！]{1,12}的[。？]",
+  "desc": "句型。例句/示例：\"是……的\"句1",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-61",
+  "name": "句型",
+  "pattern": "(送给|借给|教给|还给|给|送|借|教)[^，。？！]{1,4}(一|两|三|几|这|那)[^，。？！]{1,3}",
+  "desc": "句型。例句/示例：双宾语句",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-62",
+  "name": "复句",
+  "pattern": "(先[^。？！]{0,8}|[，,][^。？！]{0,8}(再|然后|接着|后来))",
+  "desc": "复句。例句/示例：承接复句",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-63",
+  "name": "复句",
+  "pattern": "(不但|不仅|而且|并且|更|还)",
+  "desc": "复句。例句/示例：递进复句",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-64",
+  "name": "复句",
+  "pattern": "(还是|或者|要么)",
+  "desc": "复句。例句/示例：选择复句",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-65",
+  "name": "复句",
+  "pattern": "(但是|可是|不过|虽然|却|然而)",
+  "desc": "复句。例句/示例：转折复句",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-66",
+  "name": "复句",
+  "pattern": "(如果|要是|假如|万一|的话)",
+  "desc": "复句。例句/示例：假设复句",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-67",
+  "name": "复句",
+  "pattern": "(只要|只有|无论|不管)",
+  "desc": "复句。例句/示例：条件复句",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-68",
+  "name": "复句",
+  "pattern": "(因为|所以|由于|因此)",
+  "desc": "复句。例句/示例：因果复句",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-69",
+  "name": "复句",
+  "pattern": "[^，。？！]{1,4}就[^。？！]{1,8}[。？]",
+  "desc": "复句。例句/示例：紧缩复句",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-70",
+  "name": "动作的态",
+  "pattern": "(着|正在|正)[^。？！]{0,8}",
+  "desc": "动作的态。例句/示例：持续态",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-71",
+  "name": "动作的态",
+  "pattern": "过[^，。？！]{0,4}",
+  "desc": "动作的态。例句/示例：经历态",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-72",
+  "name": "特殊表达法",
+  "pattern": "第[一二三四五六七八九十]",
+  "desc": "特殊表达法。例句/示例：序数表示法",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-73",
+  "name": "特殊表达法",
+  "pattern": "(多|几|左右|上下)[^，。？！]{0,3}(块|个|岁|人|天|年|斤|本)",
+  "desc": "特殊表达法。例句/示例：概数表示法1",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-74",
+  "name": "强调的方法",
+  "pattern": "就(在|是)",
+  "desc": "强调的方法。例句/示例：用\"就\"表示强调",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-75",
+  "name": "提问的方法",
+  "pattern": "(好吗|行吗|可以吗|怎么样)[？]",
+  "desc": "提问的方法。例句/示例：用\"好吗、可以吗、行吗、怎么样\"提问",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-76",
+  "name": "提问的方法",
+  "pattern": "用什么时候|什么样|为什么|怎么样|怎样提问",
+  "desc": "提问的方法。例句/示例：用\"什么时候、什么样、为什么、怎么样、怎样\"提问",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-77",
+  "name": "提问的方法",
+  "pattern": "呢[？]",
+  "desc": "提问的方法。例句/示例：用\"呢\"构成的省略式疑问句",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-78",
+  "name": "提问的方法",
+  "pattern": "是不是",
+  "desc": "提问的方法。例句/示例：用\"是不是\"提问",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-79",
+  "name": "提问的方法",
+  "pattern": "吧[？]",
+  "desc": "提问的方法。例句/示例：用\"吧\"提问",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G2-80",
+  "name": "口语格式",
+  "pattern": "该.*了",
+  "desc": "口语格式。例句/示例：该……了",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G2-81",
+  "name": "口语格式",
+  "pattern": "要|快要|就要.*了",
+  "desc": "口语格式。例句/示例：要/快要/就要……了",
+  "pattern_source": "keep"
+ }
+]

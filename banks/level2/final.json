@@ -7,7 +7,9 @@
    "text": "明天可能下雨，你带雨衣吧。",
    "pinyin": "míng tiān kě néng xià yǔ， nǐ dài yǔ yī ba。",
    "grammar": [
-    "G2-01"
+    "G2-01",
+    "G2-11",
+    "G2-12"
    ]
   },
   {
@@ -17,7 +19,8 @@
    "text": "你可以坐船去湖那边。",
    "pinyin": "nǐ kě yǐ zuò chuán qù hú nà biān。",
    "grammar": [
-    "G2-01"
+    "G2-01",
+    "G2-08"
    ]
   },
   {
@@ -27,7 +30,9 @@
    "text": "你该早点休息，别太累了。",
    "pinyin": "nǐ gāi zǎo diǎn xiū xi，bié tài lèi le。",
    "grammar": [
-    "G2-02"
+    "G2-80",
+    "G2-02",
+    "G2-04"
    ]
   },
   {
@@ -37,7 +42,8 @@
    "text": "我们应该爱护公物。",
    "pinyin": "wǒ men yīng gāi ài hù gōng wù。",
    "grammar": [
-    "G2-02"
+    "G2-02",
+    "G2-08"
    ]
   },
   {
@@ -47,7 +53,9 @@
    "text": "他愿意参加我们的晚会。",
    "pinyin": "tā yuàn yì cān jiā wǒ men de wǎn huì。",
    "grammar": [
-    "G2-03"
+    "G2-03",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -57,7 +65,9 @@
    "text": "我不愿意离开这个班。",
    "pinyin": "wǒ bú yuàn yì lí kāi zhè ge bān。",
    "grammar": [
-    "G2-03"
+    "G2-03",
+    "G2-27",
+    "G2-08"
    ]
   },
   {
@@ -67,7 +77,9 @@
    "text": "你看看这篇作文，写得不错。",
    "pinyin": "nǐ kàn kàn zhè piān zuò wén， xiě dé bú cuò。",
    "grammar": [
-    "G2-04"
+    "G2-51",
+    "G2-31",
+    "G2-08"
    ]
   },
   {
@@ -77,7 +89,8 @@
    "text": "我们休息休息再走吧。",
    "pinyin": "wǒ men xiū xi xiū xi zài zǒu ba。",
    "grammar": [
-    "G2-04"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -87,7 +100,9 @@
    "text": "你等了多久了？",
    "pinyin": "nǐ děng le duō jiǔ le？",
    "grammar": [
-    "G2-05"
+    "G2-05",
+    "G2-35",
+    "G2-13"
    ]
   },
   {
@@ -97,6 +112,8 @@
    "text": "这个字怎么样？你能读一遍吗？",
    "pinyin": "zhè ge zì zěn me yàng？nǐ néng dú yí biàn ma？",
    "grammar": [
+    "G2-75",
+    "G2-76",
     "G2-05"
    ]
   },
@@ -105,9 +122,11 @@
    "level": 2,
    "round": 1,
    "text": "别人的意见也要听一听。",
-   "pinyin": "bié rén de yì jiàn yě yào tīng yi tīng。",
+   "pinyin": "bié rén de yì jiàn yě yào tīng yì tīng。",
    "grammar": [
-    "G2-06"
+    "G2-06",
+    "G2-81",
+    "G2-34"
    ]
   },
   {
@@ -117,7 +136,9 @@
    "text": "它们都是我们的好朋友。",
    "pinyin": "tā men dōu shì wǒ men de hǎo péng you。",
    "grammar": [
-    "G2-06"
+    "G2-06",
+    "G2-20",
+    "G2-13"
    ]
   },
   {
@@ -127,7 +148,9 @@
    "text": "这里的山水那么漂亮。",
    "pinyin": "zhè lǐ de shān shuǐ nà me piào liang。",
    "grammar": [
-    "G2-07"
+    "G2-07",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -135,9 +158,11 @@
    "level": 2,
    "round": 1,
    "text": "你别这样说话，大家会不高兴。",
-   "pinyin": "nǐ bié zhè yàng shuō huà，dà jiā huì bù gāo xīng。",
+   "pinyin": "nǐ bié zhè yàng shuō huà，dà jiā huì bù gāo xìng。",
    "grammar": [
-    "G2-07"
+    "G2-07",
+    "G2-06",
+    "G2-08"
    ]
   },
   {
@@ -145,8 +170,10 @@
    "level": 2,
    "round": 1,
    "text": "他的房间干干净净的。",
-   "pinyin": "tā de fáng jiān gàn gàn jìng jìng de。",
+   "pinyin": "tā de fáng jiān gān gān jìng jìng de。",
    "grammar": [
+    "G2-49",
+    "G2-34",
     "G2-08"
    ]
   },
@@ -155,8 +182,10 @@
    "level": 2,
    "round": 1,
    "text": "孩子们高高兴兴地回家了。",
-   "pinyin": "hái zi men gāo gāo xīng xīng dì huí jiā le。",
+   "pinyin": "hái zi men gāo gāo xìng xìng dì huí jiā le。",
    "grammar": [
+    "G2-11",
+    "G2-04",
     "G2-08"
    ]
   },
@@ -167,7 +196,9 @@
    "text": "这个地方有一千多万人。",
    "pinyin": "zhè ge dì fang yǒu yì qiān duō wàn rén。",
    "grammar": [
-    "G2-09"
+    "G2-09",
+    "G2-73",
+    "G2-55"
    ]
   },
   {
@@ -177,7 +208,9 @@
    "text": "那条河有三千米长。",
    "pinyin": "nà tiáo hé yǒu sān qiān mǐ zhǎng。",
    "grammar": [
-    "G2-09"
+    "G2-09",
+    "G2-10",
+    "G2-55"
    ]
   },
   {
@@ -187,7 +220,9 @@
    "text": "我住在这层楼的第三间。",
    "pinyin": "wǒ zhù zài zhè céng lóu de dì sān jiān。",
    "grammar": [
-    "G2-10"
+    "G2-72",
+    "G2-10",
+    "G2-34"
    ]
   },
   {
@@ -197,6 +232,8 @@
    "text": "我给他写了一封信。",
    "pinyin": "wǒ gěi tā xiě le yì fēng xìn。",
    "grammar": [
+    "G2-61",
+    "G2-26",
     "G2-10"
    ]
   },
@@ -207,7 +244,9 @@
    "text": "这本小说我看了两遍。",
    "pinyin": "zhè běn xiǎo shuō wǒ kàn le liǎng biàn。",
    "grammar": [
-    "G2-11"
+    "G2-11",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -217,7 +256,9 @@
    "text": "我们去过一次公园。",
    "pinyin": "wǒ men qù guò yí cì gōng yuán。",
    "grammar": [
-    "G2-11"
+    "G2-52",
+    "G2-32",
+    "G2-71"
    ]
   },
   {
@@ -227,7 +268,9 @@
    "text": "我等了十分钟，他还没来。",
    "pinyin": "wǒ děng le shí fēn zhōng，tā hái méi lái。",
    "grammar": [
-    "G2-12"
+    "G2-35",
+    "G2-63",
+    "G2-15"
    ]
   },
   {
@@ -237,7 +280,9 @@
    "text": "他学了三年中文。",
    "pinyin": "tā xué le sān nián zhōng wén。",
    "grammar": [
-    "G2-12"
+    "G2-12",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -247,7 +292,9 @@
    "text": "这个水果特别好吃。",
    "pinyin": "zhè ge shuǐ guǒ tè bié hǎo chī。",
    "grammar": [
-    "G2-13"
+    "G2-41",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -257,7 +304,9 @@
    "text": "天气有点儿凉，多穿件衣服。",
    "pinyin": "tiān qì yǒu diǎn ér liáng，duō chuān jiàn yī fu。",
    "grammar": [
-    "G2-13"
+    "G2-10",
+    "G2-12",
+    "G2-55"
    ]
   },
   {
@@ -267,7 +316,9 @@
    "text": "同学们全来了。",
    "pinyin": "tóng xué men quán lái le。",
    "grammar": [
-    "G2-14"
+    "G2-14",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -277,7 +328,9 @@
    "text": "我们班一共有二十人。",
    "pinyin": "wǒ men bān yí gòng yǒu èr shí rén。",
    "grammar": [
-    "G2-14"
+    "G2-14",
+    "G2-55",
+    "G2-04"
    ]
   },
   {
@@ -287,7 +340,8 @@
    "text": "他刚走，你快去找。",
    "pinyin": "tā gāng zǒu， nǐ kuài qù zhǎo。",
    "grammar": [
-    "G2-15"
+    "G2-15",
+    "G2-08"
    ]
   },
   {
@@ -297,7 +351,9 @@
    "text": "天忽然黑了，可能要下雨。",
    "pinyin": "tiān hū rán hēi le，kě néng yào xià yǔ。",
    "grammar": [
-    "G2-15"
+    "G2-01",
+    "G2-15",
+    "G2-81"
    ]
   },
   {
@@ -307,7 +363,8 @@
    "text": "他经常来图书馆看书。",
    "pinyin": "tā jīng cháng lái tú shū guǎn kàn shū。",
    "grammar": [
-    "G2-16"
+    "G2-16",
+    "G2-08"
    ]
   },
   {
@@ -317,6 +374,8 @@
    "text": "这个字我老写错，要重新练。",
    "pinyin": "zhè ge zì wǒ lǎo xiě cuò，yào zhòng xīn liàn。",
    "grammar": [
+    "G2-81",
+    "G2-49",
     "G2-16"
    ]
   },
@@ -327,7 +386,9 @@
    "text": "你到了就给我打电话。",
    "pinyin": "nǐ dào le jiù gěi wǒ dǎ diàn huà。",
    "grammar": [
-    "G2-17"
+    "G2-40",
+    "G2-26",
+    "G2-69"
    ]
   },
   {
@@ -337,7 +398,9 @@
    "text": "他一说我就懂了。",
    "pinyin": "tā yì shuō wǒ jiù dǒng le。",
    "grammar": [
-    "G2-17"
+    "G2-69",
+    "G2-17",
+    "G2-20"
    ]
   },
   {
@@ -347,7 +410,9 @@
    "text": "他不是故意弄坏你的笔。",
    "pinyin": "tā bú shì gù yì nòng huài nǐ de bǐ。",
    "grammar": [
-    "G2-18"
+    "G2-18",
+    "G2-49",
+    "G2-34"
    ]
   },
   {
@@ -357,7 +422,8 @@
    "text": "她故意大声唱歌。",
    "pinyin": "tā gù yì dà shēng chàng gē。",
    "grammar": [
-    "G2-18"
+    "G2-18",
+    "G2-08"
    ]
   },
   {
@@ -367,7 +433,8 @@
    "text": "你必须准时交作业。",
    "pinyin": "nǐ bì xū zhǔn shí jiāo zuò yè。",
    "grammar": [
-    "G2-19"
+    "G2-19",
+    "G2-08"
    ]
   },
   {
@@ -377,7 +444,9 @@
    "text": "他好像不太舒服。",
    "pinyin": "tā hǎo xiàng bú tài shū fu。",
    "grammar": [
-    "G2-19"
+    "G2-19",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -387,7 +456,9 @@
    "text": "我八点才起床。",
    "pinyin": "wǒ bā diǎn cái qǐ chuáng。",
    "grammar": [
-    "G2-20"
+    "G2-54",
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -397,6 +468,8 @@
    "text": "正好，我也要去那儿。",
    "pinyin": "zhèng hǎo，wǒ yě yào qù nà ér。",
    "grammar": [
+    "G2-81",
+    "G2-70",
     "G2-20"
    ]
   },
@@ -407,7 +480,9 @@
    "text": "当我回家的时候，他正在做饭。",
    "pinyin": "dāng wǒ huí jiā de shí hou，tā zhèng zài zuò fàn。",
    "grammar": [
-    "G2-21"
+    "G2-21",
+    "G2-70",
+    "G2-11"
    ]
   },
   {
@@ -417,7 +492,9 @@
    "text": "当秋天来的时候，树变黄了。",
    "pinyin": "dāng qiū tiān lái de shí hou， shù biàn huáng le。",
    "grammar": [
-    "G2-21"
+    "G2-21",
+    "G2-12",
+    "G2-34"
    ]
   },
   {
@@ -427,7 +504,9 @@
    "text": "你往前走，就能看见那个湖。",
    "pinyin": "nǐ wǎng qián zǒu，jiù néng kàn jiàn nà ge hú。",
    "grammar": [
-    "G2-22"
+    "G2-22",
+    "G2-47",
+    "G2-49"
    ]
   },
   {
@@ -435,9 +514,11 @@
    "level": 2,
    "round": 1,
    "text": "车往东边开走了。",
-   "pinyin": "chē wǎng dōng biān kāi zǒu le。",
+   "pinyin": "chē wǎng dōng bian kāi zǒu le。",
    "grammar": [
-    "G2-22"
+    "G2-22",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -447,7 +528,9 @@
    "text": "他向我点了点头。",
    "pinyin": "tā xiàng wǒ diǎn le diǎn tóu。",
    "grammar": [
-    "G2-23"
+    "G2-23",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -457,7 +540,9 @@
    "text": "你向西看，那边有条路。",
    "pinyin": "nǐ xiàng xī kàn， nà biān yǒu tiáo lù。",
    "grammar": [
-    "G2-23"
+    "G2-23",
+    "G2-10",
+    "G2-55"
    ]
   },
   {
@@ -467,7 +552,9 @@
    "text": "我从学校走到车站。",
    "pinyin": "wǒ cóng xué xiào zǒu dào chē zhàn。",
    "grammar": [
-    "G2-24"
+    "G2-24",
+    "G2-49",
+    "G2-08"
    ]
   },
   {
@@ -477,7 +564,9 @@
    "text": "他从包里拿出一页纸。",
    "pinyin": "tā cóng bāo lǐ ná chū yí yè zhǐ。",
    "grammar": [
-    "G2-24"
+    "G2-24",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -487,7 +576,8 @@
    "text": "他对客人很热情。",
    "pinyin": "tā duì kè rén hěn rè qíng。",
    "grammar": [
-    "G2-25"
+    "G2-25",
+    "G2-08"
    ]
   },
   {
@@ -497,7 +587,9 @@
    "text": "这件事你对他讲了吗？",
    "pinyin": "zhè jiàn shì nǐ duì tā jiǎng le ma？",
    "grammar": [
-    "G2-25"
+    "G2-25",
+    "G2-10",
+    "G2-04"
    ]
   },
   {
@@ -507,7 +599,9 @@
    "text": "我给妈妈买了一件礼物。",
    "pinyin": "wǒ gěi mā ma mǎi le yí jiàn lǐ wù。",
    "grammar": [
-    "G2-26"
+    "G2-61",
+    "G2-26",
+    "G2-10"
    ]
   },
   {
@@ -517,7 +611,9 @@
    "text": "请你给我介绍一下这个地方。",
    "pinyin": "qǐng nǐ gěi wǒ jiè shào yí xià zhè ge dì fang。",
    "grammar": [
-    "G2-26"
+    "G2-61",
+    "G2-26",
+    "G2-52"
    ]
   },
   {
@@ -527,7 +623,8 @@
    "text": "我家离公司很近。",
    "pinyin": "wǒ jiā lí gōng sī hěn jìn。",
    "grammar": [
-    "G2-27"
+    "G2-27",
+    "G2-08"
    ]
   },
   {
@@ -535,9 +632,11 @@
    "level": 2,
    "round": 1,
    "text": "离放假还有一个月。",
-   "pinyin": "lí fàng jiǎ hái yǒu yí ge yuè。",
+   "pinyin": "lí fàng jià hái yǒu yí ge yuè。",
    "grammar": [
-    "G2-27"
+    "G2-27",
+    "G2-63",
+    "G2-15"
    ]
   },
   {
@@ -547,7 +646,9 @@
    "text": "我为你准备了一份礼物。",
    "pinyin": "wǒ wèi nǐ zhǔn bèi le yí fèn lǐ wù。",
    "grammar": [
-    "G2-28"
+    "G2-28",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -555,9 +656,11 @@
    "level": 2,
    "round": 1,
    "text": "大家都为你的成绩高兴。",
-   "pinyin": "dà jiā dōu wèi nǐ de chéng jì gāo xīng。",
+   "pinyin": "dà jiā dōu wèi nǐ de chéng jì gāo xìng。",
    "grammar": [
-    "G2-28"
+    "G2-28",
+    "G2-06",
+    "G2-20"
    ]
   },
   {
@@ -567,7 +670,9 @@
    "text": "明天去公园或看电影，都行。",
    "pinyin": "míng tiān qù gōng yuán huò kàn diàn yǐng，dōu xíng。",
    "grammar": [
-    "G2-29"
+    "G2-29",
+    "G2-12",
+    "G2-20"
    ]
   },
   {
@@ -577,7 +682,9 @@
    "text": "你可以坐车或走路去。",
    "pinyin": "nǐ kě yǐ zuò chē huò zǒu lù qù。",
    "grammar": [
-    "G2-29"
+    "G2-29",
+    "G2-01",
+    "G2-08"
    ]
   },
   {
@@ -587,7 +694,9 @@
    "text": "这两只鞋便宜，但不太好看。",
    "pinyin": "zhè liǎng zhǐ xié pián yi， dàn bú tài hǎo kàn。",
    "grammar": [
-    "G2-30"
+    "G2-30",
+    "G2-14",
+    "G2-13"
    ]
   },
   {
@@ -595,19 +704,23 @@
    "level": 2,
    "round": 1,
    "text": "他想去，不过没有时间。",
-   "pinyin": "tā xiǎng qù，bù guò méi yǒu shí jiān。",
+   "pinyin": "tā xiǎng qù，bú guò méi yǒu shí jiān。",
    "grammar": [
-    "G2-30"
+    "G2-65",
+    "G2-30",
+    "G2-32"
    ]
   },
   {
    "id": "L2-061",
    "level": 2,
    "round": 2,
-   "text": "他跑得很快。",
-   "pinyin": "tā pǎo dé hěn kuài。",
+   "text": "他跑得太快了。",
+   "pinyin": "tā pǎo de tài kuài le。",
    "grammar": [
-    "G2-31"
+    "G2-51",
+    "G2-31",
+    "G2-08"
    ]
   },
   {
@@ -617,7 +730,9 @@
    "text": "她说中文说得不错。",
    "pinyin": "tā shuō zhōng wén shuō dé bú cuò。",
    "grammar": [
-    "G2-31"
+    "G2-51",
+    "G2-31",
+    "G2-08"
    ]
   },
   {
@@ -627,7 +742,9 @@
    "text": "我去过一次上海。",
    "pinyin": "wǒ qù guò yí cì shàng hǎi。",
    "grammar": [
-    "G2-32"
+    "G2-52",
+    "G2-32",
+    "G2-71"
    ]
   },
   {
@@ -637,7 +754,9 @@
    "text": "他学过一年中文。",
    "pinyin": "tā xué guò yì nián zhōng wén。",
    "grammar": [
-    "G2-32"
+    "G2-32",
+    "G2-71",
+    "G2-12"
    ]
   },
   {
@@ -647,7 +766,9 @@
    "text": "门开着，灯也亮着。",
    "pinyin": "mén kāi zhe，dēng yě liàng zhe。",
    "grammar": [
-    "G2-33"
+    "G2-33",
+    "G2-70",
+    "G2-08"
    ]
   },
   {
@@ -657,7 +778,9 @@
    "text": "她穿着一件红衣服。",
    "pinyin": "tā chuān zhe yí jiàn hóng yī fu。",
    "grammar": [
-    "G2-33"
+    "G2-33",
+    "G2-70",
+    "G2-10"
    ]
   },
   {
@@ -667,7 +790,9 @@
    "text": "今天真冷啊！",
    "pinyin": "jīn tiān zhēn lěng a！",
    "grammar": [
-    "G2-34"
+    "G2-12",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -677,6 +802,8 @@
    "text": "你是老师吧？",
    "pinyin": "nǐ shì lǎo shī ba？",
    "grammar": [
+    "G2-79",
+    "G2-16",
     "G2-34"
    ]
   },
@@ -687,7 +814,9 @@
    "text": "你有时间的话，来我家玩儿。",
    "pinyin": "nǐ yǒu shí jiān de huà，lái wǒ jiā wán ér。",
    "grammar": [
-    "G2-35"
+    "G2-66",
+    "G2-35",
+    "G2-38"
    ]
   },
   {
@@ -697,7 +826,9 @@
    "text": "我买了茶、水果等。",
    "pinyin": "wǒ mǎi le chá、 shuǐ guǒ děng。",
    "grammar": [
-    "G2-35"
+    "G2-35",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -707,7 +838,9 @@
    "text": "喂，请问王老师在吗？",
    "pinyin": "wèi，qǐng wèn wáng lǎo shī zài ma？",
    "grammar": [
-    "G2-36"
+    "G2-36",
+    "G2-16",
+    "G2-08"
    ]
   },
   {
@@ -717,7 +850,9 @@
    "text": "喂，你找哪位？",
    "pinyin": "wèi，nǐ zhǎo nǎ wèi？",
    "grammar": [
-    "G2-36"
+    "G2-36",
+    "G2-10",
+    "G2-08"
    ]
   },
   {
@@ -727,7 +862,9 @@
    "text": "新书和衣服都放在房间里。",
    "pinyin": "xīn shū hé yī fu dōu fàng zài fáng jiān lǐ。",
    "grammar": [
-    "G2-37"
+    "G2-37",
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -737,7 +874,8 @@
    "text": "认真学习很重要。",
    "pinyin": "rèn zhēn xué xí hěn zhòng yào。",
    "grammar": [
-    "G2-37"
+    "G2-81",
+    "G2-08"
    ]
   },
   {
@@ -747,7 +885,9 @@
    "text": "他买的书很有意思。",
    "pinyin": "tā mǎi de shū hěn yǒu yì si。",
    "grammar": [
-    "G2-38"
+    "G2-38",
+    "G2-55",
+    "G2-34"
    ]
   },
   {
@@ -757,7 +897,9 @@
    "text": "哭着说也处理不了问题。",
    "pinyin": "kū zhe shuō yě chǔ lǐ bù liǎo wèn tí。",
    "grammar": [
-    "G2-38"
+    "G2-33",
+    "G2-70",
+    "G2-04"
    ]
   },
   {
@@ -767,7 +909,9 @@
    "text": "那本新书是我的。",
    "pinyin": "nà běn xīn shū shì wǒ de。",
    "grammar": [
-    "G2-39"
+    "G2-60",
+    "G2-39",
+    "G2-34"
    ]
   },
   {
@@ -777,7 +921,9 @@
    "text": "我们学校的学生都很努力。",
    "pinyin": "wǒ men xué xiào de xué sheng dōu hěn nǔ lì。",
    "grammar": [
-    "G2-39"
+    "G2-20",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -787,7 +933,9 @@
    "text": "写完作业再去玩。",
    "pinyin": "xiě wán zuò yè zài qù wán。",
    "grammar": [
-    "G2-40"
+    "G2-57",
+    "G2-40",
+    "G2-49"
    ]
   },
   {
@@ -797,7 +945,9 @@
    "text": "他常常休息得太晚。",
    "pinyin": "tā cháng cháng xiū xi dé tài wǎn。",
    "grammar": [
-    "G2-40"
+    "G2-51",
+    "G2-31",
+    "G2-08"
    ]
   },
   {
@@ -805,9 +955,11 @@
    "level": 2,
    "round": 2,
    "text": "这个房间又大又干净。",
-   "pinyin": "zhè ge fáng jiān yòu dà yòu gàn jìng。",
+   "pinyin": "zhè ge fáng jiān yòu dà yòu gān jìng。",
    "grammar": [
-    "G2-41"
+    "G2-46",
+    "G2-41",
+    "G2-37"
    ]
   },
   {
@@ -817,7 +969,9 @@
    "text": "那里的山水非常漂亮。",
    "pinyin": "nà lǐ de shān shuǐ fēi cháng piào liang。",
    "grammar": [
-    "G2-41"
+    "G2-41",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -827,7 +981,9 @@
    "text": "他不一会儿就写完了作业。",
    "pinyin": "tā bù yí huì ér jiù xiě wán le zuò yè。",
    "grammar": [
-    "G2-42"
+    "G2-42",
+    "G2-49",
+    "G2-69"
    ]
   },
   {
@@ -837,7 +993,9 @@
    "text": "我们等了一会儿，车就来了。",
    "pinyin": "wǒ men děng le yí huì ér，chē jiù lái le。",
    "grammar": [
-    "G2-42"
+    "G2-35",
+    "G2-69",
+    "G2-17"
    ]
   },
   {
@@ -847,7 +1005,9 @@
    "text": "桌子上有笔、纸什么的。",
    "pinyin": "zhuō zi shàng yǒu bǐ、zhǐ shén me de。",
    "grammar": [
-    "G2-43"
+    "G2-43",
+    "G2-56",
+    "G2-55"
    ]
   },
   {
@@ -857,7 +1017,9 @@
    "text": "他喜欢打球、唱歌什么的。",
    "pinyin": "tā xǐ huan dǎ qiú、 chàng gē shén me de。",
    "grammar": [
-    "G2-43"
+    "G2-43",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -867,7 +1029,9 @@
    "text": "天气越来越热了。",
    "pinyin": "tiān qì yuè lái yuè rè le。",
    "grammar": [
-    "G2-44"
+    "G2-44",
+    "G2-12",
+    "G2-04"
    ]
   },
   {
@@ -877,7 +1041,9 @@
    "text": "他的中文越来越好。",
    "pinyin": "tā de zhōng wén yuè lái yuè hǎo。",
    "grammar": [
-    "G2-44"
+    "G2-44",
+    "G2-13",
+    "G2-34"
    ]
   },
   {
@@ -885,9 +1051,11 @@
    "level": 2,
    "round": 2,
    "text": "下雨了，我们还是看电视吧。",
-   "pinyin": "xià yǔ le，wǒ men hái shì kàn diàn shì ba。",
+   "pinyin": "xià yǔ le，wǒ men hái shi kàn diàn shì ba。",
    "grammar": [
-    "G2-45"
+    "G2-45",
+    "G2-64",
+    "G2-63"
    ]
   },
   {
@@ -895,9 +1063,11 @@
    "level": 2,
    "round": 2,
    "text": "太晚了，你还是住这儿吧。",
-   "pinyin": "tài wǎn le，nǐ hái shì zhù zhè ér ba。",
+   "pinyin": "tài wǎn le，nǐ hái shi zhù zhè ér ba。",
    "grammar": [
-    "G2-45"
+    "G2-45",
+    "G2-64",
+    "G2-63"
    ]
   },
   {
@@ -907,7 +1077,9 @@
    "text": "这个饭馆的菜又便宜又好吃。",
    "pinyin": "zhè ge fàn guǎn de cài yòu biàn yi yòu hǎo chī。",
    "grammar": [
-    "G2-46"
+    "G2-46",
+    "G2-41",
+    "G2-37"
    ]
   },
   {
@@ -917,7 +1089,9 @@
    "text": "那件衣服又好看又不贵。",
    "pinyin": "nà jiàn yī fu yòu hǎo kàn yòu bú guì。",
    "grammar": [
-    "G2-46"
+    "G2-46",
+    "G2-41",
+    "G2-37"
    ]
   },
   {
@@ -927,7 +1101,9 @@
    "text": "来中国以前，我只学过中文。",
    "pinyin": "lái zhōng guó yǐ qián，wǒ zhǐ xué guò zhōng wén。",
    "grammar": [
-    "G2-47"
+    "G2-47",
+    "G2-32",
+    "G2-71"
    ]
   },
   {
@@ -937,7 +1113,9 @@
    "text": "吃完午饭，我常睡一会儿。",
    "pinyin": "chī wán wǔ fàn，wǒ cháng shuì yí huì ér。",
    "grammar": [
-    "G2-47"
+    "G2-49",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -947,7 +1125,9 @@
    "text": "今天晴天。",
    "pinyin": "jīn tiān qíng tiān。",
    "grammar": [
-    "G2-48"
+    "G2-48",
+    "G2-54",
+    "G2-12"
    ]
   },
   {
@@ -957,7 +1137,9 @@
    "text": "他北京人，今年二十五岁。",
    "pinyin": "tā běi jīng rén，jīn nián èr shí wǔ suì。",
    "grammar": [
-    "G2-48"
+    "G2-48",
+    "G2-12",
+    "G2-08"
    ]
   },
   {
@@ -967,7 +1149,8 @@
    "text": "你写错两个汉字。",
    "pinyin": "nǐ xiě cuò liǎng ge hàn zì。",
    "grammar": [
-    "G2-49"
+    "G2-49",
+    "G2-08"
    ]
   },
   {
@@ -975,9 +1158,11 @@
    "level": 2,
    "round": 2,
    "text": "衣服我洗干净了。",
-   "pinyin": "yī fu wǒ xǐ gàn jìng le。",
+   "pinyin": "yī fu wǒ xǐ gān jìng le。",
    "grammar": [
-    "G2-49"
+    "G2-49",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -987,7 +1172,9 @@
    "text": "他今天带来一个相机。",
    "pinyin": "tā jīn tiān dài lái yí ge xiāng jī。",
    "grammar": [
-    "G2-50"
+    "G2-50",
+    "G2-12",
+    "G2-04"
    ]
   },
   {
@@ -997,7 +1184,9 @@
    "text": "你快过去看看吧。",
    "pinyin": "nǐ kuài guò qù kàn kàn ba。",
    "grammar": [
-    "G2-50"
+    "G2-50",
+    "G2-32",
+    "G2-71"
    ]
   },
   {
@@ -1007,7 +1196,9 @@
    "text": "她跑得很累。",
    "pinyin": "tā pǎo dé hěn lèi。",
    "grammar": [
-    "G2-51"
+    "G2-51",
+    "G2-31",
+    "G2-08"
    ]
   },
   {
@@ -1015,9 +1206,11 @@
    "level": 2,
    "round": 2,
    "text": "我们玩儿得很高兴。",
-   "pinyin": "wǒ men wán ér dé hěn gāo xīng。",
+   "pinyin": "wǒ men wán ér dé hěn gāo xìng。",
    "grammar": [
-    "G2-51"
+    "G2-51",
+    "G2-31",
+    "G2-08"
    ]
   },
   {
@@ -1027,7 +1220,9 @@
    "text": "这部片子我看过两次。",
    "pinyin": "zhè bù piàn zi wǒ kàn guò liǎng cì。",
    "grammar": [
-    "G2-52"
+    "G2-52",
+    "G2-32",
+    "G2-71"
    ]
   },
   {
@@ -1037,7 +1232,9 @@
    "text": "我们休息一下吧。",
    "pinyin": "wǒ men xiū xi yí xià ba。",
    "grammar": [
-    "G2-52"
+    "G2-52",
+    "G2-11",
+    "G2-34"
    ]
   },
   {
@@ -1047,7 +1244,9 @@
    "text": "我比弟弟大两岁。",
    "pinyin": "wǒ bǐ dì di dà liǎng suì。",
    "grammar": [
-    "G2-53"
+    "G2-53",
+    "G2-58",
+    "G2-48"
    ]
   },
   {
@@ -1057,7 +1256,9 @@
    "text": "今天比昨天凉快一点儿。",
    "pinyin": "jīn tiān bǐ zuó tiān liáng kuài yì diǎn ér。",
    "grammar": [
-    "G2-53"
+    "G2-53",
+    "G2-58",
+    "G2-48"
    ]
   },
   {
@@ -1067,7 +1268,9 @@
    "text": "明天阴天。",
    "pinyin": "míng tiān yīn tiān。",
    "grammar": [
-    "G2-54"
+    "G2-48",
+    "G2-54",
+    "G2-12"
    ]
   },
   {
@@ -1077,7 +1280,9 @@
    "text": "现在八点二十分。",
    "pinyin": "xiàn zài bā diǎn èr shí fēn。",
    "grammar": [
-    "G2-54"
+    "G2-48",
+    "G2-54",
+    "G2-13"
    ]
   },
   {
@@ -1087,7 +1292,9 @@
    "text": "他有一米八高。",
    "pinyin": "tā yǒu yì mǐ bā gāo。",
    "grammar": [
-    "G2-55"
+    "G2-55",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -1097,7 +1304,9 @@
    "text": "这个包里有二十本书。",
    "pinyin": "zhè ge bāo lǐ yǒu èr shí běn shū。",
    "grammar": [
-    "G2-55"
+    "G2-56",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -1107,7 +1316,9 @@
    "text": "桌子上放着一本词典。",
    "pinyin": "zhuō zi shàng fàng zhe yì běn cí diǎn。",
    "grammar": [
-    "G2-56"
+    "G2-33",
+    "G2-56",
+    "G2-70"
    ]
   },
   {
@@ -1115,9 +1326,11 @@
    "level": 2,
    "round": 2,
    "text": "教室前边站着一位老师。",
-   "pinyin": "jiào shì qián biān zhàn zhe yí wèi lǎo shī。",
+   "pinyin": "jiào shì qián bian zhàn zhe yí wèi lǎo shī。",
    "grammar": [
-    "G2-56"
+    "G2-47",
+    "G2-16",
+    "G2-33"
    ]
   },
   {
@@ -1127,7 +1340,9 @@
    "text": "他开门出去了。",
    "pinyin": "tā kāi mén chū qù le。",
    "grammar": [
-    "G2-57"
+    "G2-50",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -1137,7 +1352,9 @@
    "text": "我们吃完饭去图书馆吧。",
    "pinyin": "wǒ men chī wán fàn qù tú shū guǎn ba。",
    "grammar": [
-    "G2-57"
+    "G2-57",
+    "G2-40",
+    "G2-49"
    ]
   },
   {
@@ -1147,7 +1364,9 @@
    "text": "姐姐比我大两岁。",
    "pinyin": "jiě jie bǐ wǒ dà liǎng suì。",
    "grammar": [
-    "G2-58"
+    "G2-53",
+    "G2-58",
+    "G2-48"
    ]
   },
   {
@@ -1157,7 +1376,9 @@
    "text": "他的手机比我的更贵。",
    "pinyin": "tā de shǒu jī bǐ wǒ de gèng guì。",
    "grammar": [
-    "G2-58"
+    "G2-58",
+    "G2-63",
+    "G2-13"
    ]
   },
   {
@@ -1165,9 +1386,11 @@
    "level": 2,
    "round": 2,
    "text": "我的爱好跟姐姐一样。",
-   "pinyin": "wǒ de ài hǎo gēn jiě jie yí yàng。",
+   "pinyin": "wǒ de ài hào gēn jiě jie yí yàng。",
    "grammar": [
-    "G2-59"
+    "G2-59",
+    "G2-37",
+    "G2-13"
    ]
   },
   {
@@ -1177,7 +1400,9 @@
    "text": "姐姐跟妹妹一样可爱。",
    "pinyin": "jiě jie gēn mèi mei yí yàng kě ài。",
    "grammar": [
-    "G2-59"
+    "G2-59",
+    "G2-37",
+    "G2-04"
    ]
   },
   {
@@ -1187,7 +1412,9 @@
    "text": "我是昨天到北京的。",
    "pinyin": "wǒ shì zuó tiān dào běi jīng de。",
    "grammar": [
-    "G2-60"
+    "G2-60",
+    "G2-12",
+    "G2-34"
    ]
   },
   {
@@ -1197,7 +1424,8 @@
    "text": "他是在网上买的手机。",
    "pinyin": "tā shì zài wǎng shàng mǎi de shǒu jī。",
    "grammar": [
-    "G2-60"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -1207,7 +1435,9 @@
    "text": "我送给妹妹一本书。",
    "pinyin": "wǒ sòng gěi mèi mei yì běn shū。",
    "grammar": [
-    "G2-61"
+    "G2-61",
+    "G2-26",
+    "G2-04"
    ]
   },
   {
@@ -1217,7 +1447,9 @@
    "text": "朋友借给我一千块钱。",
    "pinyin": "péng you jiè gěi wǒ yì qiān kuài qián。",
    "grammar": [
-    "G2-61"
+    "G2-09",
+    "G2-61",
+    "G2-26"
    ]
   },
   {
@@ -1227,7 +1459,9 @@
    "text": "吃了晚饭，我们出去走走。",
    "pinyin": "chī le wǎn fàn，wǒ men chū qù zǒu zǒu。",
    "grammar": [
-    "G2-62"
+    "G2-50",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -1237,7 +1471,9 @@
    "text": "你先去超市买东西，再回家。",
    "pinyin": "nǐ xiān qù chāo shì mǎi dōng xi，zài huí jiā。",
    "grammar": [
-    "G2-62"
+    "G2-62",
+    "G2-11",
+    "G2-08"
    ]
   },
   {
@@ -1245,9 +1481,11 @@
    "level": 2,
    "round": 3,
    "text": "他不但会中文，而且说得好。",
-   "pinyin": "tā bù dàn huì zhōng wén，ér qiě shuō dé hǎo。",
+   "pinyin": "tā bú dàn huì zhōng wén，ér qiě shuō dé hǎo。",
    "grammar": [
-    "G2-63"
+    "G2-30",
+    "G2-63",
+    "G2-51"
    ]
   },
   {
@@ -1257,7 +1495,9 @@
    "text": "昨天很冷，今天更冷了。",
    "pinyin": "zuó tiān hěn lěng，jīn tiān gèng lěng le。",
    "grammar": [
-    "G2-63"
+    "G2-63",
+    "G2-12",
+    "G2-13"
    ]
   },
   {
@@ -1267,7 +1507,8 @@
    "text": "这次旅行你坐火车，坐飞机？",
    "pinyin": "zhè cì lǚ xíng nǐ zuò huǒ chē，zuò fēi jī？",
    "grammar": [
-    "G2-64"
+    "G2-11",
+    "G2-08"
    ]
   },
   {
@@ -1275,9 +1516,11 @@
    "level": 2,
    "round": 3,
    "text": "你坐火车来，还是坐飞机来？",
-   "pinyin": "nǐ zuò huǒ chē lái，hái shì zuò fēi jī lái？",
+   "pinyin": "nǐ zuò huǒ chē lái，hái shi zuò fēi jī lái？",
    "grammar": [
-    "G2-64"
+    "G2-64",
+    "G2-63",
+    "G2-15"
    ]
   },
   {
@@ -1287,7 +1530,9 @@
    "text": "这件衣服样子不错，有点儿贵。",
    "pinyin": "zhè jiàn yī fu yàng zi bú cuò，yǒu diǎn ér guì。",
    "grammar": [
-    "G2-65"
+    "G2-10",
+    "G2-55",
+    "G2-13"
    ]
   },
   {
@@ -1295,9 +1540,11 @@
    "level": 2,
    "round": 3,
    "text": "这个房间不太大，不过很舒服。",
-   "pinyin": "zhè ge fáng jiān bú tài dà，bù guò hěn shū fu。",
+   "pinyin": "zhè ge fáng jiān bú tài dà，bú guò hěn shū fu。",
    "grammar": [
-    "G2-65"
+    "G2-65",
+    "G2-30",
+    "G2-32"
    ]
   },
   {
@@ -1307,7 +1554,9 @@
    "text": "明天不下雨，我们出去玩。",
    "pinyin": "míng tiān bú xià yǔ，wǒ men chū qù wán。",
    "grammar": [
-    "G2-66"
+    "G2-50",
+    "G2-11",
+    "G2-12"
    ]
   },
   {
@@ -1317,7 +1566,9 @@
    "text": "你有时间，我们一起去超市吧。",
    "pinyin": "nǐ yǒu shí jiān，wǒ men yì qǐ qù chāo shì ba。",
    "grammar": [
-    "G2-66"
+    "G2-55",
+    "G2-34",
+    "G2-04"
    ]
   },
   {
@@ -1327,7 +1578,9 @@
    "text": "只要认真学，就能取得好成绩。",
    "pinyin": "zhǐ yào rèn zhēn xué，jiù néng qǔ dé hǎo chéng jì。",
    "grammar": [
-    "G2-67"
+    "G2-67",
+    "G2-81",
+    "G2-51"
    ]
   },
   {
@@ -1337,7 +1590,9 @@
    "text": "只要你考过，我就送你礼物。",
    "pinyin": "zhǐ yào nǐ kǎo guò，wǒ jiù sòng nǐ lǐ wù。",
    "grammar": [
-    "G2-67"
+    "G2-67",
+    "G2-81",
+    "G2-32"
    ]
   },
   {
@@ -1347,7 +1602,9 @@
    "text": "因为很累，所以不想做饭了。",
    "pinyin": "yīn wèi hěn lèi，suǒ yǐ bù xiǎng zuò fàn le。",
    "grammar": [
-    "G2-68"
+    "G2-68",
+    "G2-28",
+    "G2-04"
    ]
   },
   {
@@ -1357,7 +1614,9 @@
    "text": "他病了，今天没来上课。",
    "pinyin": "tā bìng le，jīn tiān méi lái shàng kè。",
    "grammar": [
-    "G2-68"
+    "G2-12",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -1367,7 +1626,9 @@
    "text": "他一上床就睡着了。",
    "pinyin": "tā yí shàng chuáng jiù shuì zhe le。",
    "grammar": [
-    "G2-69"
+    "G2-69",
+    "G2-17",
+    "G2-33"
    ]
   },
   {
@@ -1377,7 +1638,9 @@
    "text": "我一喝酒就脸红。",
    "pinyin": "wǒ yì hē jiǔ jiù liǎn hóng。",
    "grammar": [
-    "G2-69"
+    "G2-69",
+    "G2-17",
+    "G2-20"
    ]
   },
   {
@@ -1385,9 +1648,11 @@
    "level": 2,
    "round": 3,
    "text": "外边下着雪呢。",
-   "pinyin": "wài biān xià zhe xuě ne。",
+   "pinyin": "wài bian xià zhe xuě ne。",
    "grammar": [
-    "G2-70"
+    "G2-33",
+    "G2-70",
+    "G2-11"
    ]
   },
   {
@@ -1397,7 +1662,9 @@
    "text": "说着笑着，不一会儿就到了。",
    "pinyin": "shuō zhe xiào zhe，bù yí huì ér jiù dào le。",
    "grammar": [
-    "G2-70"
+    "G2-42",
+    "G2-69",
+    "G2-17"
    ]
   },
   {
@@ -1407,6 +1674,8 @@
    "text": "他以前学过中文，现在忘了。",
    "pinyin": "tā yǐ qián xué guò zhōng wén，xiàn zài wàng le。",
    "grammar": [
+    "G2-47",
+    "G2-32",
     "G2-71"
    ]
   },
@@ -1417,7 +1686,9 @@
    "text": "我吃过饺子，很好吃。",
    "pinyin": "wǒ chī guò jiǎo zi，hěn hǎo chī。",
    "grammar": [
-    "G2-71"
+    "G2-32",
+    "G2-71",
+    "G2-13"
    ]
   },
   {
@@ -1427,7 +1698,9 @@
    "text": "第一课的生词很多。",
    "pinyin": "dì yī kè de shēng cí hěn duō。",
    "grammar": [
-    "G2-72"
+    "G2-72",
+    "G2-13",
+    "G2-34"
    ]
   },
   {
@@ -1437,7 +1710,8 @@
    "text": "他住在三楼靠东的房间。",
    "pinyin": "tā zhù zài sān lóu kào dōng de fáng jiān。",
    "grammar": [
-    "G2-72"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -1447,7 +1721,9 @@
    "text": "这个包三十多块钱。",
    "pinyin": "zhè ge bāo sān shí duō kuài qián。",
    "grammar": [
-    "G2-73"
+    "G2-73",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -1457,7 +1733,9 @@
    "text": "我买了三斤多水果。",
    "pinyin": "wǒ mǎi le sān jīn duō shuǐ guǒ。",
    "grammar": [
-    "G2-73"
+    "G2-13",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -1465,9 +1743,11 @@
    "level": 2,
    "round": 3,
    "text": "教学楼就在前边。",
-   "pinyin": "jiào xué lóu jiù zài qián biān。",
+   "pinyin": "jiào xué lóu jiù zài qián bian。",
    "grammar": [
-    "G2-74"
+    "G2-74",
+    "G2-47",
+    "G2-69"
    ]
   },
   {
@@ -1477,7 +1757,9 @@
    "text": "这就是我们上课的教室。",
    "pinyin": "zhè jiù shì wǒ men shàng kè de jiào shì。",
    "grammar": [
-    "G2-74"
+    "G2-74",
+    "G2-69",
+    "G2-17"
    ]
   },
   {
@@ -1487,7 +1769,9 @@
    "text": "我们明天八点出发，好吗？",
    "pinyin": "wǒ men míng tiān bā diǎn chū fā，hǎo ma？",
    "grammar": [
-    "G2-75"
+    "G2-75",
+    "G2-48",
+    "G2-54"
    ]
   },
   {
@@ -1497,7 +1781,9 @@
    "text": "你的词典借我用用，行吗？",
    "pinyin": "nǐ de cí diǎn jiè wǒ yòng yòng，xíng ma？",
    "grammar": [
-    "G2-75"
+    "G2-75",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -1507,7 +1793,7 @@
    "text": "你们什么时候见面？",
    "pinyin": "nǐ men shén me shí hou jiàn miàn？",
    "grammar": [
-    "G2-76"
+    "G2-08"
    ]
   },
   {
@@ -1517,7 +1803,9 @@
    "text": "你为什么不去上课？",
    "pinyin": "nǐ wèi shén me bú qù shàng kè？",
    "grammar": [
-    "G2-76"
+    "G2-76",
+    "G2-05",
+    "G2-28"
    ]
   },
   {
@@ -1527,7 +1815,8 @@
    "text": "我去医院，你呢？",
    "pinyin": "wǒ qù yī yuàn，nǐ ne？",
    "grammar": [
-    "G2-77"
+    "G2-77",
+    "G2-08"
    ]
   },
   {
@@ -1537,7 +1826,8 @@
    "text": "书在桌子上，笔呢？",
    "pinyin": "shū zài zhuō zi shàng，bǐ ne？",
    "grammar": [
-    "G2-77"
+    "G2-77",
+    "G2-08"
    ]
   },
   {
@@ -1547,7 +1837,9 @@
    "text": "你要去体育馆打球，是不是？",
    "pinyin": "nǐ yào qù tǐ yù guǎn dǎ qiú，shì bú shì？",
    "grammar": [
-    "G2-78"
+    "G2-78",
+    "G2-81",
+    "G2-08"
    ]
   },
   {
@@ -1557,7 +1849,9 @@
    "text": "是不是你拿了我的笔？",
    "pinyin": "shì bú shì nǐ ná le wǒ de bǐ？",
    "grammar": [
-    "G2-78"
+    "G2-78",
+    "G2-34",
+    "G2-04"
    ]
   },
   {
@@ -1567,7 +1861,9 @@
    "text": "您是经理吧？",
    "pinyin": "nín shì jīng lǐ ba？",
    "grammar": [
-    "G2-79"
+    "G2-79",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -1577,7 +1873,9 @@
    "text": "你以前学过中文吧？",
    "pinyin": "nǐ yǐ qián xué guò zhōng wén ba？",
    "grammar": [
-    "G2-79"
+    "G2-79",
+    "G2-47",
+    "G2-32"
    ]
   },
   {
@@ -1587,7 +1885,9 @@
    "text": "十一点了，该睡觉了。",
    "pinyin": "shí yì diǎn le，gāi shuì jué le。",
    "grammar": [
-    "G2-80"
+    "G2-80",
+    "G2-02",
+    "G2-54"
    ]
   },
   {
@@ -1597,7 +1897,9 @@
    "text": "明天有听写，我该复习生词了。",
    "pinyin": "míng tiān yǒu tīng xiě，wǒ gāi fù xí shēng cí le。",
    "grammar": [
-    "G2-80"
+    "G2-80",
+    "G2-02",
+    "G2-12"
    ]
   },
   {
@@ -1607,7 +1909,9 @@
    "text": "要下雨了。",
    "pinyin": "yào xià yǔ le。",
    "grammar": [
-    "G2-81"
+    "G2-81",
+    "G2-11",
+    "G2-04"
    ]
   },
   {
@@ -1615,9 +1919,11 @@
    "level": 2,
    "round": 3,
    "text": "我们快要放假了。",
-   "pinyin": "wǒ men kuài yào fàng jiǎ le。",
+   "pinyin": "wǒ men kuài yào fàng jià le。",
    "grammar": [
-    "G2-81"
+    "G2-81",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -1627,7 +1933,9 @@
    "text": "黑板上写着今天的日期。",
    "pinyin": "hēi bǎn shàng xiě zhe jīn tiān de rì qī。",
    "grammar": [
-    "G2-56"
+    "G2-33",
+    "G2-56",
+    "G2-70"
    ]
   },
   {
@@ -1637,7 +1945,9 @@
    "text": "他吃饱了，不想再吃。",
    "pinyin": "tā chī bǎo le，bù xiǎng zài chī。",
    "grammar": [
-    "G2-49"
+    "G2-62",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -1647,6 +1957,8 @@
    "text": "桌子上放着报纸和信。",
    "pinyin": "zhuō zi shàng fàng zhe bào zhǐ hé xìn。",
    "grammar": [
+    "G2-37",
+    "G2-33",
     "G2-56"
    ]
   },
@@ -1657,7 +1969,9 @@
    "text": "他背着书包去上学。",
    "pinyin": "tā bèi zhe shū bāo qù shàng xué。",
    "grammar": [
-    "G2-33"
+    "G2-33",
+    "G2-70",
+    "G2-08"
    ]
   },
   {
@@ -1667,7 +1981,9 @@
    "text": "天气已经变冷了。",
    "pinyin": "tiān qì yǐ jīng biàn lěng le。",
    "grammar": [
-    "G2-15"
+    "G2-15",
+    "G2-12",
+    "G2-04"
    ]
   },
   {
@@ -1677,7 +1993,9 @@
    "text": "桌上放着一块手表。",
    "pinyin": "zhuō shàng fàng zhe yí kuài shǒu biǎo。",
    "grammar": [
-    "G2-56"
+    "G2-33",
+    "G2-56",
+    "G2-70"
    ]
   },
   {
@@ -1687,7 +2005,8 @@
    "text": "他做的报表很清楚。",
    "pinyin": "tā zuò de bào biǎo hěn qīng chu。",
    "grammar": [
-    "G2-39"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -1697,7 +2016,9 @@
    "text": "早餐我吃了面包和鸡蛋。",
    "pinyin": "zǎo cān wǒ chī le miàn bāo hé jī dàn。",
    "grammar": [
-    "G2-37"
+    "G2-37",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -1707,7 +2028,9 @@
    "text": "请查一下这个词的意思。",
    "pinyin": "qǐng chá yí xià zhè ge cí de yì si。",
    "grammar": [
-    "G2-04"
+    "G2-52",
+    "G2-11",
+    "G2-34"
    ]
   },
   {
@@ -1715,9 +2038,10 @@
    "level": 2,
    "round": 3,
    "text": "早晨的草地很干。",
-   "pinyin": "zǎo chén de cǎo dì hěn gàn。",
+   "pinyin": "zǎo chen de cǎo dì hěn gàn。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -1727,7 +2051,9 @@
    "text": "大风吹得很大。",
    "pinyin": "dà fēng chuī dé hěn dà。",
    "grammar": [
-    "G2-51"
+    "G2-51",
+    "G2-31",
+    "G2-08"
    ]
   },
   {
@@ -1737,7 +2063,9 @@
    "text": "春天来了，天气越来越热。",
    "pinyin": "chūn tiān lái le， tiān qì yuè lái yuè rè。",
    "grammar": [
-    "G2-44"
+    "G2-44",
+    "G2-12",
+    "G2-04"
    ]
   },
   {
@@ -1747,7 +2075,9 @@
    "text": "这件事一定不难。",
    "pinyin": "zhè jiàn shì yí dìng bù nán。",
    "grammar": [
-    "G2-19"
+    "G2-19",
+    "G2-10",
+    "G2-04"
    ]
   },
   {
@@ -1757,7 +2087,9 @@
    "text": "他清楚地说出来了。",
    "pinyin": "tā qīng chu dì shuō chū lái le。",
    "grammar": [
-    "G2-50"
+    "G2-50",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -1767,7 +2099,8 @@
    "text": "那处房子离这里很远。",
    "pinyin": "nà chù fáng zi lí zhè lǐ hěn yuǎn。",
    "grammar": [
-    "G2-27"
+    "G2-27",
+    "G2-08"
    ]
   },
   {
@@ -1777,7 +2110,8 @@
    "text": "他一般几点起床？",
    "pinyin": "tā yì bān jǐ diǎn qǐ chuáng？",
    "grammar": [
-    "G2-05"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -1787,7 +2121,9 @@
    "text": "办公室往二层走。",
    "pinyin": "bàn gōng shì wǎng èr céng zǒu。",
    "grammar": [
-    "G2-22"
+    "G2-22",
+    "G2-10",
+    "G2-08"
    ]
   },
   {
@@ -1797,7 +2133,9 @@
    "text": "我送给老师一本书了。",
    "pinyin": "wǒ sòng gěi lǎo shī yì běn shū le。",
    "grammar": [
-    "G2-61"
+    "G2-61",
+    "G2-26",
+    "G2-16"
    ]
   },
   {
@@ -1807,7 +2145,9 @@
    "text": "这些钱一共不够。",
    "pinyin": "zhè xiē qián yí gòng bú gòu。",
    "grammar": [
-    "G2-14"
+    "G2-14",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -1817,7 +2157,9 @@
    "text": "他照顾得很好。",
    "pinyin": "tā zhào gù dé hěn hǎo。",
    "grammar": [
-    "G2-51"
+    "G2-51",
+    "G2-31",
+    "G2-13"
    ]
   },
   {
@@ -1827,7 +2169,9 @@
    "text": "我习惯了这里的生活。",
    "pinyin": "wǒ xí guàn le zhè lǐ de shēng huó。",
    "grammar": [
-    "G2-16"
+    "G2-34",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -1837,7 +2181,9 @@
    "text": "这里的广场很大。",
    "pinyin": "zhè lǐ de guǎng chǎng hěn dà。",
    "grammar": [
-    "G2-39"
+    "G2-11",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -1847,7 +2193,9 @@
    "text": "他故意大声喊我的名字。",
    "pinyin": "tā gù yì dà shēng hǎn wǒ de míng zi。",
    "grammar": [
-    "G2-18"
+    "G2-18",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -1857,7 +2205,9 @@
    "text": "大家合在一起又唱又笑。",
    "pinyin": "dà jiā hé zài yì qǐ yòu chàng yòu xiào。",
    "grammar": [
-    "G2-46"
+    "G2-46",
+    "G2-41",
+    "G2-06"
    ]
   },
   {
@@ -1867,7 +2217,8 @@
    "text": "他划船去了湖那边。",
    "pinyin": "tā huà chuán qù le hú nà biān。",
    "grammar": [
-    "G2-57"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -1877,7 +2228,9 @@
    "text": "墙上画着画。",
    "pinyin": "qiáng shàng huà zhe huà。",
    "grammar": [
-    "G2-56"
+    "G2-33",
+    "G2-70",
+    "G2-08"
    ]
   },
   {
@@ -1887,6 +2240,8 @@
    "text": "请换一件大号的衣服。",
    "pinyin": "qǐng huàn yí jiàn dà hào de yī fu。",
    "grammar": [
+    "G2-10",
+    "G2-34",
     "G2-04"
    ]
   },
@@ -1897,7 +2252,8 @@
    "text": "他今年三年级。",
    "pinyin": "tā jīn nián sān nián jí。",
    "grammar": [
-    "G2-48"
+    "G2-12",
+    "G2-08"
    ]
   },
   {
@@ -1907,7 +2263,9 @@
    "text": "他一定很着急。",
    "pinyin": "tā yí dìng hěn zhe jí。",
    "grammar": [
-    "G2-19"
+    "G2-19",
+    "G2-33",
+    "G2-70"
    ]
   },
   {
@@ -1917,7 +2275,9 @@
    "text": "自己的事自己做。",
    "pinyin": "zì jǐ de shì zì jǐ zuò。",
    "grammar": [
-    "G2-06"
+    "G2-38",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -1927,7 +2287,9 @@
    "text": "他计划去南方或者北方。",
    "pinyin": "tā jì huà qù nán fāng huò zhě běi fāng。",
    "grammar": [
-    "G2-29"
+    "G2-29",
+    "G2-64",
+    "G2-08"
    ]
   },
   {
@@ -1937,7 +2299,9 @@
    "text": "这次考试的成绩不错。",
    "pinyin": "zhè cì kǎo shì de chéng jì bú cuò。",
    "grammar": [
-    "G2-39"
+    "G2-11",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -1947,7 +2311,8 @@
    "text": "他的身体健康。",
    "pinyin": "tā de shēn tǐ jiàn kāng。",
    "grammar": [
-    "G2-39"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -1957,7 +2322,8 @@
    "text": "他往门口走。",
    "pinyin": "tā wǎng mén kǒu zǒu。",
    "grammar": [
-    "G2-22"
+    "G2-22",
+    "G2-08"
    ]
   },
   {
@@ -1967,7 +2333,9 @@
    "text": "我们接过了他的礼物。",
    "pinyin": "wǒ men jiē guò le tā de lǐ wù。",
    "grammar": [
-    "G2-49"
+    "G2-32",
+    "G2-71",
+    "G2-34"
    ]
   },
   {
@@ -1977,7 +2345,9 @@
    "text": "街上的人非常多。",
    "pinyin": "jiē shàng de rén fēi cháng duō。",
    "grammar": [
-    "G2-39"
+    "G2-41",
+    "G2-38",
+    "G2-13"
    ]
   },
   {
@@ -1985,9 +2355,10 @@
    "level": 2,
    "round": 1,
    "text": "春节以前我们放假。",
-   "pinyin": "chūn jié yǐ qián wǒ men fàng jiǎ。",
+   "pinyin": "chūn jié yǐ qián wǒ men fàng jià。",
    "grammar": [
-    "G2-47"
+    "G2-47",
+    "G2-08"
    ]
   },
   {
@@ -1997,7 +2368,9 @@
    "text": "他们都来了，而且很快乐。",
    "pinyin": "tā men dōu lái le， ér qiě hěn kuài lè。",
    "grammar": [
-    "G2-63"
+    "G2-30",
+    "G2-63",
+    "G2-20"
    ]
   },
   {
@@ -2007,7 +2380,8 @@
    "text": "他的眼睛很大。",
    "pinyin": "tā de yǎn jing hěn dà。",
    "grammar": [
-    "G2-39"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2017,7 +2391,9 @@
    "text": "教室里很安静，坐着几个人。",
    "pinyin": "jiào shì lǐ hěn ān jìng， zuò zhe jǐ gè rén。",
    "grammar": [
-    "G2-56"
+    "G2-73",
+    "G2-33",
+    "G2-70"
    ]
   },
   {
@@ -2027,7 +2403,8 @@
    "text": "他举手问老师。",
    "pinyin": "tā jǔ shǒu wèn lǎo shī。",
    "grammar": [
-    "G2-57"
+    "G2-16",
+    "G2-08"
    ]
   },
   {
@@ -2037,7 +2414,8 @@
    "text": "他说了三句话。",
    "pinyin": "tā shuō le sān jù huà。",
    "grammar": [
-    "G2-48"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2047,7 +2425,9 @@
    "text": "包里有卡。",
    "pinyin": "bāo lǐ yǒu kǎ。",
    "grammar": [
-    "G2-55"
+    "G2-56",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -2057,7 +2437,9 @@
    "text": "他靠门坐着看书。",
    "pinyin": "tā kào mén zuò zhe kàn shū。",
    "grammar": [
-    "G2-33"
+    "G2-33",
+    "G2-70",
+    "G2-08"
    ]
   },
   {
@@ -2067,7 +2449,9 @@
    "text": "这道题我做对了。",
    "pinyin": "zhè dào tí wǒ zuò duì le。",
    "grammar": [
-    "G2-49"
+    "G2-25",
+    "G2-49",
+    "G2-04"
    ]
   },
   {
@@ -2077,7 +2461,8 @@
    "text": "他刻上了一个名字。",
    "pinyin": "tā kè shàng le yí ge míng zi。",
    "grammar": [
-    "G2-50"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2087,7 +2472,8 @@
    "text": "房间里空空的。",
    "pinyin": "fáng jiān lǐ kōng kōng de。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2097,7 +2483,9 @@
    "text": "他拿着筷子吃饭。",
    "pinyin": "tā ná zhe kuài zi chī fàn。",
    "grammar": [
-    "G2-57"
+    "G2-33",
+    "G2-70",
+    "G2-08"
    ]
   },
   {
@@ -2107,7 +2495,8 @@
    "text": "他拉开门走了。",
    "pinyin": "tā lā kāi mén zǒu le。",
    "grammar": [
-    "G2-57"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2117,7 +2506,9 @@
    "text": "今天的天空很蓝。",
    "pinyin": "jīn tiān de tiān kōng hěn lán。",
    "grammar": [
-    "G2-41"
+    "G2-12",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2127,7 +2518,9 @@
    "text": "篮子里放着水果。",
    "pinyin": "lán zi lǐ fàng zhe shuǐ guǒ。",
    "grammar": [
-    "G2-56"
+    "G2-33",
+    "G2-56",
+    "G2-70"
    ]
   },
   {
@@ -2137,7 +2530,8 @@
    "text": "他今天很快乐。",
    "pinyin": "tā jīn tiān hěn kuài lè。",
    "grammar": [
-    "G2-48"
+    "G2-12",
+    "G2-08"
    ]
   },
   {
@@ -2147,7 +2541,8 @@
    "text": "他利用时间为家人做事。",
    "pinyin": "tā lì yòng shí jiān wèi jiā rén zuò shì。",
    "grammar": [
-    "G2-28"
+    "G2-28",
+    "G2-08"
    ]
   },
   {
@@ -2157,7 +2552,8 @@
    "text": "这个例子很合适。",
    "pinyin": "zhè ge lì zi hěn hé shì。",
    "grammar": [
-    "G2-39"
+    "G2-39",
+    "G2-08"
    ]
   },
   {
@@ -2167,7 +2563,9 @@
    "text": "门口停着一辆车。",
    "pinyin": "mén kǒu tíng zhe yí liàng chē。",
    "grammar": [
-    "G2-56"
+    "G2-33",
+    "G2-70",
+    "G2-04"
    ]
   },
   {
@@ -2177,6 +2575,8 @@
    "text": "他量了一下桌子。",
    "pinyin": "tā liàng le yí xià zhuō zi。",
    "grammar": [
+    "G2-52",
+    "G2-11",
     "G2-04"
    ]
   },
@@ -2185,9 +2585,9 @@
    "level": 2,
    "round": 1,
    "text": "他留在家里休息。",
-   "pinyin": "tā liú zài jiā lǐ xiū xi。",
+   "pinyin": "tā liú zài jiā li xiū xi。",
    "grammar": [
-    "G2-57"
+    "G2-08"
    ]
   },
   {
@@ -2197,7 +2597,9 @@
    "text": "河水流动得很快。",
    "pinyin": "hé shuǐ liú dòng dé hěn kuài。",
    "grammar": [
-    "G2-51"
+    "G2-51",
+    "G2-31",
+    "G2-08"
    ]
   },
   {
@@ -2207,7 +2609,9 @@
    "text": "今天星期天。",
    "pinyin": "jīn tiān xīng qī tiān。",
    "grammar": [
-    "G2-48"
+    "G2-48",
+    "G2-54",
+    "G2-12"
    ]
   },
   {
@@ -2217,7 +2621,9 @@
    "text": "我们讨论过这个问题。",
    "pinyin": "wǒ men tǎo lùn guò zhè ge wèn tí。",
    "grammar": [
-    "G2-30"
+    "G2-32",
+    "G2-71",
+    "G2-08"
    ]
   },
   {
@@ -2227,7 +2633,8 @@
    "text": "他卖掉了自行车。",
    "pinyin": "tā mài diào le zì xíng chē。",
    "grammar": [
-    "G2-49"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2237,7 +2644,8 @@
    "text": "他满意地笑了。",
    "pinyin": "tā mǎn yì dì xiào le。",
    "grammar": [
-    "G2-51"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2247,7 +2655,9 @@
    "text": "门边睡着一只小猫。",
    "pinyin": "mén biān shuì zhe yì zhǐ xiǎo māo。",
    "grammar": [
-    "G2-56"
+    "G2-14",
+    "G2-33",
+    "G2-70"
    ]
   },
   {
@@ -2257,7 +2667,9 @@
    "text": "周末他在家看书什么的。",
    "pinyin": "zhōu mò tā zài jiā kàn shū shén me de。",
    "grammar": [
-    "G2-43"
+    "G2-43",
+    "G2-12",
+    "G2-34"
    ]
   },
   {
@@ -2267,7 +2679,9 @@
    "text": "他的书上放着几本书。",
    "pinyin": "tā de shū shàng fàng zhe jǐ běn shū。",
    "grammar": [
-    "G2-56"
+    "G2-73",
+    "G2-38",
+    "G2-33"
    ]
   },
   {
@@ -2277,7 +2691,9 @@
    "text": "树上有只鸟。",
    "pinyin": "shù shàng yǒu zhǐ niǎo。",
    "grammar": [
-    "G2-56"
+    "G2-14",
+    "G2-56",
+    "G2-55"
    ]
   },
   {
@@ -2287,7 +2703,9 @@
    "text": "他故意弄坏了我的笔。",
    "pinyin": "tā gù yì nòng huài le wǒ de bǐ。",
    "grammar": [
-    "G2-18"
+    "G2-18",
+    "G2-49",
+    "G2-34"
    ]
   },
   {
@@ -2297,7 +2715,8 @@
    "text": "他爬上二楼去了。",
    "pinyin": "tā pá shàng èr lóu qù le。",
    "grammar": [
-    "G2-57"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2307,7 +2726,7 @@
    "text": "他很怕黑。",
    "pinyin": "tā hěn pà hēi。",
    "grammar": [
-    "G2-23"
+    "G2-08"
    ]
   },
   {
@@ -2317,7 +2736,9 @@
    "text": "门口排着一排人。",
    "pinyin": "mén kǒu pái zhe yì pái rén。",
    "grammar": [
-    "G2-56"
+    "G2-33",
+    "G2-70",
+    "G2-04"
    ]
   },
   {
@@ -2327,7 +2748,9 @@
    "text": "他碰到了老师。",
    "pinyin": "tā pèng dào le lǎo shī。",
    "grammar": [
-    "G2-49"
+    "G2-16",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2337,7 +2760,7 @@
    "text": "这篇作文很长。",
    "pinyin": "zhè piān zuò wén hěn zhǎng。",
    "grammar": [
-    "G2-48"
+    "G2-08"
    ]
   },
   {
@@ -2347,7 +2770,7 @@
    "text": "那片草地很大。",
    "pinyin": "nà piàn cǎo dì hěn dà。",
    "grammar": [
-    "G2-39"
+    "G2-08"
    ]
   },
   {
@@ -2357,7 +2780,8 @@
    "text": "他的水平很高。",
    "pinyin": "tā de shuǐ píng hěn gāo。",
    "grammar": [
-    "G2-48"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2367,7 +2791,9 @@
    "text": "这个瓶子是空的。",
    "pinyin": "zhè ge píng zi shì kōng de。",
    "grammar": [
-    "G2-39"
+    "G2-60",
+    "G2-39",
+    "G2-34"
    ]
   },
   {
@@ -2377,7 +2803,9 @@
    "text": "这是一件普通的事。",
    "pinyin": "zhè shì yí jiàn pǔ tōng de shì。",
    "grammar": [
-    "G2-39"
+    "G2-38",
+    "G2-10",
+    "G2-34"
    ]
   },
   {
@@ -2387,7 +2815,9 @@
    "text": "其他人都走了。",
    "pinyin": "qí tā rén dōu zǒu le。",
    "grammar": [
-    "G2-06"
+    "G2-20",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2397,7 +2827,7 @@
    "text": "他骑车去学校。",
    "pinyin": "tā qí chē qù xué xiào。",
    "grammar": [
-    "G2-57"
+    "G2-08"
    ]
   },
   {
@@ -2407,7 +2837,9 @@
    "text": "他喜欢那件青色的衣服。",
    "pinyin": "tā xǐ huan nà jiàn qīng sè de yī fu。",
    "grammar": [
-    "G2-39"
+    "G2-10",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2417,7 +2849,8 @@
    "text": "他很年轻。",
    "pinyin": "tā hěn nián qīng。",
    "grammar": [
-    "G2-48"
+    "G2-12",
+    "G2-08"
    ]
   },
   {
@@ -2427,7 +2860,8 @@
    "text": "这里的水很清。",
    "pinyin": "zhè lǐ de shuǐ hěn qīng。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2437,7 +2871,7 @@
    "text": "我求你帮个忙。",
    "pinyin": "wǒ qiú nǐ bāng gè máng。",
    "grammar": [
-    "G2-04"
+    "G2-08"
    ]
   },
   {
@@ -2447,7 +2881,9 @@
    "text": "他一定确定要来。",
    "pinyin": "tā yí dìng què dìng yào lái。",
    "grammar": [
-    "G2-19"
+    "G2-19",
+    "G2-81",
+    "G2-04"
    ]
   },
   {
@@ -2457,7 +2893,9 @@
    "text": "请您让一下。",
    "pinyin": "qǐng nín ràng yí xià。",
    "grammar": [
-    "G2-09"
+    "G2-52",
+    "G2-11",
+    "G2-04"
    ]
   },
   {
@@ -2467,7 +2905,9 @@
    "text": "他脸色不好啊。",
    "pinyin": "tā liǎn sè bù hǎo a。",
    "grammar": [
-    "G2-34"
+    "G2-13",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2477,7 +2917,8 @@
    "text": "这个省很大。",
    "pinyin": "zhè ge shěng hěn dà。",
    "grammar": [
-    "G2-39"
+    "G2-39",
+    "G2-08"
    ]
   },
   {
@@ -2487,7 +2928,9 @@
    "text": "他说的是实话。",
    "pinyin": "tā shuō de shì shí huà。",
    "grammar": [
-    "G2-38"
+    "G2-38",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2497,7 +2940,9 @@
    "text": "这个菜很好吃。",
    "pinyin": "zhè ge cài hěn hǎo chī。",
    "grammar": [
-    "G2-41"
+    "G2-39",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -2507,7 +2952,7 @@
    "text": "他打开电脑写字。",
    "pinyin": "tā dǎ kāi diàn nǎo xiě zì。",
    "grammar": [
-    "G2-57"
+    "G2-08"
    ]
   },
   {
@@ -2517,7 +2962,8 @@
    "text": "请出示你的卡。",
    "pinyin": "qǐng chū shì nǐ de kǎ。",
    "grammar": [
-    "G2-04"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2527,7 +2973,9 @@
    "text": "这个市场很大。",
    "pinyin": "zhè ge shì chǎng hěn dà。",
    "grammar": [
-    "G2-39"
+    "G2-39",
+    "G2-11",
+    "G2-08"
    ]
   },
   {
@@ -2537,7 +2985,9 @@
    "text": "这件衣服很合适。",
    "pinyin": "zhè jiàn yī fu hěn hé shì。",
    "grammar": [
-    "G2-41"
+    "G2-39",
+    "G2-10",
+    "G2-08"
    ]
   },
   {
@@ -2547,7 +2997,8 @@
    "text": "他收到了礼物。",
    "pinyin": "tā shōu dào le lǐ wù。",
    "grammar": [
-    "G2-49"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2557,7 +3008,9 @@
    "text": "他听到了好话。",
    "pinyin": "tā tīng dào le hǎo huà。",
    "grammar": [
-    "G2-49"
+    "G2-49",
+    "G2-13",
+    "G2-04"
    ]
   },
   {
@@ -2567,7 +3020,9 @@
    "text": "这条路我很熟。",
    "pinyin": "zhè tiáo lù wǒ hěn shú。",
    "grammar": [
-    "G2-48"
+    "G2-39",
+    "G2-10",
+    "G2-08"
    ]
   },
   {
@@ -2577,7 +3032,8 @@
    "text": "这个数量不对。",
    "pinyin": "zhè ge shù liàng bú duì。",
    "grammar": [
-    "G2-39"
+    "G2-25",
+    "G2-08"
    ]
   },
   {
@@ -2587,7 +3043,7 @@
    "text": "事情很顺利。",
    "pinyin": "shì qing hěn shùn lì。",
    "grammar": [
-    "G2-41"
+    "G2-08"
    ]
   },
   {
@@ -2597,7 +3053,7 @@
    "text": "这段话很短。",
    "pinyin": "zhè duàn huà hěn duǎn。",
    "grammar": [
-    "G2-39"
+    "G2-08"
    ]
   },
   {
@@ -2607,7 +3063,8 @@
    "text": "他称完了体重。",
    "pinyin": "tā chēng wán le tǐ zhòng。",
    "grammar": [
-    "G2-49"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2617,6 +3074,8 @@
    "text": "杯子倒了，水一直流着。",
    "pinyin": "bēi zi dào le， shuǐ yì zhí liú zhe。",
    "grammar": [
+    "G2-15",
+    "G2-33",
     "G2-70"
    ]
   },
@@ -2627,7 +3086,8 @@
    "text": "冬天白天短，夜里长。",
    "pinyin": "dōng tiān bái tiān duǎn，yè lǐ zhǎng。",
    "grammar": [
-    "G2-41"
+    "G2-12",
+    "G2-08"
    ]
   },
   {
@@ -2637,7 +3097,7 @@
    "text": "那段路很短。",
    "pinyin": "nà duàn lù hěn duǎn。",
    "grammar": [
-    "G2-39"
+    "G2-08"
    ]
   },
   {
@@ -2647,7 +3107,9 @@
    "text": "我们队一共五个人。",
    "pinyin": "wǒ men duì yí gòng wǔ gè rén。",
    "grammar": [
-    "G2-14"
+    "G2-14",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2657,7 +3119,9 @@
    "text": "这个办法要改一下。",
    "pinyin": "zhè ge bàn fǎ yào gǎi yí xià。",
    "grammar": [
-    "G2-04"
+    "G2-52",
+    "G2-81",
+    "G2-11"
    ]
   },
   {
@@ -2667,7 +3131,9 @@
    "text": "他累病了，头疼得不行。",
    "pinyin": "tā lèi bìng le， tóu téng dé bù xíng。",
    "grammar": [
-    "G2-49"
+    "G2-51",
+    "G2-31",
+    "G2-04"
    ]
   },
   {
@@ -2677,7 +3143,9 @@
    "text": "院里养着狗和猫。",
    "pinyin": "yuàn lǐ yǎng zhe gǒu hé māo。",
    "grammar": [
-    "G2-56"
+    "G2-37",
+    "G2-33",
+    "G2-70"
    ]
   },
   {
@@ -2687,7 +3155,7 @@
    "text": "他去图书馆看书。",
    "pinyin": "tā qù tú shū guǎn kàn shū。",
    "grammar": [
-    "G2-57"
+    "G2-08"
    ]
   },
   {
@@ -2697,7 +3165,9 @@
    "text": "这件事很实际。",
    "pinyin": "zhè jiàn shì hěn shí jì。",
    "grammar": [
-    "G2-39"
+    "G2-39",
+    "G2-10",
+    "G2-08"
    ]
   },
   {
@@ -2707,6 +3177,8 @@
    "text": "请检查一下身体。",
    "pinyin": "qǐng jiǎn chá yí xià shēn tǐ。",
    "grammar": [
+    "G2-52",
+    "G2-11",
     "G2-04"
    ]
   },
@@ -2717,7 +3189,9 @@
    "text": "门边站着一个人。",
    "pinyin": "mén biān zhàn zhe yí ge rén。",
    "grammar": [
-    "G2-56"
+    "G2-33",
+    "G2-70",
+    "G2-04"
    ]
   },
   {
@@ -2727,7 +3201,8 @@
    "text": "他学的是理科。",
    "pinyin": "tā xué de shì lǐ kē。",
    "grammar": [
-    "G2-39"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2737,7 +3212,8 @@
    "text": "他克服了难题。",
    "pinyin": "tā kè fú le nán tí。",
    "grammar": [
-    "G2-49"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2747,7 +3223,9 @@
    "text": "这件事你算一下。",
    "pinyin": "zhè jiàn shì nǐ suàn yí xià。",
    "grammar": [
-    "G2-04"
+    "G2-52",
+    "G2-10",
+    "G2-11"
    ]
   },
   {
@@ -2757,7 +3235,9 @@
    "text": "如果没有雨，我们就去。",
    "pinyin": "rú guǒ méi yǒu yǔ，wǒ men jiù qù。",
    "grammar": [
-    "G2-66"
+    "G2-66",
+    "G2-69",
+    "G2-17"
    ]
   },
   {
@@ -2767,7 +3247,9 @@
    "text": "他没来，但是送了礼物。",
    "pinyin": "tā méi lái， dàn shì sòng le lǐ wù。",
    "grammar": [
-    "G2-65"
+    "G2-65",
+    "G2-30",
+    "G2-04"
    ]
   },
   {
@@ -2777,7 +3259,8 @@
    "text": "他随便说了一句。",
    "pinyin": "tā suí biàn shuō le yí jù。",
    "grammar": [
-    "G2-04"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2787,7 +3270,9 @@
    "text": "他的态度很好。",
    "pinyin": "tā de tài dù hěn hǎo。",
    "grammar": [
-    "G2-41"
+    "G2-13",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2797,7 +3282,9 @@
    "text": "课堂上有人提出了问题。",
    "pinyin": "kè táng shàng yǒu rén tí chū le wèn tí。",
    "grammar": [
-    "G2-56"
+    "G2-56",
+    "G2-55",
+    "G2-04"
    ]
   },
   {
@@ -2807,7 +3294,8 @@
    "text": "地铁站离庭院很近。",
    "pinyin": "dì tiě zhàn lí tíng yuàn hěn jìn。",
    "grammar": [
-    "G2-27"
+    "G2-27",
+    "G2-08"
    ]
   },
   {
@@ -2817,7 +3305,8 @@
    "text": "他挺喜欢这份工作。",
    "pinyin": "tā tǐng xǐ huan zhè fèn gōng zuò。",
    "grammar": [
-    "G2-13"
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -2827,7 +3316,9 @@
    "text": "身体疼得走不了路。",
    "pinyin": "shēn tǐ téng dé zǒu bù liǎo lù。",
    "grammar": [
-    "G2-51"
+    "G2-51",
+    "G2-31",
+    "G2-04"
    ]
   },
   {
@@ -2837,7 +3328,9 @@
    "text": "桌上放着一个碗。",
    "pinyin": "zhuō shàng fàng zhe yí ge wǎn。",
    "grammar": [
-    "G2-56"
+    "G2-33",
+    "G2-56",
+    "G2-70"
    ]
   },
   {
@@ -2847,7 +3340,8 @@
    "text": "水的味道不错。",
    "pinyin": "shuǐ de wèi dào bú cuò。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2857,7 +3351,9 @@
    "text": "他闻着花的味道。",
    "pinyin": "tā wén zhe huā de wèi dào。",
    "grammar": [
-    "G2-33"
+    "G2-33",
+    "G2-70",
+    "G2-34"
    ]
   },
   {
@@ -2867,7 +3363,9 @@
    "text": "夏天的服务生很忙。",
    "pinyin": "xià tiān de fú wù shēng hěn máng。",
    "grammar": [
-    "G2-39"
+    "G2-12",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2877,7 +3375,9 @@
    "text": "这件事影响了他的心情。",
    "pinyin": "zhè jiàn shì yǐng xiǎng le tā de xīn qíng。",
    "grammar": [
-    "G2-18"
+    "G2-10",
+    "G2-34",
+    "G2-04"
    ]
   },
   {
@@ -2887,7 +3387,8 @@
    "text": "他姓许，是不是？",
    "pinyin": "tā xìng xǔ，shì bú shì？",
    "grammar": [
-    "G2-78"
+    "G2-78",
+    "G2-08"
    ]
   },
   {
@@ -2897,7 +3398,8 @@
    "text": "他选了一门新课。",
    "pinyin": "tā xuǎn le yì mén xīn kè。",
    "grammar": [
-    "G2-04"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2907,7 +3409,7 @@
    "text": "他说话很直接。",
    "pinyin": "tā shuō huà hěn zhí jiē。",
    "grammar": [
-    "G2-41"
+    "G2-08"
    ]
   },
   {
@@ -2917,7 +3419,9 @@
    "text": "衣服的颜色很好看。",
    "pinyin": "yī fu de yán sè hěn hǎo kàn。",
    "grammar": [
-    "G2-39"
+    "G2-13",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2927,7 +3431,9 @@
    "text": "太阳出来了，天越来越晴。",
    "pinyin": "tài yáng chū lái le，tiān yuè lái yuè qíng。",
    "grammar": [
-    "G2-44"
+    "G2-44",
+    "G2-50",
+    "G2-12"
    ]
   },
   {
@@ -2937,7 +3443,9 @@
    "text": "这个药很有用。",
    "pinyin": "zhè ge yào hěn yǒu yòng。",
    "grammar": [
-    "G2-39"
+    "G2-39",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -2947,7 +3455,7 @@
    "text": "夜里很安静。",
    "pinyin": "yè lǐ hěn ān jìng。",
    "grammar": [
-    "G2-41"
+    "G2-08"
    ]
   },
   {
@@ -2957,7 +3465,9 @@
    "text": "这个地方有一亿人。",
    "pinyin": "zhè ge dì fang yǒu yí yì rén。",
    "grammar": [
-    "G2-09"
+    "G2-09",
+    "G2-55",
+    "G2-04"
    ]
   },
   {
@@ -2967,7 +3477,9 @@
    "text": "他放的音乐很好听。",
    "pinyin": "tā fàng de yīn lè hěn hǎo tīng。",
    "grammar": [
-    "G2-39"
+    "G2-13",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -2977,7 +3489,9 @@
    "text": "他印完了两份文件。",
    "pinyin": "tā yìn wán le liǎng fèn wén jiàn。",
    "grammar": [
-    "G2-49"
+    "G2-10",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -2987,7 +3501,8 @@
    "text": "英语课很有意思。",
    "pinyin": "yīng yǔ kè hěn yǒu yì si。",
    "grammar": [
-    "G2-41"
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -2997,7 +3512,7 @@
    "text": "他迎接客人进房间。",
    "pinyin": "tā yíng jiē kè rén jìn fáng jiān。",
    "grammar": [
-    "G2-57"
+    "G2-08"
    ]
   },
   {
@@ -3007,7 +3522,9 @@
    "text": "他永远记得这件事。",
    "pinyin": "tā yǒng yuǎn jì de zhè jiàn shì。",
    "grammar": [
-    "G2-48"
+    "G2-51",
+    "G2-31",
+    "G2-10"
    ]
   },
   {
@@ -3017,7 +3534,9 @@
    "text": "菜里放了油和水。",
    "pinyin": "cài lǐ fàng le yóu hé shuǐ。",
    "grammar": [
-    "G2-37"
+    "G2-37",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3027,7 +3546,8 @@
    "text": "他去河里玩了。",
    "pinyin": "tā qù hé lǐ wán le。",
    "grammar": [
-    "G2-57"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3037,7 +3557,9 @@
    "text": "由于下雨，我们没去。",
    "pinyin": "yóu yú xià yǔ，wǒ men méi qù。",
    "grammar": [
-    "G2-71"
+    "G2-68",
+    "G2-11",
+    "G2-08"
    ]
   },
   {
@@ -3047,7 +3569,9 @@
    "text": "水里游着几条鱼。",
    "pinyin": "shuǐ lǐ yóu zhe jǐ tiáo yú。",
    "grammar": [
-    "G2-56"
+    "G2-33",
+    "G2-70",
+    "G2-10"
    ]
   },
   {
@@ -3057,7 +3581,8 @@
    "text": "这里原本是花园。",
    "pinyin": "zhè lǐ yuán běn shì huā yuán。",
    "grammar": [
-    "G2-39"
+    "G2-39",
+    "G2-08"
    ]
   },
   {
@@ -3067,7 +3592,9 @@
    "text": "云很多，天阴了。",
    "pinyin": "yún hěn duō，tiān yīn le。",
    "grammar": [
-    "G2-41"
+    "G2-12",
+    "G2-13",
+    "G2-04"
    ]
   },
   {
@@ -3077,7 +3604,7 @@
    "text": "他运气不错。",
    "pinyin": "tā yùn qì bú cuò。",
    "grammar": [
-    "G2-39"
+    "G2-08"
    ]
   },
   {
@@ -3087,7 +3614,9 @@
    "text": "咱们一起走吧。",
    "pinyin": "zán men yì qǐ zǒu ba。",
    "grammar": [
-    "G2-06"
+    "G2-06",
+    "G2-34",
+    "G2-04"
    ]
   },
   {
@@ -3095,9 +3624,10 @@
    "level": 2,
    "round": 3,
    "text": "他的衣服很脏。",
-   "pinyin": "tā de yī fu hěn zàng。",
+   "pinyin": "tā de yī fu hěn zāng。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -3107,7 +3637,8 @@
    "text": "他去洗澡了。",
    "pinyin": "tā qù xǐ zǎo le。",
    "grammar": [
-    "G2-57"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3117,7 +3648,9 @@
    "text": "他占了两个位子。",
    "pinyin": "tā zhàn le liǎng ge wèi zi。",
    "grammar": [
-    "G2-55"
+    "G2-10",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3127,7 +3660,8 @@
    "text": "他主要学数学。",
    "pinyin": "tā zhǔ yào xué shù xué。",
    "grammar": [
-    "G2-39"
+    "G2-81",
+    "G2-08"
    ]
   },
   {
@@ -3137,7 +3671,8 @@
    "text": "他帮助我做完作业。",
    "pinyin": "tā bāng zhù wǒ zuò wán zuò yè。",
    "grammar": [
-    "G2-57"
+    "G2-49",
+    "G2-08"
    ]
   },
   {
@@ -3147,7 +3682,9 @@
    "text": "房间里有电脑。",
    "pinyin": "fáng jiān lǐ yǒu diàn nǎo。",
    "grammar": [
-    "G2-56"
+    "G2-56",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -3157,7 +3694,9 @@
    "text": "他租房住了半年。",
    "pinyin": "tā zū fáng zhù le bàn nián。",
    "grammar": [
-    "G2-57"
+    "G2-12",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3167,7 +3706,9 @@
    "text": "我们组一共六个人。",
    "pinyin": "wǒ men zǔ yí gòng liù gè rén。",
    "grammar": [
-    "G2-14"
+    "G2-14",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3177,7 +3718,8 @@
    "text": "他开口笑了。",
    "pinyin": "tā kāi kǒu xiào le。",
    "grammar": [
-    "G2-57"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3187,7 +3729,9 @@
    "text": "温度低，他套了一件衣服。",
    "pinyin": "wēn dù dī，tā tào le yí jiàn yī fu。",
    "grammar": [
-    "G2-41"
+    "G2-10",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3197,7 +3741,9 @@
    "text": "他推开门进来，没有发言。",
    "pinyin": "tā tuī kāi mén jìn lái，méi yǒu fā yán。",
    "grammar": [
-    "G2-57"
+    "G2-50",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -3207,7 +3753,8 @@
    "text": "这个银手表很贵。",
    "pinyin": "zhè ge yín shǒu biǎo hěn guì。",
    "grammar": [
-    "G2-39"
+    "G2-39",
+    "G2-08"
    ]
   },
   {
@@ -3217,7 +3764,9 @@
    "text": "进入房间，里面虽小但有人。",
    "pinyin": "jìn rù fáng jiān， lǐ miàn suī xiǎo dàn yǒu rén。",
    "grammar": [
-    "G2-56"
+    "G2-30",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -3227,7 +3776,8 @@
    "text": "他的手很疼，心里也急。",
    "pinyin": "tā de shǒu hěn téng，xīn lǐ yě jí。",
    "grammar": [
-    "G2-13"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -3237,7 +3787,9 @@
    "text": "爸爸买了一百元的茶。",
    "pinyin": "bà ba mǎi le yì bǎi yuán de chá。",
    "grammar": [
-    "G2-09"
+    "G2-34",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3247,7 +3799,8 @@
    "text": "他喝了半杯。",
    "pinyin": "tā hē le bàn bēi。",
    "grammar": [
-    "G2-10"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3257,7 +3810,8 @@
    "text": "弟弟在商店买了牛奶。",
    "pinyin": "dì di zài shāng diàn mǎi le niú nǎi。",
    "grammar": [
-    "G2-10"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3267,7 +3821,7 @@
    "text": "他很饿，想吃肉。",
    "pinyin": "tā hěn è， xiǎng chī ròu。",
    "grammar": [
-    "G2-13"
+    "G2-08"
    ]
   },
   {
@@ -3277,7 +3831,9 @@
    "text": "哥哥告诉我一件事。",
    "pinyin": "gē ge gào su wǒ yí jiàn shì。",
    "grammar": [
-    "G2-26"
+    "G2-10",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3287,17 +3843,19 @@
    "text": "关门以后，他回去了。",
    "pinyin": "guān mén yǐ hòu， tā huí qù le。",
    "grammar": [
-    "G2-47"
+    "G2-50",
+    "G2-47",
+    "G2-11"
    ]
   },
   {
    "id": "L2-330",
    "level": 2,
    "round": 3,
-   "text": "你叫什么名字？",
-   "pinyin": "nǐ jiào shén me míng zi？",
+   "text": "请问，你叫什么名字？",
+   "pinyin": "qǐng wèn， nǐ jiào shén me míng zi？",
    "grammar": [
-    "G2-05"
+    "G2-08"
    ]
   },
   {
@@ -3307,7 +3865,9 @@
    "text": "现在是七点。",
    "pinyin": "xiàn zài shì qī diǎn。",
    "grammar": [
-    "G2-48"
+    "G2-48",
+    "G2-54",
+    "G2-08"
    ]
   },
   {
@@ -3317,7 +3877,9 @@
    "text": "九点以后，零点再休息。",
    "pinyin": "jiǔ diǎn yǐ hòu， líng diǎn zài xiū xi。",
    "grammar": [
-    "G2-12"
+    "G2-62",
+    "G2-47",
+    "G2-08"
    ]
   },
   {
@@ -3327,7 +3889,7 @@
    "text": "我很渴，想喝汽水。",
    "pinyin": "wǒ hěn kě， xiǎng hē qì shuǐ。",
    "grammar": [
-    "G2-13"
+    "G2-08"
    ]
   },
   {
@@ -3337,7 +3899,8 @@
    "text": "这里的马很慢，毛也很长。",
    "pinyin": "zhè lǐ de mǎ hěn màn， máo yě hěn zhǎng。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -3347,7 +3910,9 @@
    "text": "男孩子和女孩子都来了。",
    "pinyin": "nán hái zi hé nǚ hái zi dōu lái le。",
    "grammar": [
-    "G2-14"
+    "G2-37",
+    "G2-20",
+    "G2-04"
    ]
   },
   {
@@ -3357,7 +3922,7 @@
    "text": "票很贵。",
    "pinyin": "piào hěn guì。",
    "grammar": [
-    "G2-13"
+    "G2-08"
    ]
   },
   {
@@ -3367,7 +3932,8 @@
    "text": "少吃肉，多喝水。",
    "pinyin": "shǎo chī ròu， duō hē shuǐ。",
    "grammar": [
-    "G2-13"
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -3377,7 +3943,7 @@
    "text": "你认识谁？",
    "pinyin": "nǐ rèn shi shuí？",
    "grammar": [
-    "G2-05"
+    "G2-08"
    ]
   },
   {
@@ -3387,7 +3953,9 @@
    "text": "四个人都来了。",
    "pinyin": "sì gè rén dōu lái le。",
    "grammar": [
-    "G2-09"
+    "G2-20",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3397,7 +3965,9 @@
    "text": "他向老师诉说心事。",
    "pinyin": "tā xiàng lǎo shī sù shuō xīn shì。",
    "grammar": [
-    "G2-23"
+    "G2-23",
+    "G2-16",
+    "G2-08"
    ]
   },
   {
@@ -3407,7 +3977,9 @@
    "text": "请老师回答。",
    "pinyin": "qǐng lǎo shī huí dá。",
    "grammar": [
-    "G2-36"
+    "G2-16",
+    "G2-11",
+    "G2-08"
    ]
   },
   {
@@ -3417,7 +3989,9 @@
    "text": "我系好鞋带，再向老师道谢。",
    "pinyin": "wǒ jì hǎo xié dài， zài xiàng lǎo shī dào xiè。",
    "grammar": [
-    "G2-22"
+    "G2-23",
+    "G2-62",
+    "G2-16"
    ]
   },
   {
@@ -3427,7 +4001,9 @@
    "text": "爷爷和奶奶都来了。",
    "pinyin": "yé ye hé nǎi nai dōu lái le。",
    "grammar": [
-    "G2-14"
+    "G2-37",
+    "G2-20",
+    "G2-04"
    ]
   },
   {
@@ -3435,9 +4011,11 @@
    "level": 2,
    "round": 3,
    "text": "左边和右边都有路。",
-   "pinyin": "zuǒ biān hé yòu biān dōu yǒu lù。",
+   "pinyin": "zuǒ bian hé yòu bian dōu yǒu lù。",
    "grammar": [
-    "G2-55"
+    "G2-37",
+    "G2-55",
+    "G2-20"
    ]
   },
   {
@@ -3447,7 +4025,7 @@
    "text": "这是单行路。",
    "pinyin": "zhè shì dān xíng lù。",
    "grammar": [
-    "G2-07"
+    "G2-08"
    ]
   },
   {
@@ -3455,9 +4033,11 @@
    "level": 2,
    "round": 3,
    "text": "我知道最好的办法。",
-   "pinyin": "wǒ zhī dao zuì hǎo de bàn fǎ。",
+   "pinyin": "wǒ zhī dào zuì hǎo de bàn fǎ。",
    "grammar": [
-    "G2-06"
+    "G2-13",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -3467,7 +4047,8 @@
    "text": "这件事不差。",
    "pinyin": "zhè jiàn shì bú chà。",
    "grammar": [
-    "G2-19"
+    "G2-10",
+    "G2-08"
    ]
   },
   {
@@ -3477,7 +4058,7 @@
    "text": "我感到很高兴。",
    "pinyin": "wǒ gǎn dào hěn gāo xìng。",
    "grammar": [
-    "G2-13"
+    "G2-08"
    ]
   },
   {
@@ -3487,7 +4068,7 @@
    "text": "我观看电视。",
    "pinyin": "wǒ guān kàn diàn shì。",
    "grammar": [
-    "G2-39"
+    "G2-08"
    ]
   },
   {
@@ -3497,7 +4078,8 @@
    "text": "墙角有桌子。",
    "pinyin": "qiáng jiǎo yǒu zhuō zi。",
    "grammar": [
-    "G2-56"
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -3507,7 +4089,8 @@
    "text": "他的脚很疼。",
    "pinyin": "tā de jiǎo hěn téng。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -3517,7 +4100,9 @@
    "text": "这件事有结果。",
    "pinyin": "zhè jiàn shì yǒu jié guǒ。",
    "grammar": [
-    "G2-55"
+    "G2-10",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -3527,7 +4112,9 @@
    "text": "这件衣服是绿色的。",
    "pinyin": "zhè jiàn yī fu shì lǜ sè de。",
    "grammar": [
-    "G2-48"
+    "G2-60",
+    "G2-39",
+    "G2-10"
    ]
   },
   {
@@ -3537,7 +4124,8 @@
    "text": "目的很清楚。",
    "pinyin": "mù dì hěn qīng chu。",
    "grammar": [
-    "G2-39"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -3547,7 +4135,8 @@
    "text": "这些食物很好吃。",
    "pinyin": "zhè xiē shí wù hěn hǎo chī。",
    "grammar": [
-    "G2-41"
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -3557,7 +4146,9 @@
    "text": "这件事使大家急得不行。",
    "pinyin": "zhè jiàn shì shǐ dà jiā jí dé bù xíng。",
    "grammar": [
-    "G2-51"
+    "G2-06",
+    "G2-51",
+    "G2-31"
    ]
   },
   {
@@ -3567,7 +4158,8 @@
    "text": "他受够了这份工作。",
    "pinyin": "tā shòu gòu le zhè fèn gōng zuò。",
    "grammar": [
-    "G2-49"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3577,7 +4169,7 @@
    "text": "椅子很舒服。",
    "pinyin": "yǐ zi hěn shū fu。",
    "grammar": [
-    "G2-41"
+    "G2-08"
    ]
   },
   {
@@ -3587,7 +4179,9 @@
    "text": "房间里装着新灯。",
    "pinyin": "fáng jiān lǐ zhuāng zhe xīn dēng。",
    "grammar": [
-    "G2-56"
+    "G2-33",
+    "G2-70",
+    "G2-08"
    ]
   },
   {
@@ -3597,7 +4191,8 @@
    "text": "他的嘴很大。",
    "pinyin": "tā de zuǐ hěn dà。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -3607,7 +4202,9 @@
    "text": "那里有一座山。",
    "pinyin": "nà lǐ yǒu yí zuò shān。",
    "grammar": [
-    "G2-56"
+    "G2-56",
+    "G2-55",
+    "G2-04"
    ]
   },
   {
@@ -3617,7 +4214,8 @@
    "text": "他站在旁边，腿有点疼。",
    "pinyin": "tā zhàn zài páng biān， tuǐ yǒu diǎn téng。",
    "grammar": [
-    "G2-55"
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -3625,9 +4223,9 @@
    "level": 2,
    "round": 4,
    "text": "假期我坐公交车去大海边。",
-   "pinyin": "jiǎ qī wǒ zuò gōng jiāo chē qù dà hǎi biān。",
+   "pinyin": "jià qī wǒ zuò gōng jiāo chē qù dà hǎi biān。",
    "grammar": [
-    "G2-57"
+    "G2-08"
    ]
   },
   {
@@ -3635,9 +4233,11 @@
    "level": 2,
    "round": 4,
    "text": "全体家长都关心孩子的假期。",
-   "pinyin": "quán tǐ jiā zhǎng dōu guān xīn hái zi de jiǎ qī。",
+   "pinyin": "quán tǐ jiā zhǎng dōu guān xīn hái zi de jià qī。",
    "grammar": [
-    "G2-14"
+    "G2-14",
+    "G2-20",
+    "G2-34"
    ]
   },
   {
@@ -3647,7 +4247,9 @@
    "text": "商人老是使用我的洗衣机。",
    "pinyin": "shāng rén lǎo shì shǐ yòng wǒ de xǐ yī jī。",
    "grammar": [
-    "G2-16"
+    "G2-16",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -3657,7 +4259,8 @@
    "text": "今后我想去西北打工。",
    "pinyin": "jīn hòu wǒ xiǎng qù xī běi dǎ gōng。",
    "grammar": [
-    "G2-57"
+    "G2-47",
+    "G2-08"
    ]
   },
   {
@@ -3667,7 +4270,9 @@
    "text": "今天多云，空气挺好。",
    "pinyin": "jīn tiān duō yún，kōng qì tǐng hǎo。",
    "grammar": [
-    "G2-13"
+    "G2-12",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -3677,6 +4282,8 @@
    "text": "天上有很多蓝色的云。",
    "pinyin": "tiān shàng yǒu hěn duō lán sè de yún。",
    "grammar": [
+    "G2-56",
+    "G2-12",
     "G2-55"
    ]
   },
@@ -3687,7 +4294,8 @@
    "text": "半夜出现可怕的声音。",
    "pinyin": "bàn yè chū xiàn kě pà de shēng yīn。",
    "grammar": [
-    "G2-56"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -3697,7 +4305,9 @@
    "text": "我发现名单上有个坏人。",
    "pinyin": "wǒ fā xiàn míng dān shàng yǒu gè huài rén。",
    "grammar": [
-    "G2-55"
+    "G2-56",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -3707,7 +4317,9 @@
    "text": "青年打工小组的人很多。",
    "pinyin": "qīng nián dǎ gōng xiǎo zǔ de rén hěn duō。",
    "grammar": [
-    "G2-41"
+    "G2-38",
+    "G2-12",
+    "G2-13"
    ]
   },
   {
@@ -3717,7 +4329,9 @@
    "text": "晚餐我吃方便面，然后看日报。",
    "pinyin": "wǎn cān wǒ chī fāng biàn miàn，rán hòu kàn rì bào。",
    "grammar": [
-    "G2-62"
+    "G2-62",
+    "G2-47",
+    "G2-08"
    ]
   },
   {
@@ -3727,7 +4341,9 @@
    "text": "这个节目像影片一样好看。",
    "pinyin": "zhè ge jié mù xiàng yǐng piàn yí yàng hǎo kàn。",
    "grammar": [
-    "G2-58"
+    "G2-13",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3737,7 +4353,9 @@
    "text": "这完全正常，大家放心。",
    "pinyin": "zhè wán quán zhèng cháng，dà jiā fàng xīn。",
    "grammar": [
-    "G2-06"
+    "G2-06",
+    "G2-14",
+    "G2-70"
    ]
   },
   {
@@ -3747,7 +4365,9 @@
    "text": "常用字的特点都相同。",
    "pinyin": "cháng yòng zì de tè diǎn dōu xiāng tóng。",
    "grammar": [
-    "G2-14"
+    "G2-20",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -3757,7 +4377,9 @@
    "text": "老师讲的道理我一生都记得。",
    "pinyin": "lǎo shī jiǎng de dào lǐ wǒ yì shēng dōu jì de。",
    "grammar": [
-    "G2-14"
+    "G2-31",
+    "G2-16",
+    "G2-20"
    ]
   },
   {
@@ -3767,7 +4389,7 @@
    "text": "我们小组由六个人组成。",
    "pinyin": "wǒ men xiǎo zǔ yóu liù gè rén zǔ chéng。",
    "grammar": [
-    "G2-38"
+    "G2-08"
    ]
   },
   {
@@ -3777,7 +4399,9 @@
    "text": "一加一等于二。",
    "pinyin": "yì jiā yì děng yú èr。",
    "grammar": [
-    "G2-38"
+    "G2-35",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -3785,8 +4409,10 @@
    "level": 2,
    "round": 4,
    "text": "今年我只休假一次。",
-   "pinyin": "jīn nián wǒ zhǐ xiū jiǎ yí cì。",
+   "pinyin": "jīn nián wǒ zhǐ xiū jià yí cì。",
    "grammar": [
+    "G2-52",
+    "G2-14",
     "G2-11"
    ]
   },
@@ -3797,7 +4423,8 @@
    "text": "分开以后我没见到他。",
    "pinyin": "fēn kāi yǐ hòu wǒ méi jiàn dào tā。",
    "grammar": [
-    "G2-47"
+    "G2-47",
+    "G2-08"
    ]
   },
   {
@@ -3807,7 +4434,9 @@
    "text": "大家加油，这次是个好机会。",
    "pinyin": "dà jiā jiā yóu，zhè cì shì gè hǎo jī huì。",
    "grammar": [
-    "G2-06"
+    "G2-06",
+    "G2-11",
+    "G2-13"
    ]
   },
   {
@@ -3815,9 +4444,11 @@
    "level": 2,
    "round": 4,
    "text": "这么多办法，我不知道怎么办。",
-   "pinyin": "zhè me duō bàn fǎ，wǒ bù zhī dao zěn me bàn。",
+   "pinyin": "zhè me duō bàn fǎ，wǒ bù zhī dào zěn me bàn。",
    "grammar": [
-    "G2-07"
+    "G2-07",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -3827,7 +4458,9 @@
    "text": "包里头的画儿很好看。",
    "pinyin": "bāo lǐ tou de huà ér hěn hǎo kàn。",
    "grammar": [
-    "G2-41"
+    "G2-13",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -3837,7 +4470,9 @@
    "text": "接着他讲话，大家都听。",
    "pinyin": "jiē zhe tā jiǎng huà，dà jiā dōu tīng。",
    "grammar": [
-    "G2-62"
+    "G2-06",
+    "G2-33",
+    "G2-70"
    ]
   },
   {
@@ -3847,7 +4482,9 @@
    "text": "他请求我给他三天假。",
    "pinyin": "tā qǐng qiú wǒ gěi tā sān tiān jiǎ。",
    "grammar": [
-    "G2-61"
+    "G2-61",
+    "G2-26",
+    "G2-12"
    ]
   },
   {
@@ -3857,7 +4494,9 @@
    "text": "名单上的人数超过一百。",
    "pinyin": "míng dān shàng de rén shù chāo guò yì bǎi。",
    "grammar": [
-    "G2-38"
+    "G2-38",
+    "G2-32",
+    "G2-71"
    ]
   },
   {
@@ -3867,7 +4506,9 @@
    "text": "我感觉有点儿难受。",
    "pinyin": "wǒ gǎn jué yǒu diǎn ér nán shòu。",
    "grammar": [
-    "G2-13"
+    "G2-55",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -3877,7 +4518,8 @@
    "text": "高级饭店的晚餐很贵。",
    "pinyin": "gāo jí fàn diàn de wǎn cān hěn guì。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -3887,7 +4529,9 @@
    "text": "人人平等，这很正常。",
    "pinyin": "rén rén píng děng，zhè hěn zhèng cháng。",
    "grammar": [
-    "G2-41"
+    "G2-35",
+    "G2-70",
+    "G2-08"
    ]
   },
   {
@@ -3897,7 +4541,9 @@
    "text": "孩子长大以后家长就放心了。",
    "pinyin": "hái zi zhǎng dà yǐ hòu jiā zhǎng jiù fàng xīn le。",
    "grammar": [
-    "G2-47"
+    "G2-47",
+    "G2-69",
+    "G2-17"
    ]
   },
   {
@@ -3907,7 +4553,9 @@
    "text": "多喝水有很多好处。",
    "pinyin": "duō hē shuǐ yǒu hěn duō hǎo chù。",
    "grammar": [
-    "G2-55"
+    "G2-55",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -3917,7 +4565,9 @@
    "text": "太阳从东方出来。",
    "pinyin": "tài yáng cóng dōng fāng chū lái。",
    "grammar": [
-    "G2-24"
+    "G2-24",
+    "G2-50",
+    "G2-08"
    ]
   },
   {
@@ -3927,7 +4577,9 @@
    "text": "好多孩子从小爱看动物。",
    "pinyin": "hǎo duō hái zi cóng xiǎo ài kàn dòng wù。",
    "grammar": [
-    "G2-40"
+    "G2-24",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -3937,7 +4589,9 @@
    "text": "我们单位住房条件挺好。",
    "pinyin": "wǒ men dān wèi zhù fáng tiáo jiàn tǐng hǎo。",
    "grammar": [
-    "G2-13"
+    "G2-10",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -3947,7 +4601,8 @@
    "text": "许多动物会飞，例如鸟。",
    "pinyin": "xǔ duō dòng wù huì fēi，lì rú niǎo。",
    "grammar": [
-    "G2-38"
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -3957,7 +4612,9 @@
    "text": "我打算完成工作，做到最好。",
    "pinyin": "wǒ dǎ suàn wán chéng gōng zuò，zuò dào zuì hǎo。",
    "grammar": [
-    "G2-40"
+    "G2-49",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -3967,7 +4624,7 @@
    "text": "他出生在北京。",
    "pinyin": "tā chū shēng zài běi jīng。",
    "grammar": [
-    "G2-38"
+    "G2-08"
    ]
   },
   {
@@ -3977,7 +4634,9 @@
    "text": "组长的分数比班长的高。",
    "pinyin": "zǔ zhǎng de fēn shù bǐ bān zhǎng de gāo。",
    "grammar": [
-    "G2-58"
+    "G2-58",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -3987,7 +4646,8 @@
    "text": "这个动物名称很常见。",
    "pinyin": "zhè ge dòng wù míng chēng hěn cháng jiàn。",
    "grammar": [
-    "G2-41"
+    "G2-39",
+    "G2-08"
    ]
   },
   {
@@ -3997,7 +4657,9 @@
    "text": "班长受到了大家的感谢。",
    "pinyin": "bān zhǎng shòu dào le dà jiā de gǎn xiè。",
    "grammar": [
-    "G2-06"
+    "G2-06",
+    "G2-34",
+    "G2-04"
    ]
   },
   {
@@ -4007,7 +4669,9 @@
    "text": "虽然活动很多，可是我们不累。",
    "pinyin": "suī rán huó dòng hěn duō，kě shì wǒ men bú lèi。",
    "grammar": [
-    "G2-65"
+    "G2-65",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -4017,7 +4681,9 @@
    "text": "班长想商量活动的事。",
    "pinyin": "bān zhǎng xiǎng shāng liàng huó dòng de shì。",
    "grammar": [
-    "G2-39"
+    "G2-38",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -4027,7 +4693,9 @@
    "text": "他的方法有不少坏处。",
    "pinyin": "tā de fāng fǎ yǒu bù shǎo huài chù。",
    "grammar": [
-    "G2-55"
+    "G2-55",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -4035,9 +4703,11 @@
    "level": 2,
    "round": 4,
    "text": "多数少年喜欢大自然。",
-   "pinyin": "duō shù shǎo nián xǐ huan dà zì rán。",
+   "pinyin": "duō shù shào nián xǐ huan dà zì rán。",
    "grammar": [
-    "G2-41"
+    "G2-73",
+    "G2-12",
+    "G2-13"
    ]
   },
   {
@@ -4047,7 +4717,9 @@
    "text": "大自然里有好多动物。",
    "pinyin": "dà zì rán lǐ yǒu hǎo duō dòng wù。",
    "grammar": [
-    "G2-56"
+    "G2-56",
+    "G2-55",
+    "G2-13"
    ]
   },
   {
@@ -4057,7 +4729,9 @@
    "text": "王太太是我们单位的老朋友。",
    "pinyin": "wáng tài tai shì wǒ men dān wèi de lǎo péng you。",
    "grammar": [
-    "G2-60"
+    "G2-16",
+    "G2-10",
+    "G2-34"
    ]
   },
   {
@@ -4067,7 +4741,9 @@
    "text": "组长早就完成了工作。",
    "pinyin": "zǔ zhǎng zǎo jiù wán chéng le gōng zuò。",
    "grammar": [
-    "G2-15"
+    "G2-69",
+    "G2-17",
+    "G2-20"
    ]
   },
   {
@@ -4077,7 +4753,9 @@
    "text": "他跟太太用英文对话。",
    "pinyin": "tā gēn tài tai yòng yīng wén duì huà。",
    "grammar": [
-    "G2-38"
+    "G2-25",
+    "G2-37",
+    "G2-08"
    ]
   },
   {
@@ -4087,7 +4765,9 @@
    "text": "班长和组长都爱打排球。",
    "pinyin": "bān zhǎng hé zǔ zhǎng dōu ài dǎ pái qiú。",
    "grammar": [
-    "G2-20"
+    "G2-37",
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -4097,7 +4777,9 @@
    "text": "这本书里有许多广告。",
    "pinyin": "zhè běn shū lǐ yǒu xǔ duō guǎng gào。",
    "grammar": [
-    "G2-56"
+    "G2-56",
+    "G2-55",
+    "G2-13"
    ]
   },
   {
@@ -4107,7 +4789,9 @@
    "text": "我们得出了好的方法。",
    "pinyin": "wǒ men dé chū le hǎo de fāng fǎ。",
    "grammar": [
-    "G2-50"
+    "G2-51",
+    "G2-31",
+    "G2-13"
    ]
   },
   {
@@ -4117,7 +4801,8 @@
    "text": "怎样去东方公园？",
    "pinyin": "zěn yàng qù dōng fāng gōng yuán？",
    "grammar": [
-    "G2-05"
+    "G2-05",
+    "G2-08"
    ]
   },
   {
@@ -4127,7 +4812,9 @@
    "text": "这位画家的看法怎样？",
    "pinyin": "zhè wèi huà jiā de kàn fǎ zěn yàng？",
    "grammar": [
-    "G2-05"
+    "G2-05",
+    "G2-10",
+    "G2-34"
    ]
   },
   {
@@ -4137,7 +4824,9 @@
    "text": "他提到了活动的照片。",
    "pinyin": "tā tí dào le huó dòng de zhào piàn。",
    "grammar": [
-    "G2-50"
+    "G2-34",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -4147,7 +4836,9 @@
    "text": "这个故事我早就听过了。",
    "pinyin": "zhè ge gù shi wǒ zǎo jiù tīng guò le。",
    "grammar": [
-    "G2-32"
+    "G2-32",
+    "G2-71",
+    "G2-69"
    ]
   },
   {
@@ -4157,7 +4848,9 @@
    "text": "英文和普通话的读音不同。",
    "pinyin": "yīng wén hé pǔ tōng huà de dú yīn bù tóng。",
    "grammar": [
-    "G2-41"
+    "G2-37",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -4165,9 +4858,11 @@
    "level": 2,
    "round": 4,
    "text": "我见过照片里的画家。",
-   "pinyin": "wǒ jiàn guò zhào piàn lǐ de huà jiā。",
+   "pinyin": "wǒ jiàn guo zhào piàn lǐ de huà jiā。",
    "grammar": [
-    "G2-32"
+    "G2-32",
+    "G2-71",
+    "G2-34"
    ]
   },
   {
@@ -4177,7 +4872,8 @@
    "text": "你给我站住！",
    "pinyin": "nǐ gěi wǒ zhàn zhù！",
    "grammar": [
-    "G2-26"
+    "G2-26",
+    "G2-08"
    ]
   },
   {
@@ -4187,7 +4883,9 @@
    "text": "等到下课我们商量活动。",
    "pinyin": "děng dào xià kè wǒ men shāng liàng huó dòng。",
    "grammar": [
-    "G2-67"
+    "G2-35",
+    "G2-11",
+    "G2-08"
    ]
   },
   {
@@ -4197,7 +4895,8 @@
    "text": "西医的方法很常见。",
    "pinyin": "xī yī de fāng fǎ hěn cháng jiàn。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -4207,7 +4906,8 @@
    "text": "我坐公共汽车去单位。",
    "pinyin": "wǒ zuò gōng gòng qì chē qù dān wèi。",
    "grammar": [
-    "G2-57"
+    "G2-10",
+    "G2-08"
    ]
   },
   {
@@ -4217,7 +4917,9 @@
    "text": "这条道路上有许多车。",
    "pinyin": "zhè tiáo dào lù shàng yǒu xǔ duō chē。",
    "grammar": [
-    "G2-56"
+    "G2-56",
+    "G2-10",
+    "G2-55"
    ]
   },
   {
@@ -4227,7 +4929,9 @@
    "text": "我在路边向老人问路。",
    "pinyin": "wǒ zài lù biān xiàng lǎo rén wèn lù。",
    "grammar": [
-    "G2-23"
+    "G2-23",
+    "G2-16",
+    "G2-08"
    ]
   },
   {
@@ -4237,7 +4941,9 @@
    "text": "这时候班长已经走了。",
    "pinyin": "zhè shí hou bān zhǎng yǐ jīng zǒu le。",
    "grammar": [
-    "G2-15"
+    "G2-15",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -4247,7 +4953,9 @@
    "text": "这时候正是活动的时间。",
    "pinyin": "zhè shí hou zhèng shì huó dòng de shí jiān。",
    "grammar": [
-    "G2-60"
+    "G2-70",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -4257,7 +4965,9 @@
    "text": "难听的话不要重复。",
    "pinyin": "nán tīng de huà bú yào zhòng fù。",
    "grammar": [
-    "G2-40"
+    "G2-66",
+    "G2-35",
+    "G2-38"
    ]
   },
   {
@@ -4267,7 +4977,9 @@
    "text": "你面前的这位就是组长。",
    "pinyin": "nǐ miàn qián de zhè wèi jiù shì zǔ zhǎng。",
    "grammar": [
-    "G2-74"
+    "G2-74",
+    "G2-39",
+    "G2-47"
    ]
   },
   {
@@ -4277,7 +4989,9 @@
    "text": "路边有许多黄色的小花。",
    "pinyin": "lù biān yǒu xǔ duō huáng sè de xiǎo huā。",
    "grammar": [
-    "G2-56"
+    "G2-55",
+    "G2-13",
+    "G2-34"
    ]
   },
   {
@@ -4287,7 +5001,9 @@
    "text": "全国有好多动物园。",
    "pinyin": "quán guó yǒu hǎo duō dòng wù yuán。",
    "grammar": [
-    "G2-55"
+    "G2-14",
+    "G2-55",
+    "G2-13"
    ]
   },
   {
@@ -4297,7 +5013,8 @@
    "text": "活动后请关机。",
    "pinyin": "huó dòng hòu qǐng guān jī。",
    "grammar": [
-    "G2-38"
+    "G2-47",
+    "G2-08"
    ]
   },
   {
@@ -4307,7 +5024,8 @@
    "text": "全家去动物园照相。",
    "pinyin": "quán jiā qù dòng wù yuán zhào xiāng。",
    "grammar": [
-    "G2-57"
+    "G2-14",
+    "G2-08"
    ]
   },
   {
@@ -4315,9 +5033,9 @@
    "level": 2,
    "round": 4,
    "text": "大人穿黑色大衣上班。",
-   "pinyin": "dà rén chuān hēi sè dà yī shàng bān。",
+   "pinyin": "dà ren chuān hēi sè dà yī shàng bān。",
    "grammar": [
-    "G2-57"
+    "G2-08"
    ]
   },
   {
@@ -4327,7 +5045,8 @@
    "text": "人们都在排队。",
    "pinyin": "rén men dōu zài pái duì。",
    "grammar": [
-    "G2-20"
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -4337,7 +5056,9 @@
    "text": "司机刚刚看到信号。",
    "pinyin": "sī jī gāng gāng kàn dào xìn hào。",
    "grammar": [
-    "G2-15"
+    "G2-15",
+    "G2-49",
+    "G2-08"
    ]
   },
   {
@@ -4345,9 +5066,11 @@
    "level": 2,
    "round": 4,
    "text": "全家都知道他住院的原因。",
-   "pinyin": "quán jiā dōu zhī dao tā zhù yuàn de yuán yīn。",
+   "pinyin": "quán jiā dōu zhī dào tā zhù yuàn de yuán yīn。",
    "grammar": [
-    "G2-20"
+    "G2-14",
+    "G2-20",
+    "G2-34"
    ]
   },
   {
@@ -4357,7 +5080,8 @@
    "text": "教师给考生讲重点。",
    "pinyin": "jiào shī gěi kǎo shēng jiǎng zhòng diǎn。",
    "grammar": [
-    "G2-26"
+    "G2-26",
+    "G2-08"
    ]
   },
   {
@@ -4367,7 +5091,7 @@
    "text": "少数人在药店实习。",
    "pinyin": "shǎo shù rén zài yào diàn shí xí。",
    "grammar": [
-    "G2-40"
+    "G2-08"
    ]
   },
   {
@@ -4377,6 +5101,8 @@
    "text": "他后来就回国了。",
    "pinyin": "tā hòu lái jiù huí guó le。",
    "grammar": [
+    "G2-47",
+    "G2-69",
     "G2-17"
    ]
   },
@@ -4387,7 +5113,8 @@
    "text": "他的做法很公平。",
    "pinyin": "tā de zuò fǎ hěn gōng píng。",
    "grammar": [
-    "G2-13"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -4397,7 +5124,9 @@
    "text": "其中有两位明星。",
    "pinyin": "qí zhōng yǒu liǎng wèi míng xīng。",
    "grammar": [
-    "G2-10"
+    "G2-56",
+    "G2-10",
+    "G2-55"
    ]
   },
   {
@@ -4407,7 +5136,9 @@
    "text": "最近他汉语说得很流利。",
    "pinyin": "zuì jìn tā hàn yǔ shuō dé hěn liú lì。",
    "grammar": [
-    "G2-31"
+    "G2-51",
+    "G2-31",
+    "G2-08"
    ]
   },
   {
@@ -4415,9 +5146,11 @@
    "level": 2,
    "round": 4,
    "text": "他的观点和行为都正确。",
-   "pinyin": "tā de guān diǎn hé xíng wèi dōu zhèng què。",
+   "pinyin": "tā de guān diǎn hé xíng wéi dōu zhèng què。",
    "grammar": [
-    "G2-20"
+    "G2-28",
+    "G2-37",
+    "G2-70"
    ]
   },
   {
@@ -4427,7 +5160,9 @@
    "text": "请找出正确的词语。",
    "pinyin": "qǐng zhǎo chū zhèng què de cí yǔ。",
    "grammar": [
-    "G2-39"
+    "G2-70",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -4437,7 +5172,7 @@
    "text": "那会儿我心中很静。",
    "pinyin": "nà huì ér wǒ xīn zhōng hěn jìng。",
    "grammar": [
-    "G2-13"
+    "G2-08"
    ]
   },
   {
@@ -4447,7 +5182,8 @@
    "text": "我忽然想到音乐会。",
    "pinyin": "wǒ hū rán xiǎng dào yīn lè huì。",
    "grammar": [
-    "G2-15"
+    "G2-15",
+    "G2-08"
    ]
   },
   {
@@ -4455,8 +5191,10 @@
    "level": 2,
    "round": 4,
    "text": "她的姓名和头发很特别。",
-   "pinyin": "tā de xìng míng hé tóu fā hěn tè bié。",
+   "pinyin": "tā de xìng míng hé tóu fa hěn tè bié。",
    "grammar": [
+    "G2-41",
+    "G2-37",
     "G2-13"
    ]
   },
@@ -4467,7 +5205,9 @@
    "text": "对面有队长的声音。",
    "pinyin": "duì miàn yǒu duì zhǎng de shēng yīn。",
    "grammar": [
-    "G2-56"
+    "G2-25",
+    "G2-55",
+    "G2-34"
    ]
   },
   {
@@ -4477,7 +5217,9 @@
    "text": "他来自西南，是我的好友。",
    "pinyin": "tā lái zì xī nán，shì wǒ de hǎo yǒu。",
    "grammar": [
-    "G2-62"
+    "G2-13",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -4487,7 +5229,9 @@
    "text": "他变成了真正的明星。",
    "pinyin": "tā biàn chéng le zhēn zhèng de míng xīng。",
    "grammar": [
-    "G2-49"
+    "G2-70",
+    "G2-34",
+    "G2-04"
    ]
   },
   {
@@ -4495,9 +5239,11 @@
    "level": 2,
    "round": 4,
    "text": "大家干杯，说了个笑话。",
-   "pinyin": "dà jiā gàn bēi，shuō le gè xiào huà。",
+   "pinyin": "dà jiā gān bēi，shuō le gè xiào hua。",
    "grammar": [
-    "G2-06"
+    "G2-06",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -4507,7 +5253,9 @@
    "text": "我懂得这方面的做法。",
    "pinyin": "wǒ dǒng de zhè fāng miàn de zuò fǎ。",
    "grammar": [
-    "G2-39"
+    "G2-51",
+    "G2-31",
+    "G2-34"
    ]
   },
   {
@@ -4517,7 +5265,9 @@
    "text": "他忽然走开了。",
    "pinyin": "tā hū rán zǒu kāi le。",
    "grammar": [
-    "G2-50"
+    "G2-15",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -4525,9 +5275,9 @@
    "level": 2,
    "round": 4,
    "text": "他答应留在我身边。",
-   "pinyin": "tā dá yīng liú zài wǒ shēn biān。",
+   "pinyin": "tā dā ying liú zài wǒ shēn biān。",
    "grammar": [
-    "G2-40"
+    "G2-08"
    ]
   },
   {
@@ -4535,9 +5285,10 @@
    "level": 2,
    "round": 4,
    "text": "请留下姓名。",
-   "pinyin": "qǐng liú xià xìng míng。",
+   "pinyin": "qǐng liú xia xìng míng。",
    "grammar": [
-    "G2-50"
+    "G2-11",
+    "G2-08"
    ]
   },
   {
@@ -4547,7 +5298,8 @@
    "text": "音乐会正在进行。",
    "pinyin": "yīn lè huì zhèng zài jìn xíng。",
    "grammar": [
-    "G2-70"
+    "G2-70",
+    "G2-08"
    ]
   },
   {
@@ -4557,7 +5309,8 @@
    "text": "这辆出租汽车很难看。",
    "pinyin": "zhè liàng chū zū qì chē hěn nán kàn。",
    "grammar": [
-    "G2-13"
+    "G2-39",
+    "G2-08"
    ]
   },
   {
@@ -4567,7 +5320,9 @@
    "text": "以上都是我的想法。",
    "pinyin": "yǐ shàng dōu shì wǒ de xiǎng fǎ。",
    "grammar": [
-    "G2-20"
+    "G2-20",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -4577,7 +5332,9 @@
    "text": "经过三年，他当上了队长。",
    "pinyin": "jīng guò sān nián，tā dāng shàng le duì zhǎng。",
    "grammar": [
-    "G2-12"
+    "G2-21",
+    "G2-32",
+    "G2-71"
    ]
   },
   {
@@ -4587,7 +5344,9 @@
    "text": "球场上有很多人。",
    "pinyin": "qiú chǎng shàng yǒu hěn duō rén。",
    "grammar": [
-    "G2-56"
+    "G2-73",
+    "G2-56",
+    "G2-11"
    ]
   },
   {
@@ -4597,6 +5356,8 @@
    "text": "这里没有座位。",
    "pinyin": "zhè lǐ méi yǒu zuò wèi。",
    "grammar": [
+    "G2-56",
+    "G2-10",
     "G2-55"
    ]
   },
@@ -4607,7 +5368,7 @@
    "text": "他汉语提高很快。",
    "pinyin": "tā hàn yǔ tí gāo hěn kuài。",
    "grammar": [
-    "G2-51"
+    "G2-08"
    ]
   },
   {
@@ -4617,7 +5378,9 @@
    "text": "全年人口比去年多。",
    "pinyin": "quán nián rén kǒu bǐ qù nián duō。",
    "grammar": [
-    "G2-58"
+    "G2-58",
+    "G2-14",
+    "G2-12"
    ]
   },
   {
@@ -4627,7 +5390,9 @@
    "text": "以下的句子都很短。",
    "pinyin": "yǐ xià de jù zi dōu hěn duǎn。",
    "grammar": [
-    "G2-20"
+    "G2-11",
+    "G2-20",
+    "G2-34"
    ]
   },
   {
@@ -4637,7 +5402,9 @@
    "text": "一千克就是一公斤。",
    "pinyin": "yì qiān kè jiù shì yì gōng jīn。",
    "grammar": [
-    "G2-17"
+    "G2-74",
+    "G2-09",
+    "G2-69"
    ]
   },
   {
@@ -4647,7 +5414,9 @@
    "text": "体育场里有球队在打篮球。",
    "pinyin": "tǐ yù chǎng lǐ yǒu qiú duì zài dǎ lán qiú。",
    "grammar": [
-    "G2-56"
+    "G2-56",
+    "G2-11",
+    "G2-55"
    ]
   },
   {
@@ -4657,7 +5426,9 @@
    "text": "篮球和网球我都会。",
    "pinyin": "lán qiú hé wǎng qiú wǒ dōu huì。",
    "grammar": [
-    "G2-20"
+    "G2-37",
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -4667,7 +5438,8 @@
    "text": "出租车不可以在这里停车。",
    "pinyin": "chū zū chē bù kě yǐ zài zhè lǐ tíng chē。",
    "grammar": [
-    "G2-01"
+    "G2-01",
+    "G2-08"
    ]
   },
   {
@@ -4677,7 +5449,9 @@
    "text": "街上停着很多车辆。",
    "pinyin": "jiē shàng tíng zhe hěn duō chē liàng。",
    "grammar": [
-    "G2-56"
+    "G2-33",
+    "G2-70",
+    "G2-13"
    ]
   },
   {
@@ -4687,7 +5461,9 @@
    "text": "行人走过这条街。",
    "pinyin": "xíng rén zǒu guò zhè tiáo jiē。",
    "grammar": [
-    "G2-50"
+    "G2-32",
+    "G2-71",
+    "G2-10"
    ]
   },
   {
@@ -4697,7 +5473,9 @@
    "text": "我有信心成为老师。",
    "pinyin": "wǒ yǒu xìn xīn chéng wèi lǎo shī。",
    "grammar": [
-    "G2-40"
+    "G2-28",
+    "G2-16",
+    "G2-55"
    ]
   },
   {
@@ -4707,7 +5485,9 @@
    "text": "校园里有留学生。",
    "pinyin": "xiào yuán lǐ yǒu liú xué sheng。",
    "grammar": [
-    "G2-55"
+    "G2-56",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -4717,7 +5497,9 @@
    "text": "大家都重视教育。",
    "pinyin": "dà jiā dōu zhòng shì jiào yù。",
    "grammar": [
-    "G2-20"
+    "G2-06",
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -4727,7 +5509,7 @@
    "text": "我查字典认识句子。",
    "pinyin": "wǒ chá zì diǎn rèn shi jù zi。",
    "grammar": [
-    "G2-57"
+    "G2-08"
    ]
   },
   {
@@ -4737,7 +5519,8 @@
    "text": "这个句子有三个音节。",
    "pinyin": "zhè ge jù zi yǒu sān ge yīn jié。",
    "grammar": [
-    "G2-55"
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -4747,7 +5530,7 @@
    "text": "英语是国际语言。",
    "pinyin": "yīng yǔ shì guó jì yǔ yán。",
    "grammar": [
-    "G2-40"
+    "G2-08"
    ]
   },
   {
@@ -4757,7 +5540,8 @@
    "text": "大家小声听讲。",
    "pinyin": "dà jiā xiǎo shēng tīng jiǎng。",
    "grammar": [
-    "G2-06"
+    "G2-06",
+    "G2-08"
    ]
   },
   {
@@ -4767,7 +5551,8 @@
    "text": "我和同事去爬山。",
    "pinyin": "wǒ hé tóng shì qù pá shān。",
    "grammar": [
-    "G2-57"
+    "G2-37",
+    "G2-08"
    ]
   },
   {
@@ -4777,7 +5562,9 @@
    "text": "刚才他在干活儿。",
    "pinyin": "gāng cái tā zài gàn huó ér。",
    "grammar": [
-    "G2-70"
+    "G2-15",
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -4787,6 +5574,8 @@
    "text": "刚才他说得很准确。",
    "pinyin": "gāng cái tā shuō dé hěn zhǔn què。",
    "grammar": [
+    "G2-15",
+    "G2-51",
     "G2-31"
    ]
   },
@@ -4797,7 +5586,9 @@
    "text": "原来这里有个小院子。",
    "pinyin": "yuán lái zhè lǐ yǒu gè xiǎo yuàn zi。",
    "grammar": [
-    "G2-55"
+    "G2-56",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -4807,7 +5598,9 @@
    "text": "那时候，院子里有花。",
    "pinyin": "nà shí hou，yuàn zi lǐ yǒu huā。",
    "grammar": [
-    "G2-56"
+    "G2-56",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -4817,7 +5610,9 @@
    "text": "月亮和星星都很亮。",
    "pinyin": "yuè liang hé xīng xing dōu hěn liàng。",
    "grammar": [
-    "G2-20"
+    "G2-37",
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -4827,7 +5622,9 @@
    "text": "咱们好久没见了。",
    "pinyin": "zán men hǎo jiǔ méi jiàn le。",
    "grammar": [
-    "G2-06"
+    "G2-06",
+    "G2-13",
+    "G2-04"
    ]
   },
   {
@@ -4837,7 +5634,9 @@
    "text": "他心里实在难过。",
    "pinyin": "tā xīn lǐ shí zài nán guò。",
    "grammar": [
-    "G2-41"
+    "G2-32",
+    "G2-71",
+    "G2-08"
    ]
   },
   {
@@ -4847,7 +5646,9 @@
    "text": "心里有个想法。",
    "pinyin": "xīn lǐ yǒu gè xiǎng fǎ。",
    "grammar": [
-    "G2-55"
+    "G2-56",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -4855,9 +5656,9 @@
    "level": 2,
    "round": 4,
    "text": "这个笑话儿让人开心。",
-   "pinyin": "zhè ge xiào huà ér ràng rén kāi xīn。",
+   "pinyin": "zhè ge xiào hua ér ràng rén kāi xīn。",
    "grammar": [
-    "G2-40"
+    "G2-08"
    ]
   },
   {
@@ -4865,9 +5666,9 @@
    "level": 2,
    "round": 4,
    "text": "他发短信讲笑话儿。",
-   "pinyin": "tā fā duǎn xìn jiǎng xiào huà ér。",
+   "pinyin": "tā fā duǎn xìn jiǎng xiào hua ér。",
    "grammar": [
-    "G2-57"
+    "G2-08"
    ]
   },
   {
@@ -4877,7 +5678,9 @@
    "text": "外卖还没送到。",
    "pinyin": "wài mài hái méi sòng dào。",
    "grammar": [
-    "G2-15"
+    "G2-63",
+    "G2-15",
+    "G2-08"
    ]
   },
   {
@@ -4887,7 +5690,7 @@
    "text": "护照送到您手里。",
    "pinyin": "hù zhào sòng dào nín shǒu lǐ。",
    "grammar": [
-    "G2-49"
+    "G2-08"
    ]
   },
   {
@@ -4897,7 +5700,9 @@
    "text": "这里有很多国际旅客。",
    "pinyin": "zhè lǐ yǒu hěn duō guó jì lǚ kè。",
    "grammar": [
-    "G2-55"
+    "G2-56",
+    "G2-55",
+    "G2-13"
    ]
   },
   {
@@ -4907,7 +5712,9 @@
    "text": "接下来该你干活儿了。",
    "pinyin": "jiē xià lái gāi nǐ gàn huó ér le。",
    "grammar": [
-    "G2-80"
+    "G2-80",
+    "G2-02",
+    "G2-11"
    ]
   },
   {
@@ -4917,7 +5724,9 @@
    "text": "旅客的火车就要开了。",
    "pinyin": "lǚ kè de huǒ chē jiù yào kāi le。",
    "grammar": [
-    "G2-81"
+    "G2-81",
+    "G2-69",
+    "G2-17"
    ]
   },
   {
@@ -4927,7 +5736,9 @@
    "text": "大多数人全年收入不错。",
    "pinyin": "dà duō shù rén quán nián shōu rù bú cuò。",
    "grammar": [
-    "G2-41"
+    "G2-73",
+    "G2-14",
+    "G2-12"
    ]
   },
   {
@@ -4935,9 +5746,10 @@
    "level": 2,
    "round": 4,
    "text": "大部分外卖都不贵。",
-   "pinyin": "dà bù fēn wài mài dōu bú guì。",
+   "pinyin": "dà bù fen wài mài dōu bú guì。",
    "grammar": [
-    "G2-20"
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -4947,7 +5759,8 @@
    "text": "他唱的歌很流行。",
    "pinyin": "tā chàng de gē hěn liú xíng。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -4957,7 +5770,8 @@
    "text": "西方的音乐很流行。",
    "pinyin": "xī fāng de yīn lè hěn liú xíng。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -4967,7 +5781,9 @@
    "text": "从这个角度看很好。",
    "pinyin": "cóng zhè ge jiǎo dù kàn hěn hǎo。",
    "grammar": [
-    "G2-24"
+    "G2-24",
+    "G2-39",
+    "G2-13"
    ]
   },
   {
@@ -4977,7 +5793,7 @@
    "text": "我喜欢运动，比如网球。",
    "pinyin": "wǒ xǐ huan yùn dòng，bǐ rú wǎng qiú。",
    "grammar": [
-    "G2-40"
+    "G2-08"
    ]
   },
   {
@@ -4987,7 +5803,7 @@
    "text": "他能够自己干活儿。",
    "pinyin": "tā néng gòu zì jǐ gàn huó ér。",
    "grammar": [
-    "G2-40"
+    "G2-08"
    ]
   },
   {
@@ -4997,7 +5813,9 @@
    "text": "喝了药水就好了。",
    "pinyin": "hē le yào shuǐ jiù hǎo le。",
    "grammar": [
-    "G2-17"
+    "G2-69",
+    "G2-17",
+    "G2-20"
    ]
   },
   {
@@ -5007,7 +5825,9 @@
    "text": "报名人数一共三十。",
    "pinyin": "bào míng rén shù yí gòng sān shí。",
    "grammar": [
-    "G2-14"
+    "G2-14",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -5017,7 +5837,9 @@
    "text": "校长通知所有老师开会。",
    "pinyin": "xiào zhǎng tōng zhī suǒ yǒu lǎo shī kāi huì。",
    "grammar": [
-    "G2-57"
+    "G2-16",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -5025,9 +5847,11 @@
    "level": 2,
    "round": 4,
    "text": "我早就以为他是作家。",
-   "pinyin": "wǒ zǎo jiù yǐ wèi tā shì zuò jiā。",
+   "pinyin": "wǒ zǎo jiù yǐ wéi tā shì zuò jiā。",
    "grammar": [
-    "G2-15"
+    "G2-28",
+    "G2-69",
+    "G2-17"
    ]
   },
   {
@@ -5037,7 +5861,7 @@
    "text": "听说这个作家住海边。",
    "pinyin": "tīng shuō zhè ge zuò jiā zhù hǎi biān。",
    "grammar": [
-    "G2-40"
+    "G2-08"
    ]
   },
   {
@@ -5047,7 +5871,9 @@
    "text": "我接到了校长的通知。",
    "pinyin": "wǒ jiē dào le xiào zhǎng de tōng zhī。",
    "grammar": [
-    "G2-49"
+    "G2-34",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -5057,7 +5883,9 @@
    "text": "停车场出口往右走。",
    "pinyin": "tíng chē chǎng chū kǒu wǎng yòu zǒu。",
    "grammar": [
-    "G2-22"
+    "G2-22",
+    "G2-11",
+    "G2-08"
    ]
   },
   {
@@ -5067,7 +5895,8 @@
    "text": "公路边不可以停车。",
    "pinyin": "gōng lù biān bù kě yǐ tíng chē。",
    "grammar": [
-    "G2-01"
+    "G2-01",
+    "G2-08"
    ]
   },
   {
@@ -5077,7 +5906,8 @@
    "text": "开车的司机很小心。",
    "pinyin": "kāi chē de sī jī hěn xiǎo xīn。",
    "grammar": [
-    "G2-39"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5087,7 +5917,7 @@
    "text": "我们开车去外地旅游。",
    "pinyin": "wǒ men kāi chē qù wài dì lǚ yóu。",
    "grammar": [
-    "G2-57"
+    "G2-08"
    ]
   },
   {
@@ -5097,7 +5927,9 @@
    "text": "午睡以后全身都舒服。",
    "pinyin": "wǔ shuì yǐ hòu quán shēn dōu shū fu。",
    "grammar": [
-    "G2-47"
+    "G2-47",
+    "G2-14",
+    "G2-20"
    ]
   },
   {
@@ -5107,7 +5939,9 @@
    "text": "参观的顾客特别多。",
    "pinyin": "cān guān de gù kè tè bié duō。",
    "grammar": [
-    "G2-13"
+    "G2-41",
+    "G2-13",
+    "G2-34"
    ]
   },
   {
@@ -5117,7 +5951,8 @@
    "text": "我只能在家午睡。",
    "pinyin": "wǒ zhǐ néng zài jiā wǔ shuì。",
    "grammar": [
-    "G2-14"
+    "G2-14",
+    "G2-08"
    ]
   },
   {
@@ -5127,7 +5962,9 @@
    "text": "计算机只能同时开一个。",
    "pinyin": "jì suàn jī zhǐ néng tóng shí kāi yí ge。",
    "grammar": [
-    "G2-14"
+    "G2-14",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -5137,7 +5974,9 @@
    "text": "开机以后先看信息。",
    "pinyin": "kāi jī yǐ hòu xiān kàn xìn xī。",
    "grammar": [
-    "G2-47"
+    "G2-62",
+    "G2-47",
+    "G2-08"
    ]
   },
   {
@@ -5147,7 +5986,8 @@
    "text": "图片里的数字不清楚。",
    "pinyin": "tú piàn lǐ de shù zì bù qīng chu。",
    "grammar": [
-    "G2-39"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5157,7 +5997,9 @@
    "text": "网站上的图片很好看。",
    "pinyin": "wǎng zhàn shàng de tú piàn hěn hǎo kàn。",
    "grammar": [
-    "G2-39"
+    "G2-13",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5167,7 +6009,9 @@
    "text": "说明书写得很清楚。",
    "pinyin": "shuō míng shū xiě dé hěn qīng chu。",
    "grammar": [
-    "G2-31"
+    "G2-51",
+    "G2-31",
+    "G2-08"
    ]
   },
   {
@@ -5177,7 +6021,8 @@
    "text": "大量信息都在网上。",
    "pinyin": "dà liàng xìn xī dōu zài wǎng shàng。",
    "grammar": [
-    "G2-20"
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -5187,7 +6032,8 @@
    "text": "听说外地零下十度。",
    "pinyin": "tīng shuō wài dì líng xià shí dù。",
    "grammar": [
-    "G2-40"
+    "G2-11",
+    "G2-08"
    ]
   },
   {
@@ -5197,7 +6043,9 @@
    "text": "这件事大大改变了他。",
    "pinyin": "zhè jiàn shì dà dà gǎi biàn le tā。",
    "grammar": [
-    "G2-38"
+    "G2-10",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -5207,7 +6055,9 @@
    "text": "他实现了所有的想法。",
    "pinyin": "tā shí xiàn le suǒ yǒu de xiǎng fǎ。",
    "grammar": [
-    "G2-39"
+    "G2-55",
+    "G2-34",
+    "G2-04"
    ]
   },
   {
@@ -5217,7 +6067,8 @@
    "text": "这个学期我很忙。",
    "pinyin": "zhè ge xué qī wǒ hěn máng。",
    "grammar": [
-    "G2-39"
+    "G2-39",
+    "G2-08"
    ]
   },
   {
@@ -5225,9 +6076,11 @@
    "level": 2,
    "round": 4,
    "text": "差不多十点才起床。",
-   "pinyin": "chà bù duō shí diǎn cái qǐ chuáng。",
+   "pinyin": "chà bu duō shí diǎn cái qǐ chuáng。",
    "grammar": [
-    "G2-19"
+    "G2-19",
+    "G2-54",
+    "G2-20"
    ]
   },
   {
@@ -5237,6 +6090,8 @@
    "text": "平常他六点就起床。",
    "pinyin": "píng cháng tā liù diǎn jiù qǐ chuáng。",
    "grammar": [
+    "G2-54",
+    "G2-69",
     "G2-17"
    ]
   },
@@ -5247,7 +6102,8 @@
    "text": "快点儿走吧！",
    "pinyin": "kuài diǎn ér zǒu ba！",
    "grammar": [
-    "G2-34"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5257,7 +6113,8 @@
    "text": "我想起他的样子。",
    "pinyin": "wǒ xiǎng qǐ tā de yàng zi。",
    "grammar": [
-    "G2-49"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5267,7 +6124,9 @@
    "text": "报名的同学很多。",
    "pinyin": "bào míng de tóng xué hěn duō。",
    "grammar": [
-    "G2-39"
+    "G2-13",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5277,7 +6136,9 @@
    "text": "他的行动改变了大家。",
    "pinyin": "tā de xíng dòng gǎi biàn le dà jiā。",
    "grammar": [
-    "G2-06"
+    "G2-06",
+    "G2-34",
+    "G2-04"
    ]
   },
   {
@@ -5285,9 +6146,11 @@
    "level": 2,
    "round": 4,
    "text": "爱人做的西餐很好吃。",
-   "pinyin": "ài rén zuò de xī cān hěn hǎo chī。",
+   "pinyin": "ài ren zuò de xī cān hěn hǎo chī。",
    "grammar": [
-    "G2-39"
+    "G2-13",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5297,6 +6160,8 @@
    "text": "过年时全家都很忙。",
    "pinyin": "guò nián shí quán jiā dōu hěn máng。",
    "grammar": [
+    "G2-32",
+    "G2-71",
     "G2-14"
    ]
   },
@@ -5307,7 +6172,9 @@
    "text": "银行八点才开门。",
    "pinyin": "yín xíng bā diǎn cái kāi mén。",
    "grammar": [
-    "G2-20"
+    "G2-54",
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -5317,7 +6184,9 @@
    "text": "院长今天下午有会。",
    "pinyin": "yuàn zhǎng jīn tiān xià wǔ yǒu huì。",
    "grammar": [
-    "G2-55"
+    "G2-56",
+    "G2-11",
+    "G2-12"
    ]
   },
   {
@@ -5327,7 +6196,8 @@
    "text": "我穿红色的球鞋。",
    "pinyin": "wǒ chuān hóng sè de qiú xié。",
    "grammar": [
-    "G2-39"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5337,7 +6207,8 @@
    "text": "白色的药片很小。",
    "pinyin": "bái sè de yào piàn hěn xiǎo。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5347,7 +6218,8 @@
    "text": "我在海边碰见了他。",
    "pinyin": "wǒ zài hǎi biān pèng jiàn le tā。",
    "grammar": [
-    "G2-49"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -5357,7 +6229,8 @@
    "text": "笔记都记在纸上。",
    "pinyin": "bǐ jì dōu jì zài zhǐ shàng。",
    "grammar": [
-    "G2-20"
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -5367,7 +6240,7 @@
    "text": "他很喜欢自由。",
    "pinyin": "tā hěn xǐ huan zì yóu。",
    "grammar": [
-    "G2-40"
+    "G2-08"
    ]
   },
   {
@@ -5377,7 +6250,9 @@
    "text": "她说晚安就走了。",
    "pinyin": "tā shuō wǎn ān jiù zǒu le。",
    "grammar": [
-    "G2-17"
+    "G2-69",
+    "G2-17",
+    "G2-20"
    ]
   },
   {
@@ -5387,7 +6262,7 @@
    "text": "三月份我们去旅游。",
    "pinyin": "sān yuè fèn wǒ men qù lǚ yóu。",
    "grammar": [
-    "G2-40"
+    "G2-08"
    ]
   },
   {
@@ -5397,7 +6272,7 @@
    "text": "比如说他喜欢西餐。",
    "pinyin": "bǐ rú shuō tā xǐ huan xī cān。",
    "grammar": [
-    "G2-40"
+    "G2-08"
    ]
   },
   {
@@ -5407,7 +6282,9 @@
    "text": "在出门以前要小心。",
    "pinyin": "zài chū mén yǐ qián yào xiǎo xīn。",
    "grammar": [
-    "G2-47"
+    "G2-47",
+    "G2-81",
+    "G2-08"
    ]
   },
   {
@@ -5417,7 +6294,9 @@
    "text": "做好事让人开心。",
    "pinyin": "zuò hǎo shì ràng rén kāi xīn。",
    "grammar": [
-    "G2-40"
+    "G2-49",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -5425,9 +6304,10 @@
    "level": 2,
    "round": 4,
    "text": "他走进教室坐下。",
-   "pinyin": "tā zǒu jìn jiào shì zuò xià。",
+   "pinyin": "tā zǒu jìn jiào shì zuò xia。",
    "grammar": [
-    "G2-57"
+    "G2-11",
+    "G2-08"
    ]
   },
   {
@@ -5437,7 +6317,8 @@
    "text": "别那样说话！",
    "pinyin": "bié nà yàng shuō huà！",
    "grammar": [
-    "G2-07"
+    "G2-07",
+    "G2-08"
    ]
   },
   {
@@ -5445,9 +6326,10 @@
    "level": 2,
    "round": 4,
    "text": "顾客以为药片很贵。",
-   "pinyin": "gù kè yǐ wèi yào piàn hěn guì。",
+   "pinyin": "gù kè yǐ wéi yào piàn hěn guì。",
    "grammar": [
-    "G2-40"
+    "G2-28",
+    "G2-08"
    ]
   },
   {
@@ -5457,7 +6339,9 @@
    "text": "通知上的人数不对。",
    "pinyin": "tōng zhī shàng de rén shù bú duì。",
    "grammar": [
-    "G2-39"
+    "G2-25",
+    "G2-38",
+    "G2-34"
    ]
   },
   {
@@ -5467,7 +6351,8 @@
    "text": "星期天我们参观银行。",
    "pinyin": "xīng qī tiān wǒ men cān guān yín xíng。",
    "grammar": [
-    "G2-40"
+    "G2-12",
+    "G2-08"
    ]
   },
   {
@@ -5477,7 +6362,9 @@
    "text": "到处都有人在跑。",
    "pinyin": "dào chù dōu yǒu rén zài pǎo。",
    "grammar": [
-    "G2-20"
+    "G2-55",
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -5487,7 +6374,8 @@
    "text": "科学课讲地球的大小。",
    "pinyin": "kē xué kè jiǎng dì qiú de dà xiǎo。",
    "grammar": [
-    "G2-40"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5497,7 +6385,9 @@
    "text": "酒店可以用信用卡或银行卡。",
    "pinyin": "jiǔ diàn kě yǐ yòng xìn yòng kǎ huò yín xíng kǎ。",
    "grammar": [
-    "G2-29"
+    "G2-29",
+    "G2-01",
+    "G2-08"
    ]
   },
   {
@@ -5507,7 +6397,9 @@
    "text": "前年他出院，第二年就出国了。",
    "pinyin": "qián nián tā chū yuàn，dì èr nián jiù chū guó le。",
    "grammar": [
-    "G2-62"
+    "G2-72",
+    "G2-47",
+    "G2-69"
    ]
   },
   {
@@ -5517,7 +6409,9 @@
    "text": "什么样的本子叫作笔记本？",
    "pinyin": "shén me yàng de běn zi jiào zuò bǐ jì běn？",
    "grammar": [
-    "G2-76"
+    "G2-76",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5527,7 +6421,9 @@
    "text": "同样的话，多么让人感动啊！",
    "pinyin": "tóng yàng de huà，duō me ràng rén gǎn dòng a！",
    "grammar": [
-    "G2-13"
+    "G2-66",
+    "G2-73",
+    "G2-35"
    ]
   },
   {
@@ -5537,7 +6433,9 @@
    "text": "十公里以外有山。",
    "pinyin": "shí gōng lǐ yǐ wài yǒu shān。",
    "grammar": [
-    "G2-56"
+    "G2-56",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -5547,7 +6445,9 @@
    "text": "这些练习全部都有作用。",
    "pinyin": "zhè xiē liàn xí quán bù dōu yǒu zuò yòng。",
    "grammar": [
-    "G2-14"
+    "G2-14",
+    "G2-55",
+    "G2-20"
    ]
   },
   {
@@ -5557,7 +6457,8 @@
    "text": "大门往左是酒店入口。",
    "pinyin": "dà mén wǎng zuǒ shì jiǔ diàn rù kǒu。",
    "grammar": [
-    "G2-22"
+    "G2-22",
+    "G2-08"
    ]
   },
   {
@@ -5567,7 +6468,9 @@
    "text": "这里很安全，游客很多。",
    "pinyin": "zhè lǐ hěn ān quán，yóu kè hěn duō。",
    "grammar": [
-    "G2-13"
+    "G2-14",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -5577,7 +6480,9 @@
    "text": "家庭对他很重要。",
    "pinyin": "jiā tíng duì tā hěn zhòng yào。",
    "grammar": [
-    "G2-25"
+    "G2-25",
+    "G2-81",
+    "G2-08"
    ]
   },
   {
@@ -5587,7 +6492,9 @@
    "text": "老年人常看晚报。",
    "pinyin": "lǎo nián rén cháng kàn wǎn bào。",
    "grammar": [
-    "G2-16"
+    "G2-16",
+    "G2-12",
+    "G2-08"
    ]
   },
   {
@@ -5597,7 +6504,9 @@
    "text": "晚报上有一条新闻。",
    "pinyin": "wǎn bào shàng yǒu yì tiáo xīn wén。",
    "grammar": [
-    "G2-10"
+    "G2-56",
+    "G2-10",
+    "G2-55"
    ]
   },
   {
@@ -5607,7 +6516,9 @@
    "text": "通过晚报，我看到了这条新闻。",
    "pinyin": "tōng guò wǎn bào，wǒ kàn dào le zhè tiáo xīn wén。",
    "grammar": [
-    "G2-49"
+    "G2-49",
+    "G2-32",
+    "G2-71"
    ]
   },
   {
@@ -5617,7 +6528,8 @@
    "text": "当时我没拿到票。",
    "pinyin": "dāng shí wǒ méi ná dào piào。",
    "grammar": [
-    "G2-49"
+    "G2-21",
+    "G2-08"
    ]
   },
   {
@@ -5627,7 +6539,9 @@
    "text": "有问题随时过来找我。",
    "pinyin": "yǒu wèn tí suí shí guò lái zhǎo wǒ。",
    "grammar": [
-    "G2-57"
+    "G2-50",
+    "G2-32",
+    "G2-71"
    ]
   },
   {
@@ -5637,7 +6551,7 @@
    "text": "我请客，午餐吃快餐。",
    "pinyin": "wǒ qǐng kè，wǔ cān chī kuài cān。",
    "grammar": [
-    "G2-62"
+    "G2-08"
    ]
   },
   {
@@ -5647,7 +6561,8 @@
    "text": "菜单上全是快餐。",
    "pinyin": "cài dān shàng quán shì kuài cān。",
    "grammar": [
-    "G2-14"
+    "G2-14",
+    "G2-08"
    ]
   },
   {
@@ -5657,7 +6572,9 @@
    "text": "我相信爱情，而且有理想。",
    "pinyin": "wǒ xiāng xìn ài qíng，ér qiě yǒu lǐ xiǎng。",
    "grammar": [
-    "G2-30"
+    "G2-30",
+    "G2-63",
+    "G2-55"
    ]
   },
   {
@@ -5665,9 +6582,11 @@
    "level": 2,
    "round": 4,
    "text": "我认为你可以接受。",
-   "pinyin": "wǒ rèn wèi nǐ kě yǐ jiē shòu。",
+   "pinyin": "wǒ rèn wéi nǐ kě yǐ jiē shòu。",
    "grammar": [
-    "G2-01"
+    "G2-01",
+    "G2-28",
+    "G2-08"
    ]
   },
   {
@@ -5675,9 +6594,11 @@
    "level": 2,
    "round": 4,
    "text": "他表示欢迎，但是要求很多。",
-   "pinyin": "tā biǎo shì huān yíng，dàn shì yào qiú hěn duō。",
+   "pinyin": "tā biǎo shì huān yíng，dàn shì yāo qiú hěn duō。",
    "grammar": [
-    "G2-65"
+    "G2-65",
+    "G2-30",
+    "G2-81"
    ]
   },
   {
@@ -5687,7 +6608,7 @@
    "text": "市长平时很忙。",
    "pinyin": "shì zhǎng píng shí hěn máng。",
    "grammar": [
-    "G2-13"
+    "G2-08"
    ]
   },
   {
@@ -5697,7 +6618,9 @@
    "text": "他对游客很友好。",
    "pinyin": "tā duì yóu kè hěn yǒu hǎo。",
    "grammar": [
-    "G2-25"
+    "G2-25",
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -5707,7 +6630,8 @@
    "text": "小时候爷爷常给我讲故事。",
    "pinyin": "xiǎo shí hou yé ye cháng gěi wǒ jiǎng gù shi。",
    "grammar": [
-    "G2-26"
+    "G2-26",
+    "G2-08"
    ]
   },
   {
@@ -5717,7 +6641,9 @@
    "text": "飞机就要起飞了。",
    "pinyin": "fēi jī jiù yào qǐ fēi le。",
    "grammar": [
-    "G2-81"
+    "G2-81",
+    "G2-69",
+    "G2-17"
    ]
   },
   {
@@ -5725,9 +6651,11 @@
    "level": 2,
    "round": 4,
    "text": "青少年应该多运动。",
-   "pinyin": "qīng shǎo nián yīng gāi duō yùn dòng。",
+   "pinyin": "qīng shào nián yīng gāi duō yùn dòng。",
    "grammar": [
-    "G2-02"
+    "G2-02",
+    "G2-12",
+    "G2-13"
    ]
   },
   {
@@ -5737,7 +6665,7 @@
    "text": "高中时他常打篮球。",
    "pinyin": "gāo zhōng shí tā cháng dǎ lán qiú。",
    "grammar": [
-    "G2-16"
+    "G2-08"
    ]
   },
   {
@@ -5747,7 +6675,9 @@
    "text": "这日子过得很慢。",
    "pinyin": "zhè rì zi guò dé hěn màn。",
    "grammar": [
-    "G2-31"
+    "G2-51",
+    "G2-31",
+    "G2-32"
    ]
   },
   {
@@ -5755,9 +6685,11 @@
    "level": 2,
    "round": 4,
    "text": "节日里大家都很高兴。",
-   "pinyin": "jié rì lǐ dà jiā dōu hěn gāo xīng。",
+   "pinyin": "jié rì lǐ dà jiā dōu hěn gāo xìng。",
    "grammar": [
-    "G2-06"
+    "G2-06",
+    "G2-20",
+    "G2-08"
    ]
   },
   {
@@ -5767,7 +6699,9 @@
    "text": "今年学校一百周年了。",
    "pinyin": "jīn nián xué xiào yì bǎi zhōu nián le。",
    "grammar": [
-    "G2-54"
+    "G2-12",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -5777,7 +6711,9 @@
    "text": "今天气温有点儿低。",
    "pinyin": "jīn tiān qì wēn yǒu diǎn ér dī。",
    "grammar": [
-    "G2-13"
+    "G2-48",
+    "G2-12",
+    "G2-55"
    ]
   },
   {
@@ -5787,7 +6723,9 @@
    "text": "你有空儿就来吧。",
    "pinyin": "nǐ yǒu kōng ér jiù lái ba。",
    "grammar": [
-    "G2-69"
+    "G2-69",
+    "G2-17",
+    "G2-55"
    ]
   },
   {
@@ -5797,7 +6735,7 @@
    "text": "打印两份菜单。",
    "pinyin": "dǎ yìn liǎng fèn cài dān。",
    "grammar": [
-    "G2-10"
+    "G2-08"
    ]
   },
   {
@@ -5805,9 +6743,10 @@
    "level": 2,
    "round": 4,
    "text": "请放下手机，看看外面。",
-   "pinyin": "qǐng fàng xià shǒu jī，kàn kàn wài miàn。",
+   "pinyin": "qǐng fàng xia shǒu jī，kàn kàn wài miàn。",
    "grammar": [
-    "G2-04"
+    "G2-11",
+    "G2-08"
    ]
   },
   {
@@ -5817,7 +6756,9 @@
    "text": "大家都相信他是个好人。",
    "pinyin": "dà jiā dōu xiāng xìn tā shì gè hǎo rén。",
    "grammar": [
-    "G2-20"
+    "G2-06",
+    "G2-20",
+    "G2-13"
    ]
   },
   {
@@ -5827,7 +6768,9 @@
    "text": "他一点点就学会了。",
    "pinyin": "tā yì diǎn diǎn jiù xué huì le。",
    "grammar": [
-    "G2-17"
+    "G2-54",
+    "G2-49",
+    "G2-69"
    ]
   },
   {
@@ -5837,7 +6780,8 @@
    "text": "一路平安！",
    "pinyin": "yí lù píng ān！",
    "grammar": [
-    "G2-79"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -5847,7 +6791,8 @@
    "text": "一路顺风！",
    "pinyin": "yí lù shùn fēng！",
    "grammar": [
-    "G2-79"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -5855,9 +6800,10 @@
    "level": 2,
    "round": 4,
    "text": "这是一部分作业。",
-   "pinyin": "zhè shì yí bù fēn zuò yè。",
+   "pinyin": "zhè shì yí bù fen zuò yè。",
    "grammar": [
-    "G2-39"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -5867,7 +6813,9 @@
    "text": "上周他去了北京。",
    "pinyin": "shàng zhōu tā qù le běi jīng。",
    "grammar": [
-    "G2-12"
+    "G2-12",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -5877,7 +6825,9 @@
    "text": "下周我们考试。",
    "pinyin": "xià zhōu wǒ men kǎo shì。",
    "grammar": [
-    "G2-12"
+    "G2-11",
+    "G2-12",
+    "G2-08"
    ]
   },
   {
@@ -5887,7 +6837,9 @@
    "text": "明天下雪吗？",
    "pinyin": "míng tiān xià xuě ma？",
    "grammar": [
-    "G2-79"
+    "G2-11",
+    "G2-12",
+    "G2-08"
    ]
   },
   {
@@ -5897,7 +6849,9 @@
    "text": "他不一定会来。",
    "pinyin": "tā bù yí dìng huì lái。",
    "grammar": [
-    "G2-19"
+    "G2-19",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -5907,6 +6861,8 @@
    "text": "不久他就回来了。",
    "pinyin": "bù jiǔ tā jiù huí lái le。",
    "grammar": [
+    "G2-50",
+    "G2-69",
     "G2-17"
    ]
   },
@@ -5917,7 +6873,8 @@
    "text": "他们的办法不同。",
    "pinyin": "tā men de bàn fǎ bù tóng。",
    "grammar": [
-    "G2-41"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5927,7 +6884,9 @@
    "text": "不好意思，我来晚了。",
    "pinyin": "bù hǎo yì si，wǒ lái wǎn le。",
    "grammar": [
-    "G2-34"
+    "G2-13",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -5937,7 +6896,9 @@
    "text": "这里的天气不如北京。",
    "pinyin": "zhè lǐ de tiān qì bù rú běi jīng。",
    "grammar": [
-    "G2-58"
+    "G2-12",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5947,7 +6908,9 @@
    "text": "不少人都来了。",
    "pinyin": "bù shǎo rén dōu lái le。",
    "grammar": [
-    "G2-20"
+    "G2-20",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -5957,7 +6920,8 @@
    "text": "他对这个结果不满。",
    "pinyin": "tā duì zhè ge jié guǒ bù mǎn。",
    "grammar": [
-    "G2-25"
+    "G2-25",
+    "G2-08"
    ]
   },
   {
@@ -5967,7 +6931,8 @@
    "text": "不要去那儿。",
    "pinyin": "bú yào qù nà ér。",
    "grammar": [
-    "G2-79"
+    "G2-81",
+    "G2-08"
    ]
   },
   {
@@ -5977,7 +6942,9 @@
    "text": "东北的冬天很冷。",
    "pinyin": "dōng běi de dōng tiān hěn lěng。",
    "grammar": [
-    "G2-39"
+    "G2-12",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -5987,7 +6954,9 @@
    "text": "东南方向有山。",
    "pinyin": "dōng nán fāng xiàng yǒu shān。",
    "grammar": [
-    "G2-55"
+    "G2-23",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -5997,7 +6966,7 @@
    "text": "他个子很高。",
    "pinyin": "tā gè zi hěn gāo。",
    "grammar": [
-    "G2-48"
+    "G2-08"
    ]
   },
   {
@@ -6007,7 +6976,9 @@
    "text": "中医很有用。",
    "pinyin": "zhōng yī hěn yǒu yòng。",
    "grammar": [
-    "G2-39"
+    "G2-56",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -6017,7 +6988,9 @@
    "text": "中小学都开学了。",
    "pinyin": "zhōng xiǎo xué dōu kāi xué le。",
    "grammar": [
-    "G2-20"
+    "G2-20",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -6027,7 +7000,8 @@
    "text": "他是中年人。",
    "pinyin": "tā shì zhōng nián rén。",
    "grammar": [
-    "G2-54"
+    "G2-12",
+    "G2-08"
    ]
   },
   {
@@ -6037,7 +7011,8 @@
    "text": "这里是学校的中心。",
    "pinyin": "zhè lǐ shì xué xiào de zhōng xīn。",
    "grammar": [
-    "G2-39"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -6047,7 +7022,9 @@
    "text": "他考过了中级。",
    "pinyin": "tā kǎo guò le zhōng jí。",
    "grammar": [
-    "G2-32"
+    "G2-32",
+    "G2-71",
+    "G2-04"
    ]
   },
   {
@@ -6057,7 +7034,8 @@
    "text": "中餐很好吃。",
    "pinyin": "zhōng cān hěn hǎo chī。",
    "grammar": [
-    "G2-41"
+    "G2-13",
+    "G2-08"
    ]
   },
   {
@@ -6067,7 +7045,7 @@
    "text": "主人很热情。",
    "pinyin": "zhǔ rén hěn rè qíng。",
    "grammar": [
-    "G2-41"
+    "G2-08"
    ]
   },
   {
@@ -6077,7 +7055,7 @@
    "text": "学校举行运动会。",
    "pinyin": "xué xiào jǔ xíng yùn dòng huì。",
    "grammar": [
-    "G2-40"
+    "G2-08"
    ]
   },
   {
@@ -6087,7 +7065,8 @@
    "text": "也许他会来。",
    "pinyin": "yě xǔ tā huì lái。",
    "grammar": [
-    "G2-19"
+    "G2-19",
+    "G2-08"
    ]
   },
   {
@@ -6097,7 +7076,7 @@
    "text": "我喜欢交朋友。",
    "pinyin": "wǒ xǐ huan jiāo péng you。",
    "grammar": [
-    "G2-40"
+    "G2-08"
    ]
   },
   {
@@ -6107,7 +7086,8 @@
    "text": "这书交给你。",
    "pinyin": "zhè shū jiāo gěi nǐ。",
    "grammar": [
-    "G2-26"
+    "G2-26",
+    "G2-08"
    ]
   },
   {
@@ -6117,7 +7097,7 @@
    "text": "这里交通很方便。",
    "pinyin": "zhè lǐ jiāo tōng hěn fāng biàn。",
    "grammar": [
-    "G2-41"
+    "G2-08"
    ]
   },
   {
@@ -6127,7 +7107,8 @@
    "text": "他举起了手。",
    "pinyin": "tā jǔ qǐ le shǒu。",
    "grammar": [
-    "G2-50"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -6137,7 +7118,8 @@
    "text": "这些钱我们分吧。",
    "pinyin": "zhè xiē qián wǒ men fēn ba。",
    "grammar": [
-    "G2-34"
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -6147,7 +7129,8 @@
    "text": "这件事我来办。",
    "pinyin": "zhè jiàn shì wǒ lái bàn。",
    "grammar": [
-    "G2-54"
+    "G2-10",
+    "G2-08"
    ]
   },
   {
@@ -6157,7 +7140,7 @@
    "text": "他去银行取钱。",
    "pinyin": "tā qù yín xíng qǔ qián。",
    "grammar": [
-    "G2-57"
+    "G2-08"
    ]
   },
   {
@@ -6167,7 +7150,9 @@
    "text": "一周有七天。",
    "pinyin": "yì zhōu yǒu qī tiān。",
    "grammar": [
-    "G2-55"
+    "G2-12",
+    "G2-55",
+    "G2-04"
    ]
   },
   {
@@ -6177,7 +7162,9 @@
    "text": "咱走吧。",
    "pinyin": "zán zǒu ba。",
    "grammar": [
-    "G2-06"
+    "G2-06",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -6187,7 +7174,8 @@
    "text": "电话响了两声。",
    "pinyin": "diàn huà xiǎng le liǎng shēng。",
    "grammar": [
-    "G2-52"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -6197,7 +7185,9 @@
    "text": "夜越来越长了。",
    "pinyin": "yè yuè lái yuè zhǎng le。",
    "grammar": [
-    "G2-44"
+    "G2-44",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -6207,7 +7197,9 @@
    "text": "它是一只猫。",
    "pinyin": "tā shì yì zhǐ māo。",
    "grammar": [
-    "G2-06"
+    "G2-06",
+    "G2-14",
+    "G2-04"
    ]
   },
   {
@@ -6217,7 +7209,8 @@
    "text": "这条路比那条平。",
    "pinyin": "zhè tiáo lù bǐ nà tiáo píng。",
    "grammar": [
-    "G2-58"
+    "G2-10",
+    "G2-08"
    ]
   },
   {
@@ -6227,7 +7220,9 @@
    "text": "他成了老师。",
    "pinyin": "tā chéng le lǎo shī。",
    "grammar": [
-    "G2-49"
+    "G2-16",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -6237,7 +7232,9 @@
    "text": "他提着一个包。",
    "pinyin": "tā tí zhe yí ge bāo。",
    "grammar": [
-    "G2-70"
+    "G2-33",
+    "G2-70",
+    "G2-04"
    ]
   },
   {
@@ -6247,7 +7244,8 @@
    "text": "请收下这本书。",
    "pinyin": "qǐng shōu xià zhè běn shū。",
    "grammar": [
-    "G2-50"
+    "G2-11",
+    "G2-08"
    ]
   },
   {
@@ -6257,7 +7255,8 @@
    "text": "杯子满了。",
    "pinyin": "bēi zi mǎn le。",
    "grammar": [
-    "G2-49"
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -6267,7 +7266,9 @@
    "text": "瓶里有水。",
    "pinyin": "píng lǐ yǒu shuǐ。",
    "grammar": [
-    "G2-56"
+    "G2-56",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -6277,7 +7278,9 @@
    "text": "他一眼就看见了。",
    "pinyin": "tā yì yǎn jiù kàn jiàn le。",
    "grammar": [
-    "G2-11"
+    "G2-49",
+    "G2-69",
+    "G2-17"
    ]
   },
   {
@@ -6287,7 +7290,9 @@
    "text": "他碰了一下杯子。",
    "pinyin": "tā pèng le yí xià bēi zi。",
    "grammar": [
-    "G2-11"
+    "G2-52",
+    "G2-11",
+    "G2-04"
    ]
   },
   {
@@ -6297,7 +7302,9 @@
    "text": "他的级别比我高。",
    "pinyin": "tā de jí bié bǐ wǒ gāo。",
    "grammar": [
-    "G2-58"
+    "G2-58",
+    "G2-34",
+    "G2-08"
    ]
   },
   {
@@ -6307,7 +7314,9 @@
    "text": "树都绿了。",
    "pinyin": "shù dōu lǜ le。",
    "grammar": [
-    "G2-20"
+    "G2-20",
+    "G2-04",
+    "G2-08"
    ]
   },
   {
@@ -6317,7 +7326,9 @@
    "text": "今天有四节课。",
    "pinyin": "jīn tiān yǒu sì jié kè。",
    "grammar": [
-    "G2-55"
+    "G2-12",
+    "G2-55",
+    "G2-08"
    ]
   },
   {
@@ -6327,7 +7338,7 @@
    "text": "草比花绿。",
    "pinyin": "cǎo bǐ huā lǜ。",
    "grammar": [
-    "G2-58"
+    "G2-08"
    ]
   },
   {
@@ -6337,7 +7348,9 @@
    "text": "他越过那条河。",
    "pinyin": "tā yuè guò nà tiáo hé。",
    "grammar": [
-    "G2-50"
+    "G2-32",
+    "G2-71",
+    "G2-10"
    ]
   },
   {
@@ -6347,7 +7360,7 @@
    "text": "这个包比那个轻。",
    "pinyin": "zhè ge bāo bǐ nà ge qīng。",
    "grammar": [
-    "G2-58"
+    "G2-08"
    ]
   },
   {
@@ -6357,7 +7370,8 @@
    "text": "这条路通到海边。",
    "pinyin": "zhè tiáo lù tōng dào hǎi biān。",
    "grammar": [
-    "G2-49"
+    "G2-10",
+    "G2-08"
    ]
   },
   {
@@ -6367,7 +7381,7 @@
    "text": "他骑马去草原。",
    "pinyin": "tā qí mǎ qù cǎo yuán。",
    "grammar": [
-    "G2-57"
+    "G2-08"
    ]
   },
   {
@@ -6377,7 +7391,8 @@
    "text": "体育课比英文课难。",
    "pinyin": "tǐ yù kè bǐ yīng wén kè nán。",
    "grammar": [
-    "G2-58"
+    "G2-58",
+    "G2-08"
    ]
   },
   {
@@ -6387,7 +7402,7 @@
    "text": "他坐地铁去上班。",
    "pinyin": "tā zuò dì tiě qù shàng bān。",
    "grammar": [
-    "G2-57"
+    "G2-08"
    ]
   },
   {
@@ -6397,7 +7412,9 @@
    "text": "全家人平安就好。",
    "pinyin": "quán jiā rén píng ān jiù hǎo。",
    "grammar": [
-    "G2-67"
+    "G2-14",
+    "G2-69",
+    "G2-17"
    ]
   },
   {
@@ -6405,9 +7422,55 @@
    "level": 2,
    "round": 4,
    "text": "这部分比那部分好。",
-   "pinyin": "zhè bù fēn bǐ nà bù fēn hǎo。",
+   "pinyin": "zhè bù fen bǐ nà bù fen hǎo。",
    "grammar": [
-    "G2-58"
+    "G2-58",
+    "G2-13",
+    "G2-08"
+   ]
+  },
+  {
+   "id": "L2-642",
+   "level": 2,
+   "round": 9,
+   "text": "老师让我重新写一遍。",
+   "pinyin": "lǎo shī ràng wǒ chóng xīn xiě yí biàn。",
+   "grammar": [
+    "G2-52",
+    "G2-16",
+    "G2-11"
+   ]
+  },
+  {
+   "id": "L2-643",
+   "level": 2,
+   "round": 9,
+   "text": "妈妈在银行工作。",
+   "pinyin": "mā ma zài yín háng gōng zuò。",
+   "grammar": [
+    "G2-08"
+   ]
+  },
+  {
+   "id": "L2-644",
+   "level": 2,
+   "round": 9,
+   "text": "风太大了，树倒了。",
+   "pinyin": "fēng tài dà le， shù dǎo le。",
+   "grammar": [
+    "G2-04",
+    "G2-08"
+   ]
+  },
+  {
+   "id": "L2-645",
+   "level": 2,
+   "round": 9,
+   "text": "弟弟会数数了。",
+   "pinyin": "dì di huì shǔ shù le。",
+   "grammar": [
+    "G2-04",
+    "G2-08"
    ]
   }
  ]

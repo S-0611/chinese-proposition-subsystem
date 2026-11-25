@@ -1,0 +1,290 @@
+[
+ {
+  "id": "G1-01",
+  "name": "方位名词:上、下、里、外、前、后、左、右、东、南、西、北(及…边)",
+  "pattern": "(上|下|里|外|前|后|左|右|东|南|西|北)(边|面)?",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-02",
+  "name": "能愿动词:会、能",
+  "pattern": "(会|能)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-03",
+  "name": "能愿动词:想、要",
+  "pattern": "(想|要)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-04",
+  "name": "疑问代词:多、多少、几、哪、哪儿、哪里、哪些、什么、谁、怎么",
+  "pattern": "(多|多少|几|哪|什么|谁|怎么)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-05",
+  "name": "人称代词:我、你、您、他、她、我们、你们、他们、她们",
+  "pattern": "(我|你|您|他|她|我们|你们|他们|她们)",
+  "pattern_source": "keep-fail"
+ },
+ {
+  "id": "G1-06",
+  "name": "指示代词:这、那、这儿、那儿、这里、那里、这些、那些、别的、有的",
+  "pattern": "(这|那|别的|有的)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-07",
+  "name": "数词:一、二/两、三…九、零；十、百；半",
+  "pattern": "[一二两三四五六七八九十百零半]",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-08",
+  "name": "名量词:杯、本、个、家、间、口、块、页",
+  "pattern": "[杯本个家间口块页]",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-09",
+  "name": "程度副词:非常、很、太、真、最",
+  "pattern": "(非常|很|太|真|最)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-10",
+  "name": "范围、协同副词:都、一块儿、一起",
+  "pattern": "(都|一块儿|一起)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-11",
+  "name": "时间副词:马上、先、有时、在、正、正在",
+  "pattern": "(马上|先|有时|正在|正)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-12",
+  "name": "频率、重复副词:常、常常、再",
+  "pattern": "(常|再)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-13",
+  "name": "关联副词:还、也",
+  "pattern": "(还|也)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-14",
+  "name": "否定副词:别、不、没、没有",
+  "pattern": "(别|不|没)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-15",
+  "name": "介词:从",
+  "pattern": "从",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-16",
+  "name": "介词:在",
+  "pattern": "在",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-17",
+  "name": "介词:跟、和",
+  "pattern": "(跟|和)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-18",
+  "name": "介词:比",
+  "pattern": "比",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-19",
+  "name": "连接词或短语:跟、还是、和",
+  "pattern": "(跟|还是|和)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-20",
+  "name": "结构助词:的、地",
+  "pattern": "(的|地)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-21",
+  "name": "动态助词:了",
+  "pattern": "了",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-22",
+  "name": "语气助词:吧、了、吗、呢",
+  "pattern": "(吧|吗|呢|了[。？！])",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-23",
+  "name": "数量短语",
+  "pattern": "[一二两三四五六七八九十这那半百]+[杯本个家间口块页人岁点]",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-24",
+  "name": "名词、代词或名词性短语作主语",
+  "pattern": "(我|你|他|她|我们|这|那|老师|学生|同学)",
+  "pattern_source": "keep-fail"
+ },
+ {
+  "id": "G1-25",
+  "name": "动词或形容词(短语)作谓语",
+  "pattern": "(是|有|来|去|买|吃|喝|看|说|很|太|真)",
+  "pattern_source": "keep-fail"
+ },
+ {
+  "id": "G1-26",
+  "name": "名词、代词或名词性短语作宾语",
+  "pattern": "(买|吃|喝|看|要|有|是).{1,6}",
+  "pattern_source": "keep-fail"
+ },
+ {
+  "id": "G1-27",
+  "name": "名词性词语、形容词性词语、数量短语作定语",
+  "pattern": "的.{1,4}(书|人|朋友|时候)?",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-28",
+  "name": "副词、形容词作状语;时间、处所词语作状语",
+  "pattern": "(很|非常|都|也|就|不|今天|明天|昨天|现在|在)",
+  "pattern_source": "keep-fail"
+ },
+ {
+  "id": "G1-29",
+  "name": "主谓句1:动词谓语句",
+  "pattern": "(是|有|去|来|买|吃|喝|看|说|学|写|玩)",
+  "pattern_source": "keep-fail"
+ },
+ {
+  "id": "G1-30",
+  "name": "主谓句2:形容词谓语句",
+  "pattern": "(很|太|真|非常|最)[^，。？！]{1,5}",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-31",
+  "name": "非主谓句",
+  "pattern": "^[^，。？！]{1,8}[。？！]$",
+  "pattern_source": "keep-fail"
+ },
+ {
+  "id": "G1-32",
+  "name": "陈述句",
+  "pattern": "[。！]$",
+  "pattern_source": "keep-fail"
+ },
+ {
+  "id": "G1-33",
+  "name": "疑问句(是非、特指、选择、正反)",
+  "pattern": "(吗|呢|还是|不[^，。？！]|什么|谁|哪|几|多少)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-34",
+  "name": "祈使句",
+  "pattern": "(请|别|不要)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-35",
+  "name": "感叹句",
+  "pattern": "(太[^，。？！]{1,6}了|真[^，。？！]{1,6})",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-36",
+  "name": "“是”字句:等同/类属、说明/特征、存在",
+  "pattern": "是",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-37",
+  "name": "“有”字句:领有、存在",
+  "pattern": "有",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-38",
+  "name": "比较句:A比B+形容词;A没有B+形容词",
+  "pattern": "(比|没有[^，。？！]{1,6}[高大贵好])",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-39",
+  "name": "并列复句(含一边…一边…、也)",
+  "pattern": "(一边|也|，)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-40",
+  "name": "变化态:动态助词“了”",
+  "pattern": "了[。！]",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-41",
+  "name": "完成态:动态助词“了”",
+  "pattern": "了[^，。？！]",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-42",
+  "name": "进行态:在/正/正在+动词(+呢);…呢",
+  "pattern": "(正在|正|在)[^，。？！]{0,4}(看|吃|说|下雨|睡)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-43",
+  "name": "钱数表示法",
+  "pattern": "(块|元|毛|分)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-44",
+  "name": "时间表示法:年月日星期、钟点",
+  "pattern": "(年|月|日|号|星期|点|分)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-45",
+  "name": "用“吗”提问",
+  "pattern": "吗",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-46",
+  "name": "用“多、多少、几、哪、什么、谁、怎么”提问",
+  "pattern": "(多|多少|几|哪|什么|谁|怎么)",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-47",
+  "name": "用“还是”提问",
+  "pattern": "还是",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G1-48",
+  "name": "用正反疑问形式提问",
+  "pattern": "(是不是|有没有|好不好|行不行|去不去|贵不贵|冷不冷)",
+  "pattern_source": "keep"
+ }
+]

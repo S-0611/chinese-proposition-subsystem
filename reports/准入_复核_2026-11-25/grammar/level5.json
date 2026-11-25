@@ -1,0 +1,499 @@
+[
+ {
+  "id": "G5-01",
+  "name": "指示代词:彼此、如此",
+  "pattern": "彼此|如此",
+  "desc": "指示代词:彼此、如此。例句/示例：彼此、如此",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-02",
+  "name": "名量词:册、朵、幅、届、颗、匹、扇",
+  "pattern": "册|朵|幅|届|颗|匹|扇",
+  "desc": "名量词:册、朵、幅、届、颗、匹、扇。例句/示例：册、朵、幅、届、颗、匹、扇",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-03",
+  "name": "程度副词:过于、可、稍、稍微、尤其",
+  "pattern": "过于|可|稍|稍微|尤其",
+  "desc": "程度副词:过于、可、稍、稍微、尤其。例句/示例：过于、可、稍、稍微、尤其",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-04",
+  "name": "范围副词:大都",
+  "pattern": "大都",
+  "desc": "范围副词:大都。例句/示例：大都",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-05",
+  "name": "时间副词:不时、将、将要、仍旧、时常、时刻、依旧、一向",
+  "pattern": "不时|将|将要|仍旧|时常|时刻|依旧|一向",
+  "desc": "时间副词:不时、将、将要、仍旧、时常、时刻、依旧、一向。例句/示例：不时、将、将要、仍旧、时常、时刻、依旧、一向",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-06",
+  "name": "频率、重复副词:偶尔、再次",
+  "pattern": "偶尔|再次",
+  "desc": "频率、重复副词:偶尔、再次。例句/示例：偶尔、再次",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-07",
+  "name": "方式副词:偷偷",
+  "pattern": "偷偷",
+  "desc": "方式副词:偷偷。例句/示例：偷偷",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-08",
+  "name": "语气副词:毕竟、不免、差(一)点儿、倒是、干脆、就、居然、可、明明、总算",
+  "pattern": "毕竟|不免|差点儿|倒是|干脆|就|居然|可|明明|总算",
+  "desc": "语气副词:毕竟、不免、差(一)点儿、倒是、干脆、就、居然、可、明明、总算。例句/示例：毕竟、不免、差点儿、倒是、干脆、就、居然、可、明明、总算",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-09",
+  "name": "介词:随着",
+  "pattern": "随着",
+  "desc": "介词:随着。例句/示例：随着",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-10",
+  "name": "介词:将",
+  "pattern": "将",
+  "desc": "介词:将。例句/示例：将",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-11",
+  "name": "介词:由",
+  "pattern": "由",
+  "desc": "介词:由。例句/示例：由",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-12",
+  "name": "介词:凭",
+  "pattern": "凭",
+  "desc": "介词:凭。例句/示例：凭",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-13",
+  "name": "介词:依据",
+  "pattern": "依据",
+  "desc": "介词:依据。例句/示例：依据",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-14",
+  "name": "介词:依照",
+  "pattern": "依照",
+  "desc": "介词:依照。例句/示例：依照",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-15",
+  "name": "连接分句或句子:从而、加上、完了、一旦",
+  "pattern": "从而|加上|完了|一旦",
+  "desc": "连接分句或句子:从而、加上、完了、一旦。例句/示例：从而、加上、完了、一旦",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-16",
+  "name": "其他助词:也好",
+  "pattern": "也好",
+  "desc": "其他助词:也好。例句/示例：也好",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-17",
+  "name": "A来A去",
+  "pattern": "来|去",
+  "desc": "A来A去。例句/示例：来、去",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-18",
+  "name": "A着A着",
+  "pattern": "着",
+  "desc": "A着A着。例句/示例：着",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-19",
+  "name": "没A没B",
+  "pattern": "没|没",
+  "desc": "没A没B。例句/示例：没、没",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-20",
+  "name": "说A就A",
+  "pattern": "说|就",
+  "desc": "说A就A。例句/示例：说、就",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-21",
+  "name": "有A有B",
+  "pattern": "有|有",
+  "desc": "有A有B。例句/示例：有、有",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-22",
+  "name": "不得了",
+  "pattern": "不得了",
+  "desc": "不得了。例句/示例：不得了",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-23",
+  "name": "不敢当",
+  "pattern": "不敢当",
+  "desc": "不敢当。例句/示例：不敢当",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-24",
+  "name": "得了",
+  "pattern": "得了",
+  "desc": "得了。例句/示例：得了",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-25",
+  "name": "用不着",
+  "pattern": "用不着",
+  "desc": "用不着。例句/示例：用不着",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-26",
+  "name": "从……来看",
+  "pattern": "从|来看",
+  "desc": "从……来看。例句/示例：从、来看",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-27",
+  "name": "到……为止",
+  "pattern": "到|为止",
+  "desc": "到……为止。例句/示例：到、为止",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-28",
+  "name": "够……的",
+  "pattern": "够|的",
+  "desc": "够……的。例句/示例：够、的",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-29",
+  "name": "拿……来说",
+  "pattern": "拿|来说",
+  "desc": "拿……来说。例句/示例：拿、来说",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-30",
+  "name": "A的A，B的B",
+  "pattern": "的|的",
+  "desc": "A的A，B的B。例句/示例：的、的",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-31",
+  "name": "在……看来",
+  "pattern": "在|看来",
+  "desc": "在……看来。例句/示例：在、看来",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-32",
+  "name": "宾语的语义类型",
+  "pattern": ".",
+  "desc": "宾语的语义类型。例句/示例：宾语",
+  "pattern_source": "keep-fail"
+ },
+ {
+  "id": "G5-33",
+  "name": "多项状语",
+  "pattern": ".",
+  "desc": "多项状语。例句/示例：状语",
+  "pattern_source": "keep-fail"
+ },
+ {
+  "id": "G5-34",
+  "name": "趋向补语(表示时间意义:上/起来、下去/下来)",
+  "pattern": "上|起来|下去|下来",
+  "desc": "趋向补语(表示时间意义:上/起来、下去/下来)。例句/示例：上、起来、下去、下来",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-35",
+  "name": "可能补语:动词+得/不得",
+  "pattern": "得|不得",
+  "desc": "可能补语:动词+得/不得。例句/示例：得、不得",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-36",
+  "name": "程度补语",
+  "pattern": "得|不得了|慌|厉害|坏|透",
+  "desc": "程度补语。例句/示例：得、不得了、慌、厉害、坏、透",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-37",
+  "name": "状态补语:动词/形容词+得+短语",
+  "pattern": "得",
+  "desc": "状态补语:动词/形容词+得+短语。例句/示例：得",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-38",
+  "name": "\"有\"字句",
+  "pattern": "有",
+  "desc": "\"有\"字句。例句/示例：有",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-39",
+  "name": "\"把\"字句:表处置",
+  "pattern": "把",
+  "desc": "\"把\"字句:表处置。例句/示例：把",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-40",
+  "name": "被动句:意念被动句",
+  "pattern": "被",
+  "desc": "被动句:意念被动句。例句/示例：被",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-41",
+  "name": "连动句",
+  "pattern": "[^，。？！]{1,3}(了|完)[^，。？！]{0,3}[^，。？！]{1,3}(回家|去|来|买|看|走)",
+  "desc": "连动句。例句/示例：连动",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G5-42",
+  "name": "兼语句:表致使",
+  "pattern": "叫|令|使|让",
+  "desc": "兼语句:表致使。例句/示例：叫、令、使、让",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-43",
+  "name": "比较句",
+  "pattern": "跟|相比|比",
+  "desc": "比较句。例句/示例：跟、相比、比",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-44",
+  "name": "或是……，或是……",
+  "pattern": "或是",
+  "desc": "或是……，或是……。例句/示例：或是",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-45",
+  "name": "尽管……，但是/可是……",
+  "pattern": "尽管|但是|可是",
+  "desc": "尽管……，但是/可是……。例句/示例：尽管、但是、可是",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-46",
+  "name": "一旦……，就……",
+  "pattern": "一旦|就",
+  "desc": "一旦……，就……。例句/示例：一旦、就",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-47",
+  "name": "要是……，(就)……，否则……",
+  "pattern": "要是|否则",
+  "desc": "要是……，(就)……，否则……。例句/示例：要是、否则",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-48",
+  "name": "除非……，才……",
+  "pattern": "除非|才",
+  "desc": "除非……，才……。例句/示例：除非、才",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-49",
+  "name": "除非……，否则/不然……",
+  "pattern": "除非|否则|不然",
+  "desc": "除非……，否则/不然……。例句/示例：除非、否则、不然",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-50",
+  "name": "……，因而……",
+  "pattern": "因而",
+  "desc": "……，因而……。例句/示例：因而",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-51",
+  "name": "即使……，也……",
+  "pattern": "即使|也",
+  "desc": "即使……，也……。例句/示例：即使、也",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-52",
+  "name": "……，为的是……",
+  "pattern": "为的是",
+  "desc": "……，为的是……。例句/示例：为的是",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-53",
+  "name": "……，以便……",
+  "pattern": "以便",
+  "desc": "……，以便……。例句/示例：以便",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-54",
+  "name": "没有……就没有……",
+  "pattern": "没有|就没有",
+  "desc": "没有……就没有……。例句/示例：没有、就没有",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-55",
+  "name": "再……也……",
+  "pattern": "再|也",
+  "desc": "再……也……。例句/示例：再、也",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-56",
+  "name": "二重复句",
+  "pattern": "[^，。？！]{2,8}，[^，。？！]{2,8}，[^，。？！]{2,8}[。]",
+  "desc": "二重复句。例句/示例：复句",
+  "pattern_source": "override"
+ },
+ {
+  "id": "G5-57",
+  "name": "用\"再也不/没\"表示强调",
+  "pattern": "再也|不|没",
+  "desc": "用\"再也不/没\"表示强调。例句/示例：再也、不、没",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-58",
+  "name": "用副词\"可\"表示强调",
+  "pattern": "可",
+  "desc": "用副词\"可\"表示强调。例句/示例：可",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-59",
+  "name": "用\"怎么都/也+不/没\"表示强调",
+  "pattern": "怎么|都|也|不|没",
+  "desc": "用\"怎么都/也+不/没\"表示强调。例句/示例：怎么、都、也、不、没",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-60",
+  "name": "X也不是，Y也不是",
+  "pattern": "也不是|也不是",
+  "desc": "X也不是，Y也不是。例句/示例：也不是、也不是",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-61",
+  "name": "X也X不得，Y也Y不得",
+  "pattern": "也|不得",
+  "desc": "X也X不得，Y也Y不得。例句/示例：也、不得",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-62",
+  "name": "X是它，Y也是它",
+  "pattern": "是它|也是它",
+  "desc": "X是它，Y也是它。例句/示例：是它、也是它",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-63",
+  "name": "X着也是X着",
+  "pattern": "着也是|着",
+  "desc": "X着也是X着。例句/示例：着也是、着",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-64",
+  "name": "X归X，Y归Y",
+  "pattern": "归|归",
+  "desc": "X归X，Y归Y。例句/示例：归、归",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-65",
+  "name": "不管怎样说",
+  "pattern": "不管怎样说",
+  "desc": "不管怎样说。例句/示例：不管怎样说",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-66",
+  "name": "看你X的/瞧他X的",
+  "pattern": "看你|瞧他|的",
+  "desc": "看你X的/瞧他X的。例句/示例：看你、瞧他、的",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-67",
+  "name": "真有你的/他/她的",
+  "pattern": "真有",
+  "desc": "真有你的/他/她的。例句/示例：真有",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-68",
+  "name": "X什么X",
+  "pattern": "什么",
+  "desc": "X什么X。例句/示例：什么",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-69",
+  "name": "什么X不X(的)",
+  "pattern": "什么|不",
+  "desc": "什么X不X(的)。例句/示例：什么、不",
+  "pattern_source": "keep"
+ },
+ {
+  "id": "G5-70",
+  "name": "用代词复指",
+  "pattern": ".",
+  "desc": "用代词复指。例句/示例：复指",
+  "pattern_source": "keep-fail"
+ },
+ {
+  "id": "G5-71",
+  "name": "带省略成分",
+  "pattern": ".",
+  "desc": "带省略成分。例句/示例：省略",
+  "pattern_source": "keep-fail"
+ }
+]
