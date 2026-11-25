@@ -10,15 +10,15 @@
   "allow_digits": false,
   "bank_target_items": [
    148,
-   1200
+   1800
   ],
-  "note": "高等合并级题量 148–1200；2026-11-25 起题库改为自然句为主：不再用「本课词语有…」词表堆叠题硬凑 5636 个高等词，全部题目为真实句子。新增 1200 字仍按 100% 覆盖验收；高等规范词形改为按实测覆盖率验收（常规 70.3%、严格 69.1%），阈值见 thresholds.vocab_coverage_min。"
+  "note": "高等合并级题量 148–1800；2026-11-25 题库改为自然句为主：不再用「本课词语有…」词表堆叠题硬凑高等词，全部题目为真实句子。首轮 1200 题（新增字 100%、词汇 69.1%），第二轮补词至 1675 题，新增 1200 字 1200/1200、高等规范词形 5620/5620（严格口径，寄生 0）、语法点 148/148 每点 ≥2 均达 100%。"
  },
  "thresholds": {
   "char_coverage_min": 1.0,
   "char_freq_min": 0,
   "core_char_freq_min": 0,
-  "vocab_coverage_min": 0.68,
+  "vocab_coverage_min": 1.0,
   "grammar_coverage_min": 1.0,
   "grammar_freq_min": 2
  },
@@ -3332,7 +3332,7 @@
   "unique_headwords": 5620,
   "list_path": "data/vocabulary/level7.json",
   "source": "HSK 3.0 vocabulary transcription",
-  "note": "高等阶段词汇总量统一，不再按级细分；逐词表见 data/vocabulary/level7.json。2026-11-25 起不再要求 5636 词全覆盖：词表仅作覆盖统计与补题依据，题库以自然句为主，实测常规 70.3% / 严格 69.1%。"
+  "note": "高等阶段词汇总量统一，不再按级细分；逐词表见 data/vocabulary/level7.json。2026-11-25 第二轮补词后，5620 个规范词形已按严格口径 100% 覆盖（寄生 0、从未出现 0），词表本身未改动。"
  },
  "chars_total_count": 3000,
  "chars_new_count": 1200,
