@@ -67,7 +67,7 @@
       "level": 3,
       "round": 1,
       "text": "这件事需要大家一起商量。",
-      "pinyin": "zhè jiàn shì xū yào dà jiā yì qǐ shāng liáng。",
+      "pinyin": "zhè jiàn shì xū yào dà jiā yì qǐ shāng liang。",
       "grammar": [
         "G3-04"
       ]
@@ -117,7 +117,7 @@
       "level": 3,
       "round": 1,
       "text": "我们完成了任务。",
-      "pinyin": "wǒ men wán chéng le rèn wù。",
+      "pinyin": "wǒ men wán chéng le rèn wu。",
       "grammar": [
         "G3-06"
       ]
@@ -147,7 +147,7 @@
       "level": 3,
       "round": 1,
       "text": "各国朋友都来了。",
-      "pinyin": "gè guó péng yǒu dōu lái le。",
+      "pinyin": "gè guó péng you dōu lái le。",
       "grammar": [
         "G3-08"
       ]
@@ -217,7 +217,7 @@
       "level": 3,
       "round": 1,
       "text": "他的衣服件件都很新。",
-      "pinyin": "tā de yī fú jiàn jiàn dōu hěn xīn。",
+      "pinyin": "tā de yī fu jiàn jiàn dōu hěn xīn。",
       "grammar": [
         "G3-11"
       ]
@@ -267,7 +267,7 @@
       "level": 3,
       "round": 1,
       "text": "他本来想去，后来改主意了。",
-      "pinyin": "tā běn lái xiǎng qù，hòu lái gǎi zhǔ yì le。",
+      "pinyin": "tā běn lái xiǎng qù，hòu lái gǎi zhǔ yi le。",
       "grammar": [
         "G3-14"
       ]
@@ -587,7 +587,7 @@
       "level": 3,
       "round": 1,
       "text": "他会唱歌，并且唱得很好。",
-      "pinyin": "tā huì chàng gē，bìng qiě chàng dé hěn hǎo。",
+      "pinyin": "tā huì chàng gē，bìng qiě chàng de hěn hǎo。",
       "grammar": [
         "G3-30"
       ]
@@ -607,7 +607,7 @@
       "level": 3,
       "round": 2,
       "text": "大家哈哈地笑了。",
-      "pinyin": "dà jiā hā hā dì xiào le。",
+      "pinyin": "dà jiā hā hā de xiào le。",
       "grammar": [
         "G3-31"
       ]
@@ -637,7 +637,7 @@
       "level": 3,
       "round": 2,
       "text": "我的朋友小张来了。",
-      "pinyin": "wǒ de péng yǒu xiǎo zhāng lái le。",
+      "pinyin": "wǒ de péng you xiǎo zhāng lái le。",
       "grammar": [
         "G3-32"
       ]
@@ -677,7 +677,7 @@
       "level": 3,
       "round": 2,
       "text": "他穿得不长不短，很合适。",
-      "pinyin": "tā chuān dé bù zhǎng bù duǎn，hěn hé shì。",
+      "pinyin": "tā chuān de bù zhǎng bù duǎn，hěn hé shì。",
       "grammar": [
         "G3-34"
       ]
@@ -707,7 +707,7 @@
       "level": 3,
       "round": 2,
       "text": "这件衣服看上去不错。",
-      "pinyin": "zhè jiàn yī fú kàn shàng qù bú cuò。",
+      "pinyin": "zhè jiàn yī fu kàn shàng qù bú cuò。",
       "grammar": [
         "G3-36"
       ]
@@ -757,7 +757,7 @@
       "level": 3,
       "round": 2,
       "text": "除了我，他们也都去过长城。",
-      "pinyin": "chú le wǒ，tā men yě dōu qù guò cháng chéng。",
+      "pinyin": "chú le wǒ，tā men yě dōu qù guo cháng chéng。",
       "grammar": [
         "G3-38"
       ]
@@ -877,7 +877,7 @@
       "level": 3,
       "round": 2,
       "text": "她喜欢安静。",
-      "pinyin": "tā xǐ huān ān jìng。",
+      "pinyin": "tā xǐ huan ān jìng。",
       "grammar": [
         "G3-44"
       ]
@@ -887,7 +887,7 @@
       "level": 3,
       "round": 2,
       "text": "跳舞的女孩儿是我的朋友。",
-      "pinyin": "tiào wǔ de nǚ hái r shì wǒ de péng yǒu。",
+      "pinyin": "tiào wǔ de nǚ hái r shì wǒ de péng you。",
       "grammar": [
         "G3-45"
       ]
@@ -897,7 +897,7 @@
       "level": 3,
       "round": 2,
       "text": "他讲的故事很有意思。",
-      "pinyin": "tā jiǎng de gù shì hěn yǒu yì si。",
+      "pinyin": "tā jiǎng de gù shi hěn yǒu yì si。",
       "grammar": [
         "G3-45"
       ]
@@ -967,7 +967,7 @@
       "level": 3,
       "round": 2,
       "text": "他累得很。",
-      "pinyin": "tā lèi dé hěn。",
+      "pinyin": "tā lèi de hěn。",
       "grammar": [
         "G3-49"
       ]
@@ -977,7 +977,7 @@
       "level": 3,
       "round": 2,
       "text": "这个游戏孩子们喜欢极了。",
-      "pinyin": "zhè ge yóu xì hái zi men xǐ huān jí le。",
+      "pinyin": "zhè ge yóu xì hái zi men xǐ huan jí le。",
       "grammar": [
         "G3-49"
       ]
@@ -997,7 +997,7 @@
       "level": 3,
       "round": 2,
       "text": "他去过两次上海。",
-      "pinyin": "tā qù guò liǎng cì shàng hǎi。",
+      "pinyin": "tā qù guo liǎng cì shàng hǎi。",
       "grammar": [
         "G3-50"
       ]
@@ -1046,8 +1046,8 @@
       "id": "L3-105",
       "level": 3,
       "round": 2,
-      "text": "他身体很好。",
-      "pinyin": "tā shēn tǐ hěn hǎo。",
+      "text": "他身体一直很好。",
+      "pinyin": "tā shēn tǐ yì zhí hěn hǎo。",
       "grammar": [
         "G3-53"
       ]
@@ -1057,7 +1057,7 @@
       "level": 3,
       "round": 2,
       "text": "这本书我看过了。",
-      "pinyin": "zhè běn shū wǒ kàn guò le。",
+      "pinyin": "zhè běn shū wǒ kàn guo le。",
       "grammar": [
         "G3-53"
       ]
@@ -1067,7 +1067,7 @@
       "level": 3,
       "round": 2,
       "text": "他把衣服洗干净了。",
-      "pinyin": "tā bǎ yī fú xǐ gān jìng le。",
+      "pinyin": "tā bǎ yī fu xǐ gān jìng le。",
       "grammar": [
         "G3-54"
       ]
@@ -1146,8 +1146,8 @@
       "id": "L3-115",
       "level": 3,
       "round": 2,
-      "text": "他跑得比我快。",
-      "pinyin": "tā pǎo dé bǐ wǒ kuài。",
+      "text": "他跑得比我快多了。",
+      "pinyin": "tā pǎo de bǐ wǒ kuài duō le。",
       "grammar": [
         "G3-58"
       ]
@@ -1167,7 +1167,7 @@
       "level": 3,
       "round": 2,
       "text": "他打球打得很好。",
-      "pinyin": "tā dǎ qiú dǎ dé hěn hǎo。",
+      "pinyin": "tā dǎ qiú dǎ de hěn hǎo。",
       "grammar": [
         "G3-59"
       ]
@@ -1187,7 +1187,7 @@
       "level": 3,
       "round": 2,
       "text": "篮球他喜欢，排球他也喜欢。",
-      "pinyin": "lán qiú tā xǐ huān，pái qiú tā yě xǐ huān。",
+      "pinyin": "lán qiú tā xǐ huan，pái qiú tā yě xǐ huan。",
       "grammar": [
         "G3-60"
       ]
@@ -1227,7 +1227,7 @@
       "level": 3,
       "round": 3,
       "text": "一方面学习，另一方面休息。",
-      "pinyin": "yì fāng miàn xué xí，lìng yì fāng miàn xiū xī。",
+      "pinyin": "yì fāng miàn xué xí，lìng yì fāng miàn xiū xi。",
       "grammar": [
         "G3-62"
       ]
@@ -1257,7 +1257,7 @@
       "level": 3,
       "round": 3,
       "text": "这件衣服又好看，又便宜。",
-      "pinyin": "zhè jiàn yī fú yòu hǎo kàn，yòu pián yi。",
+      "pinyin": "zhè jiàn yī fu yòu hǎo kàn，yòu pián yi。",
       "grammar": [
         "G3-63"
       ]
@@ -1317,7 +1317,7 @@
       "level": 3,
       "round": 3,
       "text": "他不仅来过，而且住过一年。",
-      "pinyin": "tā bù jǐn lái guò，ér qiě zhù guò yì nián。",
+      "pinyin": "tā bù jǐn lái guo，ér qiě zhù guo yì nián。",
       "grammar": [
         "G3-66"
       ]
@@ -1347,7 +1347,7 @@
       "level": 3,
       "round": 3,
       "text": "这件衣服好看是好看，就是贵。",
-      "pinyin": "zhè jiàn yī fú hǎo kàn shì hǎo kàn，jiù shì guì。",
+      "pinyin": "zhè jiàn yī fu hǎo kàn shì hǎo kàn，jiù shì guì。",
       "grammar": [
         "G3-68"
       ]
@@ -1367,7 +1367,7 @@
       "level": 3,
       "round": 3,
       "text": "要是不开心，我就唱歌。",
-      "pinyin": "yào shì bù kāi xīn，wǒ jiù chàng gē。",
+      "pinyin": "yào shi bù kāi xīn，wǒ jiù chàng gē。",
       "grammar": [
         "G3-69"
       ]
@@ -1377,7 +1377,7 @@
       "level": 3,
       "round": 3,
       "text": "要是你有时间，就跟我一起去。",
-      "pinyin": "yào shì nǐ yǒu shí jiān，jiù gēn wǒ yì qǐ qù。",
+      "pinyin": "yào shi nǐ yǒu shí jiān，jiù gēn wǒ yì qǐ qù。",
       "grammar": [
         "G3-69"
       ]
@@ -1497,7 +1497,7 @@
       "level": 3,
       "round": 3,
       "text": "这双鞋一点儿也不舒服。",
-      "pinyin": "zhè shuāng xié yì diǎn r yě bù shū fú。",
+      "pinyin": "zhè shuāng xié yì diǎn r yě bù shū fu。",
       "grammar": [
         "G3-75"
       ]
@@ -1507,7 +1507,7 @@
       "level": 3,
       "round": 3,
       "text": "难道你没去过长城吗？",
-      "pinyin": "nán dào nǐ méi qù guò cháng chéng ma？",
+      "pinyin": "nán dào nǐ méi qù guo cháng chéng ma？",
       "grammar": [
         "G3-76"
       ]
@@ -1597,7 +1597,7 @@
       "level": 3,
       "round": 3,
       "text": "忙就忙点儿吧，过几天休息。",
-      "pinyin": "máng jiù máng diǎn r ba，guò jǐ tiān xiū xī。",
+      "pinyin": "máng jiù máng diǎn r ba，guò jǐ tiān xiū xi。",
       "grammar": [
         "G3-80"
       ]
@@ -1607,7 +1607,7 @@
       "level": 3,
       "round": 3,
       "text": "舒服什么啊，空调坏了。",
-      "pinyin": "shū fú shén me a，kōng tiáo huài le。",
+      "pinyin": "shū fu shén me a，kōng tiáo huài le。",
       "grammar": [
         "G3-81"
       ]
@@ -1667,7 +1667,7 @@
       "level": 3,
       "round": 3,
       "text": "他补了衣服就出门了。",
-      "pinyin": "tā bǔ le yī fú jiù chū mén le。",
+      "pinyin": "tā bǔ le yī fu jiù chū mén le。",
       "grammar": [
         "G3-73"
       ]
@@ -1677,7 +1677,7 @@
       "level": 3,
       "round": 3,
       "text": "这块布比那块漂亮。",
-      "pinyin": "zhè kuài bù bǐ nà kuài piào liàng。",
+      "pinyin": "zhè kuài bù bǐ nà kuài piào liang。",
       "grammar": [
         "G3-58"
       ]
@@ -1717,7 +1717,7 @@
       "level": 3,
       "round": 3,
       "text": "他曾经来过这里。",
-      "pinyin": "tā céng jīng lái guò zhè lǐ。",
+      "pinyin": "tā céng jīng lái guo zhè lǐ。",
       "grammar": [
         "G3-14"
       ]
@@ -1807,7 +1807,7 @@
       "level": 3,
       "round": 1,
       "text": "自从有了手机，消息传得很快。",
-      "pinyin": "zì cóng yǒu le shǒu jī，xiāo xī chuán dé hěn kuài。",
+      "pinyin": "zì cóng yǒu le shǒu jī，xiāo xi chuán de hěn kuài。",
       "grammar": [
         "G3-21"
       ]
@@ -1937,7 +1937,7 @@
       "level": 3,
       "round": 1,
       "text": "这事恐怕很麻烦。",
-      "pinyin": "zhè shì kǒng pà hěn má fán。",
+      "pinyin": "zhè shì kǒng pà hěn má fan。",
       "grammar": [
         "G3-18"
       ]
@@ -1997,7 +1997,7 @@
       "level": 3,
       "round": 1,
       "text": "这个费用比那个低。",
-      "pinyin": "zhè ge fèi yòng bǐ nà ge dī。",
+      "pinyin": "zhè ge fèi yong bǐ nà ge dī。",
       "grammar": [
         "G3-58"
       ]
@@ -2057,7 +2057,7 @@
       "level": 3,
       "round": 1,
       "text": "他做事做得很认真。",
-      "pinyin": "tā zuò shì zuò dé hěn rèn zhēn。",
+      "pinyin": "tā zuò shì zuò de hěn rèn zhēn。",
       "grammar": [
         "G3-59"
       ]
@@ -2337,7 +2337,7 @@
       "level": 3,
       "round": 1,
       "text": "时间紧张得很。",
-      "pinyin": "shí jiān jǐn zhāng dé hěn。",
+      "pinyin": "shí jiān jǐn zhāng de hěn。",
       "grammar": [
         "G3-49"
       ]
@@ -2377,7 +2377,7 @@
       "level": 3,
       "round": 1,
       "text": "把旧衣服收起来。",
-      "pinyin": "bǎ jiù yī fú shōu qǐ lái。",
+      "pinyin": "bǎ jiù yī fu shōu qǐ lái。",
       "grammar": [
         "G3-54"
       ]
@@ -2497,7 +2497,7 @@
       "level": 3,
       "round": 2,
       "text": "他都经历过了。",
-      "pinyin": "tā dōu jīng lì guò le。",
+      "pinyin": "tā dōu jīng lì guo le。",
       "grammar": [
         "G3-79"
       ]
@@ -2677,7 +2677,7 @@
       "level": 3,
       "round": 2,
       "text": "他不仅想念家，还想念朋友。",
-      "pinyin": "tā bù jǐn xiǎng niàn jiā，hái xiǎng niàn péng yǒu。",
+      "pinyin": "tā bù jǐn xiǎng niàn jiā，hái xiǎng niàn péng you。",
       "grammar": [
         "G3-66"
       ]
@@ -2687,7 +2687,7 @@
       "level": 3,
       "round": 2,
       "text": "姑娘相当漂亮。",
-      "pinyin": "gū niáng xiāng dāng piào liàng。",
+      "pinyin": "gū niáng xiāng dāng piào liang。",
       "grammar": [
         "G3-12"
       ]
@@ -2707,7 +2707,7 @@
       "level": 3,
       "round": 2,
       "text": "他拍了照片就走了。",
-      "pinyin": "tā pāi le zhào piān jiù zǒu le。",
+      "pinyin": "tā pāi le zhào piàn jiù zǒu le。",
       "grammar": [
         "G3-73"
       ]
@@ -2757,7 +2757,7 @@
       "level": 3,
       "round": 2,
       "text": "这件衣服合适极了。",
-      "pinyin": "zhè jiàn yī fú hé shì jí le。",
+      "pinyin": "zhè jiàn yī fu hé shì jí le。",
       "grammar": [
         "G3-49"
       ]
@@ -2797,7 +2797,7 @@
       "level": 3,
       "round": 2,
       "text": "他的手相当巧。",
-      "pinyin": "tā de shǒu xiàng dāng qiǎo。",
+      "pinyin": "tā de shǒu xiāng dāng qiǎo。",
       "grammar": [
         "G3-12"
       ]
@@ -3097,7 +3097,7 @@
       "level": 3,
       "round": 3,
       "text": "他痛得很。",
-      "pinyin": "tā tòng dé hěn。",
+      "pinyin": "tā tòng de hěn。",
       "grammar": [
         "G3-49"
       ]
@@ -3127,7 +3127,7 @@
       "level": 3,
       "round": 3,
       "text": "大家一群一群地走。",
-      "pinyin": "dà jiā yì qún yì qún dì zǒu。",
+      "pinyin": "dà jiā yì qún yì qún de zǒu。",
       "grammar": [
         "G3-33"
       ]
@@ -3367,7 +3367,7 @@
       "level": 3,
       "round": 3,
       "text": "他忙得很。",
-      "pinyin": "tā máng dé hěn。",
+      "pinyin": "tā máng de hěn。",
       "grammar": [
         "G3-49"
       ]
@@ -3407,7 +3407,7 @@
       "level": 3,
       "round": 3,
       "text": "事情相当复杂。",
-      "pinyin": "shì qíng xiāng dāng fù zá。",
+      "pinyin": "shì qing xiāng dāng fù zá。",
       "grammar": [
         "G3-12"
       ]
@@ -3427,7 +3427,7 @@
       "level": 3,
       "round": 3,
       "text": "人数增加了就麻烦了。",
-      "pinyin": "rén shù zēng jiā le jiù má fán le。",
+      "pinyin": "rén shù zēng jiā le jiù má fan le。",
       "grammar": [
         "G3-73"
       ]
@@ -3727,7 +3727,7 @@
       "level": 3,
       "round": 1,
       "text": "要是这里危险，就别去。",
-      "pinyin": "yào shì zhè lǐ wēi xiǎn，jiù bié qù。",
+      "pinyin": "yào shi zhè lǐ wēi xiǎn，jiù bié qù。",
       "grammar": [
         "G3-69"
       ]
@@ -3746,8 +3746,8 @@
       "id": "L3-375",
       "level": 3,
       "round": 4,
-      "text": "他骑马去草原。",
-      "pinyin": "tā qí mǎ qù cǎo yuán。",
+      "text": "他骑马去草原玩。",
+      "pinyin": "tā qí mǎ qù cǎo yuán wán。",
       "grammar": [
         "G3-56"
       ]
@@ -3777,7 +3777,7 @@
       "level": 3,
       "round": 4,
       "text": "奶奶病了就去医院。",
-      "pinyin": "nǎi nǎi bìng le jiù qù yī yuàn。",
+      "pinyin": "nǎi nai bìng le jiù qù yī yuàn。",
       "grammar": [
         "G3-73"
       ]
@@ -3807,7 +3807,7 @@
       "level": 3,
       "round": 4,
       "text": "网上买东西相当方便。",
-      "pinyin": "wǎng shàng mǎi dōng xī xiāng dāng fāng biàn。",
+      "pinyin": "wǎng shàng mǎi dōng xi xiāng dāng fāng biàn。",
       "grammar": [
         "G3-12"
       ]
@@ -3857,7 +3857,7 @@
       "level": 3,
       "round": 4,
       "text": "爷爷都八十岁了。",
-      "pinyin": "yé yé dōu bā shí suì le。",
+      "pinyin": "yé ye dōu bā shí suì le。",
       "grammar": [
         "G3-79"
       ]
@@ -4017,7 +4017,7 @@
       "level": 3,
       "round": 4,
       "text": "他把好消息告诉了我。",
-      "pinyin": "tā bǎ hǎo xiāo xī gào sù le wǒ。",
+      "pinyin": "tā bǎ hǎo xiāo xi gào su le wǒ。",
       "grammar": [
         "G3-54"
       ]
@@ -4057,7 +4057,7 @@
       "level": 3,
       "round": 4,
       "text": "虽然累，但他还是去了。",
-      "pinyin": "suī rán lèi，dàn tā hái shì qù le。",
+      "pinyin": "suī rán lèi，dàn tā hái shi qù le。",
       "grammar": [
         "G3-68"
       ]
@@ -4087,7 +4087,7 @@
       "level": 3,
       "round": 4,
       "text": "眼睛相当重要。",
-      "pinyin": "yǎn jīng xiāng dāng zhòng yào。",
+      "pinyin": "yǎn jing xiāng dāng zhòng yào。",
       "grammar": [
         "G3-12"
       ]
@@ -4187,7 +4187,7 @@
       "level": 3,
       "round": 4,
       "text": "我认识他很久了。",
-      "pinyin": "wǒ rèn shí tā hěn jiǔ le。",
+      "pinyin": "wǒ rèn shi tā hěn jiǔ le。",
       "grammar": [
         "G3-51"
       ]
@@ -4277,7 +4277,7 @@
       "level": 3,
       "round": 4,
       "text": "我们晚上总吃饺子。",
-      "pinyin": "wǒ men wǎn shàng zǒng chī jiǎo zi。",
+      "pinyin": "wǒ men wǎn shang zǒng chī jiǎo zi。",
       "grammar": [
         "G3-15"
       ]
@@ -4319,7 +4319,7 @@
       "text": "您去哪儿呢？",
       "pinyin": "nín qù nǎ r ne？",
       "grammar": [
-        "G3-07"
+        "G3-78"
       ]
     },
     {
@@ -4387,7 +4387,7 @@
       "level": 3,
       "round": 4,
       "text": "要是他不喂猫，猫就饿。",
-      "pinyin": "yào shì tā bú wèi māo，māo jiù è。",
+      "pinyin": "yào shi tā bú wèi māo，māo jiù è。",
       "grammar": [
         "G3-69"
       ]
@@ -4467,7 +4467,7 @@
       "level": 3,
       "round": 4,
       "text": "他的手受伤了就休息了。",
-      "pinyin": "tā de shǒu shòu shāng le jiù xiū xī le。",
+      "pinyin": "tā de shǒu shòu shāng le jiù xiū xi le。",
       "grammar": [
         "G3-73"
       ]
@@ -4517,7 +4517,7 @@
       "level": 3,
       "round": 4,
       "text": "早晨的天气好极了。",
-      "pinyin": "zǎo chén de tiān qì hǎo jí le。",
+      "pinyin": "zǎo chen de tiān qì hǎo jí le。",
       "grammar": [
         "G3-49"
       ]
@@ -4547,7 +4547,7 @@
       "level": 3,
       "round": 4,
       "text": "他的手举得很高。",
-      "pinyin": "tā de shǒu jǔ dé hěn gāo。",
+      "pinyin": "tā de shǒu jǔ de hěn gāo。",
       "grammar": [
         "G3-49"
       ]
@@ -4617,7 +4617,7 @@
       "level": 3,
       "round": 4,
       "text": "他先选了一件衣服，然后回家。",
-      "pinyin": "tā xiān xuǎn le yí jiàn yī fú，rán hòu huí jiā。",
+      "pinyin": "tā xiān xuǎn le yí jiàn yī fu，rán hòu huí jiā。",
       "grammar": [
         "G3-64"
       ]
@@ -4847,7 +4847,7 @@
       "level": 3,
       "round": 4,
       "text": "这件衣服相当配他。",
-      "pinyin": "zhè jiàn yī fú xiāng dāng pèi tā。",
+      "pinyin": "zhè jiàn yī fu xiāng dāng pèi tā。",
       "grammar": [
         "G3-12"
       ]
@@ -4917,7 +4917,7 @@
       "level": 3,
       "round": 4,
       "text": "他倒在了床上就睡了。",
-      "pinyin": "tā dào zài le chuáng shàng jiù shuì le。",
+      "pinyin": "tā dǎo zài le chuáng shàng jiù shuì le。",
       "grammar": [
         "G3-73"
       ]
@@ -4987,7 +4987,7 @@
       "level": 3,
       "round": 4,
       "text": "他急得哭了。",
-      "pinyin": "tā jí dé kū le。",
+      "pinyin": "tā jí de kū le。",
       "grammar": [
         "G3-49"
       ]
@@ -5037,7 +5037,7 @@
       "level": 3,
       "round": 4,
       "text": "他喜欢科学，也喜欢数学。",
-      "pinyin": "tā xǐ huān kē xué，yě xǐ huān shù xué。",
+      "pinyin": "tā xǐ huan kē xué，yě xǐ huan shù xué。",
       "grammar": [
         "G3-60"
       ]
@@ -5117,7 +5117,7 @@
       "level": 3,
       "round": 4,
       "text": "他们讨论过，不过没有结果。",
-      "pinyin": "tā men tǎo lùn guò，bú guò méi yǒu jié guǒ。",
+      "pinyin": "tā men tǎo lùn guo，bú guò méi yǒu jié guǒ。",
       "grammar": [
         "G3-68"
       ]
@@ -5127,7 +5127,7 @@
       "level": 3,
       "round": 4,
       "text": "他买了一套衣服，也买了鞋。",
-      "pinyin": "tā mǎi le yí tào yī fú，yě mǎi le xié。",
+      "pinyin": "tā mǎi le yí tào yī fu，yě mǎi le xié。",
       "grammar": [
         "G3-60"
       ]
@@ -5187,7 +5187,7 @@
       "level": 3,
       "round": 4,
       "text": "颜色相当好看。",
-      "pinyin": "yán sè xiàng dāng hǎo kàn。",
+      "pinyin": "yán sè xiāng dāng hǎo kàn。",
       "grammar": [
         "G3-12"
       ]
@@ -5257,7 +5257,7 @@
       "level": 3,
       "round": 4,
       "text": "他教我学汉字。",
-      "pinyin": "tā jiào wǒ xué hàn zì。",
+      "pinyin": "tā jiāo wǒ xué hàn zì。",
       "grammar": [
         "G3-57"
       ]
@@ -5277,7 +5277,7 @@
       "level": 3,
       "round": 4,
       "text": "他的头发很黑。",
-      "pinyin": "tā de tóu fà hěn hēi。",
+      "pinyin": "tā de tóu fa hěn hēi。",
       "grammar": [
         "G3-53"
       ]
@@ -5297,7 +5297,7 @@
       "level": 3,
       "round": 4,
       "text": "他先克服了困难，然后成功了。",
-      "pinyin": "tā xiān kè fú le kùn nán，rán hòu chéng gōng le。",
+      "pinyin": "tā xiān kè fú le kùn nan，rán hòu chéng gōng le。",
       "grammar": [
         "G3-64"
       ]
@@ -5307,7 +5307,7 @@
       "level": 3,
       "round": 4,
       "text": "他确实忙得很。",
-      "pinyin": "tā què shí máng dé hěn。",
+      "pinyin": "tā què shí máng de hěn。",
       "grammar": [
         "G3-49"
       ]
@@ -5327,7 +5327,7 @@
       "level": 3,
       "round": 4,
       "text": "他其实喜欢美食。",
-      "pinyin": "tā qí shí xǐ huān měi shí。",
+      "pinyin": "tā qí shí xǐ huan měi shí。",
       "grammar": [
         "G3-19"
       ]
@@ -5387,7 +5387,7 @@
       "level": 3,
       "round": 4,
       "text": "我们是同级，也是好朋友。",
-      "pinyin": "wǒ men shì tóng jí，yě shì hǎo péng yǒu。",
+      "pinyin": "wǒ men shì tóng jí，yě shì hǎo péng you。",
       "grammar": [
         "G3-60"
       ]
@@ -5407,7 +5407,7 @@
       "level": 3,
       "round": 4,
       "text": "他负了伤，不过还坚持工作。",
-      "pinyin": "tā fù le shāng，bù guò hái jiān chí gōng zuò。",
+      "pinyin": "tā fù le shāng，bú guò hái jiān chí gōng zuò。",
       "grammar": [
         "G3-68"
       ]
@@ -5437,7 +5437,7 @@
       "level": 3,
       "round": 4,
       "text": "他的话又清楚又简单。",
-      "pinyin": "tā de huà yòu qīng chǔ yòu jiǎn dān。",
+      "pinyin": "tā de huà yòu qīng chu yòu jiǎn dān。",
       "grammar": [
         "G3-63"
       ]
@@ -5457,7 +5457,7 @@
       "level": 3,
       "round": 4,
       "text": "他通常早上听广播。",
-      "pinyin": "tā tōng cháng zǎo shàng tīng guǎng bō。",
+      "pinyin": "tā tōng cháng zǎo shang tīng guǎng bō。",
       "grammar": [
         "G3-15"
       ]
@@ -5627,7 +5627,7 @@
       "level": 3,
       "round": 6,
       "text": "中部的交易会办得很成功。",
-      "pinyin": "zhōng bù de jiāo yì huì bàn dé hěn chéng gōng。",
+      "pinyin": "zhōng bù de jiāo yì huì bàn de hěn chéng gōng。",
       "grammar": [
         "G3-49"
       ]
@@ -5657,7 +5657,7 @@
       "level": 3,
       "round": 6,
       "text": "事实上，一切都变了。",
-      "pinyin": "shì shí shàng，yí qiè dōu biàn le。",
+      "pinyin": "shì shí shang，yí qiè dōu biàn le。",
       "grammar": [
         "G3-79"
       ]
@@ -5727,7 +5727,7 @@
       "level": 3,
       "round": 6,
       "text": "他伤心得吃不下饭。",
-      "pinyin": "tā shāng xīn dé chī bú xià fàn。",
+      "pinyin": "tā shāng xīn de chī bú xià fàn。",
       "grammar": [
         "G3-49"
       ]
@@ -5877,7 +5877,7 @@
       "level": 3,
       "round": 6,
       "text": "公布的结果很清楚。",
-      "pinyin": "gōng bù de jié guǒ hěn qīng chǔ。",
+      "pinyin": "gōng bù de jié guǒ hěn qīng chu。",
       "grammar": [
         "G3-45"
       ]
@@ -6127,7 +6127,7 @@
       "level": 3,
       "round": 6,
       "text": "他把消息公开了。",
-      "pinyin": "tā bǎ xiāo xī gōng kāi le。",
+      "pinyin": "tā bǎ xiāo xi gōng kāi le。",
       "grammar": [
         "G3-54"
       ]
@@ -6347,7 +6347,7 @@
       "level": 3,
       "round": 6,
       "text": "前进的路上有困难。",
-      "pinyin": "qián jìn de lù shàng yǒu kùn nán。",
+      "pinyin": "qián jìn de lù shang yǒu kùn nan。",
       "grammar": [
         "G3-45"
       ]
@@ -6517,7 +6517,7 @@
       "level": 3,
       "round": 6,
       "text": "这里发生过两次事故。",
-      "pinyin": "zhè lǐ fā shēng guò liǎng cì shì gù。",
+      "pinyin": "zhè lǐ fā shēng guo liǎng cì shì gù。",
       "grammar": [
         "G3-50"
       ]
@@ -6567,7 +6567,7 @@
       "level": 3,
       "round": 6,
       "text": "由于天气暖，雪变为水。",
-      "pinyin": "yóu yú tiān qì nuǎn，xuě biàn wèi shuǐ。",
+      "pinyin": "yóu yú tiān qì nuǎn，xuě biàn wéi shuǐ。",
       "grammar": [
         "G3-71"
       ]
@@ -6647,7 +6647,7 @@
       "level": 3,
       "round": 6,
       "text": "外面吵得很。",
-      "pinyin": "wài miàn chǎo dé hěn。",
+      "pinyin": "wài miàn chǎo de hěn。",
       "grammar": [
         "G3-49"
       ]
@@ -6697,7 +6697,7 @@
       "level": 3,
       "round": 6,
       "text": "这是合法的生意。",
-      "pinyin": "zhè shì hé fǎ de shēng yì。",
+      "pinyin": "zhè shì hé fǎ de shēng yi。",
       "grammar": [
         "G3-45"
       ]
@@ -6877,7 +6877,7 @@
       "level": 3,
       "round": 6,
       "text": "我们分别去南部看朋友。",
-      "pinyin": "wǒ men fēn bié qù nán bù kàn péng yǒu。",
+      "pinyin": "wǒ men fēn bié qù nán bù kàn péng you。",
       "grammar": [
         "G3-56"
       ]
@@ -6947,7 +6947,7 @@
       "level": 3,
       "round": 6,
       "text": "你要想清楚后果。",
-      "pinyin": "nǐ yào xiǎng qīng chǔ hòu guǒ。",
+      "pinyin": "nǐ yào xiǎng qīng chu hòu guǒ。",
       "grammar": [
         "G3-46"
       ]
@@ -6997,7 +6997,7 @@
       "level": 3,
       "round": 6,
       "text": "大夫让他定期检查身体。",
-      "pinyin": "dà fū ràng tā dìng qī jiǎn chá shēn tǐ。",
+      "pinyin": "dà fu ràng tā dìng qī jiǎn chá shēn tǐ。",
       "grammar": [
         "G3-57"
       ]
@@ -7007,7 +7007,7 @@
       "level": 3,
       "round": 6,
       "text": "他害怕看大夫。",
-      "pinyin": "tā hài pà kàn dà fū。",
+      "pinyin": "tā hài pà kàn dà fu。",
       "grammar": [
         "G3-44"
       ]
@@ -7027,7 +7027,7 @@
       "level": 3,
       "round": 6,
       "text": "他头脑清楚，办事很快。",
-      "pinyin": "tā tóu nǎo qīng chǔ，bàn shì hěn kuài。",
+      "pinyin": "tā tóu nǎo qīng chu，bàn shì hěn kuài。",
       "grammar": [
         "G3-53"
       ]
@@ -7037,7 +7037,7 @@
       "level": 3,
       "round": 6,
       "text": "意外的消息让他失去信心。",
-      "pinyin": "yì wài de xiāo xī ràng tā shī qù xìn xīn。",
+      "pinyin": "yì wài de xiāo xi ràng tā shī qù xìn xīn。",
       "grammar": [
         "G3-57"
       ]
@@ -7047,7 +7047,7 @@
       "level": 3,
       "round": 6,
       "text": "她好奇地喝了一口奶茶。",
-      "pinyin": "tā hào qí dì hē le yì kǒu nǎi chá。",
+      "pinyin": "tā hào qí de hē le yì kǒu nǎi chá。",
       "grammar": [
         "G3-50"
       ]
@@ -7237,7 +7237,7 @@
       "level": 3,
       "round": 6,
       "text": "将来你要是有空，就来看我。",
-      "pinyin": "jiāng lái nǐ yào shì yǒu kòng，jiù lái kàn wǒ。",
+      "pinyin": "jiāng lái nǐ yào shi yǒu kòng，jiù lái kàn wǒ。",
       "grammar": [
         "G3-69"
       ]
@@ -7277,7 +7277,7 @@
       "level": 3,
       "round": 6,
       "text": "讨论展开得很顺利。",
-      "pinyin": "tǎo lùn zhǎn kāi dé hěn shùn lì。",
+      "pinyin": "tǎo lùn zhǎn kāi de hěn shùn lì。",
       "grammar": [
         "G3-49"
       ]
@@ -7397,7 +7397,7 @@
       "level": 3,
       "round": 6,
       "text": "他并不喜欢喝茶。",
-      "pinyin": "tā bìng bù xǐ huān hē chá。",
+      "pinyin": "tā bìng bù xǐ huan hē chá。",
       "grammar": [
         "G3-19"
       ]
@@ -7437,7 +7437,7 @@
       "level": 3,
       "round": 6,
       "text": "猫在桌子底下睡了一觉。",
-      "pinyin": "māo zài zhuō zi dǐ xià shuì le yí jiào。",
+      "pinyin": "māo zài zhuō zi dǐ xia shuì le yí jiào。",
       "grammar": [
         "G3-32"
       ]
@@ -7477,7 +7477,7 @@
       "level": 3,
       "round": 6,
       "text": "体育活动开展得很好。",
-      "pinyin": "tǐ yù huó dòng kāi zhǎn dé hěn hǎo。",
+      "pinyin": "tǐ yù huó dòng kāi zhǎn de hěn hǎo。",
       "grammar": [
         "G3-49"
       ]
@@ -7567,7 +7567,7 @@
       "level": 3,
       "round": 6,
       "text": "这块石头的形状奇怪得很。",
-      "pinyin": "zhè kuài shí tou de xíng zhuàng qí guài dé hěn。",
+      "pinyin": "zhè kuài shí tou de xíng zhuàng qí guài de hěn。",
       "grammar": [
         "G3-49"
       ]
@@ -7587,7 +7587,7 @@
       "level": 3,
       "round": 6,
       "text": "要是不努力，就必然落后。",
-      "pinyin": "yào shì bù nǔ lì，jiù bì rán luò hòu。",
+      "pinyin": "yào shi bù nǔ lì，jiù bì rán luò hòu。",
       "grammar": [
         "G3-69"
       ]
@@ -7617,7 +7617,7 @@
       "level": 3,
       "round": 6,
       "text": "他快速地跑过去。",
-      "pinyin": "tā kuài sù dì pǎo guò qù。",
+      "pinyin": "tā kuài sù de pǎo guò qù。",
       "grammar": [
         "G3-47"
       ]
@@ -7767,7 +7767,7 @@
       "level": 3,
       "round": 6,
       "text": "他去打听报到的手续。",
-      "pinyin": "tā qù dǎ tīng bào dào de shǒu xù。",
+      "pinyin": "tā qù dǎ ting bào dào de shǒu xù。",
       "grammar": [
         "G3-56"
       ]
@@ -7797,7 +7797,7 @@
       "level": 3,
       "round": 6,
       "text": "爷爷早上看报，然后听广播。",
-      "pinyin": "yé yé zǎo shàng kàn bào，rán hòu tīng guǎng bō。",
+      "pinyin": "yé ye zǎo shang kàn bào，rán hòu tīng guǎng bō。",
       "grammar": [
         "G3-64"
       ]
@@ -8037,7 +8037,7 @@
       "level": 3,
       "round": 6,
       "text": "他本事不小，学本领很快。",
-      "pinyin": "tā běn shì bù xiǎo，xué běn lǐng hěn kuài。",
+      "pinyin": "tā běn shi bù xiǎo，xué běn lǐng hěn kuài。",
       "grammar": [
         "G3-53"
       ]
@@ -8127,7 +8127,7 @@
       "level": 3,
       "round": 6,
       "text": "买没用的东西就是浪费。",
-      "pinyin": "mǎi méi yòng de dōng xī jiù shì làng fèi。",
+      "pinyin": "mǎi méi yòng de dōng xi jiù shì làng fèi。",
       "grammar": [
         "G3-43"
       ]
@@ -8237,7 +8237,7 @@
       "level": 3,
       "round": 6,
       "text": "整体的工作推进得很快。",
-      "pinyin": "zhěng tǐ de gōng zuò tuī jìn dé hěn kuài。",
+      "pinyin": "zhěng tǐ de gōng zuò tuī jìn de hěn kuài。",
       "grammar": [
         "G3-45"
       ]
@@ -8307,7 +8307,7 @@
       "level": 3,
       "round": 6,
       "text": "他整了整衣服就出门了。",
-      "pinyin": "tā zhěng le zhěng yī fú jiù chū mén le。",
+      "pinyin": "tā zhěng le zhěng yī fu jiù chū mén le。",
       "grammar": [
         "G3-73"
       ]
@@ -8357,7 +8357,7 @@
       "level": 3,
       "round": 6,
       "text": "改进后的房屋很舒服。",
-      "pinyin": "gǎi jìn hòu de fáng wū hěn shū fú。",
+      "pinyin": "gǎi jìn hòu de fáng wū hěn shū fu。",
       "grammar": [
         "G3-45"
       ]
@@ -8527,7 +8527,7 @@
       "level": 3,
       "round": 6,
       "text": "他的生意越做越大。",
-      "pinyin": "tā de shēng yì yuè zuò yuè dà。",
+      "pinyin": "tā de shēng yi yuè zuò yuè dà。",
       "grammar": [
         "G3-42"
       ]
@@ -8557,7 +8557,7 @@
       "level": 3,
       "round": 6,
       "text": "他用电子邮件发来了表格。",
-      "pinyin": "tā yòng diàn zi yóu jiàn fā lái le biǎo gé。",
+      "pinyin": "tā yòng diàn zǐ yóu jiàn fā lái le biǎo gé。",
       "grammar": [
         "G3-56"
       ]
@@ -8577,7 +8577,7 @@
       "level": 3,
       "round": 6,
       "text": "那个男子个子很高。",
-      "pinyin": "nà ge nán zi gè zi hěn gāo。",
+      "pinyin": "nà ge nán zǐ gè zi hěn gāo。",
       "grammar": [
         "G3-53"
       ]
@@ -8627,7 +8627,7 @@
       "level": 3,
       "round": 6,
       "text": "直到今天我才明白。",
-      "pinyin": "zhí dào jīn tiān wǒ cái míng bái。",
+      "pinyin": "zhí dào jīn tiān wǒ cái míng bai。",
       "grammar": [
         "G3-14"
       ]
@@ -8667,7 +8667,7 @@
       "level": 3,
       "round": 6,
       "text": "这个故事相当真实。",
-      "pinyin": "zhè ge gù shì xiāng dāng zhēn shí。",
+      "pinyin": "zhè ge gù shi xiāng dāng zhēn shí。",
       "grammar": [
         "G3-12"
       ]
@@ -8717,7 +8717,7 @@
       "level": 3,
       "round": 6,
       "text": "衣服都破了。",
-      "pinyin": "yī fú dōu pò le。",
+      "pinyin": "yī fu dōu pò le。",
       "grammar": [
         "G3-79"
       ]
@@ -8827,7 +8827,7 @@
       "level": 3,
       "round": 6,
       "text": "要是有空儿，就来玩。",
-      "pinyin": "yào shì yǒu kòng r，jiù lái wán。",
+      "pinyin": "yào shi yǒu kòng r，jiù lái wán。",
       "grammar": [
         "G3-69"
       ]
@@ -8887,7 +8887,7 @@
       "level": 3,
       "round": 6,
       "text": "这件衣服比那件紧。",
-      "pinyin": "zhè jiàn yī fú bǐ nà jiàn jǐn。",
+      "pinyin": "zhè jiàn yī fu bǐ nà jiàn jǐn。",
       "grammar": [
         "G3-58"
       ]
@@ -8947,7 +8947,7 @@
       "level": 3,
       "round": 6,
       "text": "这张桌子很结实。",
-      "pinyin": "zhè zhāng zhuō zi hěn jiē shí。",
+      "pinyin": "zhè zhāng zhuō zi hěn jiē shi。",
       "grammar": [
         "G3-09"
       ]
@@ -8967,7 +8967,7 @@
       "level": 3,
       "round": 6,
       "text": "要是缺人，就告诉我。",
-      "pinyin": "yào shì quē rén，jiù gào sù wǒ。",
+      "pinyin": "yào shi quē rén，jiù gào su wǒ。",
       "grammar": [
         "G3-69"
       ]
@@ -8977,7 +8977,7 @@
       "level": 3,
       "round": 6,
       "text": "衣服的价格是五十美元。",
-      "pinyin": "yī fú de jià gé shì wǔ shí měi yuán。",
+      "pinyin": "yī fu de jià gé shì wǔ shí měi yuán。",
       "grammar": [
         "G3-45"
       ]
@@ -9007,7 +9007,7 @@
       "level": 3,
       "round": 6,
       "text": "老太太去公园散步。",
-      "pinyin": "lǎo tài tài qù gōng yuán sàn bù。",
+      "pinyin": "lǎo tài tai qù gōng yuán sàn bù。",
       "grammar": [
         "G3-56"
       ]
@@ -9027,7 +9027,7 @@
       "level": 3,
       "round": 6,
       "text": "老板生意很好。",
-      "pinyin": "lǎo bǎn shēng yì hěn hǎo。",
+      "pinyin": "lǎo bǎn shēng yi hěn hǎo。",
       "grammar": [
         "G3-53"
       ]
@@ -9177,7 +9177,7 @@
       "level": 3,
       "round": 6,
       "text": "我把行李放在门口。",
-      "pinyin": "wǒ bǎ xíng lǐ fàng zài mén kǒu。",
+      "pinyin": "wǒ bǎ xíng li fàng zài mén kǒu。",
       "grammar": [
         "G3-54"
       ]
@@ -9187,7 +9187,7 @@
       "level": 3,
       "round": 6,
       "text": "衣架上的衣服很多。",
-      "pinyin": "yī jià shàng de yī fú hěn duō。",
+      "pinyin": "yī jià shàng de yī fu hěn duō。",
       "grammar": [
         "G3-45"
       ]
@@ -9317,7 +9317,7 @@
       "level": 3,
       "round": 6,
       "text": "读者喜欢观看话剧。",
-      "pinyin": "dú zhě xǐ huān guān kàn huà jù。",
+      "pinyin": "dú zhě xǐ huan guān kàn huà jù。",
       "grammar": [
         "G3-44"
       ]
@@ -9367,7 +9367,7 @@
       "level": 3,
       "round": 6,
       "text": "这道题目他答得很规范。",
-      "pinyin": "zhè dào tí mù tā dá dé hěn guī fàn。",
+      "pinyin": "zhè dào tí mù tā dá de hěn guī fàn。",
       "grammar": [
         "G3-49"
       ]
@@ -9507,7 +9507,7 @@
       "level": 3,
       "round": 6,
       "text": "他超级喜欢足球，比我还喜欢。",
-      "pinyin": "tā chāo jí xǐ huān zú qiú，bǐ wǒ hái xǐ huān。",
+      "pinyin": "tā chāo jí xǐ huan zú qiú，bǐ wǒ hái xǐ huan。",
       "grammar": [
         "G3-58"
       ]
@@ -9637,7 +9637,7 @@
       "level": 3,
       "round": 6,
       "text": "长期的工作造成了很多麻烦。",
-      "pinyin": "cháng qī de gōng zuò zào chéng le hěn duō má fán。",
+      "pinyin": "cháng qī de gōng zuò zào chéng le hěn duō má fan。",
       "grammar": [
         "G3-45"
       ]
@@ -9757,7 +9757,7 @@
       "level": 3,
       "round": 6,
       "text": "他把衣服解开了。",
-      "pinyin": "tā bǎ yī fú jiě kāi le。",
+      "pinyin": "tā bǎ yī fu jiě kāi le。",
       "grammar": [
         "G3-54"
       ]
@@ -9787,7 +9787,7 @@
       "level": 3,
       "round": 6,
       "text": "办证要带照片。",
-      "pinyin": "bàn zhèng yào dài zhào piān。",
+      "pinyin": "bàn zhèng yào dài zhào piàn。",
       "grammar": [
         "G3-56"
       ]
@@ -9817,7 +9817,7 @@
       "level": 3,
       "round": 6,
       "text": "他跳得很高。",
-      "pinyin": "tā tiào dé hěn gāo。",
+      "pinyin": "tā tiào de hěn gāo。",
       "grammar": [
         "G3-49"
       ]

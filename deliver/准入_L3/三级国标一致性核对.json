@@ -1,0 +1,220 @@
+{
+ "level": 3,
+ "date": "2026-11-25",
+ "sources": [
+  "GF 0025—2021《国际中文教育中文水平等级标准》标准 PDF（work/std_text.pdf）",
+  "work/Chinese_standards_no_watermark_djvu.txt（文字版，用于 A.3 条目顺序与量化指标）",
+  "work/chars_levels.json（5.3 三级汉字表逐格识别结果，300 字）",
+  "data/vocabulary/level3.json（HSK 3.0 三级词汇转录，973 条）",
+  "banks/level3/final.json（三级题库，986 题）"
+ ],
+ "chars": {
+  "declared_new": 300,
+  "unique": 300,
+  "duplicates": [],
+  "reference_entries": 300,
+  "set_equal": true,
+  "order_equal": true,
+  "only_in_config": [],
+  "only_in_reference": [],
+  "cumulative_expected": 900,
+  "cumulative_actual": 900,
+  "overlaps": {
+   "L1_L2": [],
+   "L2_L3": [],
+   "L1_L3": []
+  },
+  "standard_says": "5.3 三级汉字表，新增 300，累计 900（一级 300＋二级 300＋三级 300）"
+ },
+ "vocabulary": {
+  "standard_new": 973,
+  "standard_cumulative": 2245,
+  "items": 973,
+  "unique_headwords": 966,
+  "duplicate_headwords": {
+   "把": [
+    {
+     "pinyin": "bǎ",
+     "pos": "介",
+     "raw": "把",
+     "no": 75
+    },
+    {
+     "pinyin": "bǎ",
+     "pos": "量",
+     "raw": "把",
+     "no": 76
+    }
+   ],
+   "背": [
+    {
+     "pinyin": "bēi",
+     "pos": "动",
+     "raw": "背",
+     "no": 258
+    },
+    {
+     "pinyin": "bèi",
+     "pos": "名",
+     "raw": "背",
+     "no": 279
+    }
+   ],
+   "初": [
+    {
+     "pinyin": "chū",
+     "pos": "副",
+     "raw": "初",
+     "no": 1170
+    },
+    {
+     "pinyin": "chū (chūyī)",
+     "pos": "前缀",
+     "raw": "初（初一）",
+     "no": 1171
+    }
+   ],
+   "调": [
+    {
+     "pinyin": "diào",
+     "pos": "动",
+     "raw": "调",
+     "no": 1856
+    },
+    {
+     "pinyin": "tiáo",
+     "pos": "动",
+     "raw": "调",
+     "no": 7975
+    }
+   ],
+   "精神": [
+    {
+     "pinyin": "jīngshén",
+     "pos": "名",
+     "raw": "精神",
+     "no": 4365
+    },
+    {
+     "pinyin": "jīngshen",
+     "pos": "形、名",
+     "raw": "精神",
+     "no": 4366
+    }
+   ],
+   "任": [
+    {
+     "pinyin": "rèn",
+     "pos": "动",
+     "raw": "任",
+     "no": 6746
+    },
+    {
+     "pinyin": "rèn",
+     "pos": "连",
+     "raw": "任（连）",
+     "no": 6747
+    }
+   ],
+   "为": [
+    {
+     "pinyin": "wéi",
+     "pos": "动",
+     "raw": "为",
+     "no": 8375
+    },
+    {
+     "pinyin": "wéi",
+     "pos": "介",
+     "raw": "为（介）",
+     "no": 8376
+    }
+   ]
+  },
+  "source": "HSK 3.0 vocabulary transcription",
+  "list_path": "data/vocabulary/level3.json",
+  "count_matches_standard": true,
+  "standard_says": "3.1.3 三级：词语 2245 个（新增 973）"
+ },
+ "grammar": {
+  "count": 81,
+  "ids_continuous": true,
+  "standard_says": "附录 A.3 三级语法点，编号【三01】…【三81】，共 81 条；三级累计 210（二级 129＋三级 81）",
+  "standard_id_missing": [],
+  "pattern_broken_points": [
+   "G3-07",
+   "G3-20",
+   "G3-22",
+   "G3-23",
+   "G3-24",
+   "G3-27",
+   "G3-28",
+   "G3-32",
+   "G3-33",
+   "G3-34",
+   "G3-43",
+   "G3-44",
+   "G3-45",
+   "G3-46",
+   "G3-47",
+   "G3-48",
+   "G3-49",
+   "G3-50",
+   "G3-51",
+   "G3-52",
+   "G3-53",
+   "G3-54",
+   "G3-55",
+   "G3-56",
+   "G3-57",
+   "G3-58",
+   "G3-59",
+   "G3-74",
+   "G3-76",
+   "G3-77",
+   "G3-78",
+   "G3-80"
+  ],
+  "pattern_broken_tags": 520,
+  "pattern_overbroad_points": [
+   "G3-11",
+   "G3-65",
+   "G3-72"
+  ],
+  "points_with_lt2_tags": [],
+  "tags_per_item": {
+   "1": 986
+  }
+ },
+ "syllables": {
+  "entries": 140,
+  "unique": 140,
+  "duplicates": [],
+  "covered": 139,
+  "coverage": 99.3,
+  "missing": [
+   "tǎng"
+  ],
+  "tone_diff": [
+   {
+    "missing": "tǎng",
+    "bank_has": [
+     "táng",
+     "tāng"
+    ]
+   }
+  ],
+  "real_missing": [],
+  "vocab_support": {
+   "tǎng": []
+  },
+  "standard_says": "4.3 三级音节表 140 条；3.1.3 三级音节 608 个（新增 140）",
+  "stage2_revision": "阶段 2 按国标词表把「麻烦」校正为 máfan，fán 不再被覆盖；覆盖率由 139/140 修订为 138/140（fán、tǎng），最终以配置与准入报告为准。"
+ },
+ "bank": {
+  "items": 986,
+  "chars_used": 900,
+  "chars_outside_cumulative": [],
+  "basis": "字表按累计 900 比对；词/语法/音节按本级口径比对"
+ }
+}

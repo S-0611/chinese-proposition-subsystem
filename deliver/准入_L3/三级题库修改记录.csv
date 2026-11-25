@@ -1,0 +1,152 @@
+﻿编号,字段,原值,新值,原因
+L3-541,pinyin,tā fù le shāng，bù guò hái jiān chí gōng zuò。,tā fù le shāng，bú guò hái jiān chí gōng zuò。,一/不变调：不 + 四声“过”读 bú
+L3-375,text,他骑马去草原。,他骑马去草原玩。,与 L2-637 跨级重复，改写保持连动句标注
+L3-375,pinyin,tā qí mǎ qù cǎo yuán。,tā qí mǎ qù cǎo yuán wán。,随正文改写更新拼音
+L3-492,pinyin,tā dào zài le chuáng shàng jiù shuì le。,tā dǎo zài le chuáng shàng jiù shuì le。,“倒在床上”为 dǎo（跌倒），不是 dào
+L3-526,pinyin,tā jiào wǒ xué hàn zì。,tā jiāo wǒ xué hàn zì。,“教我学汉字”的“教”为 jiāo（教授）
+L3-432,grammar,['G3-07'],['G3-78'],“您去哪儿呢？”是带“呢”的特指问，不是疑问代词非疑问用法；改标疑问语调
+L3-105,text,他身体很好。,他身体一直很好。,与 L1 跨级重复（门禁默认只比上一级）；改写保持主谓谓语句标注
+L3-105,pinyin,tā shēn tǐ hěn hǎo。,tā shēn tǐ yì zhí hěn hǎo。,随正文改写更新拼音（一 + 二声读 yì）
+L3-115,text,他跑得比我快。,他跑得比我快多了。,与 L1 跨级重复（门禁默认只比上一级）；改写保持比较句标注
+L3-115,pinyin,tā pǎo dé bǐ wǒ kuài。,tā pǎo de bǐ wǒ kuài duō le。,随正文改写更新拼音；跑得”的“得”为结构助词 de
+L3-059,pinyin,dé@7,de@7,结构助词“得”读轻声 de
+L3-068,pinyin,dé@2,de@2,结构助词“得”读轻声 de
+L3-097,pinyin,dé@2,de@2,结构助词“得”读轻声 de
+L3-117,pinyin,dé@4,de@4,结构助词“得”读轻声 de
+L3-181,pinyin,dé@9,de@9,结构助词“得”读轻声 de
+L3-206,pinyin,dé@4,de@4,结构助词“得”读轻声 de
+L3-234,pinyin,dé@4,de@4,结构助词“得”读轻声 de
+L3-310,pinyin,dé@2,de@2,结构助词“得”读轻声 de
+L3-337,pinyin,dé@2,de@2,结构助词“得”读轻声 de
+L3-455,pinyin,dé@4,de@4,结构助词“得”读轻声 de
+L3-499,pinyin,dé@2,de@2,结构助词“得”读轻声 de
+L3-531,pinyin,dé@4,de@4,结构助词“得”读轻声 de
+L3-563,pinyin,dé@7,de@7,结构助词“得”读轻声 de
+L3-573,pinyin,dé@3,de@3,结构助词“得”读轻声 de
+L3-665,pinyin,dé@3,de@3,结构助词“得”读轻声 de
+L3-728,pinyin,dé@4,de@4,结构助词“得”读轻声 de
+L3-748,pinyin,dé@6,de@6,结构助词“得”读轻声 de
+L3-757,pinyin,dé@9,de@9,结构助词“得”读轻声 de
+L3-824,pinyin,dé@7,de@7,结构助词“得”读轻声 de
+L3-937,pinyin,dé@6,de@6,结构助词“得”读轻声 de
+L3-982,pinyin,dé@2,de@2,结构助词“得”读轻声 de
+L3-061,pinyin,dì@4,de@4,状语标记“地”读轻声 de
+L3-313,pinyin,dì@6,de@6,状语标记“地”读轻声 de
+L3-705,pinyin,dì@3,de@3,状语标记“地”读轻声 de
+L3-762,pinyin,dì@3,de@3,状语标记“地”读轻声 de
+L3-076,pinyin,guò@8,guo@8,动态助词“过”读轻声 guo
+L3-100,pinyin,guò@2,guo@2,动态助词“过”读轻声 guo
+L3-106,pinyin,guò@5,guo@5,动态助词“过”读轻声 guo
+L3-132,pinyin,guò@4,guo@4,动态助词“过”读轻声 guo
+L3-132,pinyin,guò@8,guo@8,动态助词“过”读轻声 guo
+L3-151,pinyin,guò@5,guo@5,动态助词“过”读轻声 guo
+L3-172,pinyin,guò@4,guo@4,动态助词“过”读轻声 guo
+L3-250,pinyin,guò@4,guo@4,动态助词“过”读轻声 guo
+L3-512,pinyin,guò@4,guo@4,动态助词“过”读轻声 guo
+L3-652,pinyin,guò@4,guo@4,动态助词“过”读轻声 guo
+L3-007,pinyin,liáng@10,liang@10,按国标词表校正词内轻声/声调
+L3-012,pinyin,wù@6,wu@6,按国标词表校正词内轻声/声调
+L3-015,pinyin,yǒu@3,you@3,按国标词表校正词内轻声/声调
+L3-022,pinyin,fú@3,fu@3,按国标词表校正词内轻声/声调
+L3-027,pinyin,yì@9,yi@9,按国标词表校正词内轻声/声调
+L3-064,pinyin,yǒu@3,you@3,按国标词表校正词内轻声/声调
+L3-071,pinyin,fú@3,fu@3,按国标词表校正词内轻声/声调
+L3-088,pinyin,huān@2,huan@2,按国标词表校正词内轻声/声调
+L3-089,pinyin,yǒu@10,you@10,按国标词表校正词内轻声/声调
+L3-090,pinyin,shì@4,shi@4,按国标词表校正词内轻声/声调
+L3-098,pinyin,huān@8,huan@8,按国标词表校正词内轻声/声调
+L3-107,pinyin,fú@3,fu@3,按国标词表校正词内轻声/声调
+L3-119,pinyin,huān@4,huan@4,按国标词表校正词内轻声/声调
+L3-119,pinyin,huān@10,huan@10,按国标词表校正词内轻声/声调
+L3-123,pinyin,xī@10,xi@10,按国标词表校正词内轻声/声调
+L3-126,pinyin,fú@3,fu@3,按国标词表校正词内轻声/声调
+L3-135,pinyin,fú@3,fu@3,按国标词表校正词内轻声/声调
+L3-137,pinyin,shì@1,shi@1,按国标词表校正词内轻声/声调
+L3-138,pinyin,shì@1,shi@1,按国标词表校正词内轻声/声调
+L3-150,pinyin,fú@9,fu@9,按国标词表校正词内轻声/声调
+L3-160,pinyin,xī@10,xi@10,按国标词表校正词内轻声/声调
+L3-161,pinyin,fú@1,fu@1,按国标词表校正词内轻声/声调
+L3-167,pinyin,fú@4,fu@4,按国标词表校正词内轻声/声调
+L3-168,pinyin,liàng@7,liang@7,按国标词表校正词内轻声/声调
+L3-181,pinyin,xī@7,xi@7,按国标词表校正词内轻声/声调
+L3-194,pinyin,fán@6,fan@6,按国标词表校正词内轻声/声调
+L3-200,pinyin,yòng@3,yong@3,按国标词表校正词内轻声/声调
+L3-238,pinyin,fú@3,fu@3,按国标词表校正词内轻声/声调
+L3-268,pinyin,yǒu@10,you@10,按国标词表校正词内轻声/声调
+L3-269,pinyin,liàng@5,liang@5,按国标词表校正词内轻声/声调
+L3-271,pinyin,piān@4,piàn@4,按国标词表校正词内轻声/声调
+L3-276,pinyin,fú@3,fu@3,按国标词表校正词内轻声/声调
+L3-280,pinyin,xiàng@3,xiāng@3,按国标词表校正词内轻声/声调
+L3-341,pinyin,qíng@1,qing@1,按国标词表校正词内轻声/声调
+L3-343,pinyin,fán@7,fan@7,按国标词表校正词内轻声/声调
+L3-373,pinyin,shì@1,shi@1,按国标词表校正词内轻声/声调
+L3-378,pinyin,nǎi@1,nai@1,按国标词表校正词内轻声/声调
+L3-381,pinyin,xī@4,xi@4,按国标词表校正词内轻声/声调
+L3-386,pinyin,yé@1,ye@1,按国标词表校正词内轻声/声调
+L3-402,pinyin,xī@4,xi@4,按国标词表校正词内轻声/声调
+L3-402,pinyin,sù@6,su@6,按国标词表校正词内轻声/声调
+L3-406,pinyin,shì@6,shi@6,按国标词表校正词内轻声/声调
+L3-409,pinyin,jīng@1,jing@1,按国标词表校正词内轻声/声调
+L3-419,pinyin,shí@2,shi@2,按国标词表校正词内轻声/声调
+L3-428,pinyin,shàng@3,shang@3,按国标词表校正词内轻声/声调
+L3-439,pinyin,shì@1,shi@1,按国标词表校正词内轻声/声调
+L3-447,pinyin,xī@8,xi@8,按国标词表校正词内轻声/声调
+L3-452,pinyin,chén@1,chen@1,按国标词表校正词内轻声/声调
+L3-462,pinyin,fú@7,fu@7,按国标词表校正词内轻声/声调
+L3-485,pinyin,fú@3,fu@3,按国标词表校正词内轻声/声调
+L3-504,pinyin,huān@2,huan@2,按国标词表校正词内轻声/声调
+L3-504,pinyin,huān@7,huan@7,按国标词表校正词内轻声/声调
+L3-513,pinyin,fú@6,fu@6,按国标词表校正词内轻声/声调
+L3-519,pinyin,xiàng@2,xiāng@2,按国标词表校正词内轻声/声调
+L3-528,pinyin,fà@3,fa@3,按国标词表校正词内轻声/声调
+L3-530,pinyin,nán@6,nan@6,按国标词表校正词内轻声/声调
+L3-533,pinyin,huān@4,huan@4,按国标词表校正词内轻声/声调
+L3-539,pinyin,yǒu@9,you@9,按国标词表校正词内轻声/声调
+L3-544,pinyin,chǔ@5,chu@5,按国标词表校正词内轻声/声调
+L3-546,pinyin,shàng@4,shang@4,按国标词表校正词内轻声/声调
+L3-566,pinyin,shàng@2,shang@2,按国标词表校正词内轻声/声调
+L3-588,pinyin,chǔ@7,chu@7,按国标词表校正词内轻声/声调
+L3-613,pinyin,xī@3,xi@3,按国标词表校正词内轻声/声调
+L3-635,pinyin,shàng@4,shang@4,按国标词表校正词内轻声/声调
+L3-635,pinyin,nán@7,nan@7,按国标词表校正词内轻声/声调
+L3-657,pinyin,wèi@7,wéi@7,按国标词表校正词内轻声/声调
+L3-670,pinyin,yì@6,yi@6,按国标词表校正词内轻声/声调
+L3-688,pinyin,yǒu@9,you@9,按国标词表校正词内轻声/声调
+L3-695,pinyin,chǔ@4,chu@4,按国标词表校正词内轻声/声调
+L3-700,pinyin,fū@1,fu@1,按国标词表校正词内轻声/声调
+L3-701,pinyin,fū@5,fu@5,按国标词表校正词内轻声/声调
+L3-703,pinyin,chǔ@4,chu@4,按国标词表校正词内轻声/声调
+L3-704,pinyin,xī@4,xi@4,按国标词表校正词内轻声/声调
+L3-724,pinyin,shì@4,shi@4,按国标词表校正词内轻声/声调
+L3-740,pinyin,huān@4,huan@4,按国标词表校正词内轻声/声调
+L3-744,pinyin,xià@5,xia@5,按国标词表校正词内轻声/声调
+L3-759,pinyin,shì@1,shi@1,按国标词表校正词内轻声/声调
+L3-777,pinyin,tīng@3,ting@3,按国标词表校正词内轻声/声调
+L3-780,pinyin,yé@1,ye@1,按国标词表校正词内轻声/声调
+L3-780,pinyin,shàng@3,shang@3,按国标词表校正词内轻声/声调
+L3-804,pinyin,shì@2,shi@2,按国标词表校正词内轻声/声调
+L3-813,pinyin,xī@5,xi@5,按国标词表校正词内轻声/声调
+L3-831,pinyin,fú@5,fu@5,按国标词表校正词内轻声/声调
+L3-836,pinyin,fú@8,fu@8,按国标词表校正词内轻声/声调
+L3-853,pinyin,yì@3,yi@3,按国标词表校正词内轻声/声调
+L3-856,pinyin,zi@3,zǐ@3,按国标词表校正词内轻声/声调
+L3-858,pinyin,zi@3,zǐ@3,按国标词表校正词内轻声/声调
+L3-863,pinyin,bái@7,bai@7,按国标词表校正词内轻声/声调
+L3-867,pinyin,shì@3,shi@3,按国标词表校正词内轻声/声调
+L3-872,pinyin,fú@1,fu@1,按国标词表校正词内轻声/声调
+L3-883,pinyin,shì@1,shi@1,按国标词表校正词内轻声/声调
+L3-889,pinyin,fú@3,fu@3,按国标词表校正词内轻声/声调
+L3-895,pinyin,shí@6,shi@6,按国标词表校正词内轻声/声调
+L3-897,pinyin,shì@1,shi@1,按国标词表校正词内轻声/声调
+L3-897,pinyin,sù@6,su@6,按国标词表校正词内轻声/声调
+L3-898,pinyin,fú@1,fu@1,按国标词表校正词内轻声/声调
+L3-901,pinyin,tài@2,tai@2,按国标词表校正词内轻声/声调
+L3-903,pinyin,yì@3,yi@3,按国标词表校正词内轻声/声调
+L3-918,pinyin,lǐ@3,li@3,按国标词表校正词内轻声/声调
+L3-919,pinyin,fú@5,fu@5,按国标词表校正词内轻声/声调
+L3-932,pinyin,huān@3,huan@3,按国标词表校正词内轻声/声调
+L3-951,pinyin,huān@4,huan@4,按国标词表校正词内轻声/声调
+L3-951,pinyin,huān@11,huan@11,按国标词表校正词内轻声/声调
+L3-964,pinyin,fán@11,fan@11,按国标词表校正词内轻声/声调
+L3-976,pinyin,fú@3,fu@3,按国标词表校正词内轻声/声调
+L3-979,pinyin,piān@5,piàn@5,按国标词表校正词内轻声/声调
