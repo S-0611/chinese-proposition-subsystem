@@ -15,10 +15,11 @@
       "level": 5,
       "round": 1,
       "text": "事情如此复杂，我也没想到。",
-      "pinyin": "shì qíng rú cǐ fù zá，wǒ yě méi xiǎng dào。",
+      "pinyin": "shì qing rú cǐ fù zá，wǒ yě méi xiǎng dào。",
       "grammar": [
         "G5-01"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-003",
@@ -65,10 +66,11 @@
       "level": 5,
       "round": 1,
       "text": "天上有几颗星星。",
-      "pinyin": "tiān shàng yǒu jǐ kē xīng xīng。",
+      "pinyin": "tiān shàng yǒu jǐ kē xīng xing。",
       "grammar": [
         "G5-02"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-008",
@@ -125,10 +127,11 @@
       "level": 5,
       "round": 1,
       "text": "他尤其喜欢数学。",
-      "pinyin": "tā yóu qí xǐ huān shù xué。",
+      "pinyin": "tā yóu qí xǐ huan shù xué。",
       "grammar": [
         "G5-03"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-014",
@@ -175,10 +178,11 @@
       "level": 5,
       "round": 1,
       "text": "他仍旧住在老地方。",
-      "pinyin": "tā réng jiù zhù zài lǎo dì fāng。",
+      "pinyin": "tā réng jiù zhù zài lǎo dì fang。",
       "grammar": [
         "G5-05"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-019",
@@ -445,10 +449,11 @@
       "level": 5,
       "round": 1,
       "text": "依照计划执行任务。",
-      "pinyin": "yī zhào jì huà zhí xíng rèn wù。",
+      "pinyin": "yī zhào jì huà zhí xíng rèn wu。",
       "grammar": [
         "G5-14"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-046",
@@ -535,10 +540,11 @@
       "level": 5,
       "round": 1,
       "text": "我想来想去，还是不去。",
-      "pinyin": "wǒ xiǎng lái xiǎng qù，hái shì bú qù。",
+      "pinyin": "wǒ xiǎng lái xiǎng qù，hái shi bú qù。",
       "grammar": [
         "G5-17"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-055",
@@ -575,10 +581,11 @@
       "level": 5,
       "round": 1,
       "text": "家里没水没电。",
-      "pinyin": "jiā lǐ méi shuǐ méi diàn。",
+      "pinyin": "jiā li méi shuǐ méi diàn。",
       "grammar": [
         "G5-19"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-059",
@@ -685,10 +692,11 @@
       "level": 5,
       "round": 1,
       "text": "你用不着这么客气。",
-      "pinyin": "nǐ yòng bù zhe zhè me kè qì。",
+      "pinyin": "nǐ yòng bù zhe zhè me kè qi。",
       "grammar": [
         "G5-25"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-070",
@@ -955,10 +963,11 @@
       "level": 5,
       "round": 1,
       "text": "墙上写有他的名字。",
-      "pinyin": "qiáng shàng xiě yǒu tā de míng zì。",
+      "pinyin": "qiáng shàng xiě yǒu tā de míng zi。",
       "grammar": [
         "G5-38"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-097",
@@ -1095,10 +1104,11 @@
       "level": 5,
       "round": 1,
       "text": "尽管下雨，他还是去了。",
-      "pinyin": "jǐn guǎn xià yǔ，tā hái shì qù le。",
+      "pinyin": "jǐn guǎn xià yǔ，tā hái shi qù le。",
       "grammar": [
         "G5-45"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-111",
@@ -1125,20 +1135,22 @@
       "level": 5,
       "round": 1,
       "text": "要是他不来，就改期，否则麻烦。",
-      "pinyin": "yào shì tā bù lái，jiù gǎi qī，fǒu zé má fán。",
+      "pinyin": "yào shi tā bù lái，jiù gǎi qī，fǒu zé má fan。",
       "grammar": [
         "G5-47"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-114",
       "level": 5,
       "round": 1,
       "text": "要是下雨就改期，否则白跑。",
-      "pinyin": "yào shì xià yǔ jiù gǎi qī，fǒu zé bái pǎo。",
+      "pinyin": "yào shi xià yǔ jiù gǎi qī，fǒu zé bái pǎo。",
       "grammar": [
         "G5-47"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-115",
@@ -1465,10 +1477,11 @@
       "level": 5,
       "round": 2,
       "text": "朋友归朋友，生意归生意。",
-      "pinyin": "péng yǒu guī péng yǒu，shēng yì guī shēng yì。",
+      "pinyin": "péng you guī péng you，shēng yì guī shēng yì。",
       "grammar": [
         "G5-64"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-148",
@@ -1505,10 +1518,11 @@
       "level": 5,
       "round": 2,
       "text": "瞧他得意的。",
-      "pinyin": "qiáo tā de yì de。",
+      "pinyin": "qiáo tā dé yì de。",
       "grammar": [
         "G5-66"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-152",
@@ -1555,20 +1569,22 @@
       "level": 5,
       "round": 2,
       "text": "什么钱不钱的，别客气。",
-      "pinyin": "shén me qián bù qián de，bié kè qì。",
+      "pinyin": "shén me qián bù qián de，bié kè qi。",
       "grammar": [
         "G5-69"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-157",
       "level": 5,
       "round": 2,
       "text": "什么麻烦不麻烦的，我来。",
-      "pinyin": "shén me má fán bù má fán de，wǒ lái。",
+      "pinyin": "shén me má fan bù má fan de，wǒ lái。",
       "grammar": [
         "G5-69"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-158",
@@ -1655,10 +1671,11 @@
       "level": 5,
       "round": 2,
       "text": "他尝了香肠和葡萄。",
-      "pinyin": "tā cháng le xiāng cháng hé pú táo。",
+      "pinyin": "tā cháng le xiāng cháng hé pú tao。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-167",
@@ -1925,10 +1942,11 @@
       "level": 5,
       "round": 2,
       "text": "他脾气好，从不抱怨。",
-      "pinyin": "tā pí qì hǎo，cóng bú bào yuàn。",
+      "pinyin": "tā pí qi hǎo，cóng bú bào yuàn。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-194",
@@ -1985,10 +2003,11 @@
       "level": 5,
       "round": 2,
       "text": "他厉害得很，但很虚心。",
-      "pinyin": "tā lì hài de hěn，dàn hěn xū xīn。",
+      "pinyin": "tā lì hai de hěn，dàn hěn xū xīn。",
       "grammar": [
         "G5-36"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-200",
@@ -2217,8 +2236,12 @@
       "text": "他要赔偿全部损失。",
       "pinyin": "tā yào péi cháng quán bù sǔn shī。",
       "grammar": [
+        "G5-32"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“要赔偿”是情态动词+动宾，不是两个动词短语连用"
     },
     {
       "id": "L5-223",
@@ -2335,10 +2358,11 @@
       "level": 5,
       "round": 2,
       "text": "他是这本书的编辑。",
-      "pinyin": "tā shì zhè běn shū de biān jí。",
+      "pinyin": "tā shì zhè běn shū de biān ji。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-235",
@@ -2395,10 +2419,11 @@
       "level": 5,
       "round": 2,
       "text": "要控制自己的脾气。",
-      "pinyin": "yào kòng zhì zì jǐ de pí qì。",
+      "pinyin": "yào kòng zhì zì jǐ de pí qi。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-241",
@@ -2545,10 +2570,11 @@
       "level": 5,
       "round": 2,
       "text": "我很喜欢这首曲子。",
-      "pinyin": "wǒ hěn xǐ huān zhè shǒu qǔ zi。",
+      "pinyin": "wǒ hěn xǐ huan zhè shǒu qǔ zi。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-256",
@@ -2667,18 +2693,23 @@
       "text": "太阳射出光来。",
       "pinyin": "tài yáng shè chū guāng lái。",
       "grammar": [
+        "G5-32"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“射出光来”是动补结构，只有一个动词短语"
     },
     {
       "id": "L5-268",
       "level": 5,
       "round": 3,
       "text": "他喜欢摄影。",
-      "pinyin": "tā xǐ huān shè yǐng。",
+      "pinyin": "tā xǐ huan shè yǐng。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-269",
@@ -2705,10 +2736,11 @@
       "level": 5,
       "round": 3,
       "text": "他收拾好房间。",
-      "pinyin": "tā shōu shí hǎo fáng jiān。",
+      "pinyin": "tā shōu shi hǎo fáng jiān。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-272",
@@ -2847,8 +2879,12 @@
       "text": "他托我买了票。",
       "pinyin": "tā tuō wǒ mǎi le piào。",
       "grammar": [
+        "G5-42"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“托我买了票”是兼语句（托=致使/指使类动词）"
     },
     {
       "id": "L5-286",
@@ -2905,10 +2941,11 @@
       "level": 5,
       "round": 3,
       "text": "我很熟悉这条路。",
-      "pinyin": "wǒ hěn shú xī zhè tiáo lù。",
+      "pinyin": "wǒ hěn shú xi zhè tiáo lù。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-292",
@@ -2955,10 +2992,11 @@
       "level": 5,
       "round": 3,
       "text": "大家协作完成了任务。",
-      "pinyin": "dà jiā xié zuò wán chéng le rèn wù。",
+      "pinyin": "dà jiā xié zuò wán chéng le rèn wu。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-297",
@@ -3145,10 +3183,11 @@
       "level": 5,
       "round": 3,
       "text": "他暂时住在朋友家。",
-      "pinyin": "tā zàn shí zhù zài péng yǒu jiā。",
+      "pinyin": "tā zàn shí zhù zài péng you jiā。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-316",
@@ -3305,10 +3344,11 @@
       "level": 5,
       "round": 3,
       "text": "他帮奶奶拔草。",
-      "pinyin": "tā bāng nǎi nǎi bá cǎo。",
+      "pinyin": "tā bāng nǎi nai bá cǎo。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-332",
@@ -3325,10 +3365,11 @@
       "level": 5,
       "round": 3,
       "text": "玻璃杯打碎了。",
-      "pinyin": "bō lí bēi dǎ suì le。",
+      "pinyin": "bō li bēi dǎ suì le。",
       "grammar": [
         "G5-40"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-334",
@@ -3425,10 +3466,11 @@
       "level": 5,
       "round": 3,
       "text": "孩子模仿大人说话。",
-      "pinyin": "hái zi mó fǎng dà rén shuō huà。",
+      "pinyin": "hái zi mó fǎng dà ren shuō huà。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-344",
@@ -3455,10 +3497,11 @@
       "level": 5,
       "round": 3,
       "text": "师傅修好了车。",
-      "pinyin": "shī fù xiū hǎo le chē。",
+      "pinyin": "shī fu xiū hǎo le chē。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-347",
@@ -3655,10 +3698,11 @@
       "level": 5,
       "round": 3,
       "text": "他的逻辑很清楚。",
-      "pinyin": "tā de luó jí hěn qīng chǔ。",
+      "pinyin": "tā de luó jí hěn qīng chu。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-367",
@@ -3675,10 +3719,11 @@
       "level": 5,
       "round": 3,
       "text": "家里用煤气做饭。",
-      "pinyin": "jiā lǐ yòng méi qì zuò fàn。",
+      "pinyin": "jiā li yòng méi qì zuò fàn。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-369",
@@ -3775,10 +3820,11 @@
       "level": 5,
       "round": 3,
       "text": "他学会了裁剪衣服。",
-      "pinyin": "tā xué huì le cái jiǎn yī fú。",
+      "pinyin": "tā xué huì le cái jiǎn yī fu。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-379",
@@ -3795,10 +3841,11 @@
       "level": 5,
       "round": 3,
       "text": "他剪了指甲。",
-      "pinyin": "tā jiǎn le zhǐ jiǎ。",
+      "pinyin": "tā jiǎn le zhǐ jia。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-381",
@@ -3865,20 +3912,22 @@
       "level": 5,
       "round": 2,
       "text": "爷爷每天教我唱歌，我学得很快。",
-      "pinyin": "yé yé měi tiān jiào wǒ chàng gē，wǒ xué de hěn kuài。",
+      "pinyin": "yé ye měi tiān jiào wǒ chàng gē，wǒ xué de hěn kuài。",
       "grammar": [
         "G5-42"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-388",
       "level": 5,
       "round": 2,
       "text": "请问，东边有商店吗？我想买点东西。",
-      "pinyin": "qǐng wèn，dōng biān yǒu shāng diàn ma？wǒ xiǎng mǎi diǎn dōng xī。",
+      "pinyin": "qǐng wèn，dōng bian yǒu shāng diàn ma？wǒ xiǎng mǎi diǎn dōng xi。",
       "grammar": [
         "G5-38"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-389",
@@ -3895,40 +3944,44 @@
       "level": 5,
       "round": 2,
       "text": "谁认识这位先生？请你介绍一下。",
-      "pinyin": "shuí rèn shí zhè wèi xiān shēng？qǐng nǐ jiè shào yí xià。",
+      "pinyin": "shuí rèn shi zhè wèi xiān shēng？qǐng nǐ jiè shào yí xià。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-391",
       "level": 5,
       "round": 2,
       "text": "男的在左边，女的在右边。",
-      "pinyin": "nán de zài zuǒ biān，nǚ de zài yòu biān。",
+      "pinyin": "nán de zài zuǒ bian，nǚ de zài yòu bian。",
       "grammar": [
         "G5-33"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-392",
       "level": 5,
       "round": 2,
       "text": "请把这几页纸放在右边。",
-      "pinyin": "qǐng bǎ zhè jǐ yè zhǐ fàng zài yòu biān。",
+      "pinyin": "qǐng bǎ zhè jǐ yè zhǐ fàng zài yòu bian。",
       "grammar": [
         "G5-39"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-393",
       "level": 5,
       "round": 2,
       "text": "晚上我想洗个澡，早点休息。",
-      "pinyin": "wǎn shàng wǒ xiǎng xǐ gè zǎo，zǎo diǎn xiū xī。",
+      "pinyin": "wǎn shàng wǒ xiǎng xǐ gè zǎo，zǎo diǎn xiū xi。",
       "grammar": [
         "G5-41"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-394",
@@ -3985,10 +4038,11 @@
       "level": 5,
       "round": 2,
       "text": "谢谢你告诉我这件事。",
-      "pinyin": "xiè xiè nǐ gào sù wǒ zhè jiàn shì。",
+      "pinyin": "xiè xie nǐ gào su wǒ zhè jiàn shì。",
       "grammar": [
         "G5-42"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-400",
@@ -4037,8 +4091,12 @@
       "text": "我家离学校很远，要坐公共汽车。",
       "pinyin": "wǒ jiā lí xué xiào hěn yuǎn，yào zuò gōng gòng qì chē。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“我家离学校很远，要坐公共汽车”后句省略主语/关联词"
     },
     {
       "id": "L5-405",
@@ -4077,18 +4135,23 @@
       "text": "他每天七点起床，八点吃早饭。",
       "pinyin": "tā měi tiān qī diǎn qǐ chuáng，bā diǎn chī zǎo fàn。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“七点起床，八点吃早饭”是并列事件，无连动关系"
     },
     {
       "id": "L5-409",
       "level": 5,
       "round": 2,
       "text": "这套衣服不贵，颜色也很好看。",
-      "pinyin": "zhè tào yī fú bú guì，yán sè yě hěn hǎo kàn。",
+      "pinyin": "zhè tào yī fu bú guì，yán sè yě hěn hǎo kàn。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-410",
@@ -4155,50 +4218,55 @@
       "level": 5,
       "round": 2,
       "text": "他喜欢喝啤酒，我喜欢喝咖啡，各有各的味道。",
-      "pinyin": "tā xǐ huān hē pí jiǔ，wǒ xǐ huān hē kā fēi，gè yǒu gè de wèi dào。",
+      "pinyin": "tā xǐ huan hē pí jiǔ，wǒ xǐ huan hē kā fēi，gè yǒu gè de wèi dào。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-417",
       "level": 5,
       "round": 2,
       "text": "碗里的汤太咸了，我不喜欢，你喝吧。",
-      "pinyin": "wǎn lǐ de tāng tài xián le，wǒ bù xǐ huān，nǐ hē ba。",
+      "pinyin": "wǎn lǐ de tāng tài xián le，wǒ bù xǐ huan，nǐ hē ba。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-418",
       "level": 5,
       "round": 2,
       "text": "他坐在椅子上，手里拿着一本词典。",
-      "pinyin": "tā zuò zài yǐ zi shàng，shǒu lǐ ná zhe yì běn cí diǎn。",
+      "pinyin": "tā zuò zài yǐ zi shàng，shǒu li ná zhe yì běn cí diǎn。",
       "grammar": [
         "G5-41"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-419",
       "level": 5,
       "round": 2,
       "text": "桌子上放着筷子和空碗，没人收拾。",
-      "pinyin": "zhuō zi shàng fàng zhe kuài zi hé kōng wǎn，méi rén shōu shí。",
+      "pinyin": "zhuō zi shàng fàng zhe kuài zi hé kōng wǎn，méi rén shōu shi。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-420",
       "level": 5,
       "round": 2,
       "text": "他穿了一件蓝色的衬衫，看起来很精神。",
-      "pinyin": "tā chuān le yí jiàn lán sè de chèn shān，kàn qǐ lái hěn jīng shén。",
+      "pinyin": "tā chuān le yí jiàn lán sè de chèn shān，kàn qǐ lái hěn jīng shen。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-421",
@@ -4225,10 +4293,11 @@
       "level": 5,
       "round": 2,
       "text": "他讲的故事很有意思，大家都笑了。",
-      "pinyin": "tā jiǎng de gù shì hěn yǒu yì si，dà jiā dōu xiào le。",
+      "pinyin": "tā jiǎng de gù shi hěn yǒu yì si，dà jiā dōu xiào le。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-424",
@@ -4315,10 +4384,11 @@
       "level": 5,
       "round": 2,
       "text": "他喜欢吃甜食，尤其是蛋糕。",
-      "pinyin": "tā xǐ huān chī tián shí，yóu qí shì dàn gāo。",
+      "pinyin": "tā xǐ huan chī tián shí，yóu qí shì dàn gāo。",
       "grammar": [
         "G5-03"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-433",
@@ -4365,10 +4435,11 @@
       "level": 5,
       "round": 2,
       "text": "他背着一个大包，手里拉着箱子。",
-      "pinyin": "tā bèi zhe yí gè dà bāo，shǒu lǐ lā zhe xiāng zi。",
+      "pinyin": "tā bèi zhe yí gè dà bāo，shǒu li lā zhe xiāng zi。",
       "grammar": [
         "G5-41"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-438",
@@ -4405,20 +4476,22 @@
       "level": 5,
       "round": 2,
       "text": "早晨的空气很好，他每天在湖边跑步。",
-      "pinyin": "zǎo chén de kōng qì hěn hǎo，tā měi tiān zài hú biān pǎo bù。",
+      "pinyin": "zǎo chen de kōng qì hěn hǎo，tā měi tiān zài hú biān pǎo bù。",
       "grammar": [
         "G5-33"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-442",
       "level": 5,
       "round": 2,
       "text": "他眼睛近视，坐在前排也看不清黑板。",
-      "pinyin": "tā yǎn jīng jìn shì，zuò zài qián pái yě kàn bù qīng hēi bǎn。",
+      "pinyin": "tā yǎn jing jìn shì，zuò zài qián pái yě kàn bù qīng hēi bǎn。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-443",
@@ -4545,10 +4618,11 @@
       "level": 5,
       "round": 2,
       "text": "他舒服地躺在沙发上。",
-      "pinyin": "tā shū fú dì tǎng zài shā fā shàng。",
+      "pinyin": "tā shū fu dì tǎng zài shā fā shàng。",
       "grammar": [
         "G5-33"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-456",
@@ -4575,10 +4649,15 @@
       "level": 5,
       "round": 2,
       "text": "他虽然很累，但还是坚持下来了。",
-      "pinyin": "tā suī rán hěn lèi，dàn hái shì jiān chí xià lái le。",
+      "pinyin": "tā suī rán hěn lèi，dàn hái shi jiān chí xià lái le。",
       "grammar": [
+        "G5-34"
+      ],
+      "grammar_prev": [
         "G5-45"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“坚持下来了”的“下来”是时间意义趋向补语，不是“尽管”",
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-459",
@@ -4595,10 +4674,11 @@
       "level": 5,
       "round": 2,
       "text": "奶奶的腿不太好，走路很慢。",
-      "pinyin": "nǎi nǎi de tuǐ bú tài hǎo，zǒu lù hěn màn。",
+      "pinyin": "nǎi nai de tuǐ bú tài hǎo，zǒu lù hěn màn。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-461",
@@ -4617,8 +4697,12 @@
       "text": "他喂了一只小猫，还养了一只狗。",
       "pinyin": "tā wèi le yì zhī xiǎo māo，hái yǎng le yì zhī gǒu。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“喂小猫，还养小狗”用“还”并列，不是连动"
     },
     {
       "id": "L5-463",
@@ -4695,10 +4779,11 @@
       "level": 5,
       "round": 2,
       "text": "他身体很健康，每天早晨都跑步。",
-      "pinyin": "tā shēn tǐ hěn jiàn kāng，měi tiān zǎo chén dōu pǎo bù。",
+      "pinyin": "tā shēn tǐ hěn jiàn kāng，měi tiān zǎo chen dōu pǎo bù。",
       "grammar": [
         "G5-33"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-471",
@@ -4845,10 +4930,11 @@
       "level": 5,
       "round": 2,
       "text": "冬天温度很低，他穿上厚衣服才出门。",
-      "pinyin": "dōng tiān wēn dù hěn dī，tā chuān shàng hòu yī fú cái chū mén。",
+      "pinyin": "dōng tiān wēn dù hěn dī，tā chuān shàng hòu yī fu cái chū mén。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-486",
@@ -4887,8 +4973,12 @@
       "text": "他脚受伤了，走路很慢，只好请了假。",
       "pinyin": "tā jiǎo shòu shāng le，zǒu lù hěn màn，zhǐ hǎo qǐng le jiǎ。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“受伤了，走路很慢，只好请假”是因果链，非连动"
     },
     {
       "id": "L5-490",
@@ -4917,18 +5007,23 @@
       "text": "他举手回答问题，老师点了点头。",
       "pinyin": "tā jǔ shǒu huí dá wèn tí，lǎo shī diǎn le diǎn tóu。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：前后主语不同（他/老师），不是连动"
     },
     {
       "id": "L5-493",
       "level": 5,
       "round": 2,
       "text": "这个科目太难，他克服困难，考了两次才过。",
-      "pinyin": "zhè ge kē mù tài nán，tā kè fú kùn nán，kǎo le liǎng cì cái guò。",
+      "pinyin": "zhè ge kē mù tài nán，tā kè fú kùn nan，kǎo le liǎng cì cái guò。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-494",
@@ -4947,8 +5042,12 @@
       "text": "他脸红了，低着头，一句话也不说。",
       "pinyin": "tā liǎn hóng le，dī zhe tóu，yí jù huà yě bù shuō。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“脸红、低头、不说”是状态并列，非连动"
     },
     {
       "id": "L5-496",
@@ -5065,10 +5164,11 @@
       "level": 5,
       "round": 2,
       "text": "他运气真好，赶上了末班车。",
-      "pinyin": "tā yùn qì zhēn hǎo，gǎn shàng le mò bān chē。",
+      "pinyin": "tā yùn qi zhēn hǎo，gǎn shàng le mò bān chē。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-508",
@@ -5085,10 +5185,11 @@
       "level": 5,
       "round": 2,
       "text": "他的衣服很脏，却占了一个好位子。",
-      "pinyin": "tā de yī fú hěn zāng，què zhàn le yí gè hǎo wèi zi。",
+      "pinyin": "tā de yī fu hěn zāng，què zhàn le yí gè hǎo wèi zi。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-510",
@@ -5255,10 +5356,11 @@
       "level": 5,
       "round": 2,
       "text": "他传给我一张照片，照片上是他的家乡。",
-      "pinyin": "tā chuán gěi wǒ yì zhāng zhào piān，zhào piān shàng shì tā de jiā xiāng。",
+      "pinyin": "tā chuán gěi wǒ yì zhāng zhào piàn，zhào piàn shàng shì tā de jiā xiāng。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-527",
@@ -5397,8 +5499,12 @@
       "text": "他极其认真，集合了大家。",
       "pinyin": "tā jí qí rèn zhēn，jí hé le dà jiā。",
       "grammar": [
+        "G5-32"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“极其认真”是形容词谓语，与“集合了大家”非连动"
     },
     {
       "id": "L5-541",
@@ -5415,10 +5521,11 @@
       "level": 5,
       "round": 2,
       "text": "他闭着眼睛，躺在床上休息。",
-      "pinyin": "tā bì zhuó yǎn jīng，tǎng zài chuáng shàng xiū xī。",
+      "pinyin": "tā bì zhuó yǎn jing，tǎng zài chuáng shàng xiū xi。",
       "grammar": [
         "G5-41"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-543",
@@ -5455,10 +5562,11 @@
       "level": 5,
       "round": 2,
       "text": "潮水涨了，衣服有点湿。",
-      "pinyin": "cháo shuǐ zhǎng le，yī fú yǒu diǎn shī。",
+      "pinyin": "cháo shuǐ zhǎng le，yī fu yǒu diǎn shī。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-547",
@@ -5495,10 +5603,11 @@
       "level": 5,
       "round": 2,
       "text": "他抽了一张签，运气很好。",
-      "pinyin": "tā chōu le yì zhāng qiān，yùn qì hěn hǎo。",
+      "pinyin": "tā chōu le yì zhāng qiān，yùn qi hěn hǎo。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-551",
@@ -5575,10 +5684,11 @@
       "level": 5,
       "round": 2,
       "text": "敌人变成了朋友。",
-      "pinyin": "dí rén biàn chéng le péng yǒu。",
+      "pinyin": "dí rén biàn chéng le péng you。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-559",
@@ -5605,10 +5715,11 @@
       "level": 5,
       "round": 2,
       "text": "他喜欢吃豆腐。",
-      "pinyin": "tā xǐ huān chī dòu fǔ。",
+      "pinyin": "tā xǐ huan chī dòu fu。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-562",
@@ -5635,30 +5746,33 @@
       "level": 5,
       "round": 2,
       "text": "他肚子疼，去了医院。",
-      "pinyin": "tā dǔ zi téng，qù le yī yuàn。",
+      "pinyin": "tā dù zi téng，qù le yī yuàn。",
       "grammar": [
         "G5-41"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-565",
       "level": 5,
       "round": 2,
       "text": "他做了很多坏事，大家都不喜欢他。",
-      "pinyin": "tā zuò le hěn duō huài shì，dà jiā dōu bù xǐ huān tā。",
+      "pinyin": "tā zuò le hěn duō huài shì，dà jiā dōu bù xǐ huan tā。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-566",
       "level": 5,
       "round": 2,
       "text": "他耳朵不太好，听不清你说话。",
-      "pinyin": "tā ěr duǒ bú tài hǎo，tīng bù qīng nǐ shuō huà。",
+      "pinyin": "tā ěr duo bú tài hǎo，tīng bù qīng nǐ shuō huà。",
       "grammar": [
         "G5-35"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-567",
@@ -5795,10 +5909,11 @@
       "level": 5,
       "round": 2,
       "text": "他喜欢看剧，裤子却破了。",
-      "pinyin": "tā xǐ huān kàn jù，kù zi què pò le。",
+      "pinyin": "tā xǐ huan kàn jù，kù zi què pò le。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-581",
@@ -5847,8 +5962,12 @@
       "text": "他联系了我，领导这个团队。",
       "pinyin": "tā lián xì le wǒ，lǐng dǎo zhè ge tuán duì。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“联系我，领导团队”是并列事件"
     },
     {
       "id": "L5-586",
@@ -5865,10 +5984,11 @@
       "level": 5,
       "round": 2,
       "text": "他冒雨前行，衣服都湿透了。",
-      "pinyin": "tā mào yǔ qián xíng，yī fú dōu shī tòu le。",
+      "pinyin": "tā mào yǔ qián xíng，yī fu dōu shī tòu le。",
       "grammar": [
         "G5-41"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-588",
@@ -5885,10 +6005,11 @@
       "level": 5,
       "round": 2,
       "text": "某人不舒服，木头很重。",
-      "pinyin": "mǒu rén bù shū fú，mù tou hěn zhòng。",
+      "pinyin": "mǒu rén bù shū fu，mù tou hěn zhòng。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-590",
@@ -5905,10 +6026,11 @@
       "level": 5,
       "round": 2,
       "text": "他拍了一张照片，牌子很大。",
-      "pinyin": "tā pāi le yì zhāng zhào piān，pái zi hěn dà。",
+      "pinyin": "tā pāi le yì zhāng zhào piàn，pái zi hěn dà。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-592",
@@ -5927,38 +6049,45 @@
       "text": "他配了眼镜，还批评了我。",
       "pinyin": "tā pèi le yǎn jìng，hái pī píng le wǒ。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“配眼镜，还批评我”用“还”并列"
     },
     {
       "id": "L5-594",
       "level": 5,
       "round": 2,
       "text": "他打破了纪录，事情很奇怪。",
-      "pinyin": "tā dǎ pò le jì lù，shì qíng hěn qí guài。",
+      "pinyin": "tā dǎ pò le jì lù，shì qing hěn qí guài。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-595",
       "level": 5,
       "round": 2,
       "text": "他的器量很大，人很坚强。",
-      "pinyin": "tā de qì liàng hěn dà，rén hěn jiān qiáng。",
+      "pinyin": "tā de qì liàng hěn dà，ren hěn jiān qiáng。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-596",
       "level": 5,
       "round": 2,
       "text": "这座桥很长，事情很巧。",
-      "pinyin": "zhè zuò qiáo hěn zhǎng，shì qíng hěn qiǎo。",
+      "pinyin": "zhè zuò qiáo hěn zhǎng，shì qing hěn qiǎo。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-597",
@@ -6047,8 +6176,12 @@
       "text": "他们谈了谈，汤很热。",
       "pinyin": "tā men tán le tán，tāng hěn rè。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“谈了谈，汤很热”话题转换，无连动关系"
     },
     {
       "id": "L5-606",
@@ -6077,8 +6210,12 @@
       "text": "他退了一步，这里很危险。",
       "pinyin": "tā tuì le yí bù，zhè lǐ hěn wēi xiǎn。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“退了一步，这里很危险”后句是解释，非连动"
     },
     {
       "id": "L5-609",
@@ -6097,8 +6234,12 @@
       "text": "他保卫了家园，握着我的手。",
       "pinyin": "tā bǎo wèi le jiā yuán，wò zhe wǒ de shǒu。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“保卫家园，握着我的手”动作并列"
     },
     {
       "id": "L5-611",
@@ -6185,10 +6326,11 @@
       "level": 5,
       "round": 2,
       "text": "他很讲义气，也喜欢艺术。",
-      "pinyin": "tā hěn jiǎng yì qì，yě xǐ huān yì shù。",
+      "pinyin": "tā hěn jiǎng yì qì，yě xǐ huan yì shù。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-620",
@@ -6197,8 +6339,12 @@
       "text": "他经营一家店，赢了比赛。",
       "pinyin": "tā jīng yíng yì jiā diàn，yíng le bǐ sài。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“经营店，赢比赛”是并列事件"
     },
     {
       "id": "L5-621",
@@ -6217,8 +6363,12 @@
       "text": "他预测了结果，展示了作品。",
       "pinyin": "tā yù cè le jié guǒ，zhǎn shì le zuò pǐn。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“预测结果，展示作品”是并列事件"
     },
     {
       "id": "L5-623",
@@ -6277,8 +6427,12 @@
       "text": "他转身走了，状态很好。",
       "pinyin": "tā zhuǎn shēn zǒu le，zhuàng tài hěn hǎo。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“转身走了，状态很好”是动作+评述"
     },
     {
       "id": "L5-629",
@@ -6305,10 +6459,11 @@
       "level": 5,
       "round": 2,
       "text": "他个子矮，身体有点胖，穿了一件薄衣服。",
-      "pinyin": "tā gè zi ǎi，shēn tǐ yǒu diǎn pàng，chuān le yí jiàn báo yī fú。",
+      "pinyin": "tā gè zi ǎi，shēn tǐ yǒu diǎn pàng，chuān le yí jiàn báo yī fu。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-632",
@@ -6485,10 +6640,11 @@
       "level": 5,
       "round": 2,
       "text": "他把照片附在信里，一起寄走了。",
-      "pinyin": "tā bǎ zhào piān fù zài xìn lǐ，yì qǐ jì zǒu le。",
+      "pinyin": "tā bǎ zhào piàn fù zài xìn lǐ，yì qǐ jì zǒu le。",
       "grammar": [
         "G5-39"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-650",
@@ -6517,8 +6673,12 @@
       "text": "公司提供免费午餐，还供应水果。",
       "pinyin": "gōng sī tí gōng miǎn fèi wǔ cān，hái gōng yìng shuǐ guǒ。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“提供午餐，还供应水果”用“还”并列"
     },
     {
       "id": "L5-653",
@@ -6575,10 +6735,11 @@
       "level": 5,
       "round": 2,
       "text": "他把衣服裹紧，快步走了出去。",
-      "pinyin": "tā bǎ yī fú guǒ jǐn，kuài bù zǒu le chū qù。",
+      "pinyin": "tā bǎ yī fu guǒ jǐn，kuài bù zǒu le chū qù。",
       "grammar": [
         "G5-41"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-659",
@@ -6625,20 +6786,22 @@
       "level": 5,
       "round": 2,
       "text": "他怀念家乡，常想起小时候。",
-      "pinyin": "tā huái niàn jiā xiāng，cháng xiǎng qǐ xiǎo shí hòu。",
+      "pinyin": "tā huái niàn jiā xiāng，cháng xiǎng qǐ xiǎo shí hou。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-664",
       "level": 5,
       "round": 2,
       "text": "他的病缓和了，精神好多了。",
-      "pinyin": "tā de bìng huǎn hé le，jīng shén hǎo duō le。",
+      "pinyin": "tā de bìng huǎn hé le，jīng shen hǎo duō le。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-665",
@@ -6655,10 +6818,11 @@
       "level": 5,
       "round": 2,
       "text": "他汇了一笔钱给家里。",
-      "pinyin": "tā huì le yì bǐ qián gěi jiā lǐ。",
+      "pinyin": "tā huì le yì bǐ qián gěi jiā li。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-667",
@@ -6775,10 +6939,15 @@
       "level": 5,
       "round": 2,
       "text": "他卷起了衣服。",
-      "pinyin": "tā juǎn qǐ le yī fú。",
+      "pinyin": "tā juǎn qǐ le yī fu。",
       "grammar": [
+        "G5-32"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“卷起了衣服”是单动宾",
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-679",
@@ -6915,10 +7084,11 @@
       "level": 5,
       "round": 2,
       "text": "这是秘密，别告诉别人。",
-      "pinyin": "zhè shì mì mì，bié gào sù bié rén。",
+      "pinyin": "zhè shì mì mì，bié gào su bié rén。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-693",
@@ -6965,10 +7135,11 @@
       "level": 5,
       "round": 2,
       "text": "老婆婆把盘子放在桌上。",
-      "pinyin": "lǎo pó po bǎ pán zi fàng zài zhuō shàng。",
+      "pinyin": "lǎo po po bǎ pán zi fàng zài zhuō shàng。",
       "grammar": [
         "G5-39"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-698",
@@ -6985,10 +7156,11 @@
       "level": 5,
       "round": 2,
       "text": "他被迫和妻子分开。",
-      "pinyin": "tā bèi pò hé qī zǐ fēn kāi。",
+      "pinyin": "tā bèi pò hé qī zi fēn kāi。",
       "grammar": [
         "G5-40"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-700",
@@ -7105,10 +7277,11 @@
       "level": 5,
       "round": 2,
       "text": "他喜欢读诗和历史。",
-      "pinyin": "tā xǐ huān dú shī hé lì shǐ。",
+      "pinyin": "tā xǐ huan dú shī hé lì shǐ。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-712",
@@ -7125,10 +7298,11 @@
       "level": 5,
       "round": 2,
       "text": "叔叔在店里出售文具。",
-      "pinyin": "shū shū zài diàn lǐ chū shòu wén jù。",
+      "pinyin": "shū shu zài diàn lǐ chū shòu wén jù。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-714",
@@ -7155,10 +7329,11 @@
       "level": 5,
       "round": 2,
       "text": "他长得很帅，头发松软。",
-      "pinyin": "tā zhǎng de hěn shuài，tóu fà sōng ruǎn。",
+      "pinyin": "tā zhǎng de hěn shuài，tóu fa sōng ruǎn。",
       "grammar": [
         "G5-37"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-717",
@@ -7185,10 +7360,11 @@
       "level": 5,
       "round": 2,
       "text": "孙子喜欢吃酸的。",
-      "pinyin": "sūn zi xǐ huān chī suān de。",
+      "pinyin": "sūn zi xǐ huan chī suān de。",
       "grammar": [
         "G5-32"
-      ]
+      ],
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "id": "L5-720",
@@ -7327,8 +7503,12 @@
       "text": "他按顺序寻找。",
       "pinyin": "tā àn shùn xù xún zhǎo。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“按顺序寻找”省略宾语"
     },
     {
       "id": "L5-734",
@@ -7337,8 +7517,12 @@
       "text": "他迅速刷牙。",
       "pinyin": "tā xùn sù shuā yá。",
       "grammar": [
+        "G5-32"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“迅速刷牙”是单动宾"
     },
     {
       "id": "L5-735",
@@ -7467,8 +7651,12 @@
       "text": "他身高一丈，招了招手。",
       "pinyin": "tā shēn gāo yí zhàng，zhāo le zhāo shǒu。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“身高一丈，招了招手”话题转换"
     },
     {
       "id": "L5-748",
@@ -7477,8 +7665,12 @@
       "text": "他召开会议，折了纸鸟。",
       "pinyin": "tā zhào kāi huì yì，zhé le zhǐ niǎo。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“召开会议，折纸鸟”是并列事件"
     },
     {
       "id": "L5-749",
@@ -7487,8 +7679,12 @@
       "text": "战士守阵地，征求了意见。",
       "pinyin": "zhàn shì shǒu zhèn dì，zhēng qiú le yì jiàn。",
       "grammar": [
+        "G5-71"
+      ],
+      "grammar_prev": [
         "G5-41"
-      ]
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“守阵地，征求意见”是并列事件"
     },
     {
       "id": "L5-750",
@@ -7633,12 +7829,16 @@
     {
       "text": "他一口气不停地走了一路。",
       "grammar": [
-        "G5-41"
+        "G5-71"
       ],
       "pinyin": "tā yì kǒu qì bù tíng dì zǒu le yí lù。",
       "id": "L5-764",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "grammar_prev": [
+        "G5-41"
+      ],
+      "grammar_review": "B 方案重标，待人工确认：“一口气走了一路”是单动补"
     },
     {
       "text": "这一带两岸风景一流。",
@@ -7785,10 +7985,11 @@
       "grammar": [
         "G5-38"
       ],
-      "pinyin": "sǎo èr wéi mǎ yǒu yōu huì，mǎi mài méi zhēng yì。",
+      "pinyin": "sǎo èr wéi mǎ yǒu yōu huì，mǎi mai méi zhēng yì。",
       "id": "L5-779",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "text": "以往的代理从中付出了代价。",
@@ -7945,10 +8146,11 @@
       "grammar": [
         "G5-32"
       ],
-      "pinyin": "ǒu xiàng de gù shì，quán shì jiè fēn xiǎng。",
+      "pinyin": "ǒu xiàng de gù shi，quán shì jiè fēn xiǎng。",
       "id": "L5-795",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "text": "农产品市场健全，他决不冲动。",
@@ -8375,20 +8577,22 @@
       "grammar": [
         "G5-32"
       ],
-      "pinyin": "chù zài tài kōng xū yào hǎo yùn。",
+      "pinyin": "chǔ zài tài kōng xū yào hǎo yùn。",
       "id": "L5-838",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "text": "年度总体情形好，当前也如此。",
       "grammar": [
         "G5-32"
       ],
-      "pinyin": "nián dù zǒng tǐ qíng xíng hǎo，dāng qián yě rú cǐ。",
+      "pinyin": "nián dù zǒng tǐ qíng xing hǎo，dāng qián yě rú cǐ。",
       "id": "L5-839",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "text": "总数差距不大，幅度也小。",
@@ -8485,10 +8689,11 @@
       "grammar": [
         "G5-32"
       ],
-      "pinyin": "liàn ài ràng tā xīn tài hǎo，kuài huó yòu xīn téng。",
+      "pinyin": "liàn ài ràng tā xīn tài hǎo，kuài huo yòu xīn téng。",
       "id": "L5-849",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "text": "忍下怨，他靠意志忍受辛苦。",
@@ -8515,10 +8720,11 @@
       "grammar": [
         "G5-32"
       ],
-      "pinyin": "wèi wèn shí，tā sī wéi yǔ yì shí dōu qīng chǔ。",
+      "pinyin": "wèi wèn shí，tā sī wéi yǔ yì shí dōu qīng chu。",
       "id": "L5-852",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "text": "成交成本与支出，数目都记下。",
@@ -8745,20 +8951,22 @@
       "grammar": [
         "G5-38"
       ],
-      "pinyin": "tā de mú yàng zhèng rú zhào piān，yǒu xiē mó hú。",
+      "pinyin": "tā de mú yàng zhèng rú zhào piàn，yǒu xiē mó hu。",
       "id": "L5-875",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "text": "比方说，桃花染红桃树，很美。",
       "grammar": [
         "G5-43"
       ],
-      "pinyin": "bǐ fāng shuō，táo huā rǎn hóng táo shù，hěn měi。",
+      "pinyin": "bǐ fang shuō，táo huā rǎn hóng táo shù，hěn měi。",
       "id": "L5-876",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "text": "模范唱起正义的歌曲，很有力。",
@@ -8885,10 +9093,11 @@
       "grammar": [
         "G5-32"
       ],
-      "pinyin": "hù shì zhù zhòng zhù shè de shēn dù。",
+      "pinyin": "hù shi zhù zhòng zhù shè de shēn dù。",
       "id": "L5-889",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "text": "消费者关心物价和涨价。",
@@ -9025,10 +9234,11 @@
       "grammar": [
         "G5-32"
       ],
-      "pinyin": "diàn zi bǎn lǐ zhí xiàn xiāng děng，shù jù xiāng yìng。",
+      "pinyin": "diàn zǐ bǎn lǐ zhí xiàn xiāng děng，shù jù xiāng yìng。",
       "id": "L5-903",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "text": "画面里男性疯狂，他看成电影。",
@@ -9165,10 +9375,11 @@
       "grammar": [
         "G5-32"
       ],
-      "pinyin": "tā liǎn sè chà，hú zi zhǎng，cháng yě bù shū fú。",
+      "pinyin": "tā liǎn sè chà，hú zi zhǎng，cháng yě bù shū fu。",
       "id": "L5-917",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "text": "他脱离了绝望，不再想自杀。",
@@ -9275,10 +9486,11 @@
       "grammar": [
         "G5-39"
       ],
-      "pinyin": "bié bǎ bó ruò shì wèi jiān kǔ de kè tí。",
+      "pinyin": "bié bǎ bó ruò shì wéi jiān kǔ de kè tí。",
       "id": "L5-928",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "text": "视频评论证实了他的证书。",
@@ -9315,10 +9527,11 @@
       "grammar": [
         "G5-32"
       ],
-      "pinyin": "pú táo jiǔ、xī hóng shì hé dòu zhì pǐn dōu hǎo。",
+      "pinyin": "pú tao jiǔ、xī hóng shì hé dòu zhì pǐn dōu hǎo。",
       "id": "L5-932",
       "level": 5,
-      "round": 4
+      "round": 4,
+      "pinyin_fix": "词表轻声/声调对齐"
     },
     {
       "text": "贷款让他的资产变成资本。",

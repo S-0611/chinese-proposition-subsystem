@@ -2,7 +2,7 @@
   "level": 5,
   "name": "五级（中等二级）",
   "tier": "intermediate",
-  "source_note": "汉字表见 GF 0025—2021 5.5 五级汉字表，书内第21–22页（PDF 27–28页）；以《五级官方字表.json》累计 1500 字为口径（chars.all 由一级至五级新增表合并，级间零重叠）。语法点见附录A.5 五级语法点，书内第216–227页（PDF 222–233页），共71条。正式题库 760 题，覆盖累计 1500 字与 71 个语法点；句长 3–30 字；超出累计字表按错误处理；语法按 id 归属校验，语义仍需人工复核（发布前必须通过 manual_review 门禁）。",
+  "source_note": "汉字表见 GF 0025—2021 5.5 五级汉字表，书内第21–22页（PDF 27–28页）；以《五级官方字表.json》累计 1500 字为口径（chars.all 由一级至五级新增表合并，级间零重叠）。语法点见附录A.5 五级语法点，书内第216–227页（PDF 222–233页），共71条。正式题库 967 题，覆盖累计 1500 字与 71 个语法点；句长 3–30 字；超出累计字表按错误处理；语法按 id 归属校验，语义仍需人工复核（发布前必须通过 manual_review 门禁）。",
   "constraints": {
     "min_chars": 3,
     "max_chars": 30,
@@ -666,434 +666,733 @@
       "尊",
       "遵"
     ],
-    "out_of_list_mode": "error"
+    "out_of_list_mode": "error",
+    "verified": {
+      "against": "GF 0025—2021 5.5 五级汉字表（内页21–22 / PDF27–28）逐格识别结果",
+      "method": "逐字、逐序集合比对（config chars.new vs work/chars_levels.json[5] vs 五级官方字表.json new_chars）",
+      "result": "300/300 完全一致，双向差集为空，顺序亦相同；一至五级累计 1500 字零重叠",
+      "date": "2026-11-25"
+    },
+    "core_note": "标准第5章未设“核心字”清单；chars.core 38 字为项目内部高频字（全部落在五级新增 300 字内），不作为国标依据。"
   },
   "grammar": [
     {
       "id": "G5-01",
       "name": "指示代词:彼此、如此",
       "pattern": "彼此|如此",
-      "desc": "指示代词:彼此、如此。例句/示例：彼此、如此"
+      "desc": "指示代词:彼此、如此。例句/示例：彼此、如此",
+      "standard_id": "【五01】",
+      "standard_name": "指示代词：彼此、如此",
+      "standard_category": "A.5.1.1代词",
+      "standard_page": 222
     },
     {
       "id": "G5-02",
       "name": "名量词:册、朵、幅、届、颗、匹、扇",
       "pattern": "册|朵|幅|届|颗|匹|扇",
-      "desc": "名量词:册、朵、幅、届、颗、匹、扇。例句/示例：册、朵、幅、届、颗、匹、扇"
+      "desc": "名量词:册、朵、幅、届、颗、匹、扇。例句/示例：册、朵、幅、届、颗、匹、扇",
+      "standard_id": "【五02】",
+      "standard_name": "名量词：册、朵、幅、届、颗、匹、扇",
+      "standard_category": "A.5.1.2量词",
+      "standard_page": 222
     },
     {
       "id": "G5-03",
       "name": "程度副词:过于、可、稍、稍微、尤其",
       "pattern": "过于|可|稍|稍微|尤其",
-      "desc": "程度副词:过于、可、稍、稍微、尤其。例句/示例：过于、可、稍、稍微、尤其"
+      "desc": "程度副词:过于、可、稍、稍微、尤其。例句/示例：过于、可、稍、稍微、尤其",
+      "standard_id": "【五03】",
+      "standard_name": "程度副词：过于、可1、稍、稍微、尤其",
+      "standard_category": "A.5.1.3副词",
+      "standard_page": 222
     },
     {
       "id": "G5-04",
       "name": "范围副词:大都",
       "pattern": "大都",
-      "desc": "范围副词:大都。例句/示例：大都"
+      "desc": "范围副词:大都。例句/示例：大都",
+      "standard_id": "【五04】",
+      "standard_name": "范围副词：大都",
+      "standard_category": "A.5.1.3副词",
+      "standard_page": 222
     },
     {
       "id": "G5-05",
       "name": "时间副词:不时、将、将要、仍旧、时常、时刻、依旧、一向",
       "pattern": "不时|将|将要|仍旧|时常|时刻|依旧|一向",
-      "desc": "时间副词:不时、将、将要、仍旧、时常、时刻、依旧、一向。例句/示例：不时、将、将要、仍旧、时常、时刻、依旧、一向"
+      "desc": "时间副词:不时、将、将要、仍旧、时常、时刻、依旧、一向。例句/示例：不时、将、将要、仍旧、时常、时刻、依旧、一向",
+      "standard_id": "【五05】",
+      "standard_name": "时间副词：不时、将、将要、仍旧、时常、时刻、依旧、一向",
+      "standard_category": "A.5.1.3副词",
+      "standard_page": 222
     },
     {
       "id": "G5-06",
       "name": "频率、重复副词:偶尔、再次",
       "pattern": "偶尔|再次",
-      "desc": "频率、重复副词:偶尔、再次。例句/示例：偶尔、再次"
+      "desc": "频率、重复副词:偶尔、再次。例句/示例：偶尔、再次",
+      "standard_id": "【五06】",
+      "standard_name": "频率、重复副词：偶尔、再次",
+      "standard_category": "A.5.1.3副词",
+      "standard_page": 223
     },
     {
       "id": "G5-07",
       "name": "方式副词:偷偷",
       "pattern": "偷偷",
-      "desc": "方式副词:偷偷。例句/示例：偷偷"
+      "desc": "方式副词:偷偷。例句/示例：偷偷",
+      "standard_id": "【五07】",
+      "standard_name": "方式副词：偷偷",
+      "standard_category": "A.5.1.3副词",
+      "standard_page": 223
     },
     {
       "id": "G5-08",
       "name": "语气副词:毕竟、不免、差(一)点儿、倒是、干脆、就、居然、可、明明、总算",
       "pattern": "毕竟|不免|差点儿|倒是|干脆|就|居然|可|明明|总算",
-      "desc": "语气副词:毕竟、不免、差(一)点儿、倒是、干脆、就、居然、可、明明、总算。例句/示例：毕竟、不免、差点儿、倒是、干脆、就、居然、可、明明、总算"
+      "desc": "语气副词:毕竟、不免、差(一)点儿、倒是、干脆、就、居然、可、明明、总算。例句/示例：毕竟、不免、差点儿、倒是、干脆、就、居然、可、明明、总算",
+      "standard_id": "【五08】",
+      "standard_name": "语气副词：毕竟、不免、差（一）点儿、倒是、干脆、就、居然、可”、明明、总算",
+      "standard_category": "A.5.1.3副词",
+      "standard_page": 223
     },
     {
       "id": "G5-09",
       "name": "介词:随着",
       "pattern": "随着",
-      "desc": "介词:随着。例句/示例：随着"
+      "desc": "介词:随着。例句/示例：随着",
+      "standard_id": "【五09】",
+      "standard_name": "随着",
+      "standard_category": "A.5.1.4.1引出时间、处所",
+      "standard_page": 223
     },
     {
       "id": "G5-10",
       "name": "介词:将",
       "pattern": "将",
-      "desc": "介词:将。例句/示例：将"
+      "desc": "介词:将。例句/示例：将",
+      "standard_id": "【五10】",
+      "standard_name": "将",
+      "standard_category": "A.5.1.4.2引出施事、受事",
+      "standard_page": 223
     },
     {
       "id": "G5-11",
       "name": "介词:由",
       "pattern": "由",
-      "desc": "介词:由。例句/示例：由"
+      "desc": "介词:由。例句/示例：由",
+      "standard_id": "【五11】",
+      "standard_name": "由²",
+      "standard_category": "A.5.1.4.2引出施事、受事",
+      "standard_page": 223
     },
     {
       "id": "G5-12",
       "name": "介词:凭",
       "pattern": "凭",
-      "desc": "介词:凭。例句/示例：凭"
+      "desc": "介词:凭。例句/示例：凭",
+      "standard_id": "【五12】",
+      "standard_name": "凭",
+      "standard_category": "A.5.1.4.3引出凭借、依据",
+      "standard_page": 224
     },
     {
       "id": "G5-13",
       "name": "介词:依据",
       "pattern": "依据",
-      "desc": "介词:依据。例句/示例：依据"
+      "desc": "介词:依据。例句/示例：依据",
+      "standard_id": "【五13】",
+      "standard_name": "依据",
+      "standard_category": "A.5.1.4.3引出凭借、依据",
+      "standard_page": 224
     },
     {
       "id": "G5-14",
       "name": "介词:依照",
       "pattern": "依照",
-      "desc": "介词:依照。例句/示例：依照"
+      "desc": "介词:依照。例句/示例：依照",
+      "standard_id": "【五14】",
+      "standard_name": "依照",
+      "standard_category": "A.5.1.4.3引出凭借、依据",
+      "standard_page": 224
     },
     {
       "id": "G5-15",
       "name": "连接分句或句子:从而、加上、完了、一旦",
       "pattern": "从而|加上|完了|一旦",
-      "desc": "连接分句或句子:从而、加上、完了、一旦。例句/示例：从而、加上、完了、一旦"
+      "desc": "连接分句或句子:从而、加上、完了、一旦。例句/示例：从而、加上、完了、一旦",
+      "standard_id": "【五15】",
+      "standard_name": "连接分句或句子：从而、加上、完了、一旦",
+      "standard_category": "A.5.1.5连词",
+      "standard_page": 224
     },
     {
       "id": "G5-16",
       "name": "其他助词:也好",
       "pattern": "也好",
-      "desc": "其他助词:也好。例句/示例：也好"
+      "desc": "其他助词:也好。例句/示例：也好",
+      "standard_id": "【五16】",
+      "standard_name": "其他助词：也好",
+      "standard_category": "A.5.1.6助词",
+      "standard_page": 224
     },
     {
       "id": "G5-17",
       "name": "A来A去",
       "pattern": "来|去",
-      "desc": "A来A去。例句/示例：来、去"
+      "desc": "A来A去。例句/示例：来、去",
+      "standard_id": "【五17】",
+      "standard_name": "A来A去",
+      "standard_category": "A.5.2.1.1四字格",
+      "standard_page": 224
     },
     {
       "id": "G5-18",
       "name": "A着A着",
       "pattern": "着",
-      "desc": "A着A着。例句/示例：着"
+      "desc": "A着A着。例句/示例：着",
+      "standard_id": "【五18】",
+      "standard_name": "A着A着",
+      "standard_category": "A.5.2.1.1四字格",
+      "standard_page": 224
     },
     {
       "id": "G5-19",
       "name": "没A没B",
       "pattern": "没|没",
-      "desc": "没A没B。例句/示例：没、没"
+      "desc": "没A没B。例句/示例：没、没",
+      "standard_id": "【五19】",
+      "standard_name": "没A没B",
+      "standard_category": "A.5.2.1.1四字格",
+      "standard_page": 225
     },
     {
       "id": "G5-20",
       "name": "说A就A",
       "pattern": "说|就",
-      "desc": "说A就A。例句/示例：说、就"
+      "desc": "说A就A。例句/示例：说、就",
+      "standard_id": "【五20】",
+      "standard_name": "说A就A",
+      "standard_category": "A.5.2.1.1四字格",
+      "standard_page": 225
     },
     {
       "id": "G5-21",
       "name": "有A有B",
       "pattern": "有|有",
-      "desc": "有A有B。例句/示例：有、有"
+      "desc": "有A有B。例句/示例：有、有",
+      "standard_id": "【五21】",
+      "standard_name": "有A有B",
+      "standard_category": "A.5.2.1.1四字格",
+      "standard_page": 225
     },
     {
       "id": "G5-22",
       "name": "不得了",
       "pattern": "不得了",
-      "desc": "不得了。例句/示例：不得了"
+      "desc": "不得了。例句/示例：不得了",
+      "standard_id": "【五22】",
+      "standard_name": "不得了",
+      "standard_category": "A.5.2.1.2其他",
+      "standard_page": 225
     },
     {
       "id": "G5-23",
       "name": "不敢当",
       "pattern": "不敢当",
-      "desc": "不敢当。例句/示例：不敢当"
+      "desc": "不敢当。例句/示例：不敢当",
+      "standard_id": "【五23】",
+      "standard_name": "不敢当",
+      "standard_category": "A.5.2.1.2其他",
+      "standard_page": 225
     },
     {
       "id": "G5-24",
       "name": "得了",
       "pattern": "得了",
-      "desc": "得了。例句/示例：得了"
+      "desc": "得了。例句/示例：得了",
+      "standard_id": "【五24】",
+      "standard_name": "得了",
+      "standard_category": "A.5.2.1.2其他",
+      "standard_page": 225
     },
     {
       "id": "G5-25",
       "name": "用不着",
       "pattern": "用不着",
-      "desc": "用不着。例句/示例：用不着"
+      "desc": "用不着。例句/示例：用不着",
+      "standard_id": "【五25】",
+      "standard_name": "用不着",
+      "standard_category": "A.5.2.1.2其他",
+      "standard_page": 225
     },
     {
       "id": "G5-26",
       "name": "从……来看",
       "pattern": "从|来看",
-      "desc": "从……来看。例句/示例：从、来看"
+      "desc": "从……来看。例句/示例：从、来看",
+      "standard_id": "【五26】",
+      "standard_name": "从·……··来看",
+      "standard_category": "A.5.3固定格式",
+      "standard_page": 225
     },
     {
       "id": "G5-27",
       "name": "到……为止",
       "pattern": "到|为止",
-      "desc": "到……为止。例句/示例：到、为止"
+      "desc": "到……为止。例句/示例：到、为止",
+      "standard_id": "【五27】",
+      "standard_name": "到·····为止",
+      "standard_category": "A.5.3固定格式",
+      "standard_page": 226
     },
     {
       "id": "G5-28",
       "name": "够……的",
       "pattern": "够|的",
-      "desc": "够……的。例句/示例：够、的"
+      "desc": "够……的。例句/示例：够、的",
+      "standard_id": "【五28】",
+      "standard_name": "够.··的",
+      "standard_category": "A.5.3固定格式",
+      "standard_page": 226
     },
     {
       "id": "G5-29",
       "name": "拿……来说",
       "pattern": "拿|来说",
-      "desc": "拿……来说。例句/示例：拿、来说"
+      "desc": "拿……来说。例句/示例：拿、来说",
+      "standard_id": "【五29】",
+      "standard_name": "拿·…··来说",
+      "standard_category": "A.5.3固定格式",
+      "standard_page": 226
     },
     {
       "id": "G5-30",
       "name": "A的A，B的B",
       "pattern": "的|的",
-      "desc": "A的A，B的B。例句/示例：的、的"
+      "desc": "A的A，B的B。例句/示例：的、的",
+      "standard_id": "【五30】",
+      "standard_name": "A的A，B的B",
+      "standard_category": "A.5.3固定格式",
+      "standard_page": 226
     },
     {
       "id": "G5-31",
       "name": "在……看来",
       "pattern": "在|看来",
-      "desc": "在……看来。例句/示例：在、看来"
+      "desc": "在……看来。例句/示例：在、看来",
+      "standard_id": "【五31】",
+      "standard_name": "在..…··看来",
+      "standard_category": "A.5.3固定格式",
+      "standard_page": 226
     },
     {
       "id": "G5-32",
       "name": "宾语的语义类型",
       "pattern": ".",
-      "desc": "宾语的语义类型。例句/示例：宾语"
+      "desc": "宾语的语义类型。例句/示例：宾语",
+      "standard_id": "【五32】",
+      "standard_name": "宾语的语义类型1",
+      "standard_category": "A.5.4.1宾语",
+      "standard_page": 226
     },
     {
       "id": "G5-33",
       "name": "多项状语",
       "pattern": ".",
-      "desc": "多项状语。例句/示例：状语"
+      "desc": "多项状语。例句/示例：状语",
+      "standard_id": "【五33】",
+      "standard_name": "多项状语",
+      "standard_category": "A.5.4.2状语",
+      "standard_page": 226
     },
     {
       "id": "G5-34",
       "name": "趋向补语(表示时间意义:上/起来、下去/下来)",
       "pattern": "上|起来|下去|下来",
-      "desc": "趋向补语(表示时间意义:上/起来、下去/下来)。例句/示例：上、起来、下去、下来"
+      "desc": "趋向补语(表示时间意义:上/起来、下去/下来)。例句/示例：上、起来、下去、下来",
+      "standard_id": "【五34】",
+      "standard_name": "趋向补语4",
+      "standard_category": "A.5.4.3补语",
+      "standard_page": 227
     },
     {
       "id": "G5-35",
       "name": "可能补语:动词+得/不得",
-      "pattern": "得|不得",
-      "desc": "可能补语:动词+得/不得。例句/示例：得、不得"
+      "pattern": "得|不得|不住|不了|不出来|不清|不进来|不起|不下|不动|不完|不到",
+      "desc": "可能补语:动词+得/不得。例句/示例：得、不得",
+      "standard_id": "【五35】",
+      "standard_name": "可能补语2：动词+得／不得",
+      "standard_category": "A.5.4.3补语",
+      "standard_page": 227,
+      "pattern_source": "重写：V得/不得 + V不C（原表只有得/不得）"
     },
     {
       "id": "G5-36",
       "name": "程度补语",
       "pattern": "得|不得了|慌|厉害|坏|透",
-      "desc": "程度补语。例句/示例：得、不得了、慌、厉害、坏、透"
+      "desc": "程度补语。例句/示例：得、不得了、慌、厉害、坏、透",
+      "standard_id": "【五36】",
+      "standard_name": "程度补语2",
+      "standard_category": "A.5.4.3补语",
+      "standard_page": 227
     },
     {
       "id": "G5-37",
       "name": "状态补语:动词/形容词+得+短语",
       "pattern": "得",
-      "desc": "状态补语:动词/形容词+得+短语。例句/示例：得"
+      "desc": "状态补语:动词/形容词+得+短语。例句/示例：得",
+      "standard_id": "【五37】",
+      "standard_name": "状态补语2：动词/形容词+得+短语",
+      "standard_category": "A.5.4.3补语",
+      "standard_page": 227
     },
     {
       "id": "G5-38",
       "name": "\"有\"字句",
       "pattern": "有",
-      "desc": "\"有\"字句。例句/示例：有"
+      "desc": "\"有\"字句。例句/示例：有",
+      "standard_id": "【五38】",
+      "standard_name": "“有”字句3",
+      "standard_category": "A.5.5.1特殊句型",
+      "standard_page": 228
     },
     {
       "id": "G5-39",
       "name": "\"把\"字句:表处置",
       "pattern": "把",
-      "desc": "\"把\"字句:表处置。例句/示例：把"
+      "desc": "\"把\"字句:表处置。例句/示例：把",
+      "standard_id": "【五39】",
+      "standard_name": "“把”字句3：表处置",
+      "standard_category": "A.5.5.1特殊句型",
+      "standard_page": 228
     },
     {
       "id": "G5-40",
       "name": "被动句:意念被动句",
-      "pattern": "被",
-      "desc": "被动句:意念被动句。例句/示例：被"
+      "pattern": "被|(?:吃|卖|打|丢|碎|烂|忘|锁|挡|停|关|开|用|洗|喝|看|做|修|建|烧|吹|拉|推)(?:光|完|碎|烂|丢|住|着|了|掉|破|倒|灭|走|跑|满)",
+      "desc": "被动句:意念被动句。例句/示例：被",
+      "standard_id": "【五40】",
+      "standard_name": "被动句3：意念被动句",
+      "standard_category": "A.5.5.1特殊句型",
+      "standard_page": 228,
+      "pattern_source": "重写：被字句 或 动补式被动（原 pattern 只有“被”，与“意念被动”相反）",
+      "pattern_note": "“意念被动”本身无形式标记，规则只能覆盖动补被动与显性被字句"
     },
     {
       "id": "G5-41",
       "name": "连动句",
-      "pattern": "连动",
-      "desc": "连动句。例句/示例：连动"
+      "pattern": "[上下丢为举乐乘买了争亏交亮付代令任会传伤伸低住使保信修倒借值做停偷像关养冒写冲冻减凭出分切划列别到刷刺刻剩剪劝办加动包升卖占卷压去叉反发取受变叫吃合吐向吓含听吵吸吹咬咳品哭唱喂喊喝喷回困围圈在坐堆堵填增够夹奖好姓存学守安完定害寄对封射少尝属差带帮干并应建开弄引张弯弹归当录往待得忍忘念怕怨怪恨想愁愿懂成戒戴扇打扔托扫扶批找抄抓投折抢披抬抱抽拆拉拍拔拼拾拿挂指按挑挡挣挤挺换授掉排接推提插握搜搞搬摆摇摔摘摸撞擦支收改放救教敢散数敲整断无是显晒暖替有朝杀来松架染查梦欠歇死毒比气求汇沉没治泼洒洗活派流测涨游滑滚满漏演灭点烂烦烧热照爬爱猜献生用画留疼病登盖直省看着睡瞧破碎碰祝离种租称移空穿立站笑等答签算管系约练组结绕给编缺罚翻考聚背胜能脱至舞花获落行补装要见解订认让记讲试该说请读调谈败贴费赏赔赠赢走赶起跑跟跳踢躲躺转轮输达过运还进连迷追退送逃选透递通逛造遇避配醉醒量锁长闪问闯闹闻防降陪随隔静靠顶领飞饿驾骂骑骗鼓齐][^，。？！]{0,10}(?:，)?[^，。？！]{0,8}[上下丢为举乐乘买了争亏交亮付代令任会传伤伸低住使保信修倒借值做停偷像关养冒写冲冻减凭出分切划列别到刷刺刻剩剪劝办加动包升卖占卷压去叉反发取受变叫吃合吐向吓含听吵吸吹咬咳品哭唱喂喊喝喷回困围圈在坐堆堵填增够夹奖好姓存学守安完定害寄对封射少尝属差带帮干并应建开弄引张弯弹归当录往待得忍忘念怕怨怪恨想愁愿懂成戒戴扇打扔托扫扶批找抄抓投折抢披抬抱抽拆拉拍拔拼拾拿挂指按挑挡挣挤挺换授掉排接推提插握搜搞搬摆摇摔摘摸撞擦支收改放救教敢散数敲整断无是显晒暖替有朝杀来松架染查梦欠歇死毒比气求汇沉没治泼洒洗活派流测涨游滑滚满漏演灭点烂烦烧热照爬爱猜献生用画留疼病登盖直省看着睡瞧破碎碰祝离种租称移空穿立站笑等答签算管系约练组结绕给编缺罚翻考聚背胜能脱至舞花获落行补装要见解订认让记讲试该说请读调谈败贴费赏赔赠赢走赶起跑跟跳踢躲躺转轮输达过运还进连迷追退送逃选透递通逛造遇避配醉醒量锁长闪问闯闹闻防降陪随隔静靠顶领飞饿驾骂骑骗鼓齐]",
+      "desc": "连动句。例句/示例：连动",
+      "standard_id": "【五41】",
+      "standard_name": "连动句3：前后两个动词性词语具有因果、转折、条件关系",
+      "standard_category": "A.5.5.1特殊句型",
+      "standard_page": 228,
+      "pattern_source": "重写：动词字表“两动词性成分连用”近似式（原 pattern 是中文标签“连动”）",
+      "pattern_note": "近似规则：G5-41 全库命中 808/967，只能做形式校验，句法关系仍需人工判断"
     },
     {
       "id": "G5-42",
       "name": "兼语句:表致使",
-      "pattern": "叫|令|使|让",
-      "desc": "兼语句:表致使。例句/示例：叫、令、使、让"
+      "pattern": "叫|令|使|让|请|派|托|求|教|告诉|示意|祝贺|鼓励|要求|安排|命令|禁止|允许|选|推选",
+      "desc": "兼语句:表致使。例句/示例：叫、令、使、让",
+      "standard_id": "【五42】",
+      "standard_name": "兼语句3",
+      "standard_category": "A.5.5.1特殊句型",
+      "standard_page": 229,
+      "pattern_source": "重写：兼语句第一动词表（原表只有叫/令/使/让）"
     },
     {
       "id": "G5-43",
       "name": "比较句",
       "pattern": "跟|相比|比",
-      "desc": "比较句。例句/示例：跟、相比、比"
+      "desc": "比较句。例句/示例：跟、相比、比",
+      "standard_id": "【五43】",
+      "standard_name": "比较句5",
+      "standard_category": "A.5.5.1特殊句型",
+      "standard_page": 229
     },
     {
       "id": "G5-44",
       "name": "或是……，或是……",
       "pattern": "或是",
-      "desc": "或是……，或是……。例句/示例：或是"
+      "desc": "或是……，或是……。例句/示例：或是",
+      "standard_id": "【五44】",
+      "standard_name": "或是.·……··，或是···",
+      "standard_category": "A.5.5.2.1选择复句",
+      "standard_page": 229
     },
     {
       "id": "G5-45",
       "name": "尽管……，但是/可是……",
-      "pattern": "尽管|但是|可是",
-      "desc": "尽管……，但是/可是……。例句/示例：尽管、但是、可是"
+      "pattern": "尽管",
+      "desc": "尽管……，但是/可是……。例句/示例：尽管、但是、可是",
+      "standard_id": "【五45】",
+      "standard_name": "尽管.····，但是！可是···",
+      "standard_category": "A.5.5.2.2转折复句",
+      "standard_page": 229,
+      "pattern_source": "收窄：只认“尽管”，原 pattern 的把“但是/可是”会让“虽然……但是”误命中"
     },
     {
       "id": "G5-46",
       "name": "一旦……，就……",
       "pattern": "一旦|就",
-      "desc": "一旦……，就……。例句/示例：一旦、就"
+      "desc": "一旦……，就……。例句/示例：一旦、就",
+      "standard_id": "【五46】",
+      "standard_name": "一旦.·……·，就.·….",
+      "standard_category": "A.5.5.2.3假设复句",
+      "standard_page": 229
     },
     {
       "id": "G5-47",
       "name": "要是……，(就)……，否则……",
       "pattern": "要是|否则",
-      "desc": "要是……，(就)……，否则……。例句/示例：要是、否则"
+      "desc": "要是……，(就)……，否则……。例句/示例：要是、否则",
+      "standard_id": "【五47】",
+      "standard_name": "要是·……·，（就）.………·，否则····",
+      "standard_category": "A.5.5.2.3假设复句",
+      "standard_page": 229
     },
     {
       "id": "G5-48",
       "name": "除非……，才……",
       "pattern": "除非|才",
-      "desc": "除非……，才……。例句/示例：除非、才"
+      "desc": "除非……，才……。例句/示例：除非、才",
+      "standard_id": "【五48】",
+      "standard_name": "除非···，才····",
+      "standard_category": "A.5.5.2.4条件复句",
+      "standard_page": 230
     },
     {
       "id": "G5-49",
       "name": "除非……，否则/不然……",
       "pattern": "除非|否则|不然",
-      "desc": "除非……，否则/不然……。例句/示例：除非、否则、不然"
+      "desc": "除非……，否则/不然……。例句/示例：除非、否则、不然",
+      "standard_id": "【五49】",
+      "standard_name": "除非··…·，否则/不然····",
+      "standard_category": "A.5.5.2.4条件复句",
+      "standard_page": 230
     },
     {
       "id": "G5-50",
       "name": "……，因而……",
       "pattern": "因而",
-      "desc": "……，因而……。例句/示例：因而"
+      "desc": "……，因而……。例句/示例：因而",
+      "standard_id": "【五50】",
+      "standard_name": "······，因而···",
+      "standard_category": "A.5.5.2.5因果复句",
+      "standard_page": 230
     },
     {
       "id": "G5-51",
       "name": "即使……，也……",
       "pattern": "即使|也",
-      "desc": "即使……，也……。例句/示例：即使、也"
+      "desc": "即使……，也……。例句/示例：即使、也",
+      "standard_id": "【五51】",
+      "standard_name": "即使…….….，也.··.",
+      "standard_category": "A.5.5.2.6让步复句",
+      "standard_page": 230
     },
     {
       "id": "G5-52",
       "name": "……，为的是……",
       "pattern": "为的是",
-      "desc": "……，为的是……。例句/示例：为的是"
+      "desc": "……，为的是……。例句/示例：为的是",
+      "standard_id": "【五52】",
+      "standard_name": "·……··，为的是··",
+      "standard_category": "A.5.5.2.7目的复句",
+      "standard_page": 230
     },
     {
       "id": "G5-53",
       "name": "……，以便……",
       "pattern": "以便",
-      "desc": "……，以便……。例句/示例：以便"
+      "desc": "……，以便……。例句/示例：以便",
+      "standard_id": "【五53】",
+      "standard_name": "··..，以便.·..·",
+      "standard_category": "A.5.5.2.7目的复句",
+      "standard_page": 230
     },
     {
       "id": "G5-54",
       "name": "没有……就没有……",
       "pattern": "没有|就没有",
-      "desc": "没有……就没有……。例句/示例：没有、就没有"
+      "desc": "没有……就没有……。例句/示例：没有、就没有",
+      "standard_id": "【五54】",
+      "standard_name": "没有····就没有···",
+      "standard_category": "A.5.5.2.8紧缩复句",
+      "standard_page": 230
     },
     {
       "id": "G5-55",
       "name": "再……也……",
       "pattern": "再|也",
-      "desc": "再……也……。例句/示例：再、也"
+      "desc": "再……也……。例句/示例：再、也",
+      "standard_id": "【五55】",
+      "standard_name": "再.·.··也·····",
+      "standard_category": "A.5.5.2.8紧缩复句",
+      "standard_page": 231
     },
     {
       "id": "G5-56",
       "name": "二重复句",
-      "pattern": "复句",
-      "desc": "二重复句。例句/示例：复句"
+      "pattern": "[^，。？！]{1,}，[^，。？！]{1,}，[^，。？！]{1,}[。？！]|[^，。？！]{2,}，(?:即使|虽然|因为|所以|但是|如果|要是)[^，。？！]{2,}",
+      "desc": "二重复句。例句/示例：复句",
+      "standard_id": "【五56】",
+      "standard_name": "二重复句1：单句+复句；复句+单句",
+      "standard_category": "A.5.5.2.9多重复句",
+      "standard_page": 231,
+      "pattern_source": "重写：三小句 或 单句+关联复句（原 pattern 是中文标签“复句”）"
     },
     {
       "id": "G5-57",
       "name": "用\"再也不/没\"表示强调",
       "pattern": "再也|不|没",
-      "desc": "用\"再也不/没\"表示强调。例句/示例：再也、不、没"
+      "desc": "用\"再也不/没\"表示强调。例句/示例：再也、不、没",
+      "standard_id": "【五57】",
+      "standard_name": "用“再也不／没”表示强调",
+      "standard_category": "A.5.6强调的方法",
+      "standard_page": 231
     },
     {
       "id": "G5-58",
       "name": "用副词\"可\"表示强调",
       "pattern": "可",
-      "desc": "用副词\"可\"表示强调。例句/示例：可"
+      "desc": "用副词\"可\"表示强调。例句/示例：可",
+      "standard_id": "【五58】",
+      "standard_name": "用副词“可”表示强调",
+      "standard_category": "A.5.6强调的方法",
+      "standard_page": 231
     },
     {
       "id": "G5-59",
       "name": "用\"怎么都/也+不/没\"表示强调",
       "pattern": "怎么|都|也|不|没",
-      "desc": "用\"怎么都/也+不/没\"表示强调。例句/示例：怎么、都、也、不、没"
+      "desc": "用\"怎么都/也+不/没\"表示强调。例句/示例：怎么、都、也、不、没",
+      "standard_id": "【五59】",
+      "standard_name": "用“怎么都/也+不／没”表示强调",
+      "standard_category": "A.5.6强调的方法",
+      "standard_page": 231
     },
     {
       "id": "G5-60",
       "name": "X也不是，Y也不是",
       "pattern": "也不是|也不是",
-      "desc": "X也不是，Y也不是。例句/示例：也不是、也不是"
+      "desc": "X也不是，Y也不是。例句/示例：也不是、也不是",
+      "standard_id": "【五60】",
+      "standard_name": "×也不是，丫也不是",
+      "standard_category": "A.5.7口语格式",
+      "standard_page": 231
     },
     {
       "id": "G5-61",
       "name": "X也X不得，Y也Y不得",
       "pattern": "也|不得",
-      "desc": "X也X不得，Y也Y不得。例句/示例：也、不得"
+      "desc": "X也X不得，Y也Y不得。例句/示例：也、不得",
+      "standard_id": "【五61】",
+      "standard_name": "×也×不得，Y也Y不得",
+      "standard_category": "A.5.7口语格式",
+      "standard_page": 231
     },
     {
       "id": "G5-62",
       "name": "X是它，Y也是它",
       "pattern": "是它|也是它",
-      "desc": "X是它，Y也是它。例句/示例：是它、也是它"
+      "desc": "X是它，Y也是它。例句/示例：是它、也是它",
+      "standard_id": "【五62】",
+      "standard_name": "×是它，Y也是它",
+      "standard_category": "A.5.7口语格式",
+      "standard_page": 232
     },
     {
       "id": "G5-63",
       "name": "X着也是X着",
       "pattern": "着也是|着",
-      "desc": "X着也是X着。例句/示例：着也是、着"
+      "desc": "X着也是X着。例句/示例：着也是、着",
+      "standard_id": "【五63】",
+      "standard_name": "×着也是×着",
+      "standard_category": "A.5.7口语格式",
+      "standard_page": 232
     },
     {
       "id": "G5-64",
       "name": "X归X，Y归Y",
       "pattern": "归|归",
-      "desc": "X归X，Y归Y。例句/示例：归、归"
+      "desc": "X归X，Y归Y。例句/示例：归、归",
+      "standard_id": "【五64】",
+      "standard_name": "×归×，Y归Y",
+      "standard_category": "A.5.7口语格式",
+      "standard_page": 232
     },
     {
       "id": "G5-65",
       "name": "不管怎样说",
       "pattern": "不管怎样说",
-      "desc": "不管怎样说。例句/示例：不管怎样说"
+      "desc": "不管怎样说。例句/示例：不管怎样说",
+      "standard_id": "【五65】",
+      "standard_name": "不管怎样说",
+      "standard_category": "A.5.7口语格式",
+      "standard_page": 232
     },
     {
       "id": "G5-66",
       "name": "看你X的/瞧他X的",
       "pattern": "看你|瞧他|的",
-      "desc": "看你X的/瞧他X的。例句/示例：看你、瞧他、的"
+      "desc": "看你X的/瞧他X的。例句/示例：看你、瞧他、的",
+      "standard_id": "【五66】",
+      "standard_name": "看你×的/瞧他×的",
+      "standard_category": "A.5.7口语格式",
+      "standard_page": 232
     },
     {
       "id": "G5-67",
       "name": "真有你的/他/她的",
       "pattern": "真有",
-      "desc": "真有你的/他/她的。例句/示例：真有"
+      "desc": "真有你的/他/她的。例句/示例：真有",
+      "standard_id": "【五67】",
+      "standard_name": "真有你／他/她的",
+      "standard_category": "A.5.7口语格式",
+      "standard_page": 232
     },
     {
       "id": "G5-68",
       "name": "X什么X",
       "pattern": "什么",
-      "desc": "X什么X。例句/示例：什么"
+      "desc": "X什么X。例句/示例：什么",
+      "standard_id": "【五68】",
+      "standard_name": "×什么×",
+      "standard_category": "A.5.7口语格式",
+      "standard_page": 232
     },
     {
       "id": "G5-69",
       "name": "什么X不X(的)",
       "pattern": "什么|不",
-      "desc": "什么X不X(的)。例句/示例：什么、不"
+      "desc": "什么X不X(的)。例句/示例：什么、不",
+      "standard_id": "【五69】",
+      "standard_name": "什么×不×（的）",
+      "standard_category": "A.5.7口语格式",
+      "standard_page": 232
     },
     {
       "id": "G5-70",
       "name": "用代词复指",
       "pattern": ".",
-      "desc": "用代词复指。例句/示例：复指"
+      "desc": "用代词复指。例句/示例：复指",
+      "standard_id": "【五70】",
+      "standard_name": "用代词复指",
+      "standard_category": "A.5.8句群",
+      "standard_page": 232
     },
     {
       "id": "G5-71",
       "name": "带省略成分",
       "pattern": ".",
-      "desc": "带省略成分。例句/示例：省略"
+      "desc": "带省略成分。例句/示例：省略",
+      "standard_id": "【五71】",
+      "standard_name": "带省略成分",
+      "standard_category": "A.5.8句群",
+      "standard_page": 233
     }
   ],
   "char_table_mode": "cumulative",
@@ -1105,6 +1404,136 @@
     "unique_headwords": 1067,
     "list_path": "data/vocabulary/level5.json",
     "source": "HSK 3.0 vocabulary transcription",
-    "note": "五级新增 1071 条（去重后 1067 词头），累计 4316；词表由 hsk3_0_vocabulary.csv 五级行规范化生成。"
+    "note": "五级新增 1071 条（去重后 1067 词头），累计 4316；词表由 hsk3_0_vocabulary.csv 五级行规范化生成。",
+    "verification": {
+      "standard_new": 1071,
+      "standard_total": 4316,
+      "entries_new": 1071,
+      "entries_cumulative": 4316,
+      "unique_headwords": 1067,
+      "result": "条目数 1071/1071、累计 4316/4316 与标准数值一致；4 组同形异音/多义条目已在 duplicate_entries 说明",
+      "word_by_word": "尚未逐词比对：标准 6.5 为三栏排版，扫描件 OCR 后词条与拼音、编号交错，无法可靠还原行序",
+      "source_limit": "词表来源为 HSK 3.0 转录 CSV，非标准 PDF 直接提取",
+      "date": "2026-11-25"
+    }
+  },
+  "syllables": {
+    "status": "official",
+    "source": "GF 0025—2021 4.5 五级音节表（内页12–13 / PDF18–19）逐条录入",
+    "basis": "本级新增（五级新增 98 音节）；累计 822 需 4.1–4.4 官方表，本次不声称",
+    "entries": 98,
+    "unique": 97,
+    "table": [
+      "bá",
+      "bàng",
+      "bí",
+      "bīn",
+      "bǐng",
+      "bó",
+      "cāi",
+      "chā",
+      "chāi",
+      "chái",
+      "chóu",
+      "chǒu",
+      "chòu",
+      "chuǎng",
+      "cōng",
+      "cuì",
+      "dāi",
+      "dǎn",
+      "dǎng",
+      "diū",
+      "duī",
+      "dūn",
+      "duǒ",
+      "fá",
+      "gǎo",
+      "gēng",
+      "gōu",
+      "guǐ",
+      "gǔn",
+      "guō",
+      "hè",
+      "hèn",
+      "hóu",
+      "hǔ",
+      "huāng",
+      "huǐ",
+      "ké",
+      "kěn",
+      "kuǎn",
+      "kuáng",
+      "kuī",
+      "lǎn",
+      "làn",
+      "lěng",
+      "lòu",
+      "luó",
+      "mà",
+      "mián",
+      "miǎo",
+      "mǐn",
+      "mú",
+      "nài",
+      "nàn",
+      "ǒu",
+      "pēn",
+      "pén",
+      "pǐ",
+      "pīn",
+      "pín",
+      "pō",
+      "pú",
+      "qiàn",
+      "qiāng",
+      "qiǎng",
+      "qiāo",
+      "qín",
+      "quàn",
+      "rǎn",
+      "rǎo",
+      "rào",
+      "rěn",
+      "rēng",
+      "ruǎn",
+      "rùn",
+      "sǎ",
+      "shǎ",
+      "shé",
+      "shě",
+      "shuāi",
+      "shuò",
+      "sōu",
+      "sǔn",
+      "tǎn",
+      "táo",
+      "tōu",
+      "tù",
+      "xiáng",
+      "xióng",
+      "yāng",
+      "yǎo",
+      "yōng",
+      "zāi",
+      "zāo",
+      "zèng",
+      "zhāi",
+      "zhěn",
+      "zūn"
+    ],
+    "covered": 97,
+    "coverage": 100.0,
+    "denominator": "官方 4.5 表 98 条中 97 条可判定项（第 45 条原文作 lóo，单列待核，不计入）",
+    "anomalies": [
+      {
+        "index": 45,
+        "raw": "lóo",
+        "suspected": "lóu",
+        "note": "扫描原页如此排印，普通话无 lóo 音节，疑为 lóu 的印刷错误；题库已有 lóu（楼），按“不臆造”原则不计入覆盖判定"
+      }
+    ],
+    "date": "2026-11-25",
+    "table_note": "官方 4.5 表 98 条，其中第 45 条原文作 lóo（疑 lóu），单列于 anomalies，未放入可判定表；table 为其余 97 条。"
   }
 }

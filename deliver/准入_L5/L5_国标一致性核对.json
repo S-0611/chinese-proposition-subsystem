@@ -1,0 +1,92 @@
+{
+  "level": 5,
+  "date": "2026-11-25",
+  "standard": "GF 0025—2021 国际中文教育中文水平等级标准",
+  "targets": {
+    "config": "data/levels/level5.json",
+    "bank": "banks/level5/final.json",
+    "vocabulary": "data/vocabulary/level5.json",
+    "chars_reference": "work/chars_levels.json[5] / 五级官方字表.json",
+    "grammar_reference": "work/grammar5.json（A.5 逐条解析）",
+    "syllable_source": "GF 0025—2021 4.5 五级音节表，内页12–13 / PDF18–19"
+  },
+  "chars": {
+    "standard_new": 300,
+    "config_new": 300,
+    "reference_new": 300,
+    "diff_config_minus_ref": [],
+    "diff_ref_minus_config": [],
+    "order_identical": true,
+    "cumulative": 1500,
+    "cumulative_unique": 1500,
+    "cross_level_overlap": 0,
+    "result": "300/300 逐字一致；累计 1500 零重叠",
+    "core_note": "标准无“核心字”清单，chars.core 38 字为项目内部高频字"
+  },
+  "vocabulary": {
+    "standard_new": 1071,
+    "standard_total": 4316,
+    "entries_new": 1071,
+    "unique_headwords": 1067,
+    "entries_cumulative": 4316,
+    "duplicate_entries": null,
+    "source": "HSK 3.0 vocabulary transcription",
+    "word_by_word": "尚未逐词比对（扫描件三栏排版，OCR 行序不可靠）",
+    "result": "条目数与累计数与标准一致；同形异音/多义 4 组已单列"
+  },
+  "grammar": {
+    "standard_count": 71,
+    "config_count": 71,
+    "standard_id_assigned": 71,
+    "order_matches": "按 A.5 顺序一一对应；名称差异仅为排版符号（可1/可”、×/X、省略号点位）与项目内部补注",
+    "zero_hit_points": [
+      {
+        "id": "G5-41",
+        "name": "连动句",
+        "pattern": "连动",
+        "declared": 78
+      },
+      {
+        "id": "G5-56",
+        "name": "二重复句",
+        "pattern": "复句",
+        "declared": 2
+      }
+    ],
+    "annotation_mismatch": {
+      "total": 99,
+      "by_point": {
+        "G5-40": 8,
+        "G5-41": 78,
+        "G5-56": 2,
+        "G5-42": 5,
+        "G5-35": 5,
+        "G5-45": 1
+      }
+    }
+  },
+  "syllables": {
+    "status": "official",
+    "source": "GF 0025—2021 4.5 五级音节表（内页12–13 / PDF18–19）逐条录入",
+    "basis": "本级新增（五级新增 98 音节）；累计 822 需 4.1–4.4 官方表，本次不声称",
+    "entries": 98,
+    "unique": 97,
+    "covered": 97,
+    "coverage": 100.0,
+    "denominator": "官方 4.5 表 98 条中 97 条可判定项（第 45 条原文作 lóo，单列待核，不计入）",
+    "anomalies": [
+      {
+        "index": 45,
+        "raw": "lóo",
+        "suspected": "lóu",
+        "note": "扫描原页如此排印，普通话无 lóo 音节，疑为 lóu 的印刷错误；题库已有 lóu（楼），按“不臆造”原则不计入覆盖判定"
+      }
+    ]
+  },
+  "gate_baseline": {
+    "blocking": 1,
+    "pass": 19,
+    "blocking_item": "标注与句子相符",
+    "detail": "不符 99 处"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "denominator": "官方 4.5 表 98 条中 97 条可判定项（第 45 条原文作 lóo，单列待核，不计入）",
+  "official_entries": 98,
+  "usable": 97,
+  "covered": 97,
+  "coverage": 100.0,
+  "missing": [],
+  "anomalies": [
+    {
+      "index": 45,
+      "raw": "lóo",
+      "suspected": "lóu",
+      "note": "扫描原页如此排印，普通话无 lóo 音节，疑为 lóu 的印刷错误；题库已有 lóu（楼），按“不臆造”原则不计入覆盖判定"
+    }
+  ],
+  "cumulative_note": "累计 822 口径需 4.1–4.4 官方表；词表派生 844 条口径仅参考，不用于验收（含零声母伪音节/儿化噪声）"
+}
