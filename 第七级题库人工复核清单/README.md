@@ -49,6 +49,7 @@
 | `stats_natural100.md` / `.json` | 字 100%、词汇 100%、语法 100%、pass |
 | `strict_natural100.json` | 严格口径：5620 覆盖 / 0 寄生 / 0 未出现 |
 | `adjust_plan_natural100.json` | 调整计划（缺口已清空） |
+| `validate_vocab100.md`、`stats_vocab100.md` / `.json`、`adjust_plan_vocab100.json` | 同一次运行的早期标签，内容等价，保留对照 |
 | `api_validate_20261125_173218_874213.json` | 接口校验原始响应 |
 | `api_stats_20261125_173219_683833.json` | 接口统计原始响应 |
 
