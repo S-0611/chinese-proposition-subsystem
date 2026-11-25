@@ -1,0 +1,30 @@
+{
+ "standard": "GF 0025—2021 4.4 四级音节表：本级新增 116，累计 724",
+ "source": "标准 PDF 第 18 页（书内 4.4 节，分三栏）逐条视读录入，按官方编号 1—116 核对",
+ "table_entries": 116,
+ "unique": 116,
+ "denominator": "4.4 四级音节表（本级新增 116）",
+ "covered": 114,
+ "coverage": 98.3,
+ "missing": [
+  "sǔn",
+  "wā"
+ ],
+ "missing_detail": [
+  {
+   "syllable": "sǔn",
+   "toneless_exists_in_bank": true
+  },
+  {
+   "syllable": "wā",
+   "toneless_exists_in_bank": true
+  }
+ ],
+ "newly_covered_by_readiness": [
+  "juàn（L4-1065 试卷 拼音 juǎn→juàn）",
+  "qiē（新增 L4-1340 切菜）",
+  "na（新增 L4-1341 天哪）"
+ ],
+ "acceptance": "覆盖率 114/116 = 98.3%；缺口 sǔn、wā 在四级词表中无对应词，所需汉字（损、挖）超出 1200 字表，补题将引入超纲字，按方案 A 不补。",
+ "date": "2026-11-25"
+}

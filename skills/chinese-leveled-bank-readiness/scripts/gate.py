@@ -26,6 +26,11 @@ CJK = re.compile(r'[\u4e00-\u9fff]')
 T = {4: 'àèìòùǜ', 3: 'ǎěǐǒǔǚ', 2: 'áéíóúǘ', 1: 'āēīōūǖ'}
 LEX_PATH = os.path.join(BASE, 'deliver', '复核2026-11-25', 'strict', 'pinyin_lexicon.json')
 TRUE_POLY = set('假干数空发长重行觉差教量便得地着了过乐的分种还扫背倒弹调难处相将没哪那')
+# 「一」保持本调的词（词表读音 yī，不参与变调）
+LEXICAL_ONE = {'第一', '万一'}
+# 「不」读轻声的词（词表读音 bu）；A不A 疑问式另按前后同字判定
+NEUTRAL_BU = {'差不多', '对不起', '来不及', '了不起', '受不了', '说不定', '用不着', '不得了',
+              '不好意思', '看不起', '离不开', '是不是', '能不能'}
 
 
 def tone(s):
@@ -90,9 +95,11 @@ def main():
         text = ''.join(chars)
         for i, (c, t) in enumerate(zip(chars, toks)):
             if c in '一不' and i + 1 < len(chars) and toks[i + 1]:
-                if i >= 1 and chars[i - 1] + c == '第一':
+                if i >= 1 and chars[i - 1] + c in LEXICAL_ONE:
                     continue
-                if c == '不' and chars[i + 1] == '多' and '差不多' in text:
+                if c == '不' and t == 'bu' and (
+                        text[i - 1:i + 2] in NEUTRAL_BU or
+                        (i >= 1 and chars[i - 1] == chars[i + 1])):
                     continue
                 nt = tone(toks[i + 1])
                 if nt in (1, 2, 3, 4):
@@ -101,8 +108,13 @@ def main():
                         bad_sandhi += 1
     add('FAIL', '一/不变调正确', bad_sandhi == 0, '不符 %d 处' % bad_sandhi)
 
-    empty = [it['id'] for it in items if not it.get('grammar')]
-    add('FAIL', '无空标注', not empty, '空标 %d 题' % len(empty))
+    # 词汇/汉字跟读题只承担覆盖任务，lib.py 本来就不要求它们绑语法点；
+    # 这里必须用同一口径，否则纯词汇题会被误判成“空标注”。
+    plain = [it for it in items if it.get('kind') in ('vocabulary', 'character')]
+    empty = [it['id'] for it in items
+             if not it.get('grammar') and it.get('kind') not in ('vocabulary', 'character')]
+    add('FAIL', '无空标注', not empty,
+        '空标 %d 题（词汇/汉字跟读 %d 题不要求语法点）' % (len(empty), len(plain)))
     bad_tag = []
     for it in items:
         for gid in it['grammar']:
