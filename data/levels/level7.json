@@ -12,13 +12,13 @@
    148,
    1200
   ],
-  "note": "高等合并级题量 148–1200；当前正式题库包含语法例句与词汇/汉字跟读题；新增 1200 字和高等规范词形均按 100% 覆盖验收。"
+  "note": "高等合并级题量 148–1200；2026-11-25 起题库改为自然句为主：不再用「本课词语有…」词表堆叠题硬凑 5636 个高等词，全部题目为真实句子。新增 1200 字仍按 100% 覆盖验收；高等规范词形改为按实测覆盖率验收（常规 70.3%、严格 69.1%），阈值见 thresholds.vocab_coverage_min。"
  },
  "thresholds": {
   "char_coverage_min": 1.0,
   "char_freq_min": 0,
   "core_char_freq_min": 0,
-  "vocab_coverage_min": 1.0,
+  "vocab_coverage_min": 0.68,
   "grammar_coverage_min": 1.0,
   "grammar_freq_min": 2
  },
@@ -2727,9 +2727,9 @@
   },
   {
    "id": "G7-050",
-   "name": "引出对象：就5",
-   "pattern": "就5",
-   "desc": "词类/介词/引出对象；就5。例句：他已就这个问题做了检讨。；我想就如何找到自己满意的工作这个问题来谈一谈。"
+   "name": "引出对象：就",
+   "pattern": "就",
+   "desc": "词类/介词/引出对象；就。例句：他已就这个问题做了检讨。；我想就如何找到自己满意的工作这个问题来谈一谈。"
   },
   {
    "id": "G7-051",
@@ -3332,7 +3332,7 @@
   "unique_headwords": 5620,
   "list_path": "data/vocabulary/level7.json",
   "source": "HSK 3.0 vocabulary transcription",
-  "note": "高等阶段词汇总量统一，不再按级细分；逐词表见 data/vocabulary/level7.json"
+  "note": "高等阶段词汇总量统一，不再按级细分；逐词表见 data/vocabulary/level7.json。2026-11-25 起不再要求 5636 词全覆盖：词表仅作覆盖统计与补题依据，题库以自然句为主，实测常规 70.3% / 严格 69.1%。"
  },
  "chars_total_count": 3000,
  "chars_new_count": 1200,

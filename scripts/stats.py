@@ -103,8 +103,10 @@ def compute(level, items):
     if vocab_words:
         if vcov < vocab_cov_min * 100:
             failed.append(f"词汇覆盖率 {vcov}% 低于阈值 {vocab_cov_min * 100}%")
-        if v_uncovered and vocab_cov_min > 0:
-            failed.append(f"有 {len(v_uncovered)} 个词汇出现 0 次")
+            if v_uncovered:
+                failed.append(f"有 {len(v_uncovered)} 个词汇出现 0 次")
+        # 阈值 < 1.0 时允许存在缺口：缺口清单照常写入 stats / adjust_plan 供后续补题，
+        # 但不作为阻断项（阈值 = 1.0 时上一行已等价于“零缺口”）。
     else:
         notes.append("本等级词汇表待补，词汇覆盖率门禁未启用（接入词汇表后自动生效）")
 
